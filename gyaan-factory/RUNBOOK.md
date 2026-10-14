@@ -50,6 +50,9 @@ Schema:
 - `globeWide` `{spin, sats:true}` — whole Earth spinning, optional 10,000-satellite swarm
 - `bars` `{items:[{label:"NAME · ₹123", value:123}, …]}` — gold coin stacks (2–4 items, labels in Latin script)
 - `city` `{close:false}` — night city skyline with traffic
+- `planet` `{body:"mars"|"moon", pin:{lat,lon}, dist:1}` — Mars or the Moon from space
+- `mars` `{close:false}` — Mars surface, a rover driving and leaving tracks
+- `moon` `{view:"wide"|"pit"|"lander"}` — Moon surface with a cave pit, a lander, Earth in the sky
 - `rocket` `{lat, lon, train:false}` — launch from that spot, camera follows
 - `preset` `{name}` — `title`, `outro`, `swarm`, `hookwide`, `hero` (satellite close-up), `vWide`/`vHouse`/`vSky` (Ladakh village), `boatWide`/`boatClose` (sea + police boat), `cmp` (orbit comparison), `shells` (satellite orbits)
 

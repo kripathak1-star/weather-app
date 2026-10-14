@@ -150,7 +150,7 @@ function makeEarthTex(){
   rg.addColorStop(0,'rgba(255,190,80,.35)');rg.addColorStop(1,'rgba(255,190,80,0)');g.fillStyle=rg;g.fillRect(ix-300,iy-300,600,600);
   const t=new THREE.CanvasTexture(c);t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=8;return t;}
 const earth=new THREE.Group();scene.add(earth);
-earth.add(new THREE.Mesh(new THREE.SphereGeometry(1,128,96),new THREE.MeshStandardMaterial({map:makeEarthTex(),roughness:.85,metalness:0,emissive:0x0a1430,emissiveIntensity:.35})));
+const earthMesh0=new THREE.Mesh(new THREE.SphereGeometry(1,128,96),new THREE.MeshStandardMaterial({map:makeEarthTex(),roughness:.85,metalness:0,emissive:0x0a1430,emissiveIntensity:.35}));earth.add(earthMesh0);
 scene.add(new THREE.Mesh(new THREE.SphereGeometry(1.12,64,48),new THREE.ShaderMaterial({side:THREE.BackSide,transparent:true,blending:THREE.AdditiveBlending,depthWrite:false,
   vertexShader:`varying vec3 n;varying vec3 p;void main(){n=normalize(normalMatrix*normal);p=(modelViewMatrix*vec4(position,1.)).xyz;gl_Position=projectionMatrix*vec4(p,1.);}`,
   fragmentShader:`varying vec3 n;varying vec3 p;void main(){float f=pow(clamp(dot(n,normalize(p))+0.55,0.,1.),3.0);gl_FragColor=vec4(0.25,0.65,1.0,1.0)*f*1.4;}`})));
@@ -448,6 +448,75 @@ function updateBoat(t,lt){const a=ocean.geometry.attributes.position.array;for(l
   spot.material.opacity=.14*clamp((lt-1.5)/.5);sPt.position.copy(tgt).add(V(0,1.2,0));sPt.intensity=2.5*clamp((lt-1.5)/.5);
   smug.userData.lab.material.opacity=clamp((lt-2.2)/.4);}
 
+// ---------- shared noise ----------
+function hash2(x,y,o){let n=Math.sin(x*127.1+y*311.7+o*74.7)*43758.5453;return n-Math.floor(n);}
+function vnoise(x,y,o=0){const xi=Math.floor(x),yi=Math.floor(y),xf=x-xi,yf=y-yi;const u=xf*xf*(3-2*xf),v=yf*yf*(3-2*yf);
+  const a=hash2(xi,yi,o),b=hash2(xi+1,yi,o),c=hash2(xi,yi+1,o),d=hash2(xi+1,yi+1,o);return a+(b-a)*u+(c-a)*v+(a-b-c+d)*u*v;}
+function fbm(x,y,o=0,oct=5){let f=0,a=.5,fr=1;for(let i=0;i<oct;i++){f+=a*vnoise(x*fr,y*fr,o+i);a*=.5;fr*=2;}return f;}
+function terrain(size,seg,hf,colf){const g=new THREE.PlaneGeometry(size,size,seg,seg);g.rotateX(-Math.PI/2);const p=g.attributes.position;const col=new Float32Array(p.count*3);
+  for(let i=0;i<p.count;i++){const x=p.getX(i),z=p.getZ(i);const h=hf(x,z);p.setY(i,h);const c=colf(x,z,h);col.set(c,i*3);}
+  g.setAttribute('color',new THREE.BufferAttribute(col,3));g.computeVertexNormals();return new THREE.Mesh(g,new THREE.MeshStandardMaterial({vertexColors:true,roughness:1,flatShading:true}));}
+function planetTex(base,dark,crat,seed){const w=1024,h=512,c=document.createElement('canvas');c.width=w;c.height=h;const g=c.getContext('2d');const img=g.createImageData(w,h);
+  for(let y=0;y<h;y++)for(let x=0;x<w;x++){const f=fbm(x/w*8,y/h*4,seed,6);const k=Math.min(1,Math.max(0,(f-.3)*1.6));const i=(y*w+x)*4;
+    for(let j=0;j<3;j++)img.data[i+j]=dark[j]+(base[j]-dark[j])*k;img.data[i+3]=255;}
+  g.putImageData(img,0,0);for(let i=0;i<crat;i++){const x=rnd()*w,y=h*.1+rnd()*h*.8,r=2+Math.pow(rnd(),3)*28;g.strokeStyle='rgba(255,255,255,.18)';g.lineWidth=Math.max(1,r*.18);g.beginPath();g.arc(x,y,r,0,7);g.stroke();
+    g.fillStyle='rgba(0,0,0,.18)';g.beginPath();g.arc(x+r*.15,y+r*.15,r*.85,0,7);g.fill();}
+  const t=new THREE.CanvasTexture(c);t.colorSpace=THREE.SRGBColorSpace;return t;}
+
+// ---------- PLANET (Mars / Moon from space) ----------
+const plScene=new THREE.Scene();WORLDS.planet=plScene;starfield(plScene,3500,-200);
+plScene.add(new THREE.AmbientLight(0x404050,.6));{const s=new THREE.DirectionalLight(0xffffff,2.6);s.position.set(5,2,4);plScene.add(s);}
+const PLANETS={mars:new THREE.Mesh(new THREE.SphereGeometry(1,96,64),new THREE.MeshStandardMaterial({map:planetTex([224,132,78],[120,48,26],60,3),roughness:1})),
+  moon:new THREE.Mesh(new THREE.SphereGeometry(1,96,64),new THREE.MeshStandardMaterial({map:planetTex([205,205,200],[85,85,90],420,7),roughness:1}))};
+Object.values(PLANETS).forEach(m=>{m.visible=false;plScene.add(m);});
+{const a=new THREE.Mesh(new THREE.SphereGeometry(1.06,64,48),new THREE.ShaderMaterial({side:THREE.BackSide,transparent:true,blending:THREE.AdditiveBlending,depthWrite:false,uniforms:{c:{value:new THREE.Color(0xff8a50)}},
+  vertexShader:`varying vec3 n;varying vec3 p;void main(){n=normalize(normalMatrix*normal);p=(modelViewMatrix*vec4(position,1.)).xyz;gl_Position=projectionMatrix*vec4(p,1.);}`,
+  fragmentShader:`uniform vec3 c;varying vec3 n;varying vec3 p;void main(){float f=pow(clamp(dot(n,normalize(p))+0.6,0.,1.),3.0);gl_FragColor=vec4(c,1.)*f*.9;}`}));PLANETS.mars.add(a);}
+const plPin=glow('rgba(61,255,143,1)',.08);plScene.add(plPin);let plLabel=null;
+function updatePlanet(sp,t){Object.entries(PLANETS).forEach(([k,m])=>m.visible=k===(sp.body||'mars'));const m=PLANETS[sp.body||'mars'];m.rotation.y=t*.05;
+  if(sp.pin){const la=sp.pin.lat*D2R,lo=sp.pin.lon*D2R+t*.05;plPin.visible=true;plPin.position.set(Math.cos(la)*Math.cos(lo),Math.sin(la),-Math.cos(la)*Math.sin(lo)).multiplyScalar(1.01);plPin.material.opacity=.7+.3*Math.sin(t*6);}else plPin.visible=false;}
+
+// ---------- MARS SURFACE + ROVER ----------
+const mScene=new THREE.Scene();WORLDS.mars=mScene;skyDome(mScene,0xc28456,0xe9b98c);
+mScene.fog=new THREE.Fog(0xd9a67a,30,140);
+mScene.add(new THREE.HemisphereLight(0xffd9b0,0x5a2a14,.9));{const s=new THREE.DirectionalLight(0xfff0dd,2.2);s.position.set(20,30,10);mScene.add(s);}
+const marsH=(x,z)=>(fbm(x*.03,z*.03,11,5)-.5)*9*Math.min(1,Math.abs(z)/25)+(fbm(x*.3,z*.3,5,3)-.5)*.3*Math.min(1,Math.abs(z)/4);
+mScene.add(terrain(300,160,marsH,(x,z,h)=>{const k=.5+h*.05+(fbm(x*.2,z*.2,2,2)-.5)*.3;return [.62*k+.18,.3*k+.08,.17*k+.04];}));
+for(let i=0;i<160;i++){const r=new THREE.Mesh(new THREE.DodecahedronGeometry(.15+rnd()*rnd()*1.4,0),new THREE.MeshStandardMaterial({color:0x7a3a20,roughness:1,flatShading:true}));
+  const a=rnd()*6.28,d=3+rnd()*60;const rz=Math.sin(a)*d;if(Math.abs(rz)<2.5)continue;r.position.set(Math.cos(a)*d,marsH(Math.cos(a)*d,rz),rz);r.rotation.set(rnd()*3,rnd()*3,rnd()*3);mScene.add(r);}
+const rover=new THREE.Group();mScene.add(rover);
+{const W=new THREE.MeshStandardMaterial({color:0xe8e8e8,metalness:.4,roughness:.5}),D=new THREE.MeshStandardMaterial({color:0x333333,roughness:.8}),G=new THREE.MeshStandardMaterial({color:0xc9a227,metalness:.8,roughness:.3});
+ const b=new THREE.Mesh(new THREE.BoxGeometry(2.6,.7,1.9),W);b.position.y=1.2;rover.add(b);
+ const deck=new THREE.Mesh(new THREE.BoxGeometry(2.4,.08,1.7),G);deck.position.y=1.6;rover.add(deck);
+ const mast=new THREE.Mesh(new THREE.CylinderGeometry(.07,.07,1.6),W);mast.position.set(.9,2.4,.5);rover.add(mast);
+ const head=new THREE.Mesh(new THREE.BoxGeometry(.5,.3,.35),W);head.position.set(.95,3.25,.5);rover.add(head);
+ const eye=glow('rgba(80,200,255,1)',.25);eye.position.set(1.25,3.25,.5);rover.add(eye);
+ const rtg=new THREE.Mesh(new THREE.CylinderGeometry(.3,.3,.9,12),D);rtg.rotation.z=.9;rtg.position.set(-1.5,1.6,0);rover.add(rtg);
+ const arm=new THREE.Mesh(new THREE.BoxGeometry(1.2,.1,.1),W);arm.position.set(1.6,1.0,-.6);rover.add(arm);
+ rover.userData.wheels=[];[-1,0,1].forEach(i=>[-1,1].forEach(s=>{const w=new THREE.Mesh(new THREE.CylinderGeometry(.42,.42,.35,20),D);w.rotation.x=Math.PI/2;w.position.set(i*1.05,.42,s*1.15);rover.add(w);rover.userData.wheels.push(w);}));}
+const tracks=[-1,1].map(s=>{const m=new THREE.Mesh(new THREE.PlaneGeometry(1,.3),new THREE.MeshBasicMaterial({color:0x4a1e0e,transparent:true,opacity:.55}));m.rotation.x=-Math.PI/2;m.position.z=s*1.15;mScene.add(m);return m;});
+const dust=[];for(let i=0;i<40;i++){const s=glow('rgba(230,170,120,.5)',.8);mScene.add(s);dust.push(s);}
+function updateMars(t){const x=t*.9%200-100;rover.position.set(x,marsH(x,0),0);rover.userData.wheels.forEach(w=>w.rotation.y=-t*2.1);
+  tracks.forEach(m=>{const L=Math.min(60,x+100);m.scale.x=L;m.position.x=x-L/2-1;m.position.y=.06;});
+  dust.forEach((s,i)=>{const ph=((t*.6+i/40)%1);s.position.set(x-1.5-ph*5,.3+ph*1.5,(i%2?1:-1)*1.15+(hash2(i,1,1)-.5));s.material.opacity=.5*(1-ph);});}
+
+// ---------- MOON SURFACE + PIT ----------
+const moScene=new THREE.Scene();WORLDS.moon=moScene;starfield(moScene,3500,0);
+moScene.add(new THREE.HemisphereLight(0x9aa6c0,0x202024,.9));{const s=new THREE.DirectionalLight(0xffffff,2.6);s.position.set(-30,40,20);moScene.add(s);}
+const CR=[];for(let i=0;i<70;i++)CR.push([(rnd()-.5)*240,(rnd()-.5)*240,2+Math.pow(rnd(),2)*16]);
+function craterH(x,z){let h=0;for(const [cx,cz,r] of CR){const d=Math.hypot(x-cx,z-cz)/r;if(d<1.6)h+=d<1?-(1-d*d)*r*.1:Math.exp(-(d-1)*6)*r*.05;}return h;}
+const moonH=(x,z)=>{const d=Math.hypot(x,z);const pit=d<7?-3:(d<9?(9-d)*.25:0);return craterH(x,z)+(fbm(x*.05,z*.05,21,4)-.5)*3+(d<9?pit:0);};
+moScene.add(terrain(260,180,moonH,
+  (x,z,h)=>{const k=.55+(fbm(x*.15,z*.15,8,3)-.5)*.35;const dk=Math.hypot(x,z)<7?.05:1;return [k*dk,k*dk,k*1.02*dk];}));
+{const hole=new THREE.Mesh(new THREE.CircleGeometry(6.6,48),new THREE.MeshBasicMaterial({color:0x000000}));hole.rotation.x=-Math.PI/2;hole.position.y=-2.9;moScene.add(hole);}
+const moEarth=new THREE.Mesh(new THREE.SphereGeometry(4,48,32),new THREE.MeshStandardMaterial({map:earthMesh0.material.map,emissive:0x112244,emissiveIntensity:.6}));moEarth.position.set(40,38,-120);moScene.add(moEarth);
+const scanRing=new THREE.Mesh(new THREE.RingGeometry(1,1.25,64),new THREE.MeshBasicMaterial({color:0x38f3ff,transparent:true,opacity:.8,side:THREE.DoubleSide,blending:THREE.AdditiveBlending,depthWrite:false}));scanRing.rotation.x=-Math.PI/2;moScene.add(scanRing);
+const lander=new THREE.Group();moScene.add(lander);
+{const G=new THREE.MeshStandardMaterial({color:0xc9a227,metalness:.8,roughness:.3});const b=new THREE.Mesh(new THREE.BoxGeometry(1.6,1,1.6),G);b.position.y=1.4;lander.add(b);
+ [[1,1],[1,-1],[-1,1],[-1,-1]].forEach(([a,c])=>{const l=new THREE.Mesh(new THREE.CylinderGeometry(.06,.06,1.6),new THREE.MeshStandardMaterial({color:0x999999}));l.position.set(a*.9,.7,c*.9);l.rotation.set(c*.35,0,-a*.35);lander.add(l);});
+ const ant=glow('rgba(255,80,80,1)',.4);ant.position.y=2.1;lander.add(ant);lander.userData.ant=ant;lander.position.set(13,moonH(13,4),4);}
+function updateMoon(t){const k=(t*.5)%1;scanRing.scale.setScalar(1+k*9);scanRing.position.y=-1+k*.5;scanRing.material.opacity=.8*(1-k);lander.userData.ant.material.opacity=Math.sin(t*5)>0?1:.2;moEarth.rotation.y=t*.05;}
+
 // ---------- shots ----------
 const IND=-Math.PI/2-79*D2R;const face=lon=>-(lon-79)*D2R;
 // each: cam [from,to], look [from,to], rot [from,to] (relative to India-facing), side, props
@@ -524,6 +593,9 @@ window.PLAN.scenes.forEach((sc,i)=>sc.shots.forEach((sp,j)=>{const key=`k_${i}_$
   else if(sp.type==='globeWide')o={c:[[0,2.4,6.4],[2.6,1.2,5.4]],l:[[0,0,0],[0,0,0]],r:[(sp.spin??-3.2),(sp.spin??-3.2)+1.4],side:sp.side??1,p:[],sats:sp.sats!==false};
   else if(sp.type==='bars'){makeBars(key,sp.items);o={w:'coins',c:[[-2,1.8,13.5],[4.5,3.6,12.5]],l:[[.3,2.9,0],[0,3.1,0]],r:[0,0],side:sp.side??1,p:[]};}
   else if(sp.type==='city')o={w:'city',c:sp.close?[[26,9,36],[18,7,26]]:[[-62,32,72],[-38,22,50]],l:[[0,4,0],[0,5,0]],r:[0,0],side:sp.side??0,p:[]};
+  else if(sp.type==='planet'){const d=sp.dist??1;o={w:'planet',sp,c:[[.3*d,.5*d,3.6*d],[.1*d,.25*d,2.7*d]],l:[[0,0,0],[0,0,0]],r:[0,0],side:sp.side??1,p:[]};}
+  else if(sp.type==='mars')o={w:'mars',c:sp.close?[[4.5,2.4,5.5],[3.2,1.9,4.2]]:[[-15,6,17],[-9,4,12]],l:[[0,1.5,0],[0,1.6,0]],r:[0,0],side:sp.side??0,p:[]};
+  else if(sp.type==='moon')o={w:'moon',c:sp.view==='lander'?[[22,4.5,13],[18,3.6,9.5]]:sp.view==='pit'?[[13,9,13],[8,5.5,8]]:[[-42,22,42],[-26,14,28]],l:sp.view==='lander'?[[13,1.6,4],[13,1.6,4]]:[[0,-1.5,0],[0,-2.5,0]],r:[0,0],side:sp.side??0,p:[]};
   else if(sp.type==='rocket'){const nm=key+'_r';rocketSetup(nm,sp.lat??13.72,sp.lon??80.23,!!sp.train);o={follow:nm,c:[[0,0,0],[0,0,0]],l:[[0,0,0],[0,0,0]],r:[face(sp.lon??80.23),face(sp.lon??80.23)+.05],side:1,p:[nm],sats:true};}
   else {o=Object.assign({},SH[sp.name||sp.type]);if(o.sats===undefined)o.sats=true;}
   if(sp.sats!==undefined)o.sats=sp.sats;SH[key]=o;}));
@@ -577,6 +649,9 @@ function renderAt(t){
   if(world==='village')updateVillage(t);
   if(world==='coins')updateBars(b.name,blt);
   if(world==='city')updateCity(t);
+  if(world==='planet')updatePlanet(sh.sp,t);
+  if(world==='moon')updateMoon(t);
+  if(world==='mars'){updateMars(t);camera.position.x+=rover.position.x;camera.lookAt(st.T[0]+rover.position.x,st.T[1],st.T[2]);}
   if(world==='boat')updateBoat(t,blt+(b.name==='boatClose'?3:0));
   if(world==='earth'){
   const pvHas=n=>pv&&pv.b.shot.p.includes(n)&&(pv.b.shot.w||'earth')==='earth';
