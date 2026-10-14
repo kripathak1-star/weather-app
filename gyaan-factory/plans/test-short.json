@@ -1,0 +1,8 @@
+{"title":"टेस्ट वीडियो","caption_keywords":["isro","india"],
+ "thumbnail":{"scene":0,"f":0.9,"line1":"ISRO का","line2":"नया मिशन 🚀","badge":"🚨 TEST"},
+ "meta":{"description":"test","tags":["test"]},
+ "scenes":[
+ {"voice":"भाई, इसरो ने आज एक नया रॉकेट लॉन्च किया!","caption":"Bhai, ISRO ne aaj ek naya rocket launch kiya!","shots":[{"type":"rocket","lat":13.72,"lon":80.23}],"overlay":[{"kind":"kin","text":"लिफ़्टऑफ़ 🚀"},{"kind":"stamp","text":"धमाका 🔥","color":"gold","f":0.6}]},
+ {"voice":"ये भारत के लिए बहुत बड़ी बात है।","caption":"Ye Bharat ke liye bahut badi baat hai.","shots":[{"type":"globe","lat":22,"lon":79,"dist":1.2,"india":true}],"overlay":[{"kind":"kin","text":"भारत 🇮🇳"}]},
+ {"voice":"सब्सक्राइब करो!","caption":"Subscribe karo!","shots":[{"type":"preset","name":"outro"}],"overlay":[{"kind":"outro","big":"सब्सक्राइब 🔔","q":"","cta":"3D Gyaan","src":""}]}
+]}

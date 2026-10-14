@@ -1,0 +1,10 @@
+node_modules/
+engine/node_modules
+.venv/
+models/
+out/
+engine/plan.js
+engine/caps.js
+engine/timeline.js
+pr_*.jpg
+sheet.jpg
