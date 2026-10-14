@@ -29,8 +29,9 @@ echo "== thumbnail"; python3 -c "import json;p=json.load(open('$PLAN'));json.dum
 node scripts/render.js thumb "$OUT/thumb.json" "$OUT/thumbnail.jpg"
 rm -f "$OUT"/seg*.mp4
 echo "== small copy (<29 MB, for sending)"
+if [ $(stat -c%s "$OUT/video.mp4") -lt 29000000 ]; then cp "$OUT/video.mp4" "$OUT/video_send.mp4"; else
 BR=$(python3 -c "print(max(500,int(28*8*1000/$T)-170))")
 ffmpeg -y -loglevel error -i "$OUT/video.mp4" -c:v libx264 -preset slow -b:v ${BR}k -pass 1 -passlogfile "$OUT/p2" -an -f mp4 /dev/null
 ffmpeg -y -loglevel error -i "$OUT/video.mp4" -c:v libx264 -preset slow -b:v ${BR}k -pass 2 -passlogfile "$OUT/p2" -c:a aac -b:a 160k -movflags +faststart "$OUT/video_send.mp4"
-rm -f "$OUT"/p2*
+rm -f "$OUT"/p2*; fi
 echo "DONE $OUT/video.mp4 ($(du -h "$OUT/video.mp4" | cut -f1))"
