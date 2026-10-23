@@ -1,0 +1,283 @@
+{
+ "title": "बाल जितना छोटा बदलाव, 30% बेहतर Telescope! 🔭 NASA Roman | 3D Gyaan",
+ "caption_keywords": [
+  "nasa",
+  "roman",
+  "telescope",
+  "mirror",
+  "nanometre",
+  "3d",
+  "gyaan",
+  "brahmaand"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "30% बेहतर",
+  "line2": "Telescope! 🔭",
+  "badge": "🤯 NASA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "roman space telescope",
+   "nasa",
+   "telescope",
+   "space news hindi",
+   "astronomy hindi",
+   "3d gyaan"
+  ],
+  "description": "NASA के Roman Space Telescope का शीशा बस एक बाल के सोलहवें हिस्से जितना खिसकाया गया, और इसकी image quality ज़रूरत से करीब 30% बेहतर निकली! 🔭🤯 नैनोमीटर का खेल, 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261016070630.htm\n- SciTechDaily: https://scitechdaily.com/nasas-roman-space-telescope-is-sharper-than-anyone-expected/\n- The Daily Galaxy: https://dailygalaxy.com/2026/10/nasas-roman-telescope-passed-a-major-test/\n\nAI-generated narration & visuals.\n#NASA #RomanTelescope #Space #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, नासा के एक टेलीस्कोप का शीशा बस एक बाल के सोलहवें हिस्से जितना खिसकाया गया, और इसकी तस्वीरें ज़रूरत से करीब तीस प्रतिशत बेहतर हो गईं!",
+   "caption": "Bhai, NASA ke ek telescope ka sheesha bas ek baal ke solahve hisse jitna khiskaaya gaya, aur iski tasveerein zaroorat se kareeb 30% behtar ho gayi!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigcount",
+     "value": 30,
+     "suffix": "% बेहतर",
+     "label": "साफ़ तस्वीरें 🔭",
+     "hide": 0.55
+    },
+    {
+     "kind": "bigtext",
+     "text": "बस एक बाल जितना बदलाव!",
+     "show": 0.6
+    },
+    {
+     "kind": "stamp",
+     "text": "कमाल! 🤯",
+     "color": "gold",
+     "f": 0.88,
+     "center": true,
+     "w": 120
+    }
+   ]
+  },
+  {
+   "voice": "नासा के रोमन स्पेस टेलीस्कोप की कहानी। चलो देखते हैं!",
+   "caption": "NASA ke Roman Space Telescope ki kahani. Chalo dekhte hain!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.2
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "NASA",
+     "vs": "🔭",
+     "c": "ROMAN"
+    }
+   ]
+  },
+  {
+   "voice": "ये है नासा का नैन्सी ग्रेस रोमन स्पेस टेलीस्कोप। इसका काम है ब्रह्मांड के बहुत बड़े हिस्से की तस्वीरें लेना, ताकि वैज्ञानिक डार्क एनर्जी और दूसरे ग्रहों जैसे रहस्य सुलझा सकें।",
+   "caption": "Ye hai NASA ka Nancy Grace Roman Space Telescope. Iska kaam hai brahmaand ke bahut bade hisse ki tasveerein lena, taaki vaigyanik dark energy aur doosre grahon jaise rahasya suljha sakein.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    },
+    {
+     "type": "globeWide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मिलो रोमन से 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🌌 बड़ी तस्वीरें",
+     "f": 0.3
+    },
+    {
+     "kind": "stk",
+     "text": "🌑 डार्क एनर्जी",
+     "color": "y",
+     "f": 0.62
+    },
+    {
+     "kind": "stk",
+     "text": "🪐 दूसरे ग्रह",
+     "color": "g",
+     "f": 0.8
+    }
+   ],
+   "beats": [
+    0,
+    0.6
+   ]
+  },
+  {
+   "voice": "इंजीनियर्स ने इसके सेकेंडरी मिरर को, बस इंसान के बाल की मोटाई के सोलहवें हिस्से जितना खिसकाया। सोचो, इतना छोटा बदलाव!",
+   "caption": "Engineers ne iske secondary mirror ko, bas insaan ke baal ki motaai ke solahve hisse jitna khiskaaya. Socho, itna chhota badlaav!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.75
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "छोटा सा बदलाव 🔧"
+    },
+    {
+     "kind": "stk",
+     "text": "🪞 सेकेंडरी मिरर",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "💇 बाल का 1/16 हिस्सा",
+     "color": "y",
+     "f": 0.5
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? टेलीस्कोप की ऑप्टिकल ग़लती तिरेसठ नैनोमीटर आई, जबकि ज़रूरत थी करीब नब्बे नैनोमीटर की। यहाँ नंबर जितना छोटा, तस्वीर उतनी साफ़।",
+   "caption": "Nateeja? Telescope ki optical galti 63 nanometre aayi, jabki zaroorat thi kareeb 90 nanometre ki. Yahan number jitna chhota, tasveer utni saaf.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "REQUIRED · ~90 nm",
+       "value": 90,
+       "color": "#ff5d7a"
+      },
+      {
+       "label": "ROMAN · 63 nm",
+       "value": 63,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 📊"
+    },
+    {
+     "kind": "stamp",
+     "text": "छोटा = बेहतर ✅",
+     "color": "green",
+     "f": 0.82
+    }
+   ]
+  },
+  {
+   "voice": "एक नैनोमीटर, एक मीटर का अरबवाँ हिस्सा होता है। तुम्हारा एक बाल करीब अस्सी हज़ार नैनोमीटर मोटा होता है!",
+   "caption": "Ek nanometre, ek metre ka arabvaan hissa hota hai. Tumhara ek baal kareeb 80 hazaar nanometre mota hota hai!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नैनोमीटर कितना छोटा? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 1 मीटर ÷ 100 करोड़",
+     "color": "y",
+     "f": 0.25
+    },
+    {
+     "kind": "stk",
+     "text": "💇 बाल ≈ 80,000 nm",
+     "color": "g",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "साफ़ तस्वीरों का मतलब है, दूर की आकाशगंगाओं को और बारीकी से देखना, और ब्रह्मांड के रहस्यों को बेहतर समझना।",
+   "caption": "Saaf tasveeron ka matlab hai, door ki aakashgangaon ko aur baareeki se dekhna, aur brahmaand ke rahasyon ko behtar samajhna.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "इससे क्या होगा? 🌌"
+    },
+    {
+     "kind": "stk",
+     "text": "🔭 दूर की आकाशगंगाएँ",
+     "f": 0.4
+    }
+   ]
+  },
+  {
+   "voice": "और एक और अच्छी ख़बर! नासा के मुताबिक़ रोमन के पास अब शायद कम से कम बाईस साल के लिए ईंधन है।",
+   "caption": "Aur ek aur achhi khabar! NASA ke mutaabik Roman ke paas ab shayad kam se kam 22 saal ke liye eendhan hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बोनस ख़बर 🎁"
+    },
+    {
+     "kind": "stamp",
+     "text": "22+ साल ⛽",
+     "color": "green",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "अगर तुम्हें ये टेलीस्कोप एक दिन के लिए मिल जाए, तो तुम क्या देखोगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Agar tumhe ye telescope ek din ke liye mil jaaye, to tum kya dekhoge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "एक दिन के लिए टेलीस्कोप मिले तो क्या देखोगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, SciTechDaily, Daily Galaxy · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

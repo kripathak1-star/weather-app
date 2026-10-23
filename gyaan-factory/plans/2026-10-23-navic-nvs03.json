@@ -1,0 +1,363 @@
+{
+ "title": "भारत का अपना GPS! 🛰️ ISRO का NVS-03 Mission आसान भाषा में | 3D Gyaan",
+ "caption_keywords": [
+  "navic",
+  "isro",
+  "gps",
+  "nvs-03",
+  "gslv",
+  "bharat",
+  "india",
+  "3d",
+  "gyaan",
+  "sriharikota"
+ ],
+ "thumbnail": {
+  "scene": 4,
+  "f": 0.4,
+  "line1": "भारत का",
+  "line2": "अपना GPS! 🛰️",
+  "badge": "🚀 30 OCT"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "navic",
+   "nvs-03",
+   "isro",
+   "india gps",
+   "gslv",
+   "isro launch",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "ISRO 30 अक्टूबर को NVS-03 लॉन्च करने की तैयारी में है, ताकि भारत का अपना नेविगेशन सिस्टम NavIC फिर से पूरी ताक़त से काम करे! 🛰️🇮🇳 NavIC क्या है, दिक्कत क्या थी, और एटॉमिक घड़ी का क्या रोल है, सब 3D में।\n\nSources:\n- Channel IAM: https://en.channeliam.com/2026/10/23/isro-nvs-03-navic-satellite-launch-october/\n- GKToday: https://www.gktoday.in/isro-to-launch-nvs-03-navigation-satellite-on-october-30/\n- Adda247: https://currentaffairs.adda247.com/isro-to-launch-nvs-03-navigation-satellite-on-october-30-2026/\n(Launch date is ISRO's plan and may change.)\n\nAI-generated narration & visuals.\n#NavIC #ISRO #NVS03 #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, तुम्हारे फ़ोन का मैप अक्सर अमेरिका के जी पी एस पर चलता है। लेकिन भारत के पास अपना खुद का नेविगेशन सिस्टम है, नाविक! और इसरो इसे और ताक़तवर बनाने जा रहा है।",
+   "caption": "Bhai, tumhare phone ka map aksar America ke GPS par chalta hai. Lekin Bharat ke paas apna khud ka navigation system hai, NavIC! Aur ISRO ise aur taaqatvar banane ja raha hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 22,
+     "lon": 79,
+     "dist": 1.6,
+     "cities": true
+    },
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "भारत का अपना GPS 🇮🇳",
+     "show": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "नाविक! 🛰️",
+     "color": "gold",
+     "f": 0.75,
+     "center": true,
+     "w": 140
+    }
+   ],
+   "beats": [
+    0,
+    0.55
+   ]
+  },
+  {
+   "voice": "नाविक और एन वी एस तीन की कहानी। चलो समझते हैं!",
+   "caption": "NavIC aur NVS-03 ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "NavIC",
+     "vs": "🛰️",
+     "c": "भारत"
+    }
+   ]
+  },
+  {
+   "voice": "नाविक, इसरो का बनाया भारत का अपना नेविगेशन सिस्टम है। इसके सैटेलाइट्स भारत के ऊपर आसमान में रहते हैं, और भारत और उसके आसपास करीब पंद्रह सौ किलोमीटर तक बताते हैं कि तुम ठीक कहाँ हो।",
+   "caption": "NavIC, ISRO ka banaya Bharat ka apna navigation system hai. Iske satellites Bharat ke upar aasmaan mein rehte hain, aur Bharat aur uske aaspaas kareeb 1500 kilometre tak batate hain ki tum theek kahan ho.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 20,
+     "lon": 80,
+     "dist": 2.2,
+     "pins": [
+      {
+       "lat": 28.6,
+       "lon": 77.2,
+       "label": "Delhi"
+      },
+      {
+       "lat": 19.07,
+       "lon": 72.88,
+       "label": "Mumbai"
+      },
+      {
+       "lat": 13.08,
+       "lon": 80.27,
+       "label": "Chennai"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "NavIC क्या है? 🧭"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 इसरो का बनाया",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "📍 भारत + ~1500 km",
+     "color": "y",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन एक दिक्कत थी। अपने दम पर पोज़िशन बताने के लिए नाविक को कम से कम चार चालू सैटेलाइट्स चाहिए। अभी सिर्फ़ तीन ठीक से काम कर रहे हैं, क्योंकि जनवरी दो हज़ार पच्चीस में भेजा गया एन वी एस दो, अपनी सही कक्षा तक नहीं पहुँच पाया था।",
+   "caption": "Lekin ek dikkat thi. Apne dam par position batane ke liye NavIC ko kam se kam 4 chaalu satellites chahiye. Abhi sirf 3 theek se kaam kar rahe hain, kyunki January 2025 mein bheja gaya NVS-02, apni sahi kaksha tak nahi pahunch paaya tha.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "NEEDED · 4",
+       "value": 4,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "WORKING · 3",
+       "value": 3,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दिक्कत क्या थी? 😬"
+    },
+    {
+     "kind": "stk",
+     "text": "❌ NVS-02 सही कक्षा में नहीं",
+     "color": "r",
+     "f": 0.6
+    },
+    {
+     "kind": "stamp",
+     "text": "1 कम! ⚠️",
+     "color": "red",
+     "f": 0.4,
+     "top": 120
+    }
+   ]
+  },
+  {
+   "voice": "इसीलिए आ रहा है एन वी एस तीन! इसे तीस अक्टूबर को श्रीहरिकोटा से जी एस एल वी रॉकेट पर लॉन्च करने का प्लान है।",
+   "caption": "Isiliye aa raha hai NVS-03! Ise 30 October ko Sriharikota se GSLV rocket par launch karne ka plan hai.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मिलो NVS-03 से 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 30 अक्टूबर (प्लान)",
+     "color": "y",
+     "f": 0.35
+    },
+    {
+     "kind": "stk",
+     "text": "📍 श्रीहरिकोटा",
+     "f": 0.6
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 GSLV रॉकेट",
+     "color": "g",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "ये सैटेलाइट करीब बाईस सौ किलो का है, बारह साल तक काम करने के लिए बना है, और इसमें भारत में बनी एक रुबिडियम एटॉमिक घड़ी लगी है, जिसे अहमदाबाद के स्पेस एप्लिकेशंस सेंटर ने बनाया है।",
+   "caption": "Ye satellite kareeb 2200 kilo ka hai, 12 saal tak kaam karne ke liye bana hai, aur ismein Bharat mein bani ek Rubidium atomic ghadi lagi hai, jise Ahmedabad ke Space Applications Centre ne banaya hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "NVS-03 की ख़ूबियाँ ⭐"
+    },
+    {
+     "kind": "stk",
+     "text": "⚖️ ~2,200 किलो",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "⏳ 12 साल",
+     "color": "y",
+     "f": 0.3
+    },
+    {
+     "kind": "stk",
+     "text": "⏱️ स्वदेशी एटॉमिक घड़ी",
+     "color": "g",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "घड़ी क्यों? क्योंकि नेविगेशन पूरी तरह टाइम पर चलता है। सिग्नल को सैटेलाइट से तुम्हारे फ़ोन तक पहुँचने में कितना समय लगा, उसी से दूरी पता चलती है। एक सेकंड के बहुत छोटे से हिस्से की ग़लती भी, सैकड़ों मीटर की ग़लती बन सकती है।",
+   "caption": "Ghadi kyun? Kyunki navigation poori tarah time par chalta hai. Signal ko satellite se tumhare phone tak pahunchne mein kitna samay laga, usi se doori pata chalti hai. Ek second ke bahut chhote se hisse ki galti bhi, saikdon metre ki galti ban sakti hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 22,
+     "lon": 79,
+     "dist": 1.2,
+     "cities": true
+    },
+    {
+     "type": "city",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "घड़ी क्यों? ⏱️"
+    },
+    {
+     "kind": "stk",
+     "text": "📡 टाइम = दूरी",
+     "color": "y",
+     "f": 0.35
+    },
+    {
+     "kind": "stamp",
+     "text": "सैकड़ों मीटर की ग़लती! 😱",
+     "color": "red",
+     "f": 0.8
+    }
+   ],
+   "beats": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "voice": "अपना सिस्टम होने का मतलब है, मुश्किल समय में भी भारत को दूसरे देशों पर निर्भर नहीं रहना पड़ेगा। सेना, जहाज़, मछुआरे, और आगे चलकर तुम्हारा फ़ोन, सब इसका फ़ायदा उठा सकते हैं।",
+   "caption": "Apna system hone ka matlab hai, mushkil samay mein bhi Bharat ko doosre deshon par nirbhar nahi rehna padega. Sena, jahaaz, machhuare, aur aage chalkar tumhara phone, sab iska fayda utha sakte hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 12,
+     "lon": 75,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": 9.9,
+       "lon": 76.3,
+       "label": "Kochi"
+      },
+      {
+       "lat": 11.7,
+       "lon": 92.7,
+       "label": "Andaman"
+      }
+     ]
+    },
+    {
+     "type": "globe",
+     "lat": 22,
+     "lon": 79,
+     "dist": 1.5,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आत्मनिर्भर नेविगेशन 🇮🇳"
+    },
+    {
+     "kind": "stk",
+     "text": "🪖 सेना",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "🚢 जहाज़ और मछुआरे",
+     "color": "y",
+     "f": 0.55
+    },
+    {
+     "kind": "stk",
+     "text": "📱 तुम्हारा फ़ोन",
+     "color": "g",
+     "f": 0.8
+    }
+   ],
+   "beats": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "voice": "क्या तुम्हारे फ़ोन में नाविक है? चेक करके कमेंट में बताओ, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Kya tumhare phone mein NavIC hai? Check karke comment mein batao, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या तुम्हारे फ़ोन में NavIC है?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Channel IAM, GKToday, Adda247 · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

@@ -473,7 +473,17 @@ Object.values(PLANETS).forEach(m=>{m.visible=false;plScene.add(m);});
   vertexShader:`varying vec3 n;varying vec3 p;void main(){n=normalize(normalMatrix*normal);p=(modelViewMatrix*vec4(position,1.)).xyz;gl_Position=projectionMatrix*vec4(p,1.);}`,
   fragmentShader:`uniform vec3 c;varying vec3 n;varying vec3 p;void main(){float f=pow(clamp(dot(n,normalize(p))+0.6,0.,1.),3.0);gl_FragColor=vec4(c,1.)*f*.9;}`}));PLANETS.mars.add(a);}
 const plPin=glow('rgba(61,255,143,1)',.08);plScene.add(plPin);let plLabel=null;
-function updatePlanet(sp,t){Object.entries(PLANETS).forEach(([k,m])=>m.visible=k===(sp.body||'mars'));const m=PLANETS[sp.body||'mars'];m.rotation.y=t*.05;
+// space telescope (Roman-style): tube, sunshade, solar panels, mirror glint
+const scope=new THREE.Group();scope.visible=false;plScene.add(scope);scope.scale.setScalar(.55);
+{const W=new THREE.MeshStandardMaterial({color:0xd8dde6,metalness:.6,roughness:.35}),G=new THREE.MeshStandardMaterial({color:0xc9a227,metalness:.9,roughness:.25}),P=new THREE.MeshStandardMaterial({color:0x13307a,metalness:.5,roughness:.3,emissive:0x0a1a44,emissiveIntensity:.6});
+ const tube=new THREE.Mesh(new THREE.CylinderGeometry(.42,.42,1.6,40,1,true),W);tube.material.side=THREE.DoubleSide;tube.rotation.z=Math.PI/2;scope.add(tube);
+ const bus=new THREE.Mesh(new THREE.CylinderGeometry(.5,.5,.5,6),G);bus.rotation.z=Math.PI/2;bus.position.x=-1.05;scope.add(bus);
+ const shade=new THREE.Mesh(new THREE.BoxGeometry(1.8,.04,1.2),P);shade.position.set(-.2,.55,0);scope.add(shade);
+ const pan=new THREE.Mesh(new THREE.BoxGeometry(1.4,.03,1.4),P);pan.position.set(-1.05,-.62,0);pan.rotation.x=.25;scope.add(pan);
+ const mir=new THREE.Mesh(new THREE.CircleGeometry(.38,40),new THREE.MeshStandardMaterial({color:0xffd27a,metalness:1,roughness:.08,emissive:0x553300,emissiveIntensity:.5}));mir.rotation.y=Math.PI/2;mir.position.x=-.7;scope.add(mir);
+ const glint=glow('rgba(255,230,150,1)',.6);glint.position.x=.85;scope.add(glint);scope.userData.glint=glint;}
+function updatePlanet(sp,t){scope.visible=sp.body==='telescope';if(scope.visible){scope.rotation.set(.25+Math.sin(t*.2)*.05,t*.15,.1);scope.userData.glint.material.opacity=.5+.5*Math.sin(t*2);}
+  Object.entries(PLANETS).forEach(([k,m])=>m.visible=k===(sp.body||'mars'));if(sp.body==='telescope'){plPin.visible=false;return;}const m=PLANETS[sp.body||'mars'];m.rotation.y=t*.05;
   if(sp.pin){const la=sp.pin.lat*D2R,lo=sp.pin.lon*D2R+t*.05;plPin.visible=true;plPin.position.set(Math.cos(la)*Math.cos(lo),Math.sin(la),-Math.cos(la)*Math.sin(lo)).multiplyScalar(1.01);plPin.material.opacity=.7+.3*Math.sin(t*6);}else plPin.visible=false;}
 
 // ---------- MARS SURFACE + ROVER ----------

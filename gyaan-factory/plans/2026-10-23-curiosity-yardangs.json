@@ -1,0 +1,283 @@
+{
+ "title": "Mars पर रहस्यमयी चट्टानें! 🌋 ज्वालामुखी की राख? NASA Curiosity | 3D Gyaan",
+ "caption_keywords": [
+  "nasa",
+  "curiosity",
+  "mars",
+  "mangal",
+  "yardang",
+  "gale",
+  "sharp",
+  "3d",
+  "gyaan"
+ ],
+ "thumbnail": {
+  "scene": 3,
+  "f": 0.5,
+  "line1": "MARS पर",
+  "line2": "रहस्य! 🌋",
+  "badge": "🔴 NASA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "curiosity rover",
+   "mars",
+   "yardang",
+   "mount sharp",
+   "gale crater",
+   "nasa",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "NASA के Curiosity रोवर ने मंगल पर हवा से तराशी गई रहस्यमयी चट्टानों (yardangs) की सुबह की तस्वीर ली, और वैज्ञानिकों को शक है कि ये ज्वालामुखी की राख से बनी हो सकती हैं! 🔴🌋 3D में पूरी कहानी।\n\nSources:\n- NASA JPL: https://www.jpl.nasa.gov/images/pia25629-nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261021231238.htm\n- Phys.org: https://phys.org/news/2026-10-nasa-curiosity-rover-stunning-martian.html\n\nAI-generated narration & visuals.\n#Curiosity #Mars #NASA #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, मंगल पर एक रहस्यमयी जगह दिखी है! हवा से तराशी गई ऊँची चट्टानें, और वैज्ञानिकों को शक है कि ये शायद ज्वालामुखी की राख से बनी हों।",
+   "caption": "Bhai, Mangal par ek rahasyamayi jagah dikhi hai! Hawa se taraashi gayi oonchi chattanein, aur vaigyanikon ko shak hai ki ye shayad jwalamukhi ki raakh se bani hon.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "pin": {
+      "lat": -5.4,
+      "lon": 137.8
+     }
+    },
+    {
+     "type": "mars"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "मंगल का रहस्य 🔴",
+     "show": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "ज्वालामुखी? 🌋",
+     "color": "red",
+     "f": 0.8,
+     "center": true,
+     "w": 170
+    }
+   ],
+   "beats": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "voice": "नासा के क्यूरियोसिटी रोवर की नई खोज। चलो देखते हैं!",
+   "caption": "NASA ke Curiosity rover ki nayi khoj. Chalo dekhte hain!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.3
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MARS",
+     "vs": "🌋",
+     "c": "रहस्य"
+    }
+   ]
+  },
+  {
+   "voice": "ये तस्वीर ली है नासा के क्यूरियोसिटी रोवर ने, जो दो हज़ार बारह से मंगल के गेल क्रेटर में, माउंट शार्प नाम के एक पहाड़ पर चढ़ रहा है।",
+   "caption": "Ye tasveer li hai NASA ke Curiosity rover ne, jo 2012 se Mangal ke Gale crater mein, Mount Sharp naam ke ek pahaad par chadh raha hai.",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    },
+    {
+     "type": "planet",
+     "body": "mars",
+     "pin": {
+      "lat": -5.4,
+      "lon": 137.8
+     },
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मिलो क्यूरियोसिटी से 🤖"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2012 से मंगल पर",
+     "color": "y",
+     "f": 0.3
+    },
+    {
+     "kind": "stk",
+     "text": "⛰️ माउंट शार्प",
+     "f": 0.7
+    }
+   ],
+   "beats": [
+    0,
+    0.55
+   ]
+  },
+  {
+   "voice": "सुबह सुबह, सूरज की पहली रोशनी में, रोवर ने दूर दिख रही अजीब चट्टानों की एक पैनोरमा तस्वीर ली। इन चट्टानों को यारडांग कहते हैं।",
+   "caption": "Subah subah, suraj ki pehli roshni mein, rover ne door dikh rahi ajeeb chattanon ki ek panorama tasveer li. In chattanon ko yardang kehte hain.",
+   "shots": [
+    {
+     "type": "mars"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मंगल की सुबह 🌅"
+    },
+    {
+     "kind": "stk",
+     "text": "📸 पैनोरमा तस्वीर",
+     "f": 0.35
+    },
+    {
+     "kind": "stamp",
+     "text": "यारडांग! 🪨",
+     "color": "gold",
+     "f": 0.78
+    }
+   ]
+  },
+  {
+   "voice": "यारडांग ऐसी चट्टानें होती हैं, जिन्हें तेज़ हवा बहुत लंबे समय तक घिस घिस कर, लंबी नुकीली शक्ल दे देती है। ये परत करीब सोलह किलोमीटर तक फैली हुई है।",
+   "caption": "Yardang aisi chattanein hoti hain, jinhe tez hawa bahut lambe samay tak ghis ghis kar, lambi nukeeli shakl de deti hai. Ye parat kareeb 16 kilometre tak phaili hui hai.",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    },
+    {
+     "type": "mars"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "यारडांग क्या है? 🌬️"
+    },
+    {
+     "kind": "stk",
+     "text": "💨 हवा ने तराशा",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "📏 ~16 km लंबी परत",
+     "color": "y",
+     "f": 0.7
+    }
+   ],
+   "beats": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "voice": "मज़ेदार बात? ये परत बाकी सभी परतों से बिल्कुल अलग दिखती है, जिनसे रोवर अब तक गुज़रा है। नासा के मुताबिक़ ये शायद करीब तीन सौ करोड़ साल पहले बनी थी।",
+   "caption": "Mazedaar baat? Ye parat baaki sabhi paraton se bilkul alag dikhti hai, jinse rover ab tak guzra hai. NASA ke mutaabik ye shayad kareeb 300 crore saal pehle bani thi.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबसे अलग! 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🕰️ ~300 करोड़ साल पुरानी",
+     "color": "y",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "नासा के वैज्ञानिक अश्विन वासवडा कहते हैं, ये हवा से उड़कर आई रेत हो सकती है, या फिर पास के किसी ज्वालामुखी की राख, जो उड़कर क्रेटर में आ गिरी।",
+   "caption": "NASA ke vaigyanik Ashwin Vasavada kehte hain, ye hawa se udkar aayi ret ho sakti hai, ya phir paas ke kisi jwalamukhi ki raakh, jo udkar crater mein aa giri.",
+   "shots": [
+    {
+     "type": "mars"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दो थ्योरी 🧪"
+    },
+    {
+     "kind": "stk",
+     "text": "🏜️ उड़कर आई रेत",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "🌋 ज्वालामुखी की राख",
+     "color": "r",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "उम्मीद है कि क्यूरियोसिटी दो हज़ार सत्ताईस तक इन चट्टानों के पास पहुँच जाएगा। तब पता चलेगा कि असली राज़ क्या है।",
+   "caption": "Ummeed hai ki Curiosity 2027 tak in chattanon ke paas pahunch jayega. Tab pata chalega ki asli raaz kya hai.",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अगला पड़ाव 🚗"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2027 तक",
+     "color": "g",
+     "f": 0.3
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, रेत या ज्वालामुखी की राख? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, ret ya jwalamukhi ki raakh? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "रेत या ज्वालामुखी की राख?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NASA JPL, ScienceDaily, Phys.org · Oct 2026"
+    }
+   ]
+  }
+ ]
+}
