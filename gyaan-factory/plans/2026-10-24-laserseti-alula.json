@@ -1,0 +1,296 @@
+{
+ "title": "Aliens का Laser Signal पकड़ने की तैयारी! 👽 Saudi Arabia में SETI | 3D Gyaan",
+ "caption_keywords": [
+  "seti",
+  "laserseti",
+  "aliens",
+  "alula",
+  "saudi",
+  "laser",
+  "3d",
+  "gyaan",
+  "asia"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.6,
+  "line1": "ALIENS का",
+  "line2": "Laser Signal? 👽",
+  "badge": "🔭 SETI"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "seti",
+   "laserseti",
+   "aliens",
+   "alien signals",
+   "saudi arabia",
+   "alula",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "SETI Institute ने सऊदी अरब के AlUla में दो LaserSETI stations लगाए हैं, जो आसमान में दूसरी दुनिया की सभ्यताओं के laser flash ढूँढेंगे! 👽🔦 एशिया का पहला LaserSETI site, सब 3D में।\n\nSources:\n- SETI Institute: https://www.seti.org/news/laserseti-stations-in-saudi-arabia/\n- EurekAlert!: https://www.eurekalert.org/news-releases/1148928\n- Universe Today: https://www.universetoday.com/articles/saudi-arabia-joins-the-search-for-alien-civilizations\n\nAI-generated narration & visuals.\n#SETI #Aliens #Space #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अगर कहीं दूर कोई एलियन सभ्यता हमें लेज़र से सिग्नल भेज रही हो, तो क्या हम उसे पकड़ पाएँगे? वैज्ञानिक अब इसकी तैयारी और तेज़ कर रहे हैं!",
+   "caption": "Bhai, agar kahin door koi alien sabhyata humein laser se signal bhej rahi ho, to kya hum use pakad paayenge? Vaigyanik ab iski taiyaari aur tez kar rahe hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    },
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "एलियन का लेज़र? 👽",
+     "show": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "खोज जारी! 🔭",
+     "color": "gold",
+     "f": 0.8,
+     "center": true,
+     "w": 160
+    }
+   ],
+   "beats": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "voice": "सेटी इंस्टिट्यूट की लेज़र सेटी की कहानी। चलो देखते हैं!",
+   "caption": "SETI Institute ki LaserSETI ki kahani. Chalo dekhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "SETI",
+     "vs": "👽",
+     "c": "LASER"
+    }
+   ]
+  },
+  {
+   "voice": "सेटी इंस्टिट्यूट ने सऊदी अरब के अलउला में दो लेज़र सेटी स्टेशन लगाए हैं, और वो अब पूरी तरह काम कर रहे हैं।",
+   "caption": "SETI Institute ne Saudi Arabia ke AlUla mein do LaserSETI station lagaaye hain, aur wo ab poori tarah kaam kar rahe hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 26.6,
+     "lon": 37.9,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": 26.6,
+       "lon": 37.9,
+       "label": "AlUla",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अलउला, सऊदी अरब 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🔦 2 नए स्टेशन",
+     "color": "y",
+     "f": 0.3
+    },
+    {
+     "kind": "stk",
+     "text": "✅ पूरी तरह चालू",
+     "color": "g",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "ये एशिया में लेज़र सेटी की पहली जगह है, और दुनिया में पाँचवीं। इससे पहले कैलिफ़ोर्निया, हवाई, एरिज़ोना और पोर्टो रिको में स्टेशन लगे हैं।",
+   "caption": "Ye Asia mein LaserSETI ki pehli jagah hai, aur duniya mein paanchvi. Isse pehle California, Hawaii, Arizona aur Puerto Rico mein station lage hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 25,
+     "lon": -80,
+     "dist": 2.6,
+     "pins": [
+      {
+       "lat": 37.4,
+       "lon": -121.9,
+       "label": "California"
+      },
+      {
+       "lat": 19.8,
+       "lon": -155.5,
+       "label": "Hawaii"
+      },
+      {
+       "lat": 32.2,
+       "lon": -110.9,
+       "label": "Arizona"
+      },
+      {
+       "lat": 18.2,
+       "lon": -66.5,
+       "label": "Puerto Rico"
+      }
+     ]
+    },
+    {
+     "type": "globe",
+     "lat": 26.6,
+     "lon": 37.9,
+     "dist": 2.0,
+     "pins": [
+      {
+       "lat": 26.6,
+       "lon": 37.9,
+       "label": "AlUla",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दुनिया में 5 जगह 🌍"
+    },
+    {
+     "kind": "stk",
+     "text": "🥇 एशिया में पहली",
+     "color": "y",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 4 जगह अमेरिका में",
+     "f": 0.5
+    }
+   ],
+   "beats": [
+    0,
+    0.55
+   ]
+  },
+  {
+   "voice": "ये कैसे काम करता है? इनमें वाइड फ़ील्ड कैमरे लगे हैं, जो आसमान के बहुत बड़े हिस्से पर नज़र रखते हैं, और रोशनी की बहुत छोटी, अचानक चमक को पकड़ते हैं।",
+   "caption": "Ye kaise kaam karta hai? Inmein wide field camere lage hain, jo aasmaan ke bahut bade hisse par nazar rakhte hain, aur roshni ki bahut chhoti, achaanak chamak ko pakadte hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    },
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे काम करता है? 📷"
+    },
+    {
+     "kind": "stk",
+     "text": "📷 वाइड फ़ील्ड कैमरे",
+     "f": 0.25
+    },
+    {
+     "kind": "stk",
+     "text": "⚡ छोटी सी चमक",
+     "color": "y",
+     "f": 0.65
+    }
+   ],
+   "beats": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "voice": "सच कहें तो ज़्यादातर चमक आम अंतरिक्ष की घटनाओं से आती है। लेकिन उम्मीद ये है कि एक दिन, किसी दूसरी तकनीकी सभ्यता का लेज़र भी पकड़ में आ जाए।",
+   "caption": "Sach kahein to zyaadatar chamak aam antariksh ki ghatnaon se aati hai. Lekin ummeed ye hai ki ek din, kisi doosri takneeki sabhyata ka laser bhi pakad mein aa jaaye.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "moon",
+     "dist": 1.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अभी तक? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🌠 ज़्यादातर आम चमक",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "एक दिन? 👽",
+     "color": "gold",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "और जितने ज़्यादा स्टेशन होंगे, उतना ज़्यादा आसमान दिखेगा, और ऐसे सिग्नल को पकड़ने का चांस भी उतना बढ़ेगा।",
+   "caption": "Aur jitne zyada station honge, utna zyada aasmaan dikhega, aur aise signal ko pakadne ka chance bhi utna badhega.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ज़्यादा स्टेशन = ज़्यादा चांस 📈"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, क्या हम कभी एलियन से बात कर पाएँगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, kya hum kabhi alien se baat kar paayenge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या हम कभी एलियन से बात कर पाएँगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: SETI Institute, EurekAlert!, Universe Today · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "title": "Space में भेजे गए Mini-Brains! 🧠 SpaceX का अजीब Cargo | 3D Gyaan",
+ "caption_keywords": [
+  "spacex",
+  "iss",
+  "nasa",
+  "dragon",
+  "brain",
+  "alzheimer",
+  "parkinson",
+  "retina",
+  "3d",
+  "gyaan"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.6,
+  "line1": "Space में",
+  "line2": "Mini-Brains! 🧠",
+  "badge": "🚀 SPACEX"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "spacex",
+   "iss",
+   "crs-35",
+   "brain organoids",
+   "space science",
+   "nasa",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "SpaceX का CRS-35 Dragon इंटरनेशनल स्पेस स्टेशन पर अजीब cargo लेकर पहुँचा: लैब में बने mini-brains, 3D heart tissue और artificial retina! 🧠❤️👁️ ये experiments क्यों ज़रूरी हैं, सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261016070628.htm\n- Inc.: https://www.inc.com/kevin-haynes/spacex-sent-6300-pounds-space-station-strangest-cargo-grown-in-lab/91421825\n- The Daily Galaxy: https://dailygalaxy.com/2026/10/spacex-dragon-space-station-science/\n\nAI-generated narration & visuals.\n#SpaceX #ISS #Science #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, स्पेसएक्स ने अंतरिक्ष स्टेशन पर लैब में बने छोटे छोटे दिमाग़ भेजे हैं! और साथ में दिल के टिशू, और नकली रेटिना भी।",
+   "caption": "Bhai, SpaceX ne antariksh station par lab mein bane chhote chhote dimaag bheje hain! Aur saath mein dil ke tissue, aur nakli retina bhi.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 28.5,
+     "lon": -80.6
+    },
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "स्पेस में दिमाग़? 🧠",
+     "show": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "अजीब कार्गो! 📦",
+     "color": "gold",
+     "f": 0.78,
+     "center": true,
+     "w": 170
+    }
+   ],
+   "beats": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "voice": "स्पेसएक्स के अजीब कार्गो की कहानी। चलो देखते हैं!",
+   "caption": "SpaceX ke ajeeb cargo ki kahani. Chalo dekhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "SPACEX",
+     "vs": "🧠",
+     "c": "ISS"
+    }
+   ]
+  },
+  {
+   "voice": "ये था स्पेसएक्स का पैंतीसवाँ कार्गो मिशन, सी आर एस पैंतीस। इसका ड्रैगन यान पंद्रह अक्टूबर को इंटरनेशनल स्पेस स्टेशन से जुड़ा, और करीब छह हज़ार तीन सौ पाउंड सामान लेकर गया।",
+   "caption": "Ye tha SpaceX ka 35va cargo mission, CRS-35. Iska Dragon yaan 15 October ko International Space Station se juda, aur kareeb 6300 pound saamaan lekar gaya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    },
+    {
+     "type": "globeWide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मिशन CRS-35 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 15 अक्टूबर को जुड़ा",
+     "f": 0.35
+    },
+    {
+     "kind": "stk",
+     "text": "📦 ~6,300 पाउंड सामान",
+     "color": "y",
+     "f": 0.7
+    }
+   ],
+   "beats": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "voice": "पहला प्रयोग: लैब में बनाए गए दिमाग़ की कोशिकाओं के छोटे गुच्छे, जिन्हें ब्रेन ऑर्गनॉइड कहते हैं। इनसे वैज्ञानिक अल्ज़ाइमर, पार्किंसन और मल्टीपल स्क्लेरोसिस जैसी बीमारियों को समझना चाहते हैं।",
+   "caption": "Pehla prayog: lab mein banaaye gaye dimaag ki koshikaon ke chhote guchhe, jinhe brain organoid kehte hain. Inse vaigyanik Alzheimer, Parkinson aur Multiple Sclerosis jaisi beemariyon ko samajhna chahte hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मिनी ब्रेन 🧠"
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 ब्रेन ऑर्गनॉइड",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "🩺 अल्ज़ाइमर, पार्किंसन",
+     "color": "y",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "दूसरा: थ्री डी में बने इंसानी दिल के टिशू, ये समझने के लिए कि अंतरिक्ष में दिल पर क्या असर पड़ता है, और दवाइयों को बेहतर तरीक़े से टेस्ट करने के लिए।",
+   "caption": "Doosra: 3D mein bane insaani dil ke tissue, ye samajhne ke liye ki antariksh mein dil par kya asar padta hai, aur davaiyon ko behtar tareeke se test karne ke liye.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "sats": false,
+     "spin": -1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "3D दिल ❤️"
+    },
+    {
+     "kind": "stk",
+     "text": "💊 दवाइयों की टेस्टिंग",
+     "color": "r",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "और तीसरा: प्रोटीन से बने नकली रेटिना। वैज्ञानिक देखना चाहते हैं कि क्या इन्हें अंतरिक्ष में, कम ग्रैविटी में, बेहतर तरीक़े से बनाया जा सकता है।",
+   "caption": "Aur teesra: protein se bane nakli retina. Vaigyanik dekhna chahte hain ki kya inhe antariksh mein, kam gravity mein, behtar tareeke se banaaya ja sakta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नकली रेटिना 👁️"
+    },
+    {
+     "kind": "stk",
+     "text": "🧬 प्रोटीन से बना",
+     "f": 0.25
+    },
+    {
+     "kind": "stk",
+     "text": "🌌 कम ग्रैविटी में",
+     "color": "g",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "साथ में स्टेशन के लिए नए सोलर पैनल्स का आख़िरी सेट भी गया। ध्यान रहे, ये सब अभी शुरुआती रिसर्च है, असली इलाज तक पहुँचने में अभी और समय लगेगा।",
+   "caption": "Saath mein station ke liye naye solar panels ka aakhiri set bhi gaya. Dhyaan rahe, ye sab abhi shuruaati research hai, asli ilaaj tak pahunchne mein abhi aur samay lagega.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    },
+    {
+     "type": "globeWide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "और क्या गया? ☀️"
+    },
+    {
+     "kind": "stk",
+     "text": "☀️ नए सोलर पैनल",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "⚠️ अभी शुरुआती रिसर्च",
+     "color": "y",
+     "f": 0.6
+    }
+   ],
+   "beats": [
+    0,
+    0.45
+   ]
+  },
+  {
+   "voice": "अगर तुम्हें अंतरिक्ष में एक प्रयोग भेजने का मौका मिले, तो क्या भेजोगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Agar tumhe antariksh mein ek prayog bhejne ka mauka mile, to kya bhejoge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "तुम अंतरिक्ष में कौन सा प्रयोग भेजोगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, Inc., Daily Galaxy · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

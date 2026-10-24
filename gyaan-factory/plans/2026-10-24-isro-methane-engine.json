@@ -1,0 +1,297 @@
+{
+ "title": "ISRO का नया Methane Rocket Engine! 🔥 SpaceX जैसी Technology | 3D Gyaan",
+ "caption_keywords": [
+  "isro",
+  "methane",
+  "lme-1100",
+  "spacex",
+  "rocket",
+  "engine",
+  "bharat",
+  "3d",
+  "gyaan",
+  "mahendragiri"
+ ],
+ "thumbnail": {
+  "scene": 4,
+  "f": 0.4,
+  "line1": "ISRO का",
+  "line2": "Methane Engine! 🔥",
+  "badge": "🚀 LME-1100"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "isro",
+   "methane engine",
+   "lme-1100",
+   "reusable rocket",
+   "isro news",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "ISRO ने अपने नए LME-1100 मीथेन रॉकेट इंजन के full-scale gas generator का पहला ignition test किया! 🔥🚀 मीथेन ही क्यों, 3D printing का रोल, और आगे का प्लान, सब 3D में।\n\nSources:\n- StratNews Global: https://stratnewsglobal.com/technology/isro-lme-1100-methane-rocket-engine-test/\n- NewsBytes: https://www.newsbytesapp.com/news/science/isro-conducts-1st-full-scale-ignition-test-for-lme-1100-gas-generator/tldr\n- NewSpace Economy: https://newspaceeconomy.ca/2026/10/17/what-does-isros-methane-engine-progress-mean-for-future-launch-vehicles/\n\nAI-generated narration & visuals.\n#ISRO #MethaneEngine #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, इसरो एक ऐसा रॉकेट इंजन बना रहा है जो मीथेन गैस से चलेगा, वही टेक्नोलॉजी जिसकी बात स्पेसएक्स के रॉकेट्स के साथ होती है! और इसका एक बहुत ज़रूरी हिस्सा पहली बार जल उठा है।",
+   "caption": "Bhai, ISRO ek aisa rocket engine bana raha hai jo methane gas se chalega, wahi technology jiski baat SpaceX ke rockets ke saath hoti hai! Aur iska ek bahut zaroori hissa pehli baar jal utha hai.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "ISRO का मीथेन इंजन 🔥",
+     "show": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "इग्निशन! 💥",
+     "color": "red",
+     "f": 0.82,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इसरो के एल एम ई ग्यारह सौ इंजन की कहानी। चलो समझते हैं!",
+   "caption": "ISRO ke LME-1100 engine ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ISRO",
+     "vs": "🔥",
+     "c": "METHANE"
+    }
+   ]
+  },
+  {
+   "voice": "नौ अक्टूबर को, तमिलनाडु के महेंद्रगिरि में इसरो के प्रोपल्शन कॉम्प्लेक्स में, इस इंजन के फ़ुल साइज़ गैस जनरेटर का पहला इग्निशन टेस्ट हुआ।",
+   "caption": "9 October ko, Tamil Nadu ke Mahendragiri mein ISRO ke Propulsion Complex mein, is engine ke full size gas generator ka pehla ignition test hua.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 8.4,
+     "lon": 77.6,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 8.4,
+       "lon": 77.6,
+       "label": "Mahendragiri",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "टेस्ट कहाँ हुआ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 9 अक्टूबर",
+     "f": 0.05
+    },
+    {
+     "kind": "stk",
+     "text": "📍 महेंद्रगिरि, तमिलनाडु",
+     "color": "y",
+     "f": 0.35
+    }
+   ]
+  },
+  {
+   "voice": "ध्यान रहे, ये पूरा इंजन नहीं था, बल्कि उसका एक अहम हिस्सा, गैस जनरेटर, जो इंजन के पंपों को चलाने के लिए गैस बनाता है। पूरा इंजन दो हज़ार सत्ताईस के बीच तक तैयार करने का लक्ष्य है।",
+   "caption": "Dhyaan rahe, ye poora engine nahi tha, balki uska ek aham hissa, gas generator, jo engine ke pumpon ko chalaane ke liye gas banata hai. Poora engine 2027 ke beech tak taiyaar karne ka lakshya hai.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "गैस जनरेटर क्या है? ⚙️"
+    },
+    {
+     "kind": "stk",
+     "text": "⚠️ अभी पूरा इंजन नहीं",
+     "color": "y",
+     "f": 0.05
+    },
+    {
+     "kind": "stk",
+     "text": "🔧 पंप चलाने वाली गैस",
+     "f": 0.35
+    },
+    {
+     "kind": "stk",
+     "text": "📅 पूरा इंजन ~2027",
+     "color": "g",
+     "f": 0.75
+    }
+   ]
+  },
+  {
+   "voice": "ये इंजन करीब ग्यारह सौ किलो न्यूटन की ताक़त के लिए बना है। इसमें ईंधन है मीथेन, और उसे जलाने के लिए लिक्विड ऑक्सीजन।",
+   "caption": "Ye engine kareeb 1100 kilo newton ki taaqat ke liye bana hai. Ismein eendhan hai methane, aur use jalaane ke liye liquid oxygen.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "LME-1100 💪"
+    },
+    {
+     "kind": "stk",
+     "text": "⚡ ~1,100 kN ताक़त",
+     "color": "y",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 मीथेन + लिक्विड ऑक्सीजन",
+     "color": "r",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "मीथेन ही क्यों? क्योंकि मीथेन साफ़ जलती है और कम कालिख छोड़ती है। इससे इंजन को साफ़ करके बार बार इस्तेमाल करना आसान होता है, यानी दोबारा उड़ने वाले रॉकेट, और सस्ते लॉन्च।",
+   "caption": "Methane hi kyun? Kyunki methane saaf jalti hai aur kam kaalikh chhodti hai. Isse engine ko saaf karke baar baar istemaal karna aasaan hota hai, yaani dobaara udne wale rocket, aur saste launch.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मीथेन ही क्यों? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🌬️ साफ़ जलती है",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "♻️ दोबारा इस्तेमाल",
+     "color": "g",
+     "f": 0.55
+    },
+    {
+     "kind": "stamp",
+     "text": "सस्ते लॉन्च 💸",
+     "color": "green",
+     "f": 0.82
+    }
+   ]
+  },
+  {
+   "voice": "और मज़ेदार बात? इसरो के मुताबिक़ इस इंजन के सत्तर प्रतिशत से ज़्यादा पुर्ज़े थ्री डी प्रिंटिंग से बनाए गए हैं!",
+   "caption": "Aur mazedaar baat? ISRO ke mutaabik is engine ke 70% se zyada purze 3D printing se banaaye gaye hain!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "3D PRINTED · 70%+",
+       "value": 70,
+       "color": "#3dff8f"
+      },
+      {
+       "label": "OTHER · <30%",
+       "value": 30,
+       "color": "#38f3ff"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "3D प्रिंटेड इंजन! 🖨️"
+    },
+    {
+     "kind": "stamp",
+     "text": "70%+ 🤯",
+     "color": "gold",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "ये प्रोग्राम दो हज़ार तेईस में शुरू हुआ था, और ये भारत को आने वाले समय के बड़े और दोबारा इस्तेमाल होने वाले रॉकेट्स की तरफ़ ले जा सकता है।",
+   "caption": "Ye program 2023 mein shuru hua tha, aur ye Bharat ko aane wale samay ke bade aur dobaara istemaal hone wale rockets ki taraf le ja sakta hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 20,
+     "lon": 79,
+     "dist": 1.6,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "भारत का फ़्यूचर 🇮🇳"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2023 से शुरू",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 दोबारा उड़ने वाले रॉकेट",
+     "color": "g",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, भारत का पहला दोबारा इस्तेमाल होने वाला रॉकेट कब उड़ेगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Bharat ka pehla dobaara istemaal hone wala rocket kab udega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "भारत का reusable रॉकेट कब उड़ेगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: StratNews Global, NewsBytes, NewSpace Economy · Oct 2026"
+    }
+   ]
+  }
+ ]
+}
