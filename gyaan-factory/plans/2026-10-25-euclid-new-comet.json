@@ -1,0 +1,287 @@
+{
+ "title": "Telescope ने गलती से ढूंढ लिया नया Comet! ☄️ Euclid की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "euclid",
+  "comet",
+  "esa",
+  "c/2026 s1",
+  "jupiter",
+  "saturn",
+  "telescope",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "गलती से मिला",
+  "line2": "नया Comet! ☄️",
+  "badge": "🔭 EUCLID"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "euclid",
+   "comet",
+   "esa",
+   "c/2026 s1",
+   "space news hindi",
+   "astronomy",
+   "3d gyaan"
+  ],
+  "description": "ESA का Euclid telescope तो दूर की galaxies की photo ले रहा था, लेकिन उसने एक नया comet ढूंढ लिया: C/2026 S1 (Euclid)! ☄️ कैसे मिला, कहाँ है, सब 3D में।\n\nSources:\n- Caltech Euclid: https://euclid.caltech.edu/news/euclid-discovers-new-comet\n- Phys.org: https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html\n- Universe Today: https://www.universetoday.com/articles/the-esas-euclid-space-telescope-has-discovered-a-new-comet\n- EarthSky: https://earthsky.org/space/accidental-comet-discovery-euclid-c-2026-s1/\n\nAI-generated narration & visuals.\n#Euclid #Comet #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक स्पेस टेलीस्कोप करोड़ों प्रकाश वर्ष दूर की गैलेक्सीज़ की फ़ोटो ले रहा था, और गलती से उसने हमारे ही सौर मंडल में एक बिल्कुल नया धूमकेतु ढूंढ लिया!",
+   "caption": "Bhai, ek space telescope karodon prakaash varsh door ki galaxies ki photo le raha tha, aur galti se usne hamare hi saur mandal mein ek bilkul naya dhoomketu dhoondh liya!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "नया Comet! ☄️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "गलती से! 😲",
+     "color": "red",
+     "f": 0.82,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "यूक्लिड टेलीस्कोप और उसके धूमकेतु की कहानी। चलो समझते हैं!",
+   "caption": "Euclid telescope aur uske dhoomketu ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.2
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "EUCLID",
+     "vs": "🔭",
+     "c": "COMET"
+    }
+   ]
+  },
+  {
+   "voice": "यूक्लिड, यूरोपियन स्पेस एजेंसी, ई एस ए, का टेलीस्कोप है। इसका असली काम है अरबों गैलेक्सीज़ का नक्शा बनाना, ताकि डार्क मैटर और डार्क एनर्जी को समझा जा सके।",
+   "caption": "Euclid, European Space Agency, ESA, ka telescope hai. Iska asli kaam hai arabon galaxies ka naksha banana, taaki dark matter aur dark energy ko samjha ja sake.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    },
+    {
+     "type": "globeWide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Euclid कौन? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🇪🇺 ESA का टेलीस्कोप",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🌌 गैलेक्सीज़ का नक्शा",
+     "f": 0.45,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "सोलह से चौबीस सितंबर के बीच ली गई तस्वीरों में, फ़िनलैंड की हेलसिंकी यूनिवर्सिटी के मिक्को पोंटिनेन ने, सॉफ़्टवेयर की मदद से एक चलती हुई चीज़ पकड़ी।",
+   "caption": "16 se 24 September ke beech li gayi tasveeron mein, Finland ki Helsinki University ke Mikko Pontinen ne, software ki madad se ek chalti hui cheez pakdi.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.75
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे मिला? 🕵️"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 16–24 सितंबर की फ़ोटो",
+     "f": 0.05
+    },
+    {
+     "kind": "stk",
+     "text": "💻 सॉफ़्टवेयर ने पकड़ा",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये चीज़ किसी भी जानी पहचानी लिस्ट में नहीं थी। आठ अक्टूबर को माइनर प्लैनेट सेंटर ने पक्का किया, कि ये नया धूमकेतु है, नाम, सी दो हज़ार छब्बीस एस एक, यूक्लिड।",
+   "caption": "Ye cheez kisi bhi jaani pehchaani list mein nahi thi. 8 October ko Minor Planet Center ne pakka kiya, ki ye naya dhoomketu hai, naam, C/2026 S1, Euclid.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पक्का हुआ ✅"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 8 अक्टूबर",
+     "f": 0.3
+    },
+    {
+     "kind": "stk",
+     "text": "☄️ C/2026 S1 (Euclid)",
+     "f": 0.6,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "नया धूमकेतु! ✨",
+     "color": "green",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "ये धूमकेतु धरती से करीब एक सौ तीस करोड़ किलोमीटर दूर है, यानी बृहस्पति और शनि की कक्षाओं के बीच।",
+   "caption": "Ye dhoomketu dharti se kareeb 130 crore kilometre door hai, yaani Brihaspati aur Shani ki kakshaon ke beech.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "EARTH-SUN · 15 CR KM",
+       "value": 15,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "COMET · ~130 CR KM",
+       "value": 130,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितनी दूर? 📏"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 ~130 करोड़ km",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🪐 बृहस्पति और शनि के बीच",
+     "f": 0.55
+    }
+   ]
+  },
+  {
+   "voice": "और ये लंबे समय वाला धूमकेतु है। सूरज का एक चक्कर लगाने में इसे हज़ारों साल लगते हैं!",
+   "caption": "Aur ye lambe samay wala dhoomketu hai. Sooraj ka ek chakkar lagaane mein ise hazaaron saal lagte hain!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "एक चक्कर = ? ⏳"
+    },
+    {
+     "kind": "stamp",
+     "text": "हज़ारों साल 🤯",
+     "color": "gold",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "मज़ेदार बात, यूक्लिड जानबूझ कर हमारे सौर मंडल के ग्रहों वाले हिस्से से दूर देखता है। लेकिन इस धूमकेतु का रास्ता तिरछा है, इसलिए ये उसके नज़ारे में आ गया।",
+   "caption": "Mazedaar baat, Euclid jaanbookh kar hamare saur mandal ke grahon wale hisse se door dekhta hai. Lekin is dhoomketu ka raasta tirchha hai, isliye ye uske nazaare mein aa gaya.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे दिख गया? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🙈 ग्रहों से दूर देखता है",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "↗️ तिरछा रास्ता",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, स्पेस में और कितने अनजान धूमकेतु छुपे हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, space mein aur kitne anjaan dhoomketu chhupe hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "और कितने छुपे comets हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Caltech/ESA Euclid, Phys.org, Universe Today, EarthSky · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

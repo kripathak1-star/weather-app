@@ -1,0 +1,303 @@
+{
+ "title": "Mars की Grand Canyon अभी भी हिल रही है! 🔴 Marsquake का राज़ | 3D Gyaan",
+ "caption_keywords": [
+  "mars",
+  "valles",
+  "marineris",
+  "marsquake",
+  "insight",
+  "canyon",
+  "fault",
+  "3d",
+  "gyaan",
+  "nasa"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Mars की Canyon",
+  "line2": "अभी भी ज़िंदा! 🔴",
+  "badge": "🌋 MARSQUAKE"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "mars",
+   "valles marineris",
+   "marsquake",
+   "insight",
+   "nasa",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Mars की सबसे बड़ी canyon, Valles Marineris, अभी भी tectonically active है! NASA InSight के एक marsquake से वैज्ञानिकों ने ये पता लगाया। 🔴 पूरी कहानी 3D में।\n\nSources:\n- Imperial College London: https://www.imperial.ac.uk/news/articles/engineering/earth-science/2026/giant-canyon-on-mars-is-still-tectonically-active-today/\n- Columbia Climate School: https://news.climate.columbia.edu/2026/10/19/giant-canyon-on-mars-is-still-tectonically-active-today/\n- Phys.org: https://phys.org/news/2026-10-giant-canyon-mars-tectonically-today.html\n- Aviation Week: https://aviationweek.com/space/space-exploration/marss-giant-canyon-still-tectonically-active-new-research-shows\n\nAI-generated narration & visuals.\n#Mars #Marsquake #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, मंगल ग्रह को हम एक ठंडा, शांत, मरा हुआ ग्रह समझते थे। लेकिन वहाँ की सबसे बड़ी घाटी के नीचे, ज़मीन आज भी खिसक रही है!",
+   "caption": "Bhai, Mangal grah ko hum ek thanda, shaant, mara hua grah samajhte the. Lekin wahan ki sabse badi ghaati ke neeche, zameen aaj bhi khisak rahi hai!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "pin": {
+      "lat": -14,
+      "lon": -59
+     }
+    },
+    {
+     "type": "mars"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Mars हिल रहा है! 🔴",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "ज़िंदा! 😲",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "मंगल की ग्रैंड कैन्यन, वैलिस मैरिनेरिस का राज़। चलो समझते हैं!",
+   "caption": "Mangal ki Grand Canyon, Valles Marineris ka raaz. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.3
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MARS",
+     "vs": "🌋",
+     "c": "CANYON"
+    }
+   ]
+  },
+  {
+   "voice": "वैलिस मैरिनेरिस सौर मंडल की सबसे बड़ी घाटियों में से एक है, करीब चार हज़ार किलोमीटर लंबी, यानी कश्मीर से कन्याकुमारी की दूरी से भी ज़्यादा!",
+   "caption": "Valles Marineris saur mandal ki sabse badi ghaatiyon mein se ek hai, kareeb chaar hazaar kilometre lambi, yaani Kashmir se Kanyakumari ki doori se bhi zyada!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "pin": {
+      "lat": -14,
+      "lon": -59
+     },
+     "dist": 0.8
+    },
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितनी बड़ी? 📏"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 ~4,000 km लंबी",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 कश्मीर–कन्याकुमारी से लंबी",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नासा का इनसाइट लैंडर कई साल मंगल पर भूकंप सुनता रहा। उसने एक मार्सक्वेक, यानी मंगल का भूकंप रिकॉर्ड किया था।",
+   "caption": "NASA ka InSight lander kai saal Mangal par bhookamp sunta raha. Usne ek marsquake, yaani Mangal ka bhookamp record kiya tha.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "pin": {
+      "lat": 4.5,
+      "lon": 135.6
+     },
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत कहाँ से? 🎧"
+    },
+    {
+     "kind": "stk",
+     "text": "🤖 NASA InSight",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "📈 मार्सक्वेक रिकॉर्ड",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इंपीरियल कॉलेज लंदन और कोलंबिया यूनिवर्सिटी के वैज्ञानिकों ने पाया, कि ये भूकंप वैलिस मैरिनेरिस के नीचे, बीस से चालीस किलोमीटर गहराई पर, एक फ़ॉल्ट पर हुआ।",
+   "caption": "Imperial College London aur Columbia University ke vaigyanikon ne paaya, ki ye bhookamp Valles Marineris ke neeche, 20 se 40 kilometre gehraai par, ek fault par hua.",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    },
+    {
+     "type": "planet",
+     "body": "mars",
+     "pin": {
+      "lat": -14,
+      "lon": -59
+     },
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ हुआ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🏛️ Imperial + Columbia",
+     "f": 0.05
+    },
+    {
+     "kind": "stk",
+     "text": "⬇️ 20–40 km गहराई",
+     "f": 0.6,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "घाटी के नीचे! 🎯",
+     "color": "red",
+     "f": 0.86
+    }
+   ]
+  },
+  {
+   "voice": "यहाँ चट्टानों के बड़े टुकड़े एक दूसरे के बगल से, अगल बगल खिसके। इसे स्ट्राइक स्लिप कहते हैं।",
+   "caption": "Yahan chattaanon ke bade tukde ek doosre ke bagal se, agal bagal khiske. Ise strike slip kehte hain.",
+   "shots": [
+    {
+     "type": "mars"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हुआ? ↔️"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 चट्टानें बगल में खिसकीं",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "📛 स्ट्राइक-स्लिप",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "उन्होंने उल्कापिंड की टक्कर और भूस्खलन जैसे कारणों को भी जाँचा। मार्स रिकॉनिसेंस ऑर्बिटर की तस्वीरों में कोई नया गड्ढा या भूस्खलन नहीं मिला।",
+   "caption": "Unhone ulkaapind ki takkar aur bhooskhalan jaise kaaranon ko bhi jaancha. Mars Reconnaissance Orbiter ki tasveeron mein koi naya gaddha ya bhooskhalan nahi mila.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पक्का कैसे? 🔍"
+    },
+    {
+     "kind": "stk",
+     "text": "☄️ टक्कर? नहीं ❌",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "⛰️ भूस्खलन? नहीं ❌",
+     "f": 0.55,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "सबसे बड़ी बात, मंगल पर धरती जैसी चलती टेक्टॉनिक प्लेट्स नहीं हैं। फिर भी उसकी पुरानी दरारें आज भी टूट सकती हैं। यानी मंगल पूरी तरह मरा नहीं है!",
+   "caption": "Sabse badi baat, Mangal par dharti jaisi chalti tectonic plates nahi hain. Phir bhi uski puraani daraarein aaj bhi toot sakti hain. Yaani Mangal poori tarah mara nahi hai!",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब क्या? 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "🚫 चलती प्लेट्स नहीं",
+     "f": 0.1
+    },
+    {
+     "kind": "stamp",
+     "text": "आज भी सक्रिय 🔴",
+     "color": "gold",
+     "f": 0.75,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, मंगल के अंदर और क्या राज़ छुपे हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Mangal ke andar aur kya raaz chhupe hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Mars के अंदर और क्या राज़ हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Imperial College, Columbia, Phys.org, Aviation Week · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

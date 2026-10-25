@@ -1,0 +1,323 @@
+{
+ "title": "ISRO के होंगे 4 Launch Pads! 🚀 2029 तक बड़ा Plan | 3D Gyaan",
+ "caption_keywords": [
+  "isro",
+  "launch",
+  "pad",
+  "sriharikota",
+  "kulasekarapattinam",
+  "sslv",
+  "narayanan",
+  "bharat",
+  "3d",
+  "gyaan"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "ISRO के",
+  "line2": "4 Launch Pads! 🚀",
+  "badge": "🇮🇳 2029 PLAN"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "isro",
+   "launch pad",
+   "sriharikota",
+   "kulasekarapattinam",
+   "sslv",
+   "isro news",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "ISRO चेयरमैन वी. नारायणन ने कहा कि 2029 तक भारत के पास 4 चालू launch pads होंगे! 🚀 श्रीहरिकोटा, नया तीसरा पैड और तमिलनाडु का कुलसेकरपट्टिनम, सब 3D में।\n\nSources:\n- Siasat (PTI): https://www.siasat.com/isro-to-have-four-launch-pads-by-2029-says-narayanan-3564077/\n- inkl: https://www.inkl.com/news/isro-to-have-four-functional-launch-pads-by-2029-chairman-narayanan\n- NewSpace Economy: https://newspaceeconomy.ca/2026/10/25/isro-targets-four-operational-launch-pads-by-2029/\n- Deccan Herald: https://www.deccanherald.com/amp/story/india%2Ftamil-nadu%2Fsecond-launchpad-complex-in-tamil-nadu-to-launch-satellites-in-two-years-says-isro-chief-3450154\n\nAI-generated narration & visuals.\n#ISRO #LaunchPad #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अभी भारत के सारे बड़े रॉकेट बस एक ही जगह से उड़ते हैं। लेकिन इसरो का प्लान है कि दो हज़ार उनतीस तक हमारे पास चार चालू लॉन्च पैड होंगे!",
+   "caption": "Bhai, abhi Bharat ke saare bade rocket bas ek hi jagah se udte hain. Lekin ISRO ka plan hai ki 2029 tak hamare paas chaar chaalu launch pad honge!",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigcount",
+     "value": 4,
+     "suffix": "",
+     "label": "लॉन्च पैड 🚀",
+     "hide": 0.75
+    },
+    {
+     "kind": "bigtext",
+     "text": "2029 तक! 🇮🇳",
+     "show": 0.45
+    },
+    {
+     "kind": "stamp",
+     "text": "बड़ा प्लान 💥",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इसरो के लॉन्च पैड प्लान की पूरी कहानी। चलो समझते हैं!",
+   "caption": "ISRO ke launch pad plan ki poori kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ISRO",
+     "vs": "🚀",
+     "c": "4 PADS"
+    }
+   ]
+  },
+  {
+   "voice": "चौबीस अक्टूबर को इसरो के चेयरमैन, वी नारायणन ने ये लक्ष्य बताया। ध्यान रहे, ये आने वाले सालों का प्लान है, आज चारों पैड तैयार नहीं हैं।",
+   "caption": "24 October ko ISRO ke chairman, V Narayanan ne ye lakshya bataaya. Dhyaan rahe, ye aane wale saalon ka plan hai, aaj chaaron pad taiyaar nahi hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 15,
+     "lon": 79,
+     "dist": 1.4,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने कहा? 🎙️"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 24 अक्टूबर",
+     "f": 0.05
+    },
+    {
+     "kind": "stk",
+     "text": "👤 चेयरमैन वी. नारायणन",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⚠️ ये लक्ष्य है",
+     "f": 0.7,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "आज भारत के बड़े लॉन्च, आंध्र प्रदेश के श्रीहरिकोटा में, सतीश धवन स्पेस सेंटर से होते हैं। वहाँ पहले से दो लॉन्च पैड हैं।",
+   "caption": "Aaj Bharat ke bade launch, Andhra Pradesh ke Sriharikota mein, Satish Dhawan Space Centre se hote hain. Wahan pehle se do launch pad hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 13.72,
+     "lon": 80.23,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 13.72,
+       "lon": 80.23,
+       "label": "Sriharikota",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अभी कहाँ से? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 श्रीहरिकोटा, आंध्र प्रदेश",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ 2 लॉन्च पैड",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नए प्लान में श्रीहरिकोटा में एक तीसरा लॉन्च पैड भी शामिल है, जो आने वाले बड़े नए रॉकेट्स के काम आएगा।",
+   "caption": "Naye plan mein Sriharikota mein ek teesra launch pad bhi shaamil hai, jo aane wale bade naye rockets ke kaam aayega.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "तीसरा पैड 🏗️"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 श्रीहरिकोटा",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 बड़े नए रॉकेट्स",
+     "f": 0.5,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "और एक बिल्कुल नई जगह, तमिलनाडु का कुलसेकरपट्टिनम! ये छोटे रॉकेट, एस एस एल वी के लिए बन रहा है, जो करीब पाँच सौ किलो तक के छोटे सैटेलाइट ले जा सकेगा।",
+   "caption": "Aur ek bilkul nayi jagah, Tamil Nadu ka Kulasekarapattinam! Ye chhote rocket, SSLV ke liye ban raha hai, jo kareeb 500 kilo tak ke chhote satellite le ja sakega.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 8.4,
+     "lon": 78.05,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 8.4,
+       "lon": 78.05,
+       "label": "Kulasekarapattinam",
+       "color": "red"
+      },
+      {
+       "lat": 13.72,
+       "lon": 80.23,
+       "label": "Sriharikota",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नया स्पेसपोर्ट! 🌴"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 कुलसेकरपट्टिनम, तमिलनाडु",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ SSLV · ~500 किलो",
+     "f": 0.55,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "नई जगह ✨",
+     "color": "green",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "अभी दो पैड, और दो हज़ार उनतीस तक लक्ष्य चार। यानी लॉन्च करने की क्षमता करीब दोगुनी!",
+   "caption": "Abhi do pad, aur 2029 tak lakshya chaar. Yaani launch karne ki kshamta kareeb doguni!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "TODAY · 2 PADS",
+       "value": 2,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "2029 GOAL · 4 PADS",
+       "value": 4,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "2 ➜ 4 📈"
+    },
+    {
+     "kind": "stamp",
+     "text": "डबल! 🔥",
+     "color": "gold",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ज़्यादा पैड का मतलब, एक साथ ज़्यादा रॉकेट तैयार, ज़्यादा लॉन्च, और भारत की प्राइवेट स्पेस कंपनियों के लिए भी ज़्यादा मौके।",
+   "caption": "Zyada pad ka matlab, ek saath zyada rocket taiyaar, zyada launch, aur Bharat ki private space companies ke liye bhi zyada mauke.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "इससे क्या होगा? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 ज़्यादा लॉन्च",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🏭 प्राइवेट कंपनियों को मौका",
+     "f": 0.5,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, भारत साल में कितने लॉन्च कर पाएगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Bharat saal mein kitne launch kar paayega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "भारत साल में कितने launch करेगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: PTI via Siasat, inkl, NewSpace Economy, Deccan Herald · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

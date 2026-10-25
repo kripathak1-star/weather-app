@@ -8,3 +8,4 @@ engine/caps.js
 engine/timeline.js
 pr_*.jpg
 sheet.jpg
+out_*.log
