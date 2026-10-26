@@ -1,0 +1,289 @@
+{
+ "title": "Quantum Computer में बड़ी कामयाबी! ⚛️ 5 Qubits एक साथ 99.9% | 3D Gyaan",
+ "caption_keywords": [
+  "quantum",
+  "qubit",
+  "silicon",
+  "riken",
+  "japan",
+  "computer",
+  "nature",
+  "3d",
+  "gyaan",
+  "microwave"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Quantum Computer",
+  "line2": "की बड़ी जीत! ⚛️",
+  "badge": "🔬 99.9%"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "quantum computer",
+   "qubit",
+   "silicon qubit",
+   "riken",
+   "science news hindi",
+   "technology",
+   "3d gyaan"
+  ],
+  "description": "Japan के RIKEN वैज्ञानिकों ने 5 silicon qubits को एक ही microwave line से एक साथ चलाया, और accuracy ~99.9% रही! ⚛️ Qubit क्या है, problem क्या थी, सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261024222024.htm\n- Nanowerk: https://www.nanowerk.com/nanotechnology-news3/newsid=70430.php\n- Quantum Computing Report: https://quantumcomputingreport.com/riken-demonstrates-high-fidelity-simultaneous-control-of-silicon-spin-qubits-above-99-9-threshold/\n\nAI-generated narration & visuals.\n#QuantumComputer #Qubit #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, क्वांटम कंप्यूटर बनाने की सबसे बड़ी मुश्किल ये है कि जितने ज़्यादा क्यूबिट एक साथ चलाओ, उतनी ज़्यादा गलतियाँ होती हैं। लेकिन जापान के वैज्ञानिकों ने इसका एक तोड़ निकाला है!",
+   "caption": "Bhai, quantum computer banane ki sabse badi mushkil ye hai ki jitne zyada qubit ek saath chalao, utni zyada galtiyan hoti hain. Lekin Japan ke vaigyanikon ne iska ek tod nikaala hai!",
+   "shots": [
+    {
+     "type": "city",
+     "close": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Quantum की जीत! ⚛️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "तोड़ मिला! 💡",
+     "color": "green",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "सिलिकॉन क्यूबिट्स की ये नई खोज। चलो समझते हैं!",
+   "caption": "Silicon qubits ki ye nayi khoj. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "QUANTUM",
+     "vs": "⚛️",
+     "c": "QUBITS"
+    }
+   ]
+  },
+  {
+   "voice": "नॉर्मल कंप्यूटर बिट्स में सोचता है, शून्य या एक। क्वांटम कंप्यूटर क्यूबिट्स इस्तेमाल करता है, जो कुछ ख़ास तरह की गणनाएँ बहुत तेज़ी से कर सकते हैं।",
+   "caption": "Normal computer bits mein sochta hai, 0 ya 1. Quantum computer qubits istemaal karta hai, jo kuch khaas tarah ki gananaayein bahut tezi se kar sakte hain.",
+   "shots": [
+    {
+     "type": "city",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Qubit क्या है? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "💻 बिट = 0 या 1",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "⚛️ क्यूबिट = क्वांटम बिट",
+     "f": 0.5,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "जापान के रिकेन संस्थान की टीम ने सिलिकॉन चिप पर पाँच क्यूबिट बनाए, और उन सबको सिर्फ़ एक साझा माइक्रोवेव लाइन से कंट्रोल किया।",
+   "caption": "Japan ke RIKEN sansthaan ki team ne silicon chip par 5 qubit banaaye, aur un sabko sirf ek saajha microwave line se control kiya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 35.78,
+     "lon": 139.61,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 35.78,
+       "lon": 139.61,
+       "label": "RIKEN",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने किया? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇯🇵 RIKEN, जापान",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🧩 5 सिलिकॉन क्यूबिट",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "📡 1 माइक्रोवेव लाइन",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "दिक्कत ये थी, कि एक साथ चलाने पर माइक्रोवेव सिग्नल एक दूसरे के क्यूबिट को थोड़ा सा बिगाड़ देते थे। टीम ने ये असर जोड़ियों में नापा, और उसे ठीक करने का एक नया तरीक़ा बनाया।",
+   "caption": "Dikkat ye thi, ki ek saath chalaane par microwave signal ek doosre ke qubit ko thoda sa bigaad dete the. Team ne ye asar jodiyon mein naapa, aur use theek karne ka ek naya tareeqa banaaya.",
+   "shots": [
+    {
+     "type": "city",
+     "close": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दिक्कत क्या थी? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "📡 सिग्नल में दख़ल",
+     "f": 0.15,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🔧 नया कैलिब्रेशन",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? तीन क्यूबिट तक एक साथ चलाने पर सटीकता निन्यानवे दशमलव नौ नौ प्रतिशत से ऊपर रही, और पाँचों एक साथ चलाने पर करीब निन्यानवे दशमलव नौ प्रतिशत!",
+   "caption": "Nateeja? 3 qubit tak ek saath chalaane par sateekta 99.99% se upar rahi, aur paanchon ek saath chalaane par kareeb 99.9%!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "UP TO 3 · >99.99%",
+       "value": 99.99,
+       "color": "#3dff8f"
+      },
+      {
+       "label": "ALL 5 · ~99.9%",
+       "value": 99.9,
+       "color": "#38f3ff"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 📊"
+    },
+    {
+     "kind": "stamp",
+     "text": "~99.9% 🎯",
+     "color": "gold",
+     "f": 0.75,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये रिसर्च पंद्रह अक्टूबर को नेचर फ़िज़िक्स जर्नल में छपी। सिलिकॉन ज़रूरी है, क्योंकि आज के कंप्यूटर चिप्स भी सिलिकॉन से बनते हैं।",
+   "caption": "Ye research 15 October ko Nature Physics journal mein chhapi. Silicon zaroori hai, kyunki aaj ke computer chips bhi silicon se bante hain.",
+   "shots": [
+    {
+     "type": "city",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ख़ास? 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature Physics · 15 अक्टूबर",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "💾 चिप वाला सिलिकॉन",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "अभी भी एक चुनौती बाकी है, ज़्यादा क्यूबिट्स के लिए ज़्यादा माइक्रोवेव पावर लगती है, जिससे कुछ गलतियाँ होती हैं। वैज्ञानिक कहते हैं, बेहतर डिज़ाइन से ये भी सुधर सकता है।",
+   "caption": "Abhi bhi ek chunauti baaki hai, zyada qubits ke liye zyada microwave power lagti hai, jisse kuch galtiyan hoti hain. Vaigyanik kehte hain, behtar design se ye bhi sudhar sakta hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🚧"
+    },
+    {
+     "kind": "stk",
+     "text": "⚡ ज़्यादा पावर = कुछ गलतियाँ",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🛠️ बेहतर डिज़ाइन",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, भारत का पहला बड़ा क्वांटम कंप्यूटर कब बनेगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Bharat ka pehla bada quantum computer kab banega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "भारत का quantum computer कब?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, Nanowerk, Quantum Computing Report · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

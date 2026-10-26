@@ -1,0 +1,310 @@
+{
+ "title": "Japan चला Mars के चाँद से मिट्टी लाने! 🚀 MMX Mission | 3D Gyaan",
+ "caption_keywords": [
+  "jaxa",
+  "mmx",
+  "phobos",
+  "mars",
+  "japan",
+  "h3",
+  "tanegashima",
+  "3d",
+  "gyaan",
+  "sample"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Mars के चाँद",
+  "line2": "की मिट्टी! 🚀",
+  "badge": "🇯🇵 JAXA MMX"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "jaxa",
+   "mmx",
+   "phobos",
+   "mars moon",
+   "sample return",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Japan की space agency JAXA ने MMX mission launch किया, जो Mars के चाँद Phobos से मिट्टी लेकर धरती पर लौटेगा! 🚀 पूरी timeline 3D में।\n\nSources:\n- JAXA: https://global.jaxa.jp/press/2026/10/20261020-1_e.html\n- JAXA MMX: https://www.mmx.jaxa.jp/en/\n- NASASpaceFlight: https://www.nasaspaceflight.com/2026/10/mmx-launch/\n- ESA: https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October\n\nAI-generated narration & visuals.\n#JAXA #MMX #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, जापान ने एक ऐसा मिशन भेजा है जो मंगल ग्रह के चाँद पर उतरेगा, वहाँ की मिट्टी उठाएगा, और उसे धरती पर वापस लाएगा!",
+   "caption": "Bhai, Japan ne ek aisa mission bheja hai jo Mangal grah ke chaand par utrega, wahan ki mitti uthaayega, aur use dharti par wapas laayega!",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 30.4,
+     "lon": 131.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Mars के चाँद की मिट्टी! 🌑",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "लॉन्च! 🚀",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "जापान के एम एम एक्स मिशन की कहानी। चलो समझते हैं!",
+   "caption": "Japan ke MMX mission ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "JAPAN",
+     "vs": "🚀",
+     "c": "PHOBOS"
+    }
+   ]
+  },
+  {
+   "voice": "बीस अक्टूबर को, जापान के तानेगाशिमा स्पेस सेंटर से, एच थ्री रॉकेट ने एम एम एक्स स्पेसक्राफ्ट को लॉन्च किया।",
+   "caption": "20 October ko, Japan ke Tanegashima Space Center se, H3 rocket ne MMX spacecraft ko launch kiya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 30.4,
+     "lon": 131.0,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 30.4,
+       "lon": 131.0,
+       "label": "Tanegashima",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब और कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 20 अक्टूबर",
+     "f": 0.05
+    },
+    {
+     "kind": "stk",
+     "text": "📍 तानेगाशिमा, जापान",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 H3 रॉकेट",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "एम एम एक्स का मतलब है, मार्शियन मून्स एक्सप्लोरेशन। इसका निशाना है फ़ोबोस, मंगल के दो चाँदों में से बड़ा वाला।",
+   "caption": "MMX ka matlab hai, Martian Moons eXploration. Iska nishaana hai Phobos, Mangal ke do chaandon mein se bada wala.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "निशाना: फ़ोबोस 🎯"
+    },
+    {
+     "kind": "stk",
+     "text": "🔴 मंगल के 2 चाँद",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "🌑 फ़ोबोस = बड़ा वाला",
+     "f": 0.7,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "ये स्पेसक्राफ्ट करीब दस महीने उड़कर, अगस्त दो हज़ार सत्ताईस के आसपास मंगल तक पहुँचेगा।",
+   "caption": "Ye spacecraft kareeb 10 mahine udkar, August 2027 ke aaspaas Mangal tak pahunchega.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.3
+    },
+    {
+     "type": "mars"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सफ़र ✈️"
+    },
+    {
+     "kind": "stk",
+     "text": "⏳ ~10 महीने",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "📅 पहुँचेगा ~अगस्त 2027",
+     "f": 0.55,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "फिर ये फ़ोबोस पर उतरेगा और कम से कम दस ग्राम मिट्टी इकट्ठा करेगा। सुनने में कम है, लेकिन वैज्ञानिकों के लिए ये ख़ज़ाना है!",
+   "caption": "Phir ye Phobos par utrega aur kam se kam 10 gram mitti ikattha karega. Sunne mein kam hai, lekin vaigyanikon ke liye ye khazaana hai!",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "काम क्या? 🧪"
+    },
+    {
+     "kind": "stk",
+     "text": "🛬 फ़ोबोस पर लैंडिंग",
+     "f": 0.1
+    },
+    {
+     "kind": "stamp",
+     "text": "≥10 ग्राम मिट्टी 💎",
+     "color": "gold",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "और फिर ये मिट्टी लेकर वापस आएगा। धरती पर लौटने का लक्ष्य है दो हज़ार इकतीस। जाक्सा के मुताबिक़, मंगल के इलाक़े से सैंपल लाने वाला ये दुनिया का पहला मिशन होगा।",
+   "caption": "Aur phir ye mitti lekar wapas aayega. Dharti par lautne ka lakshya hai 2031. JAXA ke mutaabik, Mangal ke ilaake se sample laane wala ye duniya ka pehla mission hoga.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "LAUNCH · 2026",
+       "value": 2026,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "MARS · 2027",
+       "value": 2027,
+       "color": "#ff5d7a"
+      },
+      {
+       "label": "RETURN · 2031",
+       "value": 2031,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "टाइमलाइन 📅"
+    },
+    {
+     "kind": "stk",
+     "text": "🏠 वापसी: 2031",
+     "f": 0.3,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "दुनिया में पहला 🥇",
+     "color": "green",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "ये मिशन जाक्सा का है, और इसमें नासा, फ़्रांस की सी एन ई एस, जर्मनी की डी एल आर और यूरोप की ई एस ए भी साथ हैं।",
+   "caption": "Ye mission JAXA ka hai, aur ismein NASA, France ki CNES, Germany ki DLR aur Europe ki ESA bhi saath hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "टीम 🤝"
+    },
+    {
+     "kind": "stk",
+     "text": "🇯🇵 JAXA",
+     "f": 0.05,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 NASA · 🇫🇷 CNES",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "🇩🇪 DLR · 🇪🇺 ESA",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, भारत कब मंगल से सैंपल लाएगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Bharat kab Mangal se sample laayega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "भारत कब Mars से sample लाएगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: JAXA, NASASpaceFlight, ESA · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

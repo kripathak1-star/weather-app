@@ -1,0 +1,301 @@
+{
+ "title": "Universe का सबसे बड़ा राज़ बदल रहा है? 🌌 Dark Energy | 3D Gyaan",
+ "caption_keywords": [
+  "dark",
+  "energy",
+  "supernova",
+  "universe",
+  "cosmology",
+  "desi",
+  "queensland",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Dark Energy",
+  "line2": "बदल रही है? 🌌",
+  "badge": "💥 2,884 SUPERNOVAE"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "dark energy",
+   "supernova",
+   "universe",
+   "cosmology",
+   "space news hindi",
+   "astronomy",
+   "3d gyaan"
+  ],
+  "description": "2,884 फटते तारों (supernovae) के नए data से इशारा मिला है कि dark energy शायद समय के साथ बदल रही है! 🌌 ये पक्का नहीं है, लेकिन बहुत दिलचस्प है। सब 3D में।\n\nSources:\n- University of Queensland: https://news.uq.edu.au/2026-09-big-supernova-dataset-challenges-dark-energy-theory\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261021231244.htm\n- Phys.org: https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html\n\nAI-generated narration & visuals.\n#DarkEnergy #Universe #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, हमारा ब्रह्मांड फैल रहा है, और उसे धक्का देने वाली रहस्यमयी ताक़त है डार्क एनर्जी। लेकिन नया डेटा कहता है, शायद ये ताक़त भी बदल रही है!",
+   "caption": "Bhai, hamara brahmaand phail raha hai, aur use dhakka dene waali rahasyamayi taaqat hai dark energy. Lekin naya data kehta hai, shaayad ye taaqat bhi badal rahi hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigcount",
+     "value": 2884,
+     "suffix": "",
+     "label": "फटते तारे 💥",
+     "hide": 0.7
+    },
+    {
+     "kind": "bigtext",
+     "text": "Dark Energy? 🌌",
+     "show": 0.45
+    },
+    {
+     "kind": "stamp",
+     "text": "बदल रही है? 🤯",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "डार्क एनर्जी का ये नया राज़। चलो समझते हैं!",
+   "caption": "Dark energy ka ye naya raaz. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.2
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "DARK",
+     "vs": "🌌",
+     "c": "ENERGY"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिक मानते हैं कि ब्रह्मांड का लगभग सत्तर प्रतिशत हिस्सा डार्क एनर्जी है। हम इसे देख नहीं सकते, बस उसका असर देखते हैं, ब्रह्मांड का तेज़ी से फैलना।",
+   "caption": "Vaigyanik maante hain ki brahmaand ka lagbhag 70 pratishat hissa dark energy hai. Hum ise dekh nahi sakte, bas uska asar dekhte hain, brahmaand ka tezi se phailna.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "DARK ENERGY · ~70%",
+       "value": 70,
+       "color": "#a78bfa"
+      },
+      {
+       "label": "EVERYTHING ELSE · ~30%",
+       "value": 30,
+       "color": "#38f3ff"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Dark Energy क्या? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🌌 ब्रह्मांड का ~70%",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "👀 दिखती नहीं, असर दिखता है",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "इसे नापने के लिए वैज्ञानिक एक ख़ास तरह के फटते तारे, टाइप वन ए सुपरनोवा, इस्तेमाल करते हैं। ये इतनी एक जैसी चमक देते हैं कि इनसे दूरी नापी जा सकती है।",
+   "caption": "Ise naapne ke liye vaigyanik ek khaas tarah ke phat-te taare, Type 1a supernova, istemaal karte hain. Ye itni ek jaisi chamak dete hain ki inse doori naapi ja sakti hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे नापते हैं? 📏"
+    },
+    {
+     "kind": "stk",
+     "text": "💥 टाइप Ia सुपरनोवा",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "💡 एक जैसी चमक = दूरी",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ऑस्ट्रेलिया की यूनिवर्सिटी ऑफ़ क्वींसलैंड की अगुवाई में, वैज्ञानिकों ने दो हज़ार आठ सौ चौरासी ऐसे सुपरनोवा का डेटा एक साथ जोड़ा, और पुराने डेटा को नए तरीक़ों से फिर से जाँचा।",
+   "caption": "Australia ki University of Queensland ki aguvaai mein, vaigyanikon ne 2884 aise supernova ka data ek saath joda, aur puraane data ko naye tareeqon se phir se jaancha.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -27.5,
+     "lon": 153.0,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": -27.5,
+       "lon": 153.0,
+       "label": "Queensland",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नई स्टडी 📚"
+    },
+    {
+     "kind": "stk",
+     "text": "🇦🇺 University of Queensland",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "2,884 सुपरनोवा 💥",
+     "color": "gold",
+     "f": 0.55
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? स्टैंडर्ड मॉडल कहता है डार्क एनर्जी हमेशा एक जैसी रहती है। लेकिन ये डेटा, बाकी नापों के साथ मिलाकर, ऐसे मॉडल की तरफ़ इशारा करता है जिसमें डार्क एनर्जी समय के साथ बदलती है।",
+   "caption": "Nateeja? Standard model kehta hai dark energy hamesha ek jaisi rehti hai. Lekin ye data, baaki naapon ke saath milaakar, aise model ki taraf ishaara karta hai jismein dark energy samay ke saath badalti hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 🔍"
+    },
+    {
+     "kind": "stk",
+     "text": "📘 पुराना मॉडल: हमेशा एक जैसी",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🔄 नया इशारा: बदलती है",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "और अमेरिका के देसी सर्वे के अलग नाप भी इसी तरफ़ इशारा करते हैं। ये दो अलग तरीक़े, एक जैसी दिशा!",
+   "caption": "Aur America ke DESI survey ke alag naap bhi isi taraf ishaara karte hain. Ye do alag tareeqe, ek jaisi disha!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दूसरा सबूत 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "📡 DESI सर्वे",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "➡️ वही दिशा",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, वैज्ञानिक ख़ुद कहते हैं, ये सबूत दिलचस्प है, पक्का नहीं। आने वाले सर्वे इसे जाँचेंगे। अगर ये सच निकला, तो ब्रह्मांड के भविष्य की हमारी समझ बदल सकती है!",
+   "caption": "Lekin dhyaan rahe, vaigyanik khud kehte hain, ye saboot dilchasp hai, pakka nahi. Aane wale survey ise jaanchenge. Agar ye sach nikla, to brahmaand ke bhavishya ki hamaari samajh badal sakti hai!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पक्का है? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ अभी पक्का नहीं",
+     "f": 0.15,
+     "color": "r"
+    },
+    {
+     "kind": "stamp",
+     "text": "समझ बदल सकती है 🌌",
+     "color": "gold",
+     "f": 0.8,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ब्रह्मांड का अंत कैसे होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, brahmaand ka ant kaise hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "ब्रह्मांड का अंत कैसे होगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: University of Queensland, ScienceDaily, Phys.org · 2026"
+    }
+   ]
+  }
+ ]
+}
