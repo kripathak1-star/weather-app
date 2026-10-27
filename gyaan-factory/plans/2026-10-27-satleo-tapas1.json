@@ -1,0 +1,321 @@
+{
+ "title": "Gujarat के Startup का Camera पहुँचा Space में! 🛰️ Thermal Eye | 3D Gyaan",
+ "caption_keywords": [
+  "satleo",
+  "tapas",
+  "thermal",
+  "gujarat",
+  "spacex",
+  "startup",
+  "satellite",
+  "3d",
+  "gyaan",
+  "india"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Gujarat का",
+  "line2": "Space Camera! 🛰️",
+  "badge": "🔥 TAPAS-1"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "satleo labs",
+   "tapas-1",
+   "thermal camera",
+   "gujarat startup",
+   "spacex",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Gujarat के spacetech startup SatLeo Labs ने अपना thermal-imaging payload TAPAS-1 SpaceX के Falcon 9 पर भेजा! 🛰️ ये गर्मी को 'देखता' है। खेती, शहर की गर्मी, जंगल की आग, सब 3D में समझो।\n\nSources:\n- Punjab Kesari (IANS): https://english.punjabkesari.com/india/gujarat-startup-launches-indias-first-commercial-thermal-payload-aboard-spacex-rocket/\n- India West: https://indiawest.com/indian-startups-thermal-camera-to-ride-spacexs-falcon-9/\n- Indian Defence News: https://www.indiandefensenews.in/2026/10/satleo-to-launch-indigenous-thermal.html\n\nAI-generated narration & visuals.\n#SatLeo #ISRO #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, गुजरात के एक स्टार्टअप ने ऐसा कैमरा स्पेस में भेजा है, जो फ़ोटो नहीं, गर्मी देखता है! और वो गया एलन मस्क की कंपनी स्पेसएक्स के रॉकेट पर!",
+   "caption": "Bhai, Gujarat ke ek startup ne aisa camera space mein bheja hai, jo photo nahi, garmi dekhta hai! Aur wo gaya Elon Musk ki company SpaceX ke rocket par!",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 34.7,
+     "lon": -120.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "गर्मी देखने वाला कैमरा! 🔥",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Made in India 🇮🇳",
+     "color": "green",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "सैटलियो लैब्स और टापस वन की कहानी। चलो समझते हैं!",
+   "caption": "SatLeo Labs aur TAPAS-1 ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "GUJARAT",
+     "vs": "🛰️",
+     "c": "TAPAS-1"
+    }
+   ]
+  },
+  {
+   "voice": "ये स्टार्टअप है सैटलियो लैब्स, गुजरात से, और इसे इन स्पेस ने इन्क्यूबेट किया है। इनके पेलोड का नाम है, टापस वन।",
+   "caption": "Ye startup hai SatLeo Labs, Gujarat se, aur ise IN-SPACe ne incubate kiya hai. Inke payload ka naam hai, TAPAS-1.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 23.0,
+     "lon": 72.6,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 23.0,
+       "lon": 72.6,
+       "label": "Gujarat",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन है? 🏢"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 गुजरात",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 IN-SPACe इन्क्यूबेटेड",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "📛 TAPAS-1",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "रिपोर्ट्स के मुताबिक़, ये एक अक्टूबर को, अमेरिका के कैलिफ़ोर्निया से, स्पेसएक्स के फ़ाल्कन नाइन रॉकेट पर, ट्रांसपोर्टर अठारह मिशन के साथ गया।",
+   "caption": "Reports ke mutaabik, ye 1 October ko, America ke California se, SpaceX ke Falcon 9 rocket par, Transporter-18 mission ke saath gaya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 34.7,
+     "lon": -120.6,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 34.7,
+       "lon": -120.6,
+       "label": "Vandenberg",
+       "color": "red"
+      }
+     ],
+     "arcs": [
+      {
+       "from": [
+        23.0,
+        72.6
+       ],
+       "to": [
+        34.7,
+        -120.6
+       ],
+       "color": "#ffd23f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब और कैसे? 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 1 अक्टूबर",
+     "f": 0.05
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 कैलिफ़ोर्निया",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 Falcon 9 · Transporter-18",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये करीब तीन किलो का है, और धरती से करीब पाँच सौ किलोमीटर ऊपर एक सैटेलाइट पर लगा है। इसे ध्रुव स्पेस के प्लैटफ़ॉर्म पर भेजा गया।",
+   "caption": "Ye kareeb 3 kilo ka hai, aur dharti se kareeb 500 kilometre upar ek satellite par laga hai. Ise Dhruva Space ke platform par bheja gaya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "साइज़ 📦"
+    },
+    {
+     "kind": "stk",
+     "text": "⚖️ ~3 किलो",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ ~500 km ऊपर",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "🤝 ध्रुव स्पेस",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "थर्मल कैमरा चीज़ों की गर्मी को देखता है। इससे पता चलता है कि खेतों में पानी की कमी कहाँ है, शहर कहाँ ज़्यादा गर्म हैं, और जंगल में आग कहाँ लगी है।",
+   "caption": "Thermal camera cheezon ki garmi ko dekhta hai. Isse pata chalta hai ki kheton mein paani ki kami kahan hai, shehar kahan zyada garam hain, aur jungle mein aag kahan lagi hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 22,
+     "lon": 78,
+     "dist": 1.3,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "काम क्या आएगा? 🌡️"
+    },
+    {
+     "kind": "stk",
+     "text": "🌾 खेती और पानी",
+     "f": 0.15,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🏙️ शहरों की गर्मी",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 जंगल की आग",
+     "f": 0.75,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "आईएएनएस की रिपोर्ट इसे भारत का पहला कमर्शियल थर्मल पेलोड बताती है। और कंपनी का प्लान है, दो हज़ार उनतीस तक ऐसे आठ और सैटेलाइट भेजना।",
+   "caption": "IANS ki report ise Bharat ka pehla commercial thermal payload batati hai. Aur company ka plan hai, 2029 tak aise aath aur satellite bhejna.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे का प्लान 📈"
+    },
+    {
+     "kind": "stamp",
+     "text": "भारत में पहला 🥇",
+     "color": "gold",
+     "f": 0.35
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ +8 सैटेलाइट · 2029",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये दिखाता है कि भारत में अब सिर्फ़ इसरो नहीं, छोटे स्टार्टअप्स भी स्पेस टेक्नोलॉजी बना रहे हैं!",
+   "caption": "Ye dikhaata hai ki Bharat mein ab sirf ISRO nahi, chhote startups bhi space technology bana rahe hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "swarm"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ी बात 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 स्टार्टअप्स भी स्पेस में",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अगला बड़ा इंडियन स्पेस स्टार्टअप कौन सा होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, agla bada Indian space startup kaun sa hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अगला बड़ा space startup कौन?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: IANS via Punjab Kesari, India West, Indian Defence News · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "title": "Traffic Cone जितना बड़ा Mushroom! 🍄 'D-rex' की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "d-rex",
+  "fungus",
+  "china",
+  "yunnan",
+  "dinosaur",
+  "mushroom",
+  "science",
+  "3d",
+  "gyaan",
+  "forest"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Giant Fungus",
+  "line2": "'D-rex' 🍄",
+  "badge": "🦖 65M साल पुराना"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "d-rex",
+   "giant fungus",
+   "dianjunus rex",
+   "yunnan",
+   "science news hindi",
+   "nature",
+   "3d gyaan"
+  ],
+  "description": "China के Yunnan के जंगलों में मिला 'D-rex', करीब 50 cm ऊँचा fungus! 🍄 इसकी family करीब 6.5 करोड़ साल पहले अलग हुई थी, dinosaurs के ख़त्म होने के आसपास। सब 3D में।\n\nSources:\n- CNN: https://www.cnn.com/2026/10/23/science/giant-fungus-discovery-d-rex\n- Phys.org: https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html\n- ScienceAlert: https://www.sciencealert.com/scientists-uncover-d-rex-gigantic-new-king-fungus-from-china-traces-its-roots-to-65-million-years\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261025073034.htm\n\nAI-generated narration & visuals.\n#DRex #Fungus #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, चीन के जंगलों में एक ऐसा फ़ंगस मिला है, जो करीब आधा मीटर ऊँचा है, और इसका नाम रखा गया है, डी रेक्स!",
+   "caption": "Bhai, China ke junglon mein ek aisa fungus mila hai, jo kareeb aadha metre ooncha hai, aur iska naam rakha gaya hai, D-rex!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigcount",
+     "value": 50,
+     "suffix": " cm",
+     "label": "ऊँचा फ़ंगस 🍄",
+     "hide": 0.7
+    },
+    {
+     "kind": "bigtext",
+     "text": "D-rex! 🦖",
+     "show": 0.45
+    },
+    {
+     "kind": "stamp",
+     "text": "नई खोज! 😲",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "डी रेक्स फ़ंगस की कहानी। चलो समझते हैं!",
+   "caption": "D-rex fungus ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "D-REX",
+     "vs": "🍄",
+     "c": "FUNGUS"
+    }
+   ]
+  },
+  {
+   "voice": "ये मिला दक्षिण पश्चिम चीन के युन्नान प्रांत के जंगलों में, दो हज़ार चौबीस और पच्चीस के सर्वे में।",
+   "caption": "Ye mila dakshin paschim China ke Yunnan praant ke junglon mein, 2024 aur 2025 ke survey mein.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 25.0,
+     "lon": 101.5,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 25.0,
+       "lon": 101.5,
+       "label": "Yunnan",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ मिला? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 युन्नान, चीन",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌲 जंगल · 2024–25 सर्वे",
+     "f": 0.55,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इसका पूरा नाम है, डियांजुनस रेक्स। इसका ऊपरी हिस्सा पचास सेंटीमीटर तक ऊँचा, और करीब दो किलो तक भारी हो सकता है, लगभग ट्रैफ़िक कोन जितना!",
+   "caption": "Iska poora naam hai, Dianjunus rex. Iska oopri hissa 50 centimetre tak ooncha, aur kareeb 2 kilo tak bhaari ho sakta hai, lagbhag traffic cone jitna!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vHouse"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना बड़ा? 📏"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 50 cm तक",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⚖️ ~2.2 किलो तक",
+     "f": 0.55
+    },
+    {
+     "kind": "stamp",
+     "text": "ट्रैफ़िक कोन जितना 🚧",
+     "color": "gold",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "ये फ़ंगस के एक बड़े ग्रुप, एस्कोमाइकोटा, में अब तक का सबसे बड़ा माना जा रहा है। पहले के रिकॉर्ड वाले सिर्फ़ बीस से तीस सेंटीमीटर के थे।",
+   "caption": "Ye fungus ke ek bade group, Ascomycota, mein ab tak ka sabse bada maana ja raha hai. Pehle ke record wale sirf 20 se 30 centimetre ke the.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "OLD RECORD · 20–30 CM",
+       "value": 30,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "D-REX · 50 CM",
+       "value": 50,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नया रिकॉर्ड 🏆"
+    },
+    {
+     "kind": "stk",
+     "text": "📊 पुराना: 20–30 cm",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "D-rex: 50 cm 🍄",
+     "color": "green",
+     "f": 0.7,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "डीएनए जाँच से पता चला कि ये सिर्फ़ नई प्रजाति नहीं, बल्कि एक बिल्कुल नया फ़ैमिली ग्रुप है, डियांजुनेसी, और इस फ़ैमिली में ये अकेला है।",
+   "caption": "DNA jaanch se pata chala ki ye sirf nayi prajaati nahi, balki ek bilkul naya family group hai, Dianjunaceae, aur is family mein ye akela hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "DNA ने बताया 🧬"
+    },
+    {
+     "kind": "stk",
+     "text": "🆕 नई प्रजाति",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🆕 नया जीनस",
+     "f": 0.35
+    },
+    {
+     "kind": "stk",
+     "text": "👑 नई फ़ैमिली",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "और सबसे दिलचस्प, इसकी लाइन अपने सबसे क़रीबी रिश्तेदारों से करीब साढ़े छह करोड़ साल पहले अलग हुई, लगभग तभी जब डायनासोर ख़त्म हुए थे!",
+   "caption": "Aur sabse dilchasp, iski line apne sabse qareebi rishtedaaron se kareeb saadhe chhe crore saal pehle alag hui, lagbhag tabhi jab dinosaur khatm hue the!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना पुराना? ⏳"
+    },
+    {
+     "kind": "stamp",
+     "text": "~6.5 करोड़ साल 🦖",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये रिसर्च फ़्रंटियर्स इन फ़ंगल बायोलॉजी जर्नल में छपी है। वैज्ञानिक कहते हैं कि डायनासोर वाली बात अभी एक अनुमान है, लेकिन बहुत दिलचस्प अनुमान!",
+   "caption": "Ye research Frontiers in Fungal Biology journal mein chhapi hai. Vaigyanik kehte hain ki dinosaur wali baat abhi ek anumaan hai, lekin bahut dilchasp anumaan!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ध्यान रहे ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Frontiers in Fungal Biology",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🤔 डायनासोर लिंक = अनुमान",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, जंगलों में और कौन से राज़ छुपे हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, junglon mein aur kaun se raaz chhupe hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "जंगलों में और क्या छुपा है?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: CNN, Phys.org, ScienceAlert, ScienceDaily · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

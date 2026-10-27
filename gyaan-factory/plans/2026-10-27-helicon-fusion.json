@@ -1,0 +1,289 @@
+{
+ "title": "Radio Waves से चलेगा Fusion Reactor! ⚡ सूरज जैसी Energy | 3D Gyaan",
+ "caption_keywords": [
+  "fusion",
+  "tokamak",
+  "diii-d",
+  "helicon",
+  "radio",
+  "energy",
+  "plasma",
+  "3d",
+  "gyaan",
+  "reactor"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Fusion Reactor",
+  "line2": "Non-stop? ⚡",
+  "badge": "📡 RADIO WAVES"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "fusion energy",
+   "tokamak",
+   "diii-d",
+   "helicon",
+   "plasma",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "General Atomics के वैज्ञानिकों ने DIII-D fusion reactor में पहली बार साफ़ दिखाया कि 'helicon' radio waves plasma में current चला सकती हैं! ⚡ इससे भविष्य के fusion reactors लगातार चल सकेंगे। सब 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-10-radio-fusion-plasma-current-reactors.html\n- The Debrief: https://thedebrief.org/scientists-demonstrate-first-evidence-of-helicon-current-drive-bringing-continuous-fusion-power-closer-to-reality/\n\nAI-generated narration & visuals.\n#Fusion #Energy #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, सूरज जिस तरह एनर्जी बनाता है, उसे धरती पर बनाने की कोशिश को फ़्यूज़न कहते हैं। और अब रेडियो वेव्स से इसमें एक बड़ा कदम आगे बढ़ा है!",
+   "caption": "Bhai, sooraj jis tarah energy banata hai, use dharti par banaane ki koshish ko fusion kehte hain. Aur ab radio waves se ismein ek bada kadam aage badha hai!",
+   "shots": [
+    {
+     "type": "city",
+     "close": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "सूरज जैसी Energy! ☀️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "बड़ा कदम ⚡",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "फ़्यूज़न और रेडियो वेव्स की कहानी। चलो समझते हैं!",
+   "caption": "Fusion aur radio waves ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "FUSION",
+     "vs": "⚡",
+     "c": "RADIO"
+    }
+   ]
+  },
+  {
+   "voice": "फ़्यूज़न रिएक्टर में, बहुत गर्म गैस, यानी प्लाज़्मा, को चुंबकों से एक डोनट जैसी मशीन में पकड़ा जाता है। इसे टोकामैक कहते हैं।",
+   "caption": "Fusion reactor mein, bahut garam gas, yaani plasma, ko chumbakon se ek donut jaisi machine mein pakda jaata hai. Ise tokamak kehte hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Tokamak क्या है? 🍩"
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 प्लाज़्मा = बहुत गर्म गैस",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🧲 चुंबकों का पिंजरा",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "प्लाज़्मा को टिकाए रखने के लिए उसके अंदर बिजली का करंट चाहिए। अभी ये करंट एक बड़े चुंबकीय कॉइल से आता है, लेकिन वो कुछ देर बाद रुक जाता है, और रिएक्टर को बंद करना पड़ता है।",
+   "caption": "Plasma ko tikaaye rakhne ke liye uske andar bijli ka current chahiye. Abhi ye current ek bade chumbakiya coil se aata hai, lekin wo kuch der baad ruk jaata hai, aur reactor ko band karna padta hai.",
+   "shots": [
+    {
+     "type": "city",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दिक्कत क्या है? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "⚡ करंट चाहिए",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "⏸️ कॉइल रुक जाता है",
+     "f": 0.55,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🔌 रिएक्टर बंद",
+     "f": 0.85,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "अमेरिका की जनरल एटॉमिक्स के वैज्ञानिकों ने, सैन डिएगो के डी थ्री डी टोकामैक में, हेलिकॉन नाम की ख़ास रेडियो वेव्स भेजीं।",
+   "caption": "America ki General Atomics ke vaigyanikon ne, San Diego ke DIII-D tokamak mein, helicon naam ki khaas radio waves bhejin.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 32.9,
+     "lon": -117.2,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 32.9,
+       "lon": -117.2,
+       "label": "DIII-D",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने किया? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 General Atomics",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 DIII-D, सैन डिएगो",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "📡 हेलिकॉन वेव्स",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "प्लाज़्मा ने इन वेव्स को सोखा, और उसके अंदर करंट बहने लगा! ये हेलिकॉन करंट ड्राइव का पहला साफ़ सबूत है।",
+   "caption": "Plasma ne in waves ko sokha, aur uske andar current behne laga! Ye helicon current drive ka pehla saaf saboot hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा ✅"
+    },
+    {
+     "kind": "stk",
+     "text": "📡 वेव्स सोखी गईं",
+     "f": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "करंट चला! ⚡",
+     "color": "green",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ख़ास बात ये है कि हेलिकॉन वेव्स प्लाज़्मा के किनारे पर ही ख़त्म नहीं होतीं, बल्कि अंदर तक जाती हैं, जो बड़े, गर्म रिएक्टर्स के लिए ज़रूरी है।",
+   "caption": "Khaas baat ye hai ki helicon waves plasma ke kinaare par hi khatm nahi hotin, balki andar tak jaati hain, jo bade, garam reactors ke liye zaroori hai.",
+   "shots": [
+    {
+     "type": "city",
+     "close": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ख़ास? 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "➡️ अंदर तक जाती हैं",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🏭 बड़े रिएक्टर्स के लिए",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये रिसर्च फ़िज़िकल रिव्यू लेटर्स में छपी है। अगर ये तरीक़ा बड़े पैमाने पर चला, तो भविष्य के फ़्यूज़न रिएक्टर बिना रुके चल सकते हैं।",
+   "caption": "Ye research Physical Review Letters mein chhapi hai. Agar ye tareeqa bade paimaane par chala, to bhavishya ke fusion reactor bina ruke chal sakte hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔮"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Physical Review Letters",
+     "f": 0.1
+    },
+    {
+     "kind": "stamp",
+     "text": "नॉन-स्टॉप फ़्यूज़न? ♾️",
+     "color": "gold",
+     "f": 0.75
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, फ़्यूज़न बिजली हमारे घरों तक कब पहुँचेगी? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, fusion bijli hamare gharon tak kab pahunchegi? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Fusion बिजली घर तक कब?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, The Debrief · Oct 2026"
+    }
+   ]
+  }
+ ]
+}
