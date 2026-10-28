@@ -1,0 +1,295 @@
+{
+ "title": "AI ने Solve की Maths की बड़ी पहेलियाँ? 🤖 OpenAI का दावा | 3D Gyaan",
+ "caption_keywords": [
+  "openai",
+  "ai",
+  "maths",
+  "conjecture",
+  "kakeya",
+  "proof",
+  "lean",
+  "3d",
+  "gyaan",
+  "science"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "AI ने Solve की",
+  "line2": "Maths पहेली? 🤖",
+  "badge": "⚠️ अभी दावा"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "openai",
+   "ai maths",
+   "local smoothing conjecture",
+   "kakeya conjecture",
+   "ai news hindi",
+   "technology",
+   "3d gyaan"
+  ],
+  "description": "OpenAI का दावा है कि उसके AI ने maths की दशकों पुरानी पहेलियाँ हल कर दीं, जैसे local smoothing conjecture! 🤖 लेकिन ये अभी कंपनी का दावा है, और दुनिया के mathematicians इसे जाँच रहे हैं। पूरी बात 3D में।\n\nSources:\n- Al Jazeera: https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says\n- Quartz: https://qz.com/openai-ai-discoveries-math-computer-science-physics-102726\n- The Next Web: https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills\n\nAI-generated narration & visuals.\n#AI #OpenAI #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, जिन गणित की पहेलियों को बड़े बड़े गणितज्ञ दशकों से हल नहीं कर पाए, ओपन ए आई का दावा है कि उसके ए आई ने उन्हें हल कर दिया! लेकिन रुको, पूरी बात समझो।",
+   "caption": "Bhai, jin ganit ki paheliyon ko bade bade ganitagya dashakon se hal nahi kar paaye, OpenAI ka daawa hai ki uske AI ne unhe hal kar diya! Lekin ruko, poori baat samjho.",
+   "shots": [
+    {
+     "type": "city",
+     "close": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "AI vs Maths 🤖🧮",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "बड़ा दावा! ⚠️",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ओपन ए आई के मैथ्स वाले दावे की कहानी। चलो समझते हैं!",
+   "caption": "OpenAI ke maths wale daawe ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "AI",
+     "vs": "🧮",
+     "c": "MATHS"
+    }
+   ]
+  },
+  {
+   "voice": "छब्बीस अक्टूबर को ओपन ए आई ने कहा, कि उसके एक मॉडल ने लोकल स्मूदिंग कंजेक्चर को सभी डायमेंशन्स में साबित कर दिया है।",
+   "caption": "26 October ko OpenAI ne kaha, ki uske ek model ne local smoothing conjecture ko sabhi dimensions mein saabit kar diya hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 37.77,
+     "lon": -122.42,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 37.77,
+       "lon": -122.42,
+       "label": "OpenAI",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दावा क्या है? 📢"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 26 अक्टूबर",
+     "f": 0.05
+    },
+    {
+     "kind": "stk",
+     "text": "🧮 Local Smoothing Conjecture",
+     "f": 0.4,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📐 सभी डायमेंशन्स",
+     "f": 0.75
+    }
+   ]
+  },
+  {
+   "voice": "कंपनी के मुताबिक़, अगर ये सही है, तो इससे दो और मशहूर पहेलियाँ भी हल हो जाती हैं, काकेया कंजेक्चर, और स्टाइन का रिस्ट्रिक्शन कंजेक्चर।",
+   "caption": "Company ke mutaabik, agar ye sahi hai, to isse do aur mashhoor paheliyan bhi hal ho jaati hain, Kakeya conjecture, aur Stein ka restriction conjecture.",
+   "shots": [
+    {
+     "type": "city",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "और क्या? ➕"
+    },
+    {
+     "kind": "stk",
+     "text": "🧩 Kakeya Conjecture",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🧩 Stein Restriction",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ओपन ए आई कहता है, सबूत अठारह अक्टूबर को बना, और अगले दिन लीन नाम के सॉफ़्टवेयर में कंप्यूटर से जाँचा गया। सारा काम खुले में डाला गया है, ताकि कोई भी जाँच सके।",
+   "caption": "OpenAI kehta hai, saboot 18 October ko bana, aur agle din Lean naam ke software mein computer se jaancha gaya. Saara kaam khule mein daala gaya hai, taaki koi bhi jaanch sake.",
+   "shots": [
+    {
+     "type": "city",
+     "close": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत कैसे? 💻"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 18 अक्टूबर: प्रूफ़",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "✅ 19 अक्टूबर: Lean चेक",
+     "f": 0.45,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🌐 सबके लिए खुला",
+     "f": 0.8,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इसी ऐलान में कंप्यूटर साइंस और फ़िज़िक्स के भी दावे थे। लेकिन मशहूर मिलियन डॉलर वाला यैंग मिल्स इनाम अभी भी किसी ने नहीं जीता है।",
+   "caption": "Isi elaan mein computer science aur physics ke bhi daawe the. Lekin mashhoor million dollar wala Yang-Mills inaam abhi bhi kisi ne nahi jeeta hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "और दावे 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "💻 कंप्यूटर साइंस",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "⚛️ फ़िज़िक्स",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "🏆 $1M इनाम: अभी नहीं",
+     "f": 0.75,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "सबसे ज़रूरी बात, ये अभी कंपनी का दावा है। दुनिया भर के गणितज्ञ अभी इसे जाँच रहे हैं। एक गणितज्ञ, एलेक्स इओसेविच, ने इसे ऐतिहासिक बताया है, लेकिन पक्की मुहर अभी बाकी है।",
+   "caption": "Sabse zaroori baat, ye abhi company ka daawa hai. Duniya bhar ke ganitagya abhi ise jaanch rahe hain. Ek ganitagya, Alex Iosevich, ne ise aitihaasik bataaya hai, lekin pakki muhar abhi baaki hai.",
+   "shots": [
+    {
+     "type": "city",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पक्का है? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "📢 अभी सिर्फ़ दावा",
+     "f": 0.1,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🔍 जाँच जारी",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "मुहर बाकी ⏳",
+     "color": "gold",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "अगर ये सही निकला, तो ए आई गणित और विज्ञान में खोज करने का एक नया औज़ार बन सकता है!",
+   "caption": "Agar ye sahi nikla, to AI ganit aur vigyaan mein khoj karne ka ek naya auzaar ban sakta hai!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब क्या? 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "AI = नया औज़ार? 🛠️",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, क्या ए आई कभी बड़े वैज्ञानिकों जैसा बन पाएगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, kya AI kabhi bade vaigyanikon jaisa ban paayega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या AI वैज्ञानिक बन पाएगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Al Jazeera, Quartz, The Next Web · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

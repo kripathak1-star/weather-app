@@ -1,0 +1,296 @@
+{
+ "title": "मकड़ियाँ भी सपने देखती हैं? 🕷️ REM Sleep की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "spider",
+  "sleep",
+  "rem",
+  "bonn",
+  "portia",
+  "dream",
+  "science",
+  "3d",
+  "gyaan",
+  "jumping"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "मकड़ी भी",
+  "line2": "सपने देखती है? 🕷️",
+  "badge": "😴 REM SLEEP"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "jumping spider",
+   "rem sleep",
+   "spider sleep",
+   "university of bonn",
+   "science news hindi",
+   "animals",
+   "3d gyaan"
+  ],
+  "description": "Germany की University of Bonn के वैज्ञानिकों ने पाया कि jumping spiders की नींद में दो stages होते हैं, जिनमें एक REM जैसा है, वही stage जिसमें हम इंसान सपने देखते हैं! 🕷️😴 पूरी रिसर्च 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-10-distinct-stages-emerge-spider-rem.html\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261026225555.htm\n- EurekAlert: https://www.eurekalert.org/news-releases/1148974\n\nAI-generated narration & visuals.\n#Spider #Sleep #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, क्या मकड़ियाँ भी सोती हैं? और क्या वो सपने देखती हैं? एक नई रिसर्च में मकड़ियों की नींद में बिल्कुल हम इंसानों जैसा एक स्टेज मिला है!",
+   "caption": "Bhai, kya makdiyan bhi soti hain? Aur kya wo sapne dekhti hain? Ek nayi research mein makdiyon ki neend mein bilkul hum insaanon jaisa ek stage mila hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "मकड़ी के सपने? 🕷️💤",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "नई खोज! 😲",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "जंपिंग स्पाइडर की नींद का राज़। चलो समझते हैं!",
+   "caption": "Jumping spider ki neend ka raaz. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "SPIDER",
+     "vs": "💤",
+     "c": "SLEEP"
+    }
+   ]
+  },
+  {
+   "voice": "जर्मनी की यूनिवर्सिटी ऑफ़ बॉन के वैज्ञानिकों ने ऑस्ट्रेलिया की एक जंपिंग स्पाइडर, पोर्शिया फ़िम्ब्रियाटा, पर ये स्टडी की।",
+   "caption": "Germany ki University of Bonn ke vaigyanikon ne Australia ki ek jumping spider, Portia fimbriata, par ye study ki.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 50.73,
+     "lon": 7.1,
+     "dist": 1.2,
+     "pins": [
+      {
+       "lat": 50.73,
+       "lon": 7.1,
+       "label": "Bonn",
+       "color": "green"
+      },
+      {
+       "lat": -17,
+       "lon": 145.7,
+       "label": "Australia",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने किया? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇩🇪 University of Bonn",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🕷️ Portia fimbriata",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "उन्होंने कई दिन और रातों तक मकड़ियों को रिकॉर्ड किया, रात में इंफ़्रारेड कैमरों से। और आवाज़ से जाँचा कि वो सच में सो रही हैं या नहीं।",
+   "caption": "Unhone kai din aur raaton tak makdiyon ko record kiya, raat mein infrared cameron se. Aur aawaaz se jaancha ki wo sach mein so rahi hain ya nahi.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे जाँचा? 🎥"
+    },
+    {
+     "kind": "stk",
+     "text": "🌙 इंफ़्रारेड कैमरे",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "🔊 आवाज़ से टेस्ट",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? मकड़ियों की नींद में दो अलग स्टेज मिले, और उनमें से एक, आर ई एम नींद जैसा है। इंसानों में यही वो नींद है जिसमें हम ज़्यादातर सपने देखते हैं।",
+   "caption": "Nateeja? Makdiyon ki neend mein do alag stage mile, aur unmein se ek, REM neend jaisa hai. Insaanon mein yahi wo neend hai jismein hum zyaadatar sapne dekhte hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 😴"
+    },
+    {
+     "kind": "stk",
+     "text": "2️⃣ दो स्टेज",
+     "f": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "REM जैसी नींद 💭",
+     "color": "gold",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "और मज़ेदार बात, जब उनकी नींद एक रात बिगाड़ी गई, तो अगली बार उन्होंने करीब अस्सी प्रतिशत ज़्यादा समय इसी आर ई एम जैसी नींद में बिताया!",
+   "caption": "Aur mazedaar baat, jab unki neend ek raat bigaadi gayi, to agli baar unhone kareeb 80% zyada samay isi REM jaisi neend mein bitaaya!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "NORMAL NIGHT",
+       "value": 100,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "AFTER BAD NIGHT · ~+80%",
+       "value": 180,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नींद की भरपाई 🛌"
+    },
+    {
+     "kind": "stamp",
+     "text": "~80% ज़्यादा 📈",
+     "color": "gold",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों के मुताबिक़, किसी बिना रीढ़ वाले जीव में ऐसी आर ई एम भरपाई का ये पहला सबूत है।",
+   "caption": "Vaigyanikon ke mutaabik, kisi bina reedh wale jeev mein aisi REM bharpaai ka ye pehla saboot hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ख़ास? 🥇"
+    },
+    {
+     "kind": "stk",
+     "text": "🐛 बिना रीढ़ वाले जीव",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "पहला सबूत ✨",
+     "color": "green",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, उन्होंने दिमाग़ की गतिविधि नहीं नापी। इसलिए अभी ये नहीं कह सकते कि मकड़ियाँ सच में सपने देखती हैं। ये रिसर्च पी एन ए एस जर्नल में छपी है।",
+   "caption": "Lekin dhyaan rahe, unhone dimaag ki gatividhi nahi naapi. Isliye abhi ye nahi keh sakte ki makdiyan sach mein sapne dekhti hain. Ye research PNAS journal mein chhapi hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पक्का है? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "🧠 दिमाग़ नहीं नापा",
+     "f": 0.15,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ सपने = अभी पता नहीं",
+     "f": 0.5,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 PNAS",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, मकड़ियाँ सपने में क्या देखती होंगी? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, makdiyan sapne mein kya dekhti hongi? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "मकड़ी सपने में क्या देखेगी?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, ScienceDaily, EurekAlert (Univ. of Bonn) · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

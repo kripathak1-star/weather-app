@@ -1,0 +1,292 @@
+{
+ "title": "फल खाने वाला Dinosaur! 🦖🍓 'Hell Chicken' की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "dinosaur",
+  "infernogallus",
+  "fruit",
+  "fossil",
+  "stony",
+  "brook",
+  "parrot",
+  "3d",
+  "gyaan",
+  "cretaceous"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "फल खाने वाला",
+  "line2": "Dinosaur! 🦖",
+  "badge": "🍓 INFERNOGALLUS"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "dinosaur",
+   "infernogallus jamesi",
+   "fruit eating dinosaur",
+   "fossil",
+   "science news hindi",
+   "paleontology",
+   "3d gyaan"
+  ],
+  "description": "वैज्ञानिकों ने एक नए dinosaur, Infernogallus jamesi, का नाम रखा, जिसे पहला ऐसा dinosaur बताया जा रहा है जो ख़ास तौर पर फल खाने के लिए बना था! 🦖🍓 तोते जैसी जबड़े की मांसपेशियाँ, सब 3D में।\n\nSources:\n- Stony Brook University: https://news.stonybrook.edu/university/stony-brook-paleontologist-dinosaur-discovery-reveals-a-specialized-fruit-eater\n- EurekAlert: https://www.eurekalert.org/news-releases/1149430\n- ThePrint: https://theprint.in/science/scientists-dinosaur-eating-fruits-instead-of-meat/3084014/\n\nAI-generated narration & visuals.\n#Dinosaur #Fossil #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, डायनासोर का नाम सुनते ही हम सोचते हैं, बड़े दाँत, मांस खाने वाले। लेकिन वैज्ञानिकों को एक ऐसा डायनासोर मिला है, जो शायद फल खाने का शौक़ीन था!",
+   "caption": "Bhai, dinosaur ka naam sunte hi hum sochte hain, bade daant, maans khaane wale. Lekin vaigyanikon ko ek aisa dinosaur mila hai, jo shaayad phal khaane ka shauqeen tha!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "फल खाने वाला 🦖🍓",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "नया डायनासोर! 😲",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इन्फ़र्नोगैलस की कहानी। चलो समझते हैं!",
+   "caption": "Infernogallus ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "DINO",
+     "vs": "🍓",
+     "c": "FRUIT"
+    }
+   ]
+  },
+  {
+   "voice": "इसका नाम है, इन्फ़र्नोगैलस जेम्सी, जिसे हेल चिकन भी कहा जा रहा है। ये रिसर्च सत्ताईस अक्टूबर को नेचर कम्युनिकेशंस में छपी।",
+   "caption": "Iska naam hai, Infernogallus jamesi, jise hell chicken bhi kaha ja raha hai. Ye research 27 October ko Nature Communications mein chhapi.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 47.0,
+     "lon": -101.0,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 47.0,
+       "lon": -101.0,
+       "label": "North Dakota",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नाम क्या है? 📛"
+    },
+    {
+     "kind": "stk",
+     "text": "🦖 Infernogallus jamesi",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🐔 'Hell Chicken'",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature Communications",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इस टीम की अगुवाई अमेरिका की स्टोनी ब्रुक यूनिवर्सिटी के ग्रेग फ़नस्टन ने की, साथ में कनाडा का रॉयल ओंटारियो म्यूज़ियम और नॉर्थ डकोटा जियोलॉजिकल सर्वे।",
+   "caption": "Is team ki aguvaai America ki Stony Brook University ke Greg Funston ne ki, saath mein Canada ka Royal Ontario Museum aur North Dakota Geological Survey.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 43,
+     "lon": -90,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "टीम 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 Stony Brook University",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇦 Royal Ontario Museum",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 North Dakota Survey",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये एक छोटा, पंखों वाला, बिना दाँत का डायनासोर था, क्रिटेशियस काल का। साइज़ करीब एक टर्की जितना, और वज़न करीब बारह किलो।",
+   "caption": "Ye ek chhota, pankhon wala, bina daant ka dinosaur tha, Cretaceous kaal ka. Size kareeb ek turkey jitna, aur vazan kareeb 12 kilo.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vHouse"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसा था? 🪶"
+    },
+    {
+     "kind": "stk",
+     "text": "🪶 पंखों वाला",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🚫🦷 बिना दाँत",
+     "f": 0.35,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⚖️ ~12 किलो · टर्की जितना",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "राज़ छुपा है इसके जबड़े की मांसपेशियों में। ये इंतज़ाम आज सिर्फ़ फल खाने वाले तोतों में दिखता है!",
+   "caption": "Raaz chhupa hai iske jabde ki maanspeshiyon mein. Ye intezaam aaj sirf phal khaane wale toton mein dikhta hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत क्या? 🔍"
+    },
+    {
+     "kind": "stk",
+     "text": "💪 जबड़े की मांसपेशियाँ",
+     "f": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "तोते जैसी 🦜",
+     "color": "green",
+     "f": 0.65,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिक इसे फल खाने के लिए ख़ास बने पहले ज्ञात डायनासोर के तौर पर बता रहे हैं। शायद ये अपने बिना दाँत वाले जबड़े से फल का गूदा निकालता था।",
+   "caption": "Vaigyanik ise phal khaane ke liye khaas bane pehle gyaat dinosaur ke taur par bata rahe hain. Shaayad ye apne bina daant wale jabde se phal ka gooda nikaalta tha.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ख़ास? 🥇"
+    },
+    {
+     "kind": "stamp",
+     "text": "पहला फल-स्पेशलिस्ट 🍓",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, ये नतीजा हड्डियों की बनावट से निकाला गया है। वैज्ञानिक ख़ुद कहते हैं, पेट में मिला खाना इसका और मज़बूत सबूत होता।",
+   "caption": "Lekin dhyaan rahe, ye nateeja haddiyon ki banaavat se nikaala gaya hai. Vaigyanik khud kehte hain, pet mein mila khaana iska aur mazboot saboot hota.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पक्का है? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 हड्डियों से अनुमान",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🍽️ पेट का खाना = और पक्का",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ये डायनासोर कौन सा फल खाता होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, ye dinosaur kaun sa phal khaata hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "ये dinosaur कौन सा फल खाता?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Stony Brook University, EurekAlert, ThePrint · Oct 2026"
+    }
+   ]
+  }
+ ]
+}
