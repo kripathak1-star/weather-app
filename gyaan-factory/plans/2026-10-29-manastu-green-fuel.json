@@ -1,0 +1,309 @@
+{
+ "title": "Satellite का Green Fuel! 🇮🇳 Manastu Space को ₹116 करोड़ | 3D Gyaan",
+ "caption_keywords": [
+  "manastu",
+  "green",
+  "propulsion",
+  "satellite",
+  "fuel",
+  "mumbai",
+  "startup",
+  "3d",
+  "gyaan",
+  "india"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Satellite का",
+  "line2": "Green Fuel! 🇮🇳",
+  "badge": "💰 ₹116 करोड़"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "manastu space",
+   "green propulsion",
+   "satellite fuel",
+   "indian space startup",
+   "tdb dst",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Navi Mumbai के स्टार्टअप Manastu Space को सरकार के Technology Development Board से ₹116 करोड़ की मदद मिलेगी, satellites के लिए green propulsion बनाने के लिए! 🇮🇳🛰️ सब 3D में।\n\nSources:\n- PSU Connect: https://www.psuconnect.in/ministry-of-india-news/tdb-dst-signs-116-crore-deal-with-manastu-space-for-green-propulsion-technology\n- Channel IAM: https://en.channeliam.com/2026/10/28/manastu-space-green-propulsion-funding/\n- The Policy Edge: https://www.policyedge.in/p/government-backs-indian-space-tech-firms-green-propulsion-system-with-116-crore\n- Electronics For You: https://www.electronicsforyou.biz/industry-buzz/tdb-backs-manastu-space-with-%E2%82%B91-16-bn-to-advance-indigenous-green-propulsion-technology/\n\nAI-generated narration & visuals.\n#ManastuSpace #GreenFuel #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, सैटेलाइट्स को स्पेस में घूमने और दिशा बदलने के लिए भी ईंधन चाहिए। और अब एक भारतीय स्टार्टअप, ग्रीन ईंधन बना रहा है, सरकार की बड़ी मदद के साथ!",
+   "caption": "Bhai, satellites ko space mein ghoomne aur disha badalne ke liye bhi eendhan chahiye. Aur ab ek Bharatiya startup, green eendhan bana raha hai, sarkaar ki badi madad ke saath!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigcount",
+     "value": 116,
+     "suffix": " करोड़",
+     "label": "₹ सरकारी मदद 💰",
+     "hide": 0.7
+    },
+    {
+     "kind": "bigtext",
+     "text": "Green Fuel! 🌱",
+     "show": 0.45
+    },
+    {
+     "kind": "stamp",
+     "text": "Made in India 🇮🇳",
+     "color": "green",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "मनस्तु स्पेस की कहानी। चलो समझते हैं!",
+   "caption": "Manastu Space ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MANASTU",
+     "vs": "🌱",
+     "c": "₹116 CR"
+    }
+   ]
+  },
+  {
+   "voice": "नवी मुंबई की मनस्तु स्पेस टेक्नोलॉजीज़ के साथ, छब्बीस अक्टूबर को, सरकार के डिपार्टमेंट ऑफ़ साइंस एंड टेक्नोलॉजी के टेक्नोलॉजी डेवलपमेंट बोर्ड ने एक समझौता किया।",
+   "caption": "Navi Mumbai ki Manastu Space Technologies ke saath, 26 October ko, sarkaar ke Department of Science and Technology ke Technology Development Board ne ek samjhauta kiya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 19.03,
+     "lon": 73.03,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 19.03,
+       "lon": 73.03,
+       "label": "Navi Mumbai",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन? 🏢"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 नवी मुंबई",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🏛️ TDB · DST",
+     "f": 0.5
+    },
+    {
+     "kind": "stk",
+     "text": "📅 26 अक्टूबर",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "पूरा प्रोजेक्ट करीब दो सौ सतहत्तर करोड़ रुपये का है, और उसमें से एक सौ सोलह करोड़ बोर्ड देगा। ये सीधा दान नहीं, बल्कि एक तरह का क़र्ज़ है जो शेयर में बदल सकता है।",
+   "caption": "Poora project kareeb 277 crore rupaye ka hai, aur usmein se 116 crore board dega. Ye seedha daan nahi, balki ek tarah ka qarz hai jo share mein badal sakta hai.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "TOTAL · ₹277.63 CR",
+       "value": 277.63,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "TDB SUPPORT · ₹116 CR",
+       "value": 116,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पैसा कितना? 💰"
+    },
+    {
+     "kind": "stk",
+     "text": "📊 कुल ~₹277 करोड़",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🏛️ TDB: ₹116 करोड़",
+     "f": 0.45,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "📝 क़र्ज़, दान नहीं",
+     "f": 0.8,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "ग्रीन क्यों? क्योंकि मनस्तु का सिस्टम हाइड्रोजन पेरॉक्साइड पर आधारित ईंधन इस्तेमाल करता है। आज बहुत से सैटेलाइट्स में हाइड्राज़ीन जैसा ज़हरीला ईंधन लगता है।",
+   "caption": "Green kyun? Kyunki Manastu ka system hydrogen peroxide par aadhaarit eendhan istemaal karta hai. Aaj bahut se satellites mein hydrazine jaisa zehreela eendhan lagta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Green क्यों? 🌱"
+    },
+    {
+     "kind": "stk",
+     "text": "💧 हाइड्रोजन पेरॉक्साइड",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "☠️ हाइड्राज़ीन = ज़हरीला",
+     "f": 0.7,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ये सिस्टम बहुत छोटे धक्के, पाँच मिलीन्यूटन, से लेकर तीन सौ न्यूटन तक की ताक़त दे सकेगा, सैटेलाइट्स और रॉकेट्स दोनों के लिए।",
+   "caption": "Ye system bahut chhote dhakke, 5 millinewton, se lekar 300 newton tak ki taaqat de sakega, satellites aur rockets dono ke liye.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ताक़त ⚡"
+    },
+    {
+     "kind": "stk",
+     "text": "🪶 5 mN से",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "💪 300 N तक",
+     "f": 0.55,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ सैटेलाइट + 🚀 रॉकेट",
+     "f": 0.85,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "आधिकारिक बयान के मुताबिक़, ये टेक्नोलॉजी स्पेस में पहले उड़ चुकी है। अब लक्ष्य है इसे पूरी तरह तैयार करना, यानी टेक्नोलॉजी रेडीनेस लेवल छह से नौ तक।",
+   "caption": "Aadhikaarik bayaan ke mutaabik, ye technology space mein pehle ud chuki hai. Ab lakshya hai ise poori tarah taiyaar karna, yaani Technology Readiness Level 6 se 9 tak.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "लक्ष्य 🎯"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ स्पेस में उड़ चुकी",
+     "f": 0.15,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "TRL 6 ➜ 9 📈",
+     "color": "gold",
+     "f": 0.65,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "भारत की स्पेस इकॉनमी बढ़ाने के लिए, ऐसे स्टार्टअप्स को सरकार की मदद एक बड़ा कदम है!",
+   "caption": "Bharat ki space economy badhaane ke liye, aise startups ko sarkaar ki madad ek bada kadam hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "swarm"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ी बात 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 स्पेस स्टार्टअप्स को मदद",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, भारत का अगला स्पेस यूनिकॉर्न कौन बनेगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Bharat ka agla space unicorn kaun banega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अगला space unicorn कौन?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: PSU Connect, Channel IAM, The Policy Edge, EFY · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

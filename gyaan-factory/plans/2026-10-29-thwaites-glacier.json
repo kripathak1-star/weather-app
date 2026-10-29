@@ -1,0 +1,293 @@
+{
+ "title": "'Doomsday Glacier' दोगुना ख़तरनाक! 🧊 Antarctica की चेतावनी | 3D Gyaan",
+ "caption_keywords": [
+  "thwaites",
+  "glacier",
+  "antarctica",
+  "sea",
+  "level",
+  "ice",
+  "climate",
+  "3d",
+  "gyaan",
+  "nasa"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Doomsday",
+  "line2": "Glacier! 🧊",
+  "badge": "🌊 2x SEA LEVEL"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "thwaites glacier",
+   "doomsday glacier",
+   "antarctica",
+   "sea level rise",
+   "climate news hindi",
+   "nasa jpl",
+   "3d gyaan"
+  ],
+  "description": "Antarctica का Thwaites Glacier, जिसे 'Doomsday Glacier' कहते हैं, पुराने अनुमानों से दोगुना समुद्र का स्तर बढ़ा सकता है, नई स्टडी कहती है! 🧊🌊 गर्म समुद्री पानी बर्फ़ के नीचे घुस रहा है। सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261027063701.htm\n- CNN: https://www.cnn.com/2026/10/15/climate/thwaites-melt-study-doomsday-glacier\n- Al Jazeera: https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters\n\nAI-generated narration & visuals.\n#Thwaites #Antarctica #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अंटार्कटिका में एक ग्लेशियर है जिसे डूम्सडे ग्लेशियर कहते हैं। और नई रिसर्च कहती है, ये पहले के अंदाज़े से दोगुना समुद्र का स्तर बढ़ा सकता है!",
+   "caption": "Bhai, Antarctica mein ek glacier hai jise Doomsday Glacier kehte hain. Aur nayi research kehti hai, ye pehle ke andaaze se doguna samudra ka star badha sakta hai!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -75.5,
+     "lon": -106.75,
+     "dist": 1.3
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Doomsday Glacier 🧊",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "दोगुना! 🌊",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "थ्वेट्स ग्लेशियर की ये नई चेतावनी। चलो समझते हैं!",
+   "caption": "Thwaites Glacier ki ye nayi chetaavni. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "THWAITES",
+     "vs": "🧊",
+     "c": "OCEAN"
+    }
+   ]
+  },
+  {
+   "voice": "ये है थ्वेट्स ग्लेशियर, पश्चिमी अंटार्कटिका में। ये इतना बड़ा है कि इसकी तुलना अफ़्रीका के देश सेनेगल से की जाती है।",
+   "caption": "Ye hai Thwaites Glacier, pashchimi Antarctica mein. Ye itna bada hai ki iski tulna Africa ke desh Senegal se ki jaati hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -75.5,
+     "lon": -106.75,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": -75.5,
+       "lon": -106.75,
+       "label": "Thwaites",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ है? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🧊 पश्चिमी अंटार्कटिका",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🗺️ सेनेगल जितना बड़ा",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "कैलिफ़ोर्निया यूनिवर्सिटी, इरवाइन, और नासा की जेट प्रोपल्शन लैब के वैज्ञानिकों ने पाया, कि गर्म समुद्री पानी बर्फ़ के नीचे मीलों अंदर तक घुस रहा है, और उसकी नींव को कमज़ोर कर रहा है।",
+   "caption": "California University, Irvine, aur NASA ki Jet Propulsion Lab ke vaigyanikon ne paaya, ki garam samudri paani barf ke neeche meelon andar tak ghus raha hai, aur uski neenv ko kamzor kar raha hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "boatWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हो रहा है? 🌊"
+    },
+    {
+     "kind": "stk",
+     "text": "🏛️ UC Irvine + NASA JPL",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 गर्म पानी नीचे घुसा",
+     "f": 0.5,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🧱 नींव कमज़ोर",
+     "f": 0.85,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "स्टडी के मुताबिक़, ये ग्लेशियर अकेले, दो हज़ार सौ तक, समुद्र का स्तर करीब तीस मिलीमीटर बढ़ा सकता है। ये अभी के अंदाज़ों से दोगुना है, और वो भी बिना और ग्लोबल वार्मिंग के!",
+   "caption": "Study ke mutaabik, ye glacier akele, 2100 tak, samudra ka star kareeb 30 millimetre badha sakta hai. Ye abhi ke andaazon se doguna hai, aur wo bhi bina aur global warming ke!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "OLD ESTIMATE · ~15 MM",
+       "value": 15,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "NEW STUDY · ~30 MM",
+       "value": 30,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना? 📈"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2100 तक",
+     "f": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "~30 mm · दोगुना 🌊",
+     "color": "red",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "और अभी ये ग्लेशियर समुद्र के नीचे की एक चट्टानी ऊँचाई पर टिका है। स्टडी कहती है, सदी के अंत तक इसके वहाँ से खिसक जाने की करीब साठ प्रतिशत संभावना है।",
+   "caption": "Aur abhi ye glacier samudra ke neeche ki ek chattaani oonchaai par tika hai. Study kehti hai, sadi ke ant tak iske wahan se khisak jaane ki kareeb 60% sambhaavna hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "boatClose"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ा ख़तरा ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "⛰️ चट्टान पर टिका",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "~60% संभावना ⚠️",
+     "color": "gold",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "अगर ये खिसका, तो ग्लेशियर ढलान वाली ज़मीन पर तेज़ी से पीछे हट सकता है। ये रिसर्च नेचर कम्युनिकेशंस में छपी है।",
+   "caption": "Agar ye khiska, to glacier dhalaan wali zameen par tezi se peeche hat sakta hai. Ye research Nature Communications mein chhapi hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "फिर क्या? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "⏩ तेज़ी से पीछे",
+     "f": 0.25,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature Communications",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "समुद्र का बढ़ता स्तर भारत के मुंबई, चेन्नई और कोलकाता जैसे समुद्र किनारे वाले शहरों के लिए भी अहम है। इसलिए दुनिया भर के वैज्ञानिक इस ग्लेशियर पर नज़र रखते हैं।",
+   "caption": "Samudra ka badhta star Bharat ke Mumbai, Chennai aur Kolkata jaise samudra kinaare wale shehron ke liye bhi aham hai. Isliye duniya bhar ke vaigyanik is glacier par nazar rakhte hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 18,
+     "lon": 80,
+     "dist": 1.2,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "भारत के लिए? 🇮🇳"
+    },
+    {
+     "kind": "stk",
+     "text": "🏙️ मुंबई · चेन्नई · कोलकाता",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, हम समुद्र के बढ़ते स्तर से कैसे बच सकते हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, hum samudra ke badhte star se kaise bach sakte hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "बढ़ते समुद्र से कैसे बचें?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily (UC Irvine/NASA JPL), CNN, Al Jazeera · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

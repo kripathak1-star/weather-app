@@ -1,0 +1,297 @@
+{
+ "title": "Pluto के पार मिला नया Dwarf Planet? 🪐 Rubin की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "rubin",
+  "dwarf",
+  "planet",
+  "pluto",
+  "ed138",
+  "telescope",
+  "chile",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "नया Dwarf",
+  "line2": "Planet? 🪐",
+  "badge": "🔭 2026 ED138"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "rubin observatory",
+   "dwarf planet",
+   "2026 ed138",
+   "pluto",
+   "space news hindi",
+   "astronomy",
+   "3d gyaan"
+  ],
+  "description": "Vera C. Rubin Observatory ने Pluto की कक्षा के भी पार एक संभावित dwarf planet, 2026 ED138, ढूंढा है! 🪐 अगर पक्का हुआ, तो ये छठा dwarf planet होगा। सब 3D में।\n\nSources:\n- Rubin Observatory: https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate\n- University of Washington: https://www.washington.edu/news/2026/10/27/rubin-observatory-new-dwarf-planet-candidate/\n- Scientific American: https://www.scientificamerican.com/article/the-vera-c-rubin-observatory-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet/\n- Universe Today: https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate\n\nAI-generated narration & visuals.\n#DwarfPlanet #Rubin #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, प्लूटो से भी दूर, अँधेरे में छुपा एक बर्फ़ीला गोला मिला है, जो शायद हमारे सौर मंडल का छठा ड्वार्फ़ प्लैनेट बन सकता है!",
+   "caption": "Bhai, Pluto se bhi door, andhere mein chhupa ek barfeela gola mila hai, jo shaayad hamare saur mandal ka chhatha dwarf planet ban sakta hai!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "नया Dwarf Planet? 🪐",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "पहली खोज! 🔭",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "रूबिन ऑब्ज़र्वेटरी की इस खोज की कहानी। चलो समझते हैं!",
+   "caption": "Rubin Observatory ki is khoj ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "RUBIN",
+     "vs": "🪐",
+     "c": "ED138"
+    }
+   ]
+  },
+  {
+   "voice": "चिली के पहाड़ों पर बनी वेरा सी रूबिन ऑब्ज़र्वेटरी ने, सत्ताईस अक्टूबर को, अपने पहले ड्वार्फ़ प्लैनेट कैंडिडेट की घोषणा की। नाम है, दो हज़ार छब्बीस ई डी एक सौ अड़तीस।",
+   "caption": "Chile ke pahaadon par bani Vera C. Rubin Observatory ne, 27 October ko, apne pehle dwarf planet candidate ki ghoshna ki. Naam hai, 2026 ED138.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -30.24,
+     "lon": -70.74,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": -30.24,
+       "lon": -70.74,
+       "label": "Rubin",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने ढूंढा? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇱 रूबिन ऑब्ज़र्वेटरी, चिली",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 27 अक्टूबर",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "🪐 2026 ED138",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये सूरज से करीब छियालीस ए यू दूर है, यानी धरती सूरज की दूरी का छियालीस गुना, प्लूटो की कक्षा से भी आगे!",
+   "caption": "Ye sooraj se kareeb 46 AU door hai, yaani dharti sooraj ki doori ka 46 guna, Pluto ki kaksha se bhi aage!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "EARTH · 1 AU",
+       "value": 1,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "PLUTO · ~40 AU",
+       "value": 40,
+       "color": "#a78bfa"
+      },
+      {
+       "label": "ED138 · ~46 AU",
+       "value": 46,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितनी दूर? 📏"
+    },
+    {
+     "kind": "stamp",
+     "text": "~46 AU 🚀",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इसका साइज़ अंदाज़न छह सौ से पंद्रह सौ किलोमीटर के बीच है। इतने बड़े बर्फ़ीले गोले आमतौर पर गोल होते हैं।",
+   "caption": "Iska size andaazan 600 se 1500 kilometre ke beech hai. Itne bade barfeele gole aamtaur par gol hote hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "moon",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना बड़ा? ⚪"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 ~600–1,500 km",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🧊 बर्फ़ीला, शायद गोल",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "टेलीस्कोप ने इसे चार मार्च से ग्यारह जुलाई के बीच, बीस रातों में तीस बार देखा। और पुराने डेटा में ये दो हज़ार सोलह तक दिखा, जिससे इसकी कक्षा समझ आई।",
+   "caption": "Telescope ne ise 4 March se 11 July ke beech, 20 raaton mein 30 baar dekha. Aur puraane data mein ye 2016 tak dikha, jisse iski kaksha samajh aayi.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे पक्का किया? 🔍"
+    },
+    {
+     "kind": "stk",
+     "text": "🌙 20 रातें · 30 बार",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "📂 पुराना डेटा: 2016 तक",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये इतने साल छुपा क्यों रहा? क्योंकि ये आसमान के उस हिस्से में है जहाँ बहुत सारे तारे हैं, और उनकी चमक में ये खो गया था।",
+   "caption": "Ye itne saal chhupa kyun raha? Kyunki ye aasmaan ke us hisse mein hai jahan bahut saare taare hain, aur unki chamak mein ye kho gaya tha.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "छुपा क्यों रहा? 🙈"
+    },
+    {
+     "kind": "stk",
+     "text": "✨ तारों की भीड़",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "अगर ये पक्का हुआ, तो प्लूटो, सेरेस, एरिस, हाउमेया और मेकमेक के बाद, ये छठा माना हुआ ड्वार्फ़ प्लैनेट होगा। लेकिन अभी और जाँच बाकी है।",
+   "caption": "Agar ye pakka hua, to Pluto, Ceres, Eris, Haumea aur Makemake ke baad, ye chhatha maana hua dwarf planet hoga. Lekin abhi aur jaanch baaki hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "5️⃣ अभी 5 ड्वार्फ़ प्लैनेट",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "छठा? 🪐",
+     "color": "green",
+     "f": 0.6
+    },
+    {
+     "kind": "stk",
+     "text": "⚠️ अभी पक्का नहीं",
+     "f": 0.85,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "तुम इसका क्या नाम रखोगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tum iska kya naam rakhoge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "तुम इसका क्या नाम रखोगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Rubin Observatory, UW, Scientific American, Universe Today · Oct 2026"
+    }
+   ]
+  }
+ ]
+}
