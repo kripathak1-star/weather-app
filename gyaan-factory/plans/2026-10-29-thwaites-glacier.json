@@ -121,8 +121,18 @@
    "caption": "California University, Irvine, aur NASA ki Jet Propulsion Lab ke vaigyanikon ne paaya, ki garam samudri paani barf ke neeche meelon andar tak ghus raha hai, aur uski neenv ko kamzor kar raha hai.",
    "shots": [
     {
-     "type": "preset",
-     "name": "boatWide"
+     "type": "globe",
+     "lat": -72,
+     "lon": -110,
+     "dist": 0.75,
+     "pins": [
+      {
+       "lat": -75.5,
+       "lon": -106.75,
+       "label": "Thwaites",
+       "color": "red"
+      }
+     ]
     }
    ],
    "overlay": [
@@ -195,8 +205,10 @@
    "caption": "Aur abhi ye glacier samudra ke neeche ki ek chattaani oonchaai par tika hai. Study kehti hai, sadi ke ant tak iske wahan se khisak jaane ki kareeb 60% sambhaavna hai.",
    "shots": [
     {
-     "type": "preset",
-     "name": "boatClose"
+     "type": "globe",
+     "lat": -70,
+     "lon": -100,
+     "dist": 1.6
     }
    ],
    "overlay": [
