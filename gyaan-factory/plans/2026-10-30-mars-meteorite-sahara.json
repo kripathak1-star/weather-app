@@ -1,0 +1,310 @@
+{
+ "title": "Sahara में मिला Mars का 410 करोड़ साल पुराना पत्थर! 🪨🔴 | 3D Gyaan",
+ "caption_keywords": [
+  "mars",
+  "meteorite",
+  "sahara",
+  "teghaza",
+  "water",
+  "nasa",
+  "zircon",
+  "3d",
+  "gyaan",
+  "mali"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Mars का पत्थर",
+  "line2": "Sahara में! 🔴",
+  "badge": "🪨 4.1 अरब साल"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "mars meteorite",
+   "teghaza 001",
+   "sahara",
+   "mars water",
+   "nasa",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Sahara रेगिस्तान में मिला एक Mars का meteorite, Teghaza 001, कम से कम 4.1 अरब साल पुराना निकला, और इसमें Mars पर पुराने पानी के निशान हैं! 🔴🪨 सब 3D में।\n\nSources:\n- NASA: https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/\n- Daily Galaxy: https://dailygalaxy.com/2026/10/sahara-oldest-mars-meteorite-traces-water/\n- bdnews24: https://bdnews24.com/science/jz8r0mn3ow\n\nAI-generated narration & visuals.\n#Mars #Meteorite #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, सहारा रेगिस्तान में एक पत्थर मिला, जो धरती का नहीं, मंगल ग्रह का है! और ये कम से कम चार सौ दस करोड़ साल पुराना है!",
+   "caption": "Bhai, Sahara registaan mein ek patthar mila, jo dharti ka nahi, Mangal grah ka hai! Aur ye kam se kam 410 crore saal puraana hai!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Mars का पत्थर! 🔴",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "4.1 अरब साल 🤯",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "टेघाज़ा ज़ीरो ज़ीरो वन की कहानी। चलो समझते हैं!",
+   "caption": "Teghaza 001 ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MARS",
+     "vs": "🪨",
+     "c": "SAHARA"
+    }
+   ]
+  },
+  {
+   "voice": "इस उल्कापिंड का नाम है टेघाज़ा ज़ीरो ज़ीरो वन। ये दो हज़ार बाईस में, अफ़्रीका के देश माली के सहारा रेगिस्तान में मिला था।",
+   "caption": "Is ulkaapind ka naam hai Teghaza 001. Ye 2022 mein, Africa ke desh Mali ke Sahara registaan mein mila tha.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 22.0,
+     "lon": -4.0,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 22.0,
+       "lon": -4.0,
+       "label": "Mali · Sahara",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ मिला? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 Teghaza 001",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🏜️ सहारा, माली",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2022",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "बहुत पहले, किसी टक्कर से ये पत्थर मंगल से उछलकर स्पेस में गया, और आख़िर में धरती पर आ गिरा। ये कब गिरा, ये अभी नहीं पता।",
+   "caption": "Bahut pehle, kisi takkar se ye patthar Mangal se uchhalkar space mein gaya, aur aakhir mein dharti par aa gira. Ye kab gira, ye abhi nahi pata.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.3
+    },
+    {
+     "type": "globeWide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "धरती पर कैसे? ☄️"
+    },
+    {
+     "kind": "stk",
+     "text": "💥 मंगल पर टक्कर",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🌍 धरती पर गिरा",
+     "f": 0.55,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ कब गिरा, पता नहीं",
+     "f": 0.85,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "नासा की वैज्ञानिक यांग लियू ने इसके अंदर के ज़िरकॉन क्रिस्टल्स की यूरेनियम लेड डेटिंग की। नतीजा, ये पत्थर मंगल की परत में कम से कम चार सौ दस करोड़ साल पहले बना।",
+   "caption": "NASA ki vaigyanik Yang Liu ne iske andar ke zircon crystals ki uranium-lead dating ki. Nateeja, ye patthar Mangal ki parat mein kam se kam 410 crore saal pehle bana.",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "उम्र कैसे पता? ⏳"
+    },
+    {
+     "kind": "stk",
+     "text": "💎 ज़िरकॉन क्रिस्टल",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "☢️ यूरेनियम-लेड डेटिंग",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "≥4.1 अरब साल 🪨",
+     "color": "gold",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "सबसे बड़ी बात, इस पत्थर को मंगल के पानी ने बदला था। वैज्ञानिकों के मुताबिक़, ये इशारा है कि चार सौ दस करोड़ साल से भी पहले, मंगल की सतह पर पानी था!",
+   "caption": "Sabse badi baat, is patthar ko Mangal ke paani ne badla tha. Vaigyanikon ke mutaabik, ye ishaara hai ki 410 crore saal se bhi pehle, Mangal ki satah par paani tha!",
+   "shots": [
+    {
+     "type": "mars"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पानी! 💧"
+    },
+    {
+     "kind": "stk",
+     "text": "💧 पानी के निशान",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "मंगल पर पानी था 🌊",
+     "color": "green",
+     "f": 0.7,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "धरती पर मंगल के करीब चार सौ पैंतीस उल्कापिंड मिले हैं। ये उनमें से सबसे पुराने में से एक है, हालाँकि एन डब्ल्यू ए सत्तर चौंतीस जैसे कुछ और भी पुराने हैं।",
+   "caption": "Dharti par Mangal ke kareeb 435 ulkaapind mile hain. Ye unmein se sabse puraane mein se ek hai, haalaanki NWA 7034 jaise kuch aur bhi puraane hain.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "TEGHAZA 001 · ≥4.1 BYR",
+       "value": 4.1,
+       "color": "#ff5d7a"
+      },
+      {
+       "label": "NWA 7034 · ~4.4 BYR",
+       "value": 4.4,
+       "color": "#a78bfa"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना ख़ास? 🏆"
+    },
+    {
+     "kind": "stk",
+     "text": "🔴 ~435 मंगल उल्कापिंड",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🥈 सबसे पुराने में से एक",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "ये स्टडी साइंस जर्नल में छपी है। और इससे पता चलता है कि अरबों साल पहले मंगल शायद हमारी धरती जैसा गीला ग्रह था!",
+   "caption": "Ye study Science journal mein chhapi hai. Aur isse pata chalta hai ki arabon saal pehle Mangal shaayad hamari dharti jaisa geela grah tha!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब क्या? 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Science जर्नल",
+     "f": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "गीला मंगल? 💧",
+     "color": "green",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, क्या मंगल पर कभी ज़िंदगी थी? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, kya Mangal par kabhi zindagi thi? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या मंगल पर ज़िंदगी थी?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NASA, Daily Galaxy, bdnews24 · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

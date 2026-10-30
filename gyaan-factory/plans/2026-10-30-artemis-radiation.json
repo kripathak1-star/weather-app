@@ -1,0 +1,285 @@
+{
+ "title": "चाँद पर Radiation कितना ख़तरनाक? ☢️🌙 Artemis I का डेटा | 3D Gyaan",
+ "caption_keywords": [
+  "artemis",
+  "radiation",
+  "moon",
+  "orion",
+  "nasa",
+  "astronaut",
+  "gaganyaan",
+  "3d",
+  "gyaan",
+  "cosmic"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "चाँद पर",
+  "line2": "Radiation! ☢️",
+  "badge": "🌙 ARTEMIS I"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "artemis i",
+   "space radiation",
+   "moon",
+   "orion",
+   "nasa",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "NASA के Artemis I mission में Orion के अंदर रखे 'पुतलों' में लगे crystal detectors ने चाँद के पास radiation नापा। नतीजा: धरती की कक्षा से ज़्यादा, लेकिन उम्मीद से कम बढ़ा! ☢️🌙 सब 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-10-artemis-crystals-experimental-detectors-doses.html\n- SciTechDaily: https://scitechdaily.com/nasas-artemis-i-reveals-a-surprising-radiation-mystery-near-the-moon/\n- Nature (2024, Artemis I radiation): https://www.nature.com/articles/s41586-024-07927-7\n\nAI-generated narration & visuals.\n#Artemis #Moon #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, जब इंसान चाँद पर जाएँगे, तो सबसे बड़ा अनदेखा ख़तरा है, स्पेस रेडिएशन। अब नासा के आर्टेमिस वन मिशन के डेटा से एक दिलचस्प बात पता चली है!",
+   "caption": "Bhai, jab insaan chaand par jaayenge, to sabse bada andekha khatra hai, space radiation. Ab NASA ke Artemis I mission ke data se ek dilchasp baat pata chali hai!",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "wide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "चाँद पर Radiation ☢️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "नया डेटा! 📊",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "आर्टेमिस वन और रेडिएशन की कहानी। चलो समझते हैं!",
+   "caption": "Artemis I aur radiation ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MOON",
+     "vs": "☢️",
+     "c": "RADIATION"
+    }
+   ]
+  },
+  {
+   "voice": "दो हज़ार बाईस के आख़िर में, नासा का ओरियन यान बिना इंसानों के चाँद के पास गया। अंदर इंसानी शरीर जैसे पुतले रखे गए थे।",
+   "caption": "2022 ke aakhir mein, NASA ka Orion yaan bina insaanon ke chaand ke paas gaya. Andar insaani shareer jaise putle rakhe gaye the.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 28.6,
+     "lon": -80.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आर्टेमिस वन 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2022 के आख़िर में",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🧍 इंसान जैसे पुतले",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इन पुतलों के अंदर लिथियम फ़्लोराइड के छोटे क्रिस्टल लगे थे, जिन्होंने कॉस्मिक रेडिएशन के निशान रिकॉर्ड किए। अब इस डेटा की नई स्टडी आई है।",
+   "caption": "In putlon ke andar lithium fluoride ke chhote crystal lage the, jinhone cosmic radiation ke nishaan record kiye. Ab is data ki nayi study aayi hai.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "lander"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे नापा? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "💎 लिथियम फ़्लोराइड क्रिस्टल",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📊 रेडिएशन के निशान",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "धरती की कक्षा में, धरती का चुंबकीय कवच हमें काफ़ी बचाता है। लेकिन चाँद के पास वो कवच नहीं होता, और वहाँ गैलेक्टिक कॉस्मिक रेडिएशन ज़्यादा असर डालता है।",
+   "caption": "Dharti ki kaksha mein, dharti ka chumbakiya kavach hamein kaafi bachaata hai. Lekin chaand ke paas wo kavach nahi hota, aur wahan galactic cosmic radiation zyada asar daalta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "फ़र्क क्यों? 🧲"
+    },
+    {
+     "kind": "stk",
+     "text": "🌍 धरती का चुंबकीय कवच",
+     "f": 0.15,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🌙 चाँद पर कवच नहीं",
+     "f": 0.55,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "☢️ कॉस्मिक रेडिएशन",
+     "f": 0.85,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? चाँद के पास रेडिएशन धरती की कक्षा से ज़्यादा था, लेकिन जितना सोचा था, उससे कम बढ़ा। और पुतलों के अंदर ये लगभग एक जैसा फैला था।",
+   "caption": "Nateeja? Chaand ke paas radiation dharti ki kaksha se zyada tha, lekin jitna socha tha, usse kam badha. Aur putlon ke andar ye lagbhag ek jaisa phaila tha.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "wide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 📊"
+    },
+    {
+     "kind": "stk",
+     "text": "📈 धरती की कक्षा से ज़्यादा",
+     "f": 0.15,
+     "color": "r"
+    },
+    {
+     "kind": "stamp",
+     "text": "उम्मीद से कम बढ़ा ✅",
+     "color": "green",
+     "f": 0.55,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🧍 शरीर में एक जैसा",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, वैज्ञानिक कहते हैं, इसे हर चाँद मिशन के लिए पक्का अंदाज़ा नहीं मानना चाहिए। सूरज के तूफ़ान जैसी चीज़ें इसे बदल सकती हैं।",
+   "caption": "Lekin dhyaan rahe, vaigyanik kehte hain, ise har chaand mission ke liye pakka andaaza nahi maanna chahiye. Sooraj ke toofaan jaisi cheezein ise badal sakti hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ध्यान रहे ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "❗ हर मिशन अलग",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "☀️ सूरज के तूफ़ान",
+     "f": 0.65,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ये डेटा आर्टेमिस के अंतरिक्ष यात्रियों के लिए, और आगे चलकर भारत के गगनयान और चाँद मिशन्स के लिए भी, सुरक्षा की प्लानिंग में काम आ सकता है।",
+   "caption": "Ye data Artemis ke antariksh yaatriyon ke liye, aur aage chalkar Bharat ke Gaganyaan aur chaand missions ke liye bhi, suraksha ki planning mein kaam aa sakta hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 20,
+     "lon": 79,
+     "dist": 1.5,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "काम क्या आएगा? 🛡️"
+    },
+    {
+     "kind": "stk",
+     "text": "👨‍🚀 अंतरिक्ष यात्रियों की सुरक्षा",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 भारत के मिशन्स भी",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, चाँद पर पहला भारतीय कब कदम रखेगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, chaand par pehla Bharatiya kab kadam rakhega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "चाँद पर पहला भारतीय कब?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, SciTechDaily, Nature · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

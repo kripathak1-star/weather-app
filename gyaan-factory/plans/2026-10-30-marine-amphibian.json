@@ -1,0 +1,301 @@
+{
+ "title": "समुद्र में रहने वाला पहला Amphibian! 🐸🌊 23.7 करोड़ साल पुराना | 3D Gyaan",
+ "caption_keywords": [
+  "amphibian",
+  "fossil",
+  "china",
+  "guizhou",
+  "triassic",
+  "sea",
+  "gerrothorax",
+  "3d",
+  "gyaan",
+  "ocean"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "समुद्री",
+  "line2": "Amphibian! 🐸🌊",
+  "badge": "🦴 237M साल"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "marine amphibian",
+   "gerrothorax maritimus",
+   "fossil",
+   "triassic",
+   "china",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "China में मिले fossils से पता चला एक ऐसा amphibian, Gerrothorax maritimus, जो पूरी ज़िंदगी समुद्र में रहता था! 🐸🌊 करीब 23.7 करोड़ साल पुराना, कवच वाला। सब 3D में।\n\nSources:\n- Nature Ecology & Evolution: https://www.nature.com/articles/s41559-026-03209-9\n- UC Davis: https://www.ucdavis.edu/curiosity/news/researchers-unearth-fossil-evidence-first-fully-marine-amphibian\n- Phys.org: https://phys.org/news/2026-10-armored-amphibian-sea-million-years.html\n- Sci.News: https://www.sci.news/paleontology/gerrothorax-maritimus-15154.html\n\nAI-generated narration & visuals.\n#Fossil #Amphibian #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, मेंढक और सैलामैंडर जैसे जीव, यानी एम्फ़िबियन, खारे पानी में नहीं रह पाते। लेकिन चीन में एक ऐसा पुराना एम्फ़िबियन मिला है, जो पूरी ज़िंदगी समुद्र में रहता था!",
+   "caption": "Bhai, medhak aur salamander jaise jeev, yaani amphibian, khaare paani mein nahi reh paate. Lekin China mein ek aisa puraana amphibian mila hai, jo poori zindagi samudra mein rehta tha!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "समुद्री Amphibian! 🐸🌊",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "पहली बार! 😲",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "गेरोथोरैक्स मैरिटिमस की कहानी। चलो समझते हैं!",
+   "caption": "Gerrothorax maritimus ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "FOSSIL",
+     "vs": "🌊",
+     "c": "AMPHIBIAN"
+    }
+   ]
+  },
+  {
+   "voice": "ये जीवाश्म मिले दक्षिण पश्चिम चीन के गुइझोउ प्रांत में, उस जगह जो लाखों साल पहले समुद्र के नीचे थी। दो लगभग पूरे कंकाल मिले हैं।",
+   "caption": "Ye jeevaashm mile dakshin paschim China ke Guizhou praant mein, us jagah jo laakhon saal pehle samudra ke neeche thi. Do lagbhag poore kankaal mile hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 26.6,
+     "lon": 106.7,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 26.6,
+       "lon": 106.7,
+       "label": "Guizhou",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ मिला? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 गुइझोउ, चीन",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 2 लगभग पूरे कंकाल",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये करीब तेईस करोड़ सत्तर लाख साल पुराने हैं, ट्रायसिक काल के, यानी डायनासोर के शुरुआती दौर के आसपास।",
+   "caption": "Ye kareeb 23 crore 70 laakh saal puraane hain, Triassic kaal ke, yaani dinosaur ke shuruaati daur ke aaspaas.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "THIS FOSSIL · ~237M YRS",
+       "value": 237,
+       "color": "#3dff8f"
+      },
+      {
+       "label": "T-REX · ~66M YRS",
+       "value": 66,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना पुराना? ⏳"
+    },
+    {
+     "kind": "stamp",
+     "text": "~23.7 करोड़ साल 🦴",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये समुद्र में ही रहता था, ये कैसे पता? हड्डियों में स्ट्रॉन्शियम नाम के तत्व का अनुपात, उस समय के समुद्री पानी से मेल खाता है।",
+   "caption": "Ye samudra mein hi rehta tha, ye kaise pata? Haddiyon mein strontium naam ke tatva ka anupaat, us samay ke samudri paani se mel khaata hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत क्या? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🧪 स्ट्रॉन्शियम की जाँच",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌊 समुद्री पानी से मेल",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये एक बड़े सैलामैंडर जितना था, समुद्र की तली पर रहता था, और इसकी हड्डियों का कवच था, जो शायद इक्थियोसॉर जैसे शिकारियों से बचाता था।",
+   "caption": "Ye ek bade salamander jitna tha, samudra ki tali par rehta tha, aur iski haddiyon ka kavach tha, jo shaayad ichthyosaur jaise shikaariyon se bachaata tha.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसा था? 🛡️"
+    },
+    {
+     "kind": "stk",
+     "text": "🦎 बड़े सैलामैंडर जितना",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🌊 समुद्र की तली पर",
+     "f": 0.4,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🛡️ हड्डी का कवच",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इस टीम में अमेरिका की यूसी डेविस, चीन की पेकिंग यूनिवर्सिटी, और गुइझोउ का जियोलॉजिकल म्यूज़ियम शामिल थे। रिसर्च नेचर इकोलॉजी एंड इवॉल्यूशन में छपी है।",
+   "caption": "Is team mein America ki UC Davis, China ki Peking University, aur Guizhou ka Geological Museum shaamil the. Research Nature Ecology and Evolution mein chhapi hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 30,
+     "lon": 110,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने किया? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 UC Davis",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 Peking University",
+     "f": 0.4,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature Ecol. & Evol.",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों का अनुमान है कि इसका कवच और ख़ास शरीर इसे खारे पानी में जीने में मदद करता था। हालाँकि ये पूरी तरह अभी समझा नहीं गया है।",
+   "caption": "Vaigyanikon ka anumaan hai ki iska kavach aur khaas shareer ise khaare paani mein jeene mein madad karta tha. Haalaanki ye poori tarah abhi samjha nahi gaya hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे जिया? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🛡️ कवच ने मदद की?",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ अभी पूरा पता नहीं",
+     "f": 0.7,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, समुद्र में और कौन से अजीब जीव रहते थे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, samudra mein aur kaun se ajeeb jeev rehte the? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "समुद्र में और कौन से अजीब जीव थे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Nature Ecol. & Evol., UC Davis, Phys.org, Sci.News · Oct 2026"
+    }
+   ]
+  }
+ ]
+}
