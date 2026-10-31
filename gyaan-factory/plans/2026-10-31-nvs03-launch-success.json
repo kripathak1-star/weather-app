@@ -1,0 +1,290 @@
+{
+ "title": "ISRO का Mission Success! 🚀 NVS-03 से मज़बूत होगा NavIC | 3D Gyaan",
+ "caption_keywords": [
+  "isro",
+  "nvs-03",
+  "navic",
+  "gslv",
+  "sriharikota",
+  "navigation",
+  "satellite",
+  "3d",
+  "gyaan",
+  "bharat"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Mission",
+  "line2": "Success! 🚀",
+  "badge": "🇮🇳 NVS-03"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "isro",
+   "nvs-03",
+   "navic",
+   "gslv-f18",
+   "indian gps",
+   "isro news",
+   "3d gyaan"
+  ],
+  "description": "ISRO के GSLV-F18 रॉकेट ने NavIC navigation satellite NVS-03 को सही orbit में पहुँचा दिया! 🚀🇮🇳 भारत का अपना GPS, NavIC, इससे मज़बूत होगा। सब 3D में।\n\nSources:\n- ISRO: https://www.isro.gov.in/Mission_GSLVF18.html\n- ISRO on X: https://x.com/isro/status/2116242156646220265\n- Space.com: https://www.space.com/news\n- ThePrint: https://theprint.in/science/isro-nvs-03-launch-navic-navigation-system/3081997/\n\nAI-generated narration & visuals.\n#ISRO #NavIC #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, तीस अक्टूबर की रात, श्रीहरिकोटा से इसरो का रॉकेट उड़ा, और इसरो ने कहा, मिशन सक्सेस! भारत के अपने जी पी एस, नैविक, को एक नया सैटेलाइट मिल गया!",
+   "caption": "Bhai, 30 October ki raat, Sriharikota se ISRO ka rocket uda, aur ISRO ne kaha, mission success! Bharat ke apne GPS, NavIC, ko ek naya satellite mil gaya!",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Mission Success! 🚀",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "🇮🇳 NavIC",
+     "color": "green",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "जी एस एल वी एफ़ अठारह और एन वी एस ज़ीरो थ्री की कहानी। चलो समझते हैं!",
+   "caption": "GSLV-F18 aur NVS-03 ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ISRO",
+     "vs": "🚀",
+     "c": "NVS-03"
+    }
+   ]
+  },
+  {
+   "voice": "रात करीब ग्यारह बजकर इक्यावन मिनट पर, सतीश धवन स्पेस सेंटर के सेकंड लॉन्च पैड से, जी एस एल वी एफ़ अठारह रॉकेट ने उड़ान भरी।",
+   "caption": "Raat kareeb 11 bajkar 51 minute par, Satish Dhawan Space Centre ke Second Launch Pad se, GSLV-F18 rocket ne udaan bhari.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 13.72,
+     "lon": 80.23,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 13.72,
+       "lon": 80.23,
+       "label": "Sriharikota",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब और कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🕚 रात ~11:51",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "📍 श्रीहरिकोटा · सेकंड लॉन्च पैड",
+     "f": 0.4,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 GSLV-F18",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इसरो के मुताबिक़, रॉकेट ने एन वी एस ज़ीरो थ्री को सही जियोसिंक्रोनस ट्रांसफ़र ऑर्बिट में पहुँचा दिया। ये नैविक के दूसरे जेनरेशन का तीसरा सैटेलाइट है।",
+   "caption": "ISRO ke mutaabik, rocket ne NVS-03 ko sahi geosynchronous transfer orbit mein pahuncha diya. Ye NavIC ke doosre generation ka teesra satellite hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हुआ? ✅"
+    },
+    {
+     "kind": "stamp",
+     "text": "सही ऑर्बिट में 🎯",
+     "color": "green",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ दूसरी पीढ़ी का तीसरा",
+     "f": 0.8,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "नैविक भारत का अपना नेविगेशन सिस्टम है, जैसे अमेरिका का जी पी एस। ये भारत और आसपास के इलाक़े में सही लोकेशन बताता है।",
+   "caption": "NavIC Bharat ka apna navigation system hai, jaise America ka GPS. Ye Bharat aur aaspaas ke ilaake mein sahi location batata hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 20,
+     "lon": 79,
+     "dist": 1.4,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "NavIC क्या है? 📡"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 भारत का अपना GPS",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 भारत + आसपास",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "लॉन्च से पहले की रिपोर्ट्स के मुताबिक़, नैविक के पास पोज़िशनिंग के लिए सिर्फ़ तीन सैटेलाइट ही उपलब्ध थे। एन वी एस ज़ीरो थ्री इसे मज़बूत करने के लिए भेजा गया है।",
+   "caption": "Launch se pehle ki reports ke mutaabik, NavIC ke paas positioning ke liye sirf teen satellite hi uplabdh the. NVS-03 ise mazboot karne ke liye bheja gaya hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ज़रूरी क्यों? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "📉 सिर्फ़ 3 उपलब्ध थे",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "💪 NVS-03 से मज़बूती",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इस सैटेलाइट में भारत में बनी एटॉमिक घड़ी लगी है, और इसका वज़न करीब दो हज़ार दो सौ बत्तीस किलो है।",
+   "caption": "Is satellite mein Bharat mein bani atomic ghadi lagi hai, aur iska vazan kareeb 2232 kilo hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ख़ास बातें ⭐"
+    },
+    {
+     "kind": "stk",
+     "text": "⏱️ स्वदेशी एटॉमिक घड़ी",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⚖️ ~2,232 किलो",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ध्यान रहे, पिछला सैटेलाइट एन वी एस ज़ीरो टू ऑर्बिट में पहुँचकर भी अपनी आख़िरी जगह तक नहीं पहुँच पाया था। इसलिए अब एन वी एस ज़ीरो थ्री के अगले कदमों पर सबकी नज़र है।",
+   "caption": "Dhyaan rahe, pichhla satellite NVS-02 orbit mein pahunchkar bhi apni aakhiri jagah tak nahi pahunch paaya tha. Isliye ab NVS-03 ke agle kadmon par sabki nazar hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 👀"
+    },
+    {
+     "kind": "stk",
+     "text": "⚠️ NVS-02 अटक गया था",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🔭 NVS-03 पर नज़र",
+     "f": 0.7,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हारे फ़ोन में नैविक है या नहीं, चेक करके कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhare phone mein NavIC hai ya nahi, check karke comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "तुम्हारे फ़ोन में NavIC है?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ISRO, ISRO on X, Space.com, ThePrint · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "title": "63 प्रकाश वर्ष दूर Dwarf Planets की टक्कर! 💥 'Cat's Tail' का राज़ | 3D Gyaan",
+ "caption_keywords": [
+  "beta",
+  "pictoris",
+  "cat",
+  "tail",
+  "collision",
+  "dwarf",
+  "planets",
+  "3d",
+  "gyaan",
+  "star"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Dwarf Planets",
+  "line2": "की टक्कर! 💥",
+  "badge": "🐱 CAT'S TAIL"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "beta pictoris",
+   "cat's tail",
+   "cosmic collision",
+   "dwarf planets",
+   "space news hindi",
+   "astronomy",
+   "3d gyaan"
+  ],
+  "description": "63 प्रकाश वर्ष दूर, तारे Beta Pictoris के पास धूल की एक पूँछ, 'Cat's Tail', शायद दो बड़े dwarf planets जैसे पिंडों की टक्कर से बनी है! 💥 नई स्टडी इसकी शक्ल पर नया अंदाज़ा देती है। सब 3D में।\n\nSources:\n- University of Arizona: https://news.arizona.edu/news/enormous-cats-tail-tells-cosmic-collision-63-light-years-away\n- Phys.org: https://phys.org/news/2026-10-enormous-cat-tail-cosmic-collision.html\n- EurekAlert: https://www.eurekalert.org/news-releases/1149668\n\nAI-generated narration & visuals.\n#Space #Astronomy #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, हमसे तिरसठ प्रकाश वर्ष दूर, एक तारे के पास धूल की एक अजीब पूँछ दिखी है, जिसे कैट्स टेल कहते हैं। और ये शायद दो बड़े बर्फ़ीले पिंडों की टक्कर से बनी है!",
+   "caption": "Bhai, humse 63 prakaash varsh door, ek taare ke paas dhool ki ek ajeeb poonchh dikhi hai, jise Cat's Tail kehte hain. Aur ye shaayad do bade barfeele pindon ki takkar se bani hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Cosmic टक्कर! 💥",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Cat's Tail 🐱",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "बीटा पिक्टोरिस की कैट्स टेल। चलो समझते हैं!",
+   "caption": "Beta Pictoris ki Cat's Tail. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "BETA PIC",
+     "vs": "💥",
+     "c": "CAT'S TAIL"
+    }
+   ]
+  },
+  {
+   "voice": "ये तारा है बीटा पिक्टोरिस, एक जवान तारा, जिसके चारों ओर धूल और मलबे की एक बड़ी डिस्क है, जहाँ ग्रह बन रहे हैं।",
+   "caption": "Ye taara hai Beta Pictoris, ek jawaan taara, jiske chaaron or dhool aur malbe ki ek badi disk hai, jahan grah ban rahe hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन सा तारा? ⭐"
+    },
+    {
+     "kind": "stk",
+     "text": "⭐ बीटा पिक्टोरिस",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 ~63 प्रकाश वर्ष",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "💿 धूल की डिस्क",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इस डिस्क से निकलती एक धुंधली पूँछ दिखती है, कैट्स टेल। वैज्ञानिकों का मानना है, ये दो बड़े पिंडों की टक्कर का मलबा है, कुछ प्लूटो जैसे।",
+   "caption": "Is disk se nikalti ek dhundhli poonchh dikhti hai, Cat's Tail. Vaigyanikon ka maanna hai, ye do bade pindon ki takkar ka malba hai, kuchh Pluto jaise.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Cat's Tail क्या? 🐱"
+    },
+    {
+     "kind": "stk",
+     "text": "🌫️ धूल की पूँछ",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "टक्कर का मलबा 💥",
+     "color": "red",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "पहले की मॉडलिंग के मुताबिक़, टकराने वाले पिंडों की त्रिज्या करीब छह सौ से आठ सौ किलोमीटर रही होगी, यानी चारोन और मेकमेक जैसे ड्वार्फ़ प्लैनेट्स जितनी।",
+   "caption": "Pehle ki modelling ke mutaabik, takraane wale pindon ki trijya kareeb 600 se 800 kilometre rahi hogi, yaani Charon aur Makemake jaise dwarf planets jitni.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "moon",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितने बड़े? 📏"
+    },
+    {
+     "kind": "stk",
+     "text": "⚪ त्रिज्या ~600–800 km",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🪐 चारोन, मेकमेक जैसे",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये पूँछ बहुत लंबी है। एक अनुमान के मुताबिक़, ये करीब एक हज़ार ए यू तक फैली हो सकती है, यानी धरती सूरज की दूरी का एक हज़ार गुना!",
+   "caption": "Ye poonchh bahut lambi hai. Ek anumaan ke mutaabik, ye kareeb 1000 AU tak phaili ho sakti hai, yaani dharti sooraj ki doori ka hazaar guna!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "EARTH–SUN · 1 AU",
+       "value": 1,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "NEPTUNE · ~30 AU",
+       "value": 30,
+       "color": "#a78bfa"
+      },
+      {
+       "label": "CAT'S TAIL · ~1,000 AU?",
+       "value": 1000,
+       "color": "#ffd23f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितनी लंबी? 📏"
+    },
+    {
+     "kind": "stamp",
+     "text": "~1,000 AU? 🤯",
+     "color": "gold",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन नई स्टडी के मॉडल कहते हैं, ये पूँछ शायद हमारी नज़र से तिरछी नहीं, बल्कि तारे की डिस्क के लगभग उसी समतल में, बगल में फैली है। यानी इसकी असली शक्ल पर अभी बहस जारी है।",
+   "caption": "Lekin nayi study ke model kehte hain, ye poonchh shaayad hamari nazar se tirchhi nahi, balki taare ki disk ke lagbhag usi samtal mein, bagal mein phaili hai. Yaani iski asli shakl par abhi bahas jaari hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.85
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नया मोड़ 🔄"
+    },
+    {
+     "kind": "stk",
+     "text": "📐 डिस्क के ही समतल में?",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🤔 बहस जारी",
+     "f": 0.7,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ऐसी टक्करें बताती हैं कि अरबों साल पहले हमारा सौर मंडल भी शायद ऐसे ही बना होगा, टक्कर पर टक्कर!",
+   "caption": "Aisi takkarein bataati hain ki arabon saal pehle hamara saur mandal bhi shaayad aise hi bana hoga, takkar par takkar!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "हमारे लिए सबक 🌍"
+    },
+    {
+     "kind": "stamp",
+     "text": "सौर मंडल का बचपन 👶",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, स्पेस की सबसे बड़ी टक्कर कौन सी होगी? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, space ki sabse badi takkar kaun si hogi? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Space की सबसे बड़ी टक्कर?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Univ. of Arizona, Phys.org, EurekAlert · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

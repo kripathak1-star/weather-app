@@ -1,0 +1,284 @@
+{
+ "title": "Asteroid के पास पहुँचा Hera! ☄️ 2 Asteroids पहली बार अलग दिखे | 3D Gyaan",
+ "caption_keywords": [
+  "hera",
+  "esa",
+  "asteroid",
+  "didymos",
+  "dimorphos",
+  "dart",
+  "planetary",
+  "3d",
+  "gyaan",
+  "defence"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Hera ने देखे",
+  "line2": "2 Asteroids! ☄️",
+  "badge": "🛡️ ESA HERA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "hera",
+   "esa",
+   "didymos",
+   "dimorphos",
+   "asteroid",
+   "planetary defence",
+   "3d gyaan"
+  ],
+  "description": "ESA के Hera spacecraft ने पहली बार asteroid Didymos और उसके छोटे चाँद Dimorphos को दो अलग objects के तौर पर देखा! ☄️ वही Dimorphos जिससे NASA का DART 2022 में टकराया था। सब 3D में।\n\nSources:\n- ESA: https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one\n- heise: https://www.heise.de/en/news/ESA-s-Hera-probe-photographs-the-two-asteroids-separately-for-the-first-time-11503411.html\n- DIYPhotography: https://www.diyphotography.net/esas-hera-spacecraft-resolves-two-asteroids-from-1000-km-away/\n\nAI-generated narration & visuals.\n#Hera #Asteroid #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, याद है जब नासा ने एक स्पेसक्राफ्ट को जानबूझ कर एक एस्टेरॉयड से टकराया था? अब यूरोप का हेरा स्पेसक्राफ्ट वहाँ पहुँच रहा है, ये देखने कि उस टक्कर ने क्या किया!",
+   "caption": "Bhai, yaad hai jab NASA ne ek spacecraft ko jaanbookh kar ek asteroid se takraaya tha? Ab Europe ka Hera spacecraft wahan pahunch raha hai, ye dekhne ki us takkar ne kya kiya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Hera पहुँचा! ☄️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "2 Asteroids 👀",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "हेरा मिशन की कहानी। चलो समझते हैं!",
+   "caption": "Hera mission ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "HERA",
+     "vs": "☄️",
+     "c": "DIDYMOS"
+    }
+   ]
+  },
+  {
+   "voice": "दो हज़ार बाईस में नासा के डार्ट मिशन ने डिमॉर्फ़ोस नाम के छोटे एस्टेरॉयड से टक्कर मारी थी। ये बड़े एस्टेरॉयड डिडिमोस के चारों ओर घूमता है।",
+   "caption": "2022 mein NASA ke DART mission ne Dimorphos naam ke chhote asteroid se takkar maari thi. Ye bade asteroid Didymos ke chaaron or ghoomta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पीछे की कहानी 📜"
+    },
+    {
+     "kind": "stk",
+     "text": "💥 2022: DART टक्कर",
+     "f": 0.15,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🌑 डिमॉर्फ़ोस ↻ डिडिमोस",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "ई एस ए के मुताबिक़, डिमॉर्फ़ोस सौर मंडल की पहली ऐसी चीज़ है जिसकी कक्षा इंसानों ने नापने लायक बदल दी।",
+   "caption": "ESA ke mutaabik, Dimorphos saur mandal ki pehli aisi cheez hai jiski kaksha insaanon ne naapne laayak badal di.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ख़ास? 🥇"
+    },
+    {
+     "kind": "stamp",
+     "text": "इंसानों ने कक्षा बदली 🎯",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अब हेरा ने करीब बारह सौ अस्सी किलोमीटर दूर से, पहली बार इन दोनों को अलग अलग देखा। तस्वीर में डिमॉर्फ़ोस बस एक पिक्सेल जितना छोटा बिंदु है!",
+   "caption": "Ab Hera ne kareeb 1280 kilometre door se, pehli baar in dono ko alag alag dekha. Tasveer mein Dimorphos bas ek pixel jitna chhota bindu hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नई तस्वीर 📸"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 ~1,280 km दूर से",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "👀 पहली बार दो अलग",
+     "f": 0.5,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🔹 डिमॉर्फ़ोस ≈ 1 पिक्सेल",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "डिडिमोस करीब सात सौ अस्सी मीटर बड़ा है, और डिमॉर्फ़ोस सिर्फ़ करीब एक सौ पचास से एक सौ साठ मीटर का।",
+   "caption": "Didymos kareeb 780 metre bada hai, aur Dimorphos sirf kareeb 150 se 160 metre ka.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "DIDYMOS · ~780 M",
+       "value": 780,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "DIMORPHOS · ~150–160 M",
+       "value": 155,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "साइज़ 📏"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 डिडिमोस ~780 m",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 डिमॉर्फ़ोस ~150–160 m",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "आगे हेरा पहले पच्चीस से तीस किलोमीटर की दूरी से जाँच करेगा, और फिर धीरे धीरे एक किलोमीटर तक पास जाएगा। ई एस ए डिमॉर्फ़ोस की पहली डिटेल्ड तस्वीरें पच्चीस नवंबर को दिखाएगा।",
+   "caption": "Aage Hera pehle 25 se 30 kilometre ki doori se jaanch karega, aur phir dheere dheere 1 kilometre tak paas jaayega. ESA Dimorphos ki pehli detailed tasveerein 25 November ko dikhaayega.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 25–30 km से जाँच",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "➡️ फिर 1 km तक",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 25 नवंबर: नई तस्वीरें",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये सब प्लैनेटरी डिफ़ेंस के लिए है, यानी अगर कभी कोई एस्टेरॉयड धरती की तरफ़ आए, तो उसे रास्ते से हटाना हम कितना अच्छे से कर सकते हैं।",
+   "caption": "Ye sab planetary defence ke liye hai, yaani agar kabhi koi asteroid dharti ki taraf aaye, to use raaste se hataana hum kitna achhe se kar sakte hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मक़सद 🛡️"
+    },
+    {
+     "kind": "stamp",
+     "text": "धरती की सुरक्षा 🌍",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अगर कोई एस्टेरॉयड धरती की तरफ़ आए तो हम क्या करें? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, agar koi asteroid dharti ki taraf aaye to hum kya karein? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Asteroid आए तो क्या करें?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ESA, heise, DIYPhotography · Oct 2026"
+    }
+   ]
+  }
+ ]
+}
