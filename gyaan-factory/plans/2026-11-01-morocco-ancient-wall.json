@@ -1,0 +1,308 @@
+{
+ "title": "4000 साल पुरानी रहस्यमयी दीवार! 🏰 Africa का इतिहास बदला | 3D Gyaan",
+ "caption_keywords": [
+  "morocco",
+  "wall",
+  "archaeology",
+  "africa",
+  "bronze",
+  "age",
+  "fort",
+  "3d",
+  "gyaan",
+  "history"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "4000 साल",
+  "line2": "पुरानी दीवार! 🏰",
+  "badge": "🇲🇦 MOROCCO"
+ },
+ "meta": {
+  "categoryId": "27",
+  "tags": [
+   "morocco",
+   "oued beht",
+   "ancient wall",
+   "archaeology",
+   "history hindi",
+   "africa",
+   "3d gyaan"
+  ],
+  "description": "Morocco के Oued Beht में मिली करीब 4,000 साल पुरानी रक्षा दीवार और खाई, Nile घाटी के बाहर North Africa की सबसे पुरानी ज्ञात defensive structure! 🏰 सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261030003022.htm\n- Live Science: https://www.livescience.com/archaeology/africas-oldest-known-defensive-wall-outside-egypt-discovered-and-its-4-000-years-old\n- Archaeology Magazine: https://archaeology.org/news/2026/09/16/oldest-north-african-defensive-structure-outside-egypt-identified/\n\nAI-generated narration & visuals.\n#History #Archaeology #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, मोरक्को में एक ऐसी दीवार मिली है, जो करीब चार हज़ार साल पुरानी है! और ये उत्तरी अफ़्रीका के इतिहास की कहानी बदल रही है।",
+   "caption": "Bhai, Morocco mein ek aisi deewaar mili hai, jo kareeb chaar hazaar saal puraani hai! Aur ye uttari Africa ke itihaas ki kahani badal rahi hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigcount",
+     "value": 4000,
+     "suffix": "",
+     "label": "साल पुरानी 🏰",
+     "hide": 0.7
+    },
+    {
+     "kind": "bigtext",
+     "text": "रहस्यमयी दीवार!",
+     "show": 0.45
+    },
+    {
+     "kind": "stamp",
+     "text": "नई खोज! 😲",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "वेद बेह्त की प्राचीन दीवार की कहानी। चलो समझते हैं!",
+   "caption": "Oued Beht ki praacheen deewaar ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MOROCCO",
+     "vs": "🏰",
+     "c": "4000 YRS"
+    }
+   ]
+  },
+  {
+   "voice": "ये जगह है वेद बेह्त, मोरक्को के खेमिसेट प्रांत में, राजधानी रबात से करीब अस्सी किलोमीटर पूर्व में।",
+   "caption": "Ye jagah hai Oued Beht, Morocco ke Khemisset praant mein, rajdhaani Rabat se kareeb 80 kilometre poorv mein.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 33.9,
+     "lon": -5.9,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 33.9,
+       "lon": -5.9,
+       "label": "Oued Beht",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🇲🇦 Oued Beht, मोरक्को",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 रबात से ~80 km",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "यहाँ एक खाई और मिट्टी की ऊँची दीवार का रक्षा घेरा मिला है। बीजों और कोयले की रेडियोकार्बन डेटिंग से पता चला, ये करीब साढ़े तीन से चार हज़ार साल पुराना है।",
+   "caption": "Yahan ek khaai aur mitti ki oonchi deewaar ka raksha ghera mila hai. Beejon aur koyle ki radiocarbon dating se pata chala, ye kareeb saadhe teen se chaar hazaar saal puraana hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vHouse"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या मिला? 🏰"
+    },
+    {
+     "kind": "stk",
+     "text": "🕳️ खाई + दीवार",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 रेडियोकार्बन डेटिंग",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⏳ 3,500–4,000 साल",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये नील घाटी के बाहर, उत्तरी अफ़्रीका का सबसे पुराना ज्ञात रक्षा ढाँचा माना जा रहा है!",
+   "caption": "Ye Neel ghaati ke baahar, uttari Africa ka sabse puraana gyaat raksha dhaancha maana ja raha hai!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 28,
+     "lon": 10,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": 33.9,
+       "lon": -5.9,
+       "label": "Oued Beht",
+       "color": "red"
+      },
+      {
+       "lat": 26.0,
+       "lon": 32.7,
+       "label": "Nile",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ख़ास? 🥇"
+    },
+    {
+     "kind": "stamp",
+     "text": "नील के बाहर सबसे पुराना 🏆",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इस रिसर्च की अगुवाई इटली के नेशनल रिसर्च काउंसिल के जूलियो लुकारिनी ने की, जिसमें इटली, मोरक्को और इंग्लैंड के पुरातत्वविद शामिल थे।",
+   "caption": "Is research ki aguvaai Italy ke National Research Council ke Giulio Lucarini ne ki, jismein Italy, Morocco aur England ke puraatatvavid shaamil the.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 40,
+     "lon": 5,
+     "dist": 1.3
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने किया? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇹 Italy",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🇲🇦 Morocco",
+     "f": 0.4,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🏴 England",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये दीवार क्यों बनी, ये अभी रहस्य है। शायद हमलावरों से बचने के लिए, शायद आने जाने पर नज़र रखने के लिए, या ज़मीन के लिए बढ़ते मुक़ाबले की वजह से।",
+   "caption": "Ye deewaar kyun bani, ye abhi rahasya hai. Shaayad hamlaavaron se bachne ke liye, shaayad aane jaane par nazar rakhne ke liye, ya zameen ke liye badhte muqaable ki vajah se.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों बनी? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🛡️ बचाव?",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "👀 निगरानी?",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌾 ज़मीन का मुक़ाबला?",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "और मज़ेदार बात, इस ढाँचे को बहुत बाद, मध्यकाल में, फिर से बनाया गया था, जब लोग फिर यहाँ रहने लगे।",
+   "caption": "Aur mazedaar baat, is dhaanche ko bahut baad, madhyakaal mein, phir se banaaya gaya tha, jab log phir yahan rehne lage.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दोबारा बनी! 🔁"
+    },
+    {
+     "kind": "stamp",
+     "text": "मध्यकाल में फिर से 🏗️",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, चार हज़ार साल पहले लोग किससे डरते थे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, chaar hazaar saal pehle log kisse darte the? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "4000 साल पहले लोग किससे डरते थे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, Live Science, Archaeology Magazine · 2026"
+    }
+   ]
+  }
+ ]
+}

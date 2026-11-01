@@ -1,0 +1,294 @@
+{
+ "title": "पेड़ों में भी होती हैं 'Muscles'! 🌳💪 सीधे खड़े होने का राज़ | 3D Gyaan",
+ "caption_keywords": [
+  "tree",
+  "wood",
+  "poplar",
+  "muscle",
+  "plant",
+  "science",
+  "france",
+  "3d",
+  "gyaan",
+  "nature"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "पेड़ों की",
+  "line2": "Muscles! 🌳💪",
+  "badge": "🔬 TENSION WOOD"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "trees",
+   "tension wood",
+   "plant science",
+   "poplar",
+   "science news hindi",
+   "nature",
+   "3d gyaan"
+  ],
+  "description": "France के वैज्ञानिकों ने पाया कि पेड़ अपनी शक्ल को 'महसूस' करते हैं, और एक ख़ास लकड़ी, tension wood, से muscle की तरह खिंचकर अपना तना सीधा करते हैं! 🌳💪 सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261030003006.htm\n- SciTechDaily: https://scitechdaily.com/scientists-discover-trees-have-a-hidden-muscle-that-helps-them-straighten-themselves/\n\nAI-generated narration & visuals.\n#Trees #Science #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अगर कोई पेड़ झुक जाए, तो वो ख़ुद को सीधा कैसे करता है? नई रिसर्च कहती है, पेड़ों के अंदर मसल्स जैसी एक ख़ास लकड़ी होती है!",
+   "caption": "Bhai, agar koi ped jhuk jaaye, to wo khud ko seedha kaise karta hai? Nayi research kehti hai, pedon ke andar muscles jaisi ek khaas lakdi hoti hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "पेड़ों की Muscles! 🌳💪",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "नई खोज! 😲",
+     "color": "green",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "पेड़ों के सीधे खड़े होने का राज़। चलो समझते हैं!",
+   "caption": "Pedon ke seedhe khade hone ka raaz. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "TREES",
+     "vs": "💪",
+     "c": "MUSCLE"
+    }
+   ]
+  },
+  {
+   "voice": "फ़्रांस के इनराए संस्थान और क्लेरमोंट ओवेर्न्य यूनिवर्सिटी के वैज्ञानिकों ने, पॉप्लर के छोटे पेड़ों पर ये प्रयोग किया।",
+   "caption": "France ke INRAE sansthaan aur Clermont Auvergne University ke vaigyanikon ne, poplar ke chhote pedon par ye prayog kiya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 45.78,
+     "lon": 3.08,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 45.78,
+       "lon": 3.08,
+       "label": "Clermont-Ferrand",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने किया? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇫🇷 INRAE + Clermont Auvergne",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌳 पॉप्लर के पौधे",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "उन्होंने ऐसा सेटअप बनाया जिसमें पेड़ों को ना रोशनी की दिशा मिले, ना गुरुत्वाकर्षण का इशारा। फिर भी, कुछ हफ़्तों में पेड़ों ने अपने टेढ़े तने को सीधा कर लिया!",
+   "caption": "Unhone aisa setup banaaya jismein pedon ko na roshni ki disha mile, na gurutvaakarshan ka ishaara. Phir bhi, kuchh hafton mein pedon ne apne tedhe tane ko seedha kar liya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "प्रयोग 🧪"
+    },
+    {
+     "kind": "stk",
+     "text": "🚫💡 रोशनी का इशारा नहीं",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🚫🌍 गुरुत्व का इशारा नहीं",
+     "f": 0.35
+    },
+    {
+     "kind": "stamp",
+     "text": "फिर भी सीधे! ✅",
+     "color": "green",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "मतलब, पेड़ अपनी ख़ुद की शक्ल को महसूस कर सकते हैं। वैज्ञानिक इसे पेड़ों की एक तरह की प्रोप्रियोसेप्शन कहते हैं, यानी अपने शरीर की स्थिति का एहसास।",
+   "caption": "Matlab, ped apni khud ki shakl ko mehsoos kar sakte hain. Vaigyanik ise pedon ki ek tarah ki proprioception kehte hain, yaani apne shareer ki sthiti ka ehsaas.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब क्या? 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "अपनी शक्ल का एहसास 🌳",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये काम करती है टेंशन वुड, एक ख़ास लकड़ी जो सिकुड़कर तने को खींचती है, बिल्कुल मसल की तरह।",
+   "caption": "Ye kaam karti hai tension wood, ek khaas lakdi jo sikudkar tane ko kheenchti hai, bilkul muscle ki tarah.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vHouse"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे? 🪵"
+    },
+    {
+     "kind": "stk",
+     "text": "🪵 टेंशन वुड",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "💪 मसल जैसा खिंचाव",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "पहले माना जाता था कि ये लकड़ी तने के सिर्फ़ एक तरफ़ बनती है। लेकिन यहाँ, एक तरफ़ बनना रुका और उल्टी तरफ़ बनने लगी, दो उल्टी ताक़तें, जैसे हमारे बाज़ू की दो मसल्स!",
+   "caption": "Pehle maana jaata tha ki ye lakdi tane ke sirf ek taraf banti hai. Lekin yahan, ek taraf banna ruka aur ulti taraf banne lagi, do ulti taaqatein, jaise hamare baazu ki do muscles!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "SIDE A · PULL",
+       "value": 60,
+       "color": "#3dff8f"
+      },
+      {
+       "label": "SIDE B · COUNTER-PULL",
+       "value": 60,
+       "color": "#38f3ff"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नया मोड़ 🔄"
+    },
+    {
+     "kind": "stk",
+     "text": "⬅️ एक तरफ़ रुकी",
+     "f": 0.25
+    },
+    {
+     "kind": "stk",
+     "text": "➡️ उल्टी तरफ़ शुरू",
+     "f": 0.55,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "दो उल्टी मसल्स 💪💪",
+     "color": "gold",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "ये रिसर्च न्यू फ़ाइटोलॉजिस्ट जर्नल में छपी है, और इससे जंगलों और लकड़ी की क्वालिटी को बेहतर समझने में मदद मिल सकती है।",
+   "caption": "Ye research New Phytologist journal mein chhapi hai, aur isse junglon aur lakdi ki quality ko behtar samajhne mein madad mil sakti hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "काम क्या आएगा? 🌲"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 New Phytologist",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🪵 लकड़ी की क्वालिटी",
+     "f": 0.55,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, पेड़ और क्या क्या महसूस कर सकते हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, ped aur kya kya mehsoos kar sakte hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "पेड़ और क्या महसूस करते हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, SciTechDaily · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

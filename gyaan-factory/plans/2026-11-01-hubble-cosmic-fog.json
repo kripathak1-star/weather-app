@@ -1,0 +1,275 @@
+{
+ "title": "Universe का 'कोहरा' कैसे हटा? 🌌 Hubble का नया Twist | 3D Gyaan",
+ "caption_keywords": [
+  "hubble",
+  "reionization",
+  "universe",
+  "fog",
+  "hydrogen",
+  "galaxy",
+  "stars",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Universe का",
+  "line2": "कोहरा! 🌫️",
+  "badge": "🔭 HUBBLE"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "hubble",
+   "reionization",
+   "early universe",
+   "cosmic fog",
+   "space news hindi",
+   "astronomy",
+   "3d gyaan"
+  ],
+  "description": "शुरुआती universe हाइड्रोजन के 'कोहरे' में ढका था। Hubble की नई स्टडी कहती है कि ये कोहरा हटाने में supernova की हवाओं का रोल शायद उतना नहीं था जितना सोचा गया! 🌌 सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261029072113.htm\n- SciTechDaily: https://scitechdaily.com/hubble-finds-a-stunning-twist-in-how-the-universe-emerged-from-darkness/\n\nAI-generated narration & visuals.\n#Hubble #Universe #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अरबों साल पहले, हमारा ब्रह्मांड हाइड्रोजन गैस के एक घने कोहरे में ढका था। ये कोहरा कैसे हटा? हबल टेलीस्कोप ने इस कहानी में एक नया ट्विस्ट डाला है!",
+   "caption": "Bhai, arabon saal pehle, hamara brahmaand hydrogen gas ke ek ghane kohre mein dhaka tha. Ye kohra kaise hata? Hubble telescope ne is kahani mein ek naya twist daala hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Universe का कोहरा 🌫️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "नया Twist! 🔄",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ब्रह्मांड के कोहरे की कहानी। चलो समझते हैं!",
+   "caption": "Brahmaand ke kohre ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "HUBBLE",
+     "vs": "🌌",
+     "c": "FOG"
+    }
+   ]
+  },
+  {
+   "voice": "बिग बैंग के बाद, ब्रह्मांड में न्यूट्रल हाइड्रोजन फैली थी, जो रोशनी को रोकती थी। करीब तेरह अरब साल पहले, पहले तारों और गैलेक्सीज़ की रोशनी ने ये कोहरा साफ़ करना शुरू किया। इसे री आयनाइज़ेशन कहते हैं।",
+   "caption": "Big Bang ke baad, brahmaand mein neutral hydrogen phaili thi, jo roshni ko rokti thi. Kareeb 13 arab saal pehle, pehle taaron aur galaxies ki roshni ne ye kohra saaf karna shuru kiya. Ise reionization kehte hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कोहरा क्या था? 🌫️"
+    },
+    {
+     "kind": "stk",
+     "text": "💨 न्यूट्रल हाइड्रोजन",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "⏳ ~13 अरब साल पहले",
+     "f": 0.5,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "✨ Reionization",
+     "f": 0.85,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "सवाल ये था, कि ये तेज़ अल्ट्रावायलेट रोशनी गैलेक्सीज़ से बाहर निकली कैसे? एक बड़ा आइडिया था, कि सुपरनोवा धमाकों की हवाएँ गैस में छेद कर देती हैं, और रोशनी बाहर निकल जाती है।",
+   "caption": "Sawaal ye tha, ki ye tez ultraviolet roshni galaxies se baahar nikli kaise? Ek bada idea tha, ki supernova dhamaakon ki hawaayein gas mein chhed kar deti hain, aur roshni baahar nikal jaati hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पुराना आइडिया 💥"
+    },
+    {
+     "kind": "stk",
+     "text": "💥 सुपरनोवा की हवाएँ",
+     "f": 0.3,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🕳️ गैस में छेद",
+     "f": 0.7,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "यूनिवर्सिटी ऑफ़ मिशिगन के कोडी कार और उनकी टीम ने हबल से पास की कुछ स्टारबर्स्ट गैलेक्सीज़ देखीं, जो शुरुआती गैलेक्सीज़ जैसी हैं।",
+   "caption": "University of Michigan ke Cody Carr aur unki team ne Hubble se paas ki kuchh starburst galaxies dekhin, jo shuruaati galaxies jaisi hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नई स्टडी 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 Univ. of Michigan",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌌 स्टारबर्स्ट गैलेक्सीज़",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? लगता है कि रोशनी सुपरनोवा की हवाएँ बनने से पहले ही, नए तारों से बाहर निकल सकती है। और ये हवाएँ उल्टा रोशनी के निकलने को मुश्किल भी बना सकती हैं!",
+   "caption": "Nateeja? Lagta hai ki roshni supernova ki hawaayein banne se pehle hi, naye taaron se baahar nikal sakti hai. Aur ye hawaayein ulta roshni ke nikalne ko mushkil bhi bana sakti hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 🔄"
+    },
+    {
+     "kind": "stamp",
+     "text": "हवाओं से पहले ही! ⚡",
+     "color": "green",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🚧 हवाएँ = रुकावट?",
+     "f": 0.8,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "यानी ब्रह्मांड का कोहरा हटाने में, शायद जवान तारों का रोल, जितना सोचा था उससे बड़ा था। लेकिन वैज्ञानिक इस पर और जाँच करेंगे।",
+   "caption": "Yaani brahmaand ka kohra hataane mein, shaayad jawaan taaron ka rol, jitna socha tha usse bada tha. Lekin vaigyanik is par aur jaanch karenge.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब क्या? 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "⭐ जवान तारों का बड़ा रोल?",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔍 और जाँच बाकी",
+     "f": 0.75
+    }
+   ]
+  },
+  {
+   "voice": "आज जेम्स वेब जैसे टेलीस्कोप भी उस दौर की गैलेक्सीज़ को सीधे देख रहे हैं, तो आने वाले सालों में ये पहेली और साफ़ होगी!",
+   "caption": "Aaj James Webb jaise telescope bhi us daur ki galaxies ko seedhe dekh rahe hain, to aane wale saalon mein ye paheli aur saaf hogi!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔮"
+    },
+    {
+     "kind": "stamp",
+     "text": "JWST + Hubble 🔭",
+     "color": "gold",
+     "f": 0.5
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ब्रह्मांड का पहला तारा कैसा दिखता होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, brahmaand ka pehla taara kaisa dikhta hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "पहला तारा कैसा दिखता होगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, SciTechDaily · Oct 2026"
+    }
+   ]
+  }
+ ]
+}
