@@ -1,0 +1,276 @@
+{
+ "title": "Space में चला AI Data Center! 🤖🛰️ Google का Suncatcher | 3D Gyaan",
+ "caption_keywords": [
+  "google",
+  "suncatcher",
+  "ai",
+  "tpu",
+  "satellite",
+  "planet",
+  "space",
+  "3d",
+  "gyaan",
+  "data"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Space में",
+  "line2": "AI Chip! 🤖",
+  "badge": "☀️ SUNCATCHER"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "google suncatcher",
+   "ai in space",
+   "tpu",
+   "planet labs",
+   "space data center",
+   "tech news hindi",
+   "3d gyaan"
+  ],
+  "description": "Google के Project Suncatcher के prototype satellite में लगे AI chip ने स्पेस से पहला जवाब भेजा! 🤖🛰️ क्या भविष्य में AI data centers स्पेस में होंगे? सब 3D में।\n\nSources:\n- Google Blog: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/\n- NPR: https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space\n- Fortune: https://fortune.com/2026/10/10/google-project-suncatcher-ai-data-centers-space-satellite-launch-orbital-computing-spacex-blue-origin-artificial-intelligence-energy-demand/\n- DCD: https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-tpus-into-orbit-with-planet-labs-envisions-1km-arrays-of-81-satellite-compute-clusters/\n\nAI-generated narration & visuals.\n#Google #AI #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, ए आई को चलाने के लिए बड़े बड़े डेटा सेंटर और बहुत बिजली चाहिए। तो गूगल सोच रहा है, क्यों ना इन्हें स्पेस में ले जाएँ, जहाँ सूरज की रोशनी हमेशा मिलती है!",
+   "caption": "Bhai, AI ko chalaane ke liye bade bade data center aur bahut bijli chahiye. To Google soch raha hai, kyun na inhe space mein le jaayein, jahan sooraj ki roshni hamesha milti hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Space में AI! 🤖",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "पहला जवाब! 📡",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "गूगल के प्रोजेक्ट सनकैचर की कहानी। चलो समझते हैं!",
+   "caption": "Google ke Project Suncatcher ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "GOOGLE",
+     "vs": "☀️",
+     "c": "SUNCATCHER"
+    }
+   ]
+  },
+  {
+   "voice": "एक अक्टूबर को, गूगल ने प्लैनेट लैब्स के साथ मिलकर बनाया एक प्रोटोटाइप सैटेलाइट, स्पेसएक्स के रॉकेट पर भेजा।",
+   "caption": "1 October ko, Google ne Planet Labs ke saath milkar banaaya ek prototype satellite, SpaceX ke rocket par bheja.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 34.7,
+     "lon": -120.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब? 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 1 अक्टूबर",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🤝 Google + Planet Labs",
+     "f": 0.4,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 SpaceX रॉकेट",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इसमें गूगल के टी पी यू चिप्स लगे हैं, वही ए आई चिप्स जो धरती पर गूगल के डेटा सेंटर्स में चलते हैं।",
+   "caption": "Ismein Google ke TPU chips lage hain, wahi AI chips jo dharti par Google ke data centers mein chalte hain.",
+   "shots": [
+    {
+     "type": "city",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अंदर क्या है? 💾"
+    },
+    {
+     "kind": "stk",
+     "text": "🧠 Google TPU चिप्स",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🏢 डेटा सेंटर वाले",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "और अब गूगल के मुताबिक़, ऑर्बिट में डेटा सेंटर क्लास के टी पी यू से, पहला ए आई जवाब आ गया है! ये सैटेलाइट गूगल का जेम्मा नाम का ए आई मॉडल चला रहा है।",
+   "caption": "Aur ab Google ke mutaabik, orbit mein data center class ke TPU se, pehla AI jawaab aa gaya hai! Ye satellite Google ka Gemma naam ka AI model chala raha hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 📡"
+    },
+    {
+     "kind": "stamp",
+     "text": "पहला AI जवाब ✅",
+     "color": "green",
+     "f": 0.35,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🤖 Gemma मॉडल",
+     "f": 0.8,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन मुश्किलें भी हैं। स्पेस में गर्मी निकालना मुश्किल है, इसलिए चिप्स एक बार में करीब पंद्रह मिनट तक ही चलते हैं।",
+   "caption": "Lekin mushkilein bhi hain. Space mein garmi nikaalna mushkil hai, isliye chips ek baar mein kareeb pandrah minute tak hi chalte hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मुश्किल क्या? 🔥"
+    },
+    {
+     "kind": "stk",
+     "text": "🌡️ गर्मी की दिक्कत",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "⏱️ ~15 मिनट एक बार में",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "आगे का प्लान, दो हज़ार सत्ताईस में दो जुड़े हुए सैटेलाइट। और बड़ा सपना, इक्यासी सैटेलाइट्स का करीब एक किलोमीटर बड़ा झुंड, जो मिलकर डेटा सेंटर की तरह काम करे!",
+   "caption": "Aage ka plan, 2027 mein do jude hue satellite. Aur bada sapna, 81 satellites ka kareeb ek kilometre bada jhund, jo milkar data center ki tarah kaam kare!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "swarm"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔮"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️🛰️ 2027: दो सैटेलाइट",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "81 सैटेलाइट · ~1 km 🌌",
+     "color": "gold",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, ये अभी एक प्रोटोटाइप है। असली स्पेस डेटा सेंटर तभी सस्ते होंगे, जब रॉकेट लॉन्च का ख़र्च बहुत कम हो जाएगा।",
+   "caption": "Lekin dhyaan rahe, ye abhi ek prototype hai. Asli space data center tabhi saste honge, jab rocket launch ka kharch bahut kam ho jaayega.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 28.6,
+     "lon": -80.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पक्का है? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "🧪 अभी प्रोटोटाइप",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "💸 लॉन्च सस्ता होना ज़रूरी",
+     "f": 0.65,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, क्या भविष्य में इंटरनेट स्पेस से चलेगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, kya bhavishya mein internet space se chalega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या internet space से चलेगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Google, NPR, Fortune, DCD · Oct–Nov 2026"
+    }
+   ]
+  }
+ ]
+}

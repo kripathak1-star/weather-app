@@ -1,0 +1,312 @@
+{
+ "title": "150 साल पुराना राज़ खुला! 🦩 'Extinct' पक्षी आज भी ज़िंदा | 3D Gyaan",
+ "caption_keywords": [
+  "crane",
+  "bird",
+  "extinct",
+  "dna",
+  "fossil",
+  "europe",
+  "mystery",
+  "3d",
+  "gyaan",
+  "nature"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "'Extinct' पक्षी",
+  "line2": "ज़िंदा निकला! 🦩",
+  "badge": "🧬 DNA TEST"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "giant crane",
+   "grus primigenia",
+   "common crane",
+   "ancient dna",
+   "extinct bird",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "1871 में जिसे एक 'extinct giant crane' माना गया, वो DNA जाँच में आज के common crane का ही बड़ा रूप निकला! 🦩🧬 150 साल पुराना राज़, सब 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-10-year-mystery-identity-extinct-giant.html\n- ScienceAlert: https://www.sciencealert.com/bones-of-an-extinct-giant-crane-named-150-years-ago-turn-out-to-belong-to-a-different-species\n- SciTechDaily: https://scitechdaily.com/scientists-discover-that-a-giant-bird-thought-extinct-for-thousands-of-years-never-actually-disappeared/\n\nAI-generated narration & visuals.\n#Science #Birds #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक बड़ा पक्षी, जिसे डेढ़ सौ साल से विलुप्त, यानी ख़त्म माना जा रहा था, असल में आज भी ज़िंदा है! डी एन ए ने ये राज़ खोला है।",
+   "caption": "Bhai, ek bada pakshi, jise dedh sau saal se vilupt, yaani khatm maana ja raha tha, asal mein aaj bhi zinda hai! DNA ne ye raaz khola hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "'Extinct' पक्षी ज़िंदा! 🦩",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "150 साल का राज़ 🔍",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "जायंट क्रेन के राज़ की कहानी। चलो समझते हैं!",
+   "caption": "Giant crane ke raaz ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "CRANE",
+     "vs": "🧬",
+     "c": "DNA"
+    }
+   ]
+  },
+  {
+   "voice": "अठारह सौ इकहत्तर में, फ़्रांस के जीवविज्ञानी अल्फ़ॉन्स मिल्न एडवर्ड्स ने, दक्षिण फ़्रांस की गुफ़ाओं में मिली हड्डियों से, एक नई प्रजाति बताई, ग्रस प्राइमिजीनिया, यानी एक विशाल सारस।",
+   "caption": "1871 mein, France ke jeevvigyaani Alphonse Milne-Edwards ne, dakshin France ki gufaaon mein mili haddiyon se, ek nayi prajaati bataayi, Grus primigenia, yaani ek vishaal saaras.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 44,
+     "lon": 2,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 44,
+       "lon": 2,
+       "label": "France",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहानी शुरू 📜"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 1871",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🇫🇷 फ़्रांस की गुफ़ाएँ",
+     "f": 0.4,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🦩 Grus primigenia",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तब से माना जाता था कि ये बड़ा सारस हज़ारों साल पहले ख़त्म हो गया।",
+   "caption": "Tab se maana jaata tha ki ye bada saaras hazaaron saal pehle khatm ho gaya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पुरानी सोच 🤔"
+    },
+    {
+     "kind": "stamp",
+     "text": "विलुप्त? ❌",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अब इंग्लैंड की बोर्नमाउथ यूनिवर्सिटी के वैज्ञानिकों ने इंग्लैंड, वेल्स, फ़्रांस, जर्मनी और बेलेरिक द्वीपों से मिली अठारह हड्डियों का प्राचीन डी एन ए जाँचा।",
+   "caption": "Ab England ki Bournemouth University ke vaigyanikon ne England, Wales, France, Germany aur Balearic dweepon se mili atharah haddiyon ka praacheen DNA jaancha.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 48,
+     "lon": 3,
+     "dist": 1.1,
+     "pins": [
+      {
+       "lat": 50.7,
+       "lon": -1.9,
+       "label": "Bournemouth",
+       "color": "green"
+      },
+      {
+       "lat": 39.6,
+       "lon": 2.9,
+       "label": "Balearic",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नई जाँच 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🏴 Bournemouth University",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 18 हड्डियाँ",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "🧬 प्राचीन DNA",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? ये हड्डियाँ किसी अलग प्रजाति की नहीं, बल्कि आज के आम सारस, कॉमन क्रेन, के बड़े सदस्यों की निकलीं!",
+   "caption": "Nateeja? Ye haddiyan kisi alag prajaati ki nahi, balki aaj ke aam saaras, common crane, ke bade sadasyon ki niklin!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 🧬"
+    },
+    {
+     "kind": "stamp",
+     "text": "Common Crane ही था! 🦩",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ग़लती क्यों हुई? क्योंकि नर सारस, मादा से काफ़ी बड़े होते हैं। बड़ी हड्डियाँ देखकर लोगों ने सोचा कि ये कोई अलग, विशाल प्रजाति है।",
+   "caption": "Galti kyun hui? Kyunki nar saaras, maada se kaafi bade hote hain. Badi haddiyan dekhkar logon ne socha ki ye koi alag, vishaal prajaati hai.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "FEMALE CRANE",
+       "value": 60,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "MALE CRANE · BIGGER",
+       "value": 85,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ग़लती क्यों? 🤷"
+    },
+    {
+     "kind": "stk",
+     "text": "♂️ नर = बड़े",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "♀️ मादा = छोटी",
+     "f": 0.55
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 बड़ी हड्डी = ग़लतफ़हमी",
+     "f": 0.85,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ये स्टडी रॉयल सोसाइटी ओपन साइंस में छपी है। और वैज्ञानिक कहते हैं, सिर्फ़ साइज़ से पहचाने गए दूसरे विलुप्त पक्षियों की भी डी एन ए जाँच होनी चाहिए!",
+   "caption": "Ye study Royal Society Open Science mein chhapi hai. Aur vaigyanik kehte hain, sirf size se pehchaane gaye doosre vilupt pakshiyon ki bhi DNA jaanch honi chahiye!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ा सबक 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Royal Society Open Science",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🧬 और पक्षियों की DNA जाँच",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, और कौन सा विलुप्त जानवर ज़िंदा निकल सकता है? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, aur kaun sa vilupt jaanvar zinda nikal sakta hai? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "और कौन सा जानवर ज़िंदा निकलेगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, ScienceAlert, SciTechDaily · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

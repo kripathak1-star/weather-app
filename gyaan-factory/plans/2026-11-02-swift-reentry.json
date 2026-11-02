@@ -1,0 +1,298 @@
+{
+ "title": "NASA का Swift Telescope गिरेगा धरती पर! 🔥🛰️ क्या है ख़तरा? | 3D Gyaan",
+ "caption_keywords": [
+  "swift",
+  "nasa",
+  "telescope",
+  "reentry",
+  "satellite",
+  "gamma",
+  "orbit",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Swift गिरेगा",
+  "line2": "धरती पर! 🔥",
+  "badge": "🛰️ NASA SWIFT"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "nasa swift",
+   "reentry",
+   "space telescope",
+   "satellite falling",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "NASA का Swift Observatory, जो 20 साल से ज़्यादा gamma-ray bursts देखता रहा, अब धरती के वायुमंडल में लौटकर जलने वाला है! 🔥🛰️ Rescue क्यों fail हुआ, ख़तरा कितना है, सब 3D में।\n\nSources:\n- WRAL: https://www.wral.com/weather/swift-reentry-nov-2026/\n- SatNews: https://satnews.com/2026/11/01/nasas-swift-observatory-expected-to-burn-up-in-atmospheric-reentry-following-failed-commercial-rescue/\n- SpaceWeather.com: https://www.spaceweather.com/\n- KeepTrack: https://keeptrack.space/reentry-watch/reentry-28485\n\nAI-generated narration & visuals.\n#NASA #Swift #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, नासा का एक टेलीस्कोप, जो बीस साल से ज़्यादा स्पेस में काम करता रहा, अब धरती की तरफ़ गिर रहा है, और वायुमंडल में जलकर ख़त्म हो जाएगा!",
+   "caption": "Bhai, NASA ka ek telescope, jo bees saal se zyada space mein kaam karta raha, ab dharti ki taraf gir raha hai, aur vaayumandal mein jalkar khatm ho jaayega!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Swift गिर रहा है! 🔥",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Reentry ⚠️",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "नासा के स्विफ़्ट टेलीस्कोप की कहानी। चलो समझते हैं!",
+   "caption": "NASA ke Swift telescope ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "NASA",
+     "vs": "🔥",
+     "c": "SWIFT"
+    }
+   ]
+  },
+  {
+   "voice": "इसका पूरा नाम है, नील गेहरेल्स स्विफ़्ट ऑब्ज़र्वेटरी। ये स्पेस के सबसे बड़े धमाकों, गामा रे बर्स्ट्स, को पकड़ने के लिए बना था।",
+   "caption": "Iska poora naam hai, Neil Gehrels Swift Observatory. Ye space ke sabse bade dhamaakon, gamma ray bursts, ko pakadne ke liye bana tha.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Swift क्या है? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ Neil Gehrels Swift",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "💥 गामा रे बर्स्ट्स",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "धीरे धीरे इसकी कक्षा नीचे आ रही थी। उसे ऊपर धकेलने की एक कमर्शियल रेस्क्यू कोशिश भी हुई, लेकिन वो सफल नहीं हुई।",
+   "caption": "Dheere dheere iski kaksha neeche aa rahi thi. Use upar dhakelne ki ek commercial rescue koshish bhi hui, lekin wo safal nahi hui.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हुआ? 📉"
+    },
+    {
+     "kind": "stk",
+     "text": "📉 कक्षा नीचे आई",
+     "f": 0.15,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 रेस्क्यू कोशिश",
+     "f": 0.5,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "❌ सफल नहीं",
+     "f": 0.85,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "बीस अक्टूबर को इसका साइंस का काम रुका, और तेईस अक्टूबर को नासा ने इसके ऑपरेशंस आधिकारिक तौर पर बंद कर दिए।",
+   "caption": "20 October ko iska science ka kaam ruka, aur 23 October ko NASA ne iske operations aadhikaarik taur par band kar diye.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आख़िरी दिन 📅"
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 20 अक्टूबर: साइंस बंद",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "⏹️ 23 अक्टूबर: मिशन ख़त्म",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "ये करीब डेढ़ टन का है। एयरोस्पेस कॉर्पोरेशन का अंदाज़ा है कि ये करीब चार नवंबर के आसपास वायुमंडल में आएगा, लेकिन इसमें एक दिन से ज़्यादा ऊपर नीचे हो सकता है।",
+   "caption": "Ye kareeb dedh ton ka hai. Aerospace Corporation ka andaaza hai ki ye kareeb 4 November ke aaspaas vaayumandal mein aayega, lekin ismein ek din se zyada upar neeche ho sakta hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब गिरेगा? ⏳"
+    },
+    {
+     "kind": "stk",
+     "text": "⚖️ ~1.5 टन",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "📅 ~4 नवंबर",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "± ~1 दिन",
+     "f": 0.8,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ये भूमध्य रेखा के इक्कीस डिग्री उत्तर और दक्षिण के बीच कहीं भी गिर सकता है, और ये पट्टी भारत के दक्षिणी हिस्से के ऊपर से भी गुज़रती है।",
+   "caption": "Ye bhoomadhya rekha ke 21 degree uttar aur dakshin ke beech kahin bhi gir sakta hai, aur ye patti Bharat ke dakshini hisse ke upar se bhi guzarti hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 10,
+     "lon": 78,
+     "dist": 1.5,
+     "pins": [
+      {
+       "lat": 21,
+       "lon": 78,
+       "label": "21°N",
+       "color": "red"
+      },
+      {
+       "lat": -21,
+       "lon": 78,
+       "label": "21°S",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ गिरेगा? 🌍"
+    },
+    {
+     "kind": "stk",
+     "text": "↕️ 21°N से 21°S",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 दक्षिणी भारत भी पट्टी में",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन घबराओ मत! एक्सपर्ट्स के मुताबिक़, इसका ज़्यादातर हिस्सा जल जाएगा, और लोगों के लिए ख़तरा बहुत कम है। बस टेलीस्कोप के कुछ हिस्से बच सकते हैं।",
+   "caption": "Lekin ghabraao mat! Experts ke mutaabik, iska zyaadatar hissa jal jaayega, aur logon ke liye khatra bahut kam hai. Bas telescope ke kuchh hisse bach sakte hain.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 5,
+     "lon": 80
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ख़तरा? 😮"
+    },
+    {
+     "kind": "stamp",
+     "text": "ज़्यादातर जल जाएगा 🔥",
+     "color": "green",
+     "f": 0.35,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "✅ ख़तरा बहुत कम",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, पुराने सैटेलाइट्स का क्या करना चाहिए? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, puraane satellites ka kya karna chahiye? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "पुराने satellites का क्या करें?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: WRAL, SatNews, SpaceWeather.com, KeepTrack · Nov 2026"
+    }
+   ]
+  }
+ ]
+}
