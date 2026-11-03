@@ -1,0 +1,279 @@
+{
+ "title": "NASA का नया UV Telescope पक्का! 🔭💜 2031 में Launch | 3D Gyaan",
+ "caption_keywords": [
+  "nasa",
+  "uvex",
+  "ultraviolet",
+  "telescope",
+  "launch",
+  "2031",
+  "space",
+  "3d",
+  "gyaan",
+  "galaxies"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "NASA का",
+  "line2": "UV Telescope! 💜",
+  "badge": "🔭 UVEX 2031"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "nasa uvex",
+   "ultraviolet telescope",
+   "space telescope",
+   "nasa news",
+   "space news hindi",
+   "astronomy",
+   "3d gyaan"
+  ],
+  "description": "NASA ने अपने नए ultraviolet space telescope, UVEX, को पक्का कर दिया, जनवरी 2031 तक launch का वादा! 🔭💜 UV में आसमान क्या दिखाएगा? सब 3D में।\n\nSources:\n- NASA: https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/\n- Phys.org: https://phys.org/news/2026-10-nasa-uv-space-telescope.html\n- Universe Today: https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031\n\nAI-generated narration & visuals.\n#NASA #UVEX #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, हमारी आँखें आसमान का सिर्फ़ एक हिस्सा देखती हैं। लेकिन नासा एक ऐसा टेलीस्कोप बना रहा है, जो अल्ट्रावायलेट रोशनी में पूरा आसमान देखेगा, और अब ये पक्का हो गया है!",
+   "caption": "Bhai, hamari aankhein aasmaan ka sirf ek hissa dekhti hain. Lekin NASA ek aisa telescope bana raha hai, jo ultraviolet roshni mein poora aasmaan dekhega, aur ab ye pakka ho gaya hai!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "UV Telescope! 💜",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "पक्का! ✅",
+     "color": "green",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "नासा के यू वी ई एक्स टेलीस्कोप की कहानी। चलो समझते हैं!",
+   "caption": "NASA ke UVEX telescope ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "NASA",
+     "vs": "💜",
+     "c": "UVEX"
+    }
+   ]
+  },
+  {
+   "voice": "सत्ताईस अक्टूबर को नासा ने बताया कि यू वी ई एक्स, यानी अल्ट्रावायलेट एक्सप्लोरर, ने एक अहम जाँच, की डिसीज़न पॉइंट सी, पास कर ली है।",
+   "caption": "27 October ko NASA ne bataaya ki UVEX, yaani UltraViolet Explorer, ne ek aham jaanch, Key Decision Point C, paas kar li hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हुआ? 📢"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 27 अक्टूबर",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "🔭 UVEX",
+     "f": 0.35,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ KDP-C पास",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इसका मतलब, नासा ने वादा किया है कि ये जनवरी दो हज़ार इकतीस तक लॉन्च होगा, और पूरे मिशन का ख़र्च करीब पाँच सौ नब्बे मिलियन डॉलर होगा।",
+   "caption": "Iska matlab, NASA ne vaada kiya hai ki ye January 2031 tak launch hoga, aur poore mission ka kharch kareeb 590 million dollar hoga.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 28.6,
+     "lon": -80.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "वादा 🤝"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 लॉन्च: जनवरी 2031 तक",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "$590 मिलियन 💰",
+     "color": "gold",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "दो हज़ार चौबीस में जब इसे चुना गया था, तब प्लान दो हज़ार तीस का था, और ख़र्च करीब तीन सौ मिलियन डॉलर, बिना लॉन्च के। यानी अब समय और बजट दोनों बढ़े हैं।",
+   "caption": "2024 mein jab ise chuna gaya tha, tab plan 2030 ka tha, aur kharch kareeb 300 million dollar, bina launch ke. Yaani ab samay aur budget dono badhe hain.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "2024 PLAN · ~$300M*",
+       "value": 300,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "NOW · $590M (FULL)",
+       "value": 590,
+       "color": "#a78bfa"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बदलाव 📈"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2030 ➜ 2031",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "*पुराना: लॉन्च शामिल नहीं",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "अल्ट्रावायलेट रोशनी हमारी आँखें नहीं देख सकतीं। लेकिन गर्म, जवान तारे और कई धमाकेदार घटनाएँ इसी रोशनी में चमकती हैं।",
+   "caption": "Ultraviolet roshni hamari aankhein nahi dekh sakti. Lekin garam, jawaan taare aur kai dhamaakedaar ghatnaayein isi roshni mein chamakti hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "UV क्यों? 💜"
+    },
+    {
+     "kind": "stk",
+     "text": "👀 आँखों से नहीं दिखती",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "⭐ गर्म, जवान तारे",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "यू वी ई एक्स पूरे आसमान का अल्ट्रावायलेट नक्शा बनाएगा, जिससे गैलेक्सीज़ और तारों के बनने को समझने में मदद मिलेगी।",
+   "caption": "UVEX poore aasmaan ka ultraviolet naksha banaayega, jisse galaxies aur taaron ke banne ko samajhne mein madad milegi.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "काम क्या? 🗺️"
+    },
+    {
+     "kind": "stamp",
+     "text": "UV में पूरा आसमान 🌌",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तो दो हज़ार इकतीस में, आसमान का एक नया रंग देखने के लिए तैयार रहो!",
+   "caption": "To 2031 mein, aasmaan ka ek naya rang dekhne ke liye taiyaar raho!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "इंतज़ार ⏳"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2031",
+     "f": 0.4,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अल्ट्रावायलेट में आसमान कैसा दिखेगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, ultraviolet mein aasmaan kaisa dikhega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "UV में आसमान कैसा दिखेगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NASA, Phys.org, Universe Today · Oct 2026"
+    }
+   ]
+  }
+ ]
+}

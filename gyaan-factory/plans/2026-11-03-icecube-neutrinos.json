@@ -1,0 +1,284 @@
+{
+ "title": "बर्फ़ में पकड़े 'भूत कण'! 👻❄️ IceCube का Neutrino राज़ | 3D Gyaan",
+ "caption_keywords": [
+  "icecube",
+  "neutrino",
+  "ghost",
+  "particle",
+  "antarctica",
+  "south",
+  "pole",
+  "3d",
+  "gyaan",
+  "physics"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "बर्फ़ में",
+  "line2": "भूत कण! 👻",
+  "badge": "❄️ ICECUBE"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "icecube",
+   "neutrino",
+   "ghost particle",
+   "south pole",
+   "physics hindi",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "South Pole की बर्फ़ में बने IceCube detector ने ऐसे neutrinos पकड़े, जिनकी energy सूरज से आने वाले neutrinos से करीब 10 अरब गुना ज़्यादा है! 👻❄️ ये 'भूत कण' कहाँ से आते हैं? सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/11/261101010533.htm\n- Interesting Engineering: https://interestingengineering.com/science/100-billion-ghost-particles-pass-through-bodies\n\nAI-generated narration & visuals.\n#IceCube #Neutrino #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, इसी पल अरबों ऐसे कण तुम्हारे शरीर के आर पार निकल रहे हैं, और तुम्हें पता भी नहीं चलता! इन्हें कहते हैं न्यूट्रिनो, या भूत कण।",
+   "caption": "Bhai, isi pal arabon aise kan tumhare shareer ke aar paar nikal rahe hain, aur tumhe pata bhi nahi chalta! Inhe kehte hain neutrino, ya bhoot kan.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "भूत कण! 👻",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "आर-पार! 😲",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "आइसक्यूब और भूत कणों की कहानी। चलो समझते हैं!",
+   "caption": "IceCube aur bhoot kanon ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ICECUBE",
+     "vs": "👻",
+     "c": "NEUTRINO"
+    }
+   ]
+  },
+  {
+   "voice": "न्यूट्रिनो इतने हल्के और शर्मीले होते हैं, कि ये लगभग किसी चीज़ से टकराते ही नहीं। धरती, दीवारें, हमारा शरीर, सबके आर पार निकल जाते हैं।",
+   "caption": "Neutrino itne halke aur sharmeele hote hain, ki ye lagbhag kisi cheez se takraate hi nahi. Dharti, deewaarein, hamara shareer, sabke aar paar nikal jaate hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Neutrino क्या है? ⚛️"
+    },
+    {
+     "kind": "stk",
+     "text": "🪶 बहुत हल्का",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "🚪 सबके आर-पार",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इन्हें पकड़ने के लिए, अंटार्कटिका में साउथ पोल पर, बर्फ़ के अंदर एक विशाल डिटेक्टर बना है, आइसक्यूब। ये करीब एक घन किलोमीटर बर्फ़ में फैला है।",
+   "caption": "Inhe pakadne ke liye, Antarctica mein South Pole par, barf ke andar ek vishaal detector bana hai, IceCube. Ye kareeb ek ghan kilometre barf mein phaila hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -80,
+     "lon": 0,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": -89.9,
+       "lon": 0,
+       "label": "South Pole",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "IceCube कहाँ? ❄️"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 साउथ पोल, अंटार्कटिका",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🧊 ~1 घन km बर्फ़",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "अब आइसक्यूब ने ऐसे न्यूट्रिनो पकड़े हैं, जिनकी एनर्जी सूरज से आने वाले न्यूट्रिनो से करीब दस अरब गुना ज़्यादा है!",
+   "caption": "Ab IceCube ne aise neutrino pakde hain, jinki energy sooraj se aane wale neutrino se kareeb das arab guna zyada hai!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "SOLAR NEUTRINO",
+       "value": 1,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "COSMIC · ~10 BILLION×",
+       "value": 100,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितनी एनर्जी? ⚡"
+    },
+    {
+     "kind": "stamp",
+     "text": "~10 अरब गुना! 🤯",
+     "color": "gold",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इतनी ताक़त सूरज से नहीं आ सकती। मतलब, ये बहुत दूर के, ब्रह्मांड के सबसे ताक़तवर स्रोतों से आ रहे हैं।",
+   "caption": "Itni taaqat sooraj se nahi aa sakti. Matlab, ye bahut door ke, brahmaand ke sabse taaqatvar sroton se aa rahe hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ से? 🌌"
+    },
+    {
+     "kind": "stk",
+     "text": "☀️ सूरज से नहीं",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🌌 दूर के ताक़तवर स्रोत",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "ऐसा एक स्रोत है, एन जी सी दस अड़सठ, एक एक्टिव गैलेक्सी। लेकिन ऐसे हाई एनर्जी न्यूट्रिनो बहुत कम आते हैं, साल में बस कुछ दर्जन।",
+   "caption": "Aisa ek srot hai, NGC 1068, ek active galaxy. Lekin aise high energy neutrino bahut kam aate hain, saal mein bas kuchh darjan.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "एक स्रोत 🎯"
+    },
+    {
+     "kind": "stk",
+     "text": "🌀 NGC 1068 गैलेक्सी",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔢 साल में कुछ दर्जन",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "इन भूत कणों से वैज्ञानिक ब्रह्मांड के उन कोनों को देख पा रहे हैं, जहाँ रोशनी भी नहीं पहुँच पाती। इसे न्यूट्रिनो एस्ट्रोनॉमी कहते हैं!",
+   "caption": "In bhoot kanon se vaigyanik brahmaand ke un konon ko dekh paa rahe hain, jahan roshni bhi nahi pahunch paati. Ise neutrino astronomy kehte hain!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ज़रूरी? 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "नई खिड़की 🔭",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ब्रह्मांड में और कौन से भूत छुपे हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, brahmaand mein aur kaun se bhoot chhupe hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "ब्रह्मांड में और कौन से भूत हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, Interesting Engineering · Nov 2026"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "title": "छोटी टक्कर में Big Bang वाला पदार्थ! 💥⚛️ CERN की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "cern",
+  "lhc",
+  "quark",
+  "gluon",
+  "plasma",
+  "big",
+  "bang",
+  "3d",
+  "gyaan",
+  "physics"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Big Bang",
+  "line2": "वाला पदार्थ! 💥",
+  "badge": "⚛️ CERN LHC"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "cern",
+   "lhc",
+   "quark gluon plasma",
+   "big bang",
+   "oxygen collisions",
+   "physics hindi",
+   "3d gyaan"
+  ],
+  "description": "CERN के Large Hadron Collider के चारों बड़े experiments को oxygen और neon की छोटी टक्करों में भी quark-gluon plasma के निशान मिले, वही पदार्थ जो Big Bang के तुरंत बाद था! 💥⚛️ सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261031221211.htm\n- Phys.org: https://phys.org/news/2026-07-oxygen-collisions-lhc-indications-extreme.html\n- SciTechDaily: https://scitechdaily.com/cern-experiments-detect-signs-of-the-universes-primordial-matter/\n\nAI-generated narration & visuals.\n#CERN #Physics #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, बिग बैंग के तुरंत बाद, ब्रह्मांड एक बहुत गर्म सूप जैसा था। और अब दुनिया की सबसे बड़ी मशीन ने उस सूप के निशान, बहुत छोटी टक्करों में भी देखे हैं!",
+   "caption": "Bhai, Big Bang ke turant baad, brahmaand ek bahut garam soup jaisa tha. Aur ab duniya ki sabse badi machine ne us soup ke nishaan, bahut chhoti takkaron mein bhi dekhe hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Big Bang का सूप! 💥",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "CERN ⚛️",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "क्वार्क ग्लूऑन प्लाज़्मा की कहानी। चलो समझते हैं!",
+   "caption": "Quark gluon plasma ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "CERN",
+     "vs": "💥",
+     "c": "PLASMA"
+    }
+   ]
+  },
+  {
+   "voice": "स्विट्ज़रलैंड और फ़्रांस की सीमा पर है सर्न का लार्ज हैड्रॉन कोलाइडर, एल एच सी, जहाँ कणों को लगभग रोशनी की रफ़्तार से टकराया जाता है।",
+   "caption": "Switzerland aur France ki seema par hai CERN ka Large Hadron Collider, LHC, jahan kanon ko lagbhag roshni ki raftaar se takraaya jaata hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 46.23,
+     "lon": 6.05,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 46.23,
+       "lon": 6.05,
+       "label": "CERN",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇭🇫🇷 स्विस-फ़्रेंच सीमा",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⚛️ LHC",
+     "f": 0.5
+    },
+    {
+     "kind": "stk",
+     "text": "⚡ लगभग रोशनी की रफ़्तार",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "बिग बैंग के बहुत छोटे से पल बाद, क्वार्क्स और ग्लूऑन्स एक गर्म तरल जैसे सूप में आज़ाद घूम रहे थे। इसे क्वार्क ग्लूऑन प्लाज़्मा कहते हैं।",
+   "caption": "Big Bang ke bahut chhote se pal baad, quarks aur gluons ek garam taral jaise soup mein aazaad ghoom rahe the. Ise quark gluon plasma kehte hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "QGP क्या है? 🍲"
+    },
+    {
+     "kind": "stk",
+     "text": "⚛️ क्वार्क + ग्लूऑन",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 बहुत गर्म सूप",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "पहले ये भारी नाभिकों, जैसे लेड, की टक्करों में देखा गया था। लेकिन अब एल एच सी के चारों बड़े प्रयोग, एलिस, एटलस, सी एम एस और एल एच सी बी, को इसके निशान हल्के ऑक्सीजन और नियॉन की टक्करों में भी मिले!",
+   "caption": "Pehle ye bhaari naabhikon, jaise lead, ki takkaron mein dekha gaya tha. Lekin ab LHC ke chaaron bade prayog, ALICE, ATLAS, CMS aur LHCb, ko iske nishaan halke oxygen aur neon ki takkaron mein bhi mile!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "OXYGEN · 16",
+       "value": 16,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "NEON · 20",
+       "value": 20,
+       "color": "#3dff8f"
+      },
+      {
+       "label": "LEAD · 208",
+       "value": 208,
+       "color": "#a78bfa"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नई खोज 🔍"
+    },
+    {
+     "kind": "stk",
+     "text": "4️⃣ चारों प्रयोग",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "O + Ne में भी! 💥",
+     "color": "green",
+     "f": 0.75
+    }
+   ]
+  },
+  {
+   "voice": "सबूत ये है, कि टक्कर से निकले कणों की बौछार, जेट्स, इस सूप से गुज़रते हुए ऊर्जा खोते दिखे। इसे जेट क्वेंचिंग कहते हैं।",
+   "caption": "Saboot ye hai, ki takkar se nikle kanon ki bauchhaar, jets, is soup se guzarte hue oorja khote dikhe. Ise jet quenching kehte hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत क्या? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "💨 जेट्स ने ऊर्जा खोई",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 जेट क्वेंचिंग",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, ये सीधा नाप नहीं, बल्कि अप्रत्यक्ष सबूत है, और कुछ नतीजे अभी शुरुआती हैं। सर्न ने इसकी साझा घोषणा अगस्त में की थी।",
+   "caption": "Lekin dhyaan rahe, ye seedha naap nahi, balki apratyaksh saboot hai, aur kuchh nateeje abhi shuruaati hain. CERN ne iski saajha ghoshna August mein ki thi.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 46.23,
+     "lon": 6.05,
+     "dist": 1.3
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ध्यान रहे ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "🔍 अप्रत्यक्ष सबूत",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🧪 कुछ नतीजे शुरुआती",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "इससे पता चलता है कि बिग बैंग जैसा पदार्थ, जितना सोचा था, उससे कहीं छोटी जगह में भी बन सकता है!",
+   "caption": "Isse pata chalta hai ki Big Bang jaisa padaarth, jitna socha tha, usse kahin chhoti jagah mein bhi ban sakta hai!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब क्या? 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "छोटी टक्कर, बड़ा राज़ 🤯",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, बिग बैंग से पहले क्या था? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Big Bang se pehle kya tha? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Big Bang से पहले क्या था?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, Phys.org, SciTechDaily · 2026"
+    }
+   ]
+  }
+ ]
+}
