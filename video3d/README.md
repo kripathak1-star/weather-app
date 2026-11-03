@@ -18,3 +18,16 @@ city countdown, hurricane, aurora, thunderstorm at sea, blizzard, day/night time
 node render-long.mjs --preview 16 305 585   # stills in build/
 node render-long.mjs 30 3                   # full MP4 with soundtrack -> every-sky-10min.mp4
 ```
+
+## Voice-over and soundtrack
+
+- `narration.json`: the timed narration script (82 lines).
+- `tts/speak.mjs`: offline Kokoro-82M text-to-speech (voice `af_heart`). It needs `kokoro-js`, `onnxruntime-node`,
+  the Kokoro q8 ONNX model and its `config.json` vocab next to the script.
+- `music.mjs`: procedural music (pads, arpeggio, drums, chapter impacts) plus thunder on every lightning strike.
+- `mix.mjs`: places the voice lines, ducks the music under the voice, adds rain/wind and muxes the final MP4.
+
+```bash
+node music.mjs build/music.wav
+node mix.mjs <voice-wav-dir> build/music.wav every-sky-10min.mp4 every-sky-10min-voice.mp4
+```

@@ -1,3 +1,7 @@
 node_modules/
 build/
 every-sky-10min.mp4
+every-sky-10min-voice.mp4
+tts/node_modules/
+tts/kokoro-q8.onnx
+tts/kokoro-config.json
