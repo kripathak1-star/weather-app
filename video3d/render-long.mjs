@@ -20,7 +20,8 @@ const server = http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': types[path.extname(file)] || 'application/octet-stream' });
   fs.createReadStream(file).pipe(res);
 }).listen(0);
-const url = `http://localhost:${server.address().port}/long.html?capture`;
+const GS = process.env.GS || '1';
+const url = `http://localhost:${server.address().port}/long.html?capture&gs=${GS}`;
 
 async function openPage() {
   const browser = await chromium.launch({ args: ['--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader'] });
@@ -56,7 +57,7 @@ await Promise.all([...Array(WORKERS).keys()].map(async w => {
   const { browser, page } = await openPage();
   const file = path.join(outDir, `chunk_${w}.mp4`);
   const ff = spawn('ffmpeg', ['-y', '-loglevel', 'error', '-f', 'image2pipe', '-c:v', 'mjpeg', '-framerate', String(FPS), '-i', '-',
-    '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-crf', '20', '-preset', 'veryfast', file], { stdio: ['pipe', 'ignore', 'inherit'] });
+    ...(process.env.OUTFPS ? ['-vf', `framerate=fps=${process.env.OUTFPS}`] : []), '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-crf', '20', '-preset', 'veryfast', file], { stdio: ['pipe', 'ignore', 'inherit'] });
   for (let i = from; i < to; i++) {
     const buf = Buffer.from(await grab(page, i / FPS, 'image/jpeg'), 'base64');
     if (!ff.stdin.write(buf)) await new Promise(r => ff.stdin.once('drain', r));

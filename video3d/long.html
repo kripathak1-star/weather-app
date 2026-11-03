@@ -12,7 +12,8 @@ import * as THREE from 'three';
 
 const W = 1280, H = 720;
 const renderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
-renderer.setSize(W, H); renderer.setPixelRatio(1);
+const GS = Number(new URLSearchParams(location.search).get('gs') || 1);
+renderer.setSize(Math.round(W * GS), Math.round(H * GS)); renderer.setPixelRatio(1);
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
 renderer.domElement.id = 'gl';
 document.body.appendChild(renderer.domElement);
@@ -693,7 +694,7 @@ window.renderFrame = (t) => {
   FN[c.id](lt);
   chapterOverlay(c, lt, t);
   renderer.render(scene, camera);
-  ctx.globalAlpha = 1; ctx.drawImage(renderer.domElement, 0, 0);
+  ctx.globalAlpha = 1; ctx.drawImage(renderer.domElement, 0, 0, W, H);
   // cinematic vignette
   const vg = ctx.createRadialGradient(640, 360, 300, 640, 360, 800); vg.addColorStop(0, 'rgba(0,0,0,0)'); vg.addColorStop(1, 'rgba(0,0,0,0.45)');
   ctx.fillStyle = vg; ctx.fillRect(0, 0, W, H);
