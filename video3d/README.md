@@ -8,3 +8,13 @@
 ```bash
 npm install && node render.mjs 30   # needs Playwright + ffmpeg
 ```
+
+## 10-minute version: "Every Sky"
+
+`long.html` is a 10-minute, 7-chapter journey with retention hooks at the start (0:00), middle (5:00) and end (9:40):
+city countdown, hurricane, aurora, thunderstorm at sea, blizzard, day/night time-lapse and the Super Storm.
+
+```bash
+node render-long.mjs --preview 16 305 585   # stills in build/
+node render-long.mjs 30 3                   # full MP4 with soundtrack -> every-sky-10min.mp4
+```
