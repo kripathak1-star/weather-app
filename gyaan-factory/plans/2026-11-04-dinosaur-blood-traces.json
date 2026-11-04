@@ -1,0 +1,285 @@
+{
+ "title": "Dinosaur की हड्डी में खून के निशान?! 🦖🩸 11.5 करोड़ साल पुरानी | 3D Gyaan",
+ "caption_keywords": [
+  "dinosaur",
+  "blood",
+  "fossil",
+  "brazil",
+  "aratasaurus",
+  "heme",
+  "pnas",
+  "3d",
+  "gyaan",
+  "cells"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Dinosaur",
+  "line2": "का खून? 🩸",
+  "badge": "🦖 11.5 करोड़ साल"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "dinosaur blood",
+   "aratasaurus",
+   "fossil",
+   "red blood cells",
+   "pnas",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "Brazil के एक dinosaur, Aratasaurus, की करीब 11.5 करोड़ साल पुरानी हड्डी में red blood cells से जुड़े chemical निशान मिलने का दावा! 🦖🩸 लेकिन कुछ experts को शक है। पूरी बात 3D में।\n\nSources:\n- CNN: https://www.cnn.com/2026/11/03/science/red-blood-cells-dinosaur-bone\n- Live Science: https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims\n- Sci.News: https://www.sci.news/paleontology/cretaceous-dinosaur-red-blood-cells-15169.html\n- Phys.org: https://phys.org/news/2026-10-dinosaur-blood-oldest-discovery-rewrites.html\n\nAI-generated narration & visuals.\n#Dinosaur #Fossil #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक डायनासोर की करीब साढ़े ग्यारह करोड़ साल पुरानी हड्डी में, खून की कोशिकाओं के रासायनिक निशान मिलने का दावा किया गया है! लेकिन रुको, पूरी बात समझो।",
+   "caption": "Bhai, ek dinosaur ki kareeb saadhe gyaarah crore saal puraani haddi mein, khoon ki koshikaaon ke raasaayanik nishaan milne ka daawa kiya gaya hai! Lekin ruko, poori baat samjho.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Dinosaur का खून? 🩸",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "बड़ा दावा! ⚠️",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अराटासॉरस की हड्डी की कहानी। चलो समझते हैं!",
+   "caption": "Aratasaurus ki haddi ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "DINO",
+     "vs": "🩸",
+     "c": "BLOOD"
+    }
+   ]
+  },
+  {
+   "voice": "ये हड्डी है अराटासॉरस म्यूज़ियूनेशनली की, एक मांसाहारी थेरोपॉड डायनासोर, जो शुरुआती क्रिटेशियस काल में ब्राज़ील में रहता था।",
+   "caption": "Ye haddi hai Aratasaurus museunacionali ki, ek maansaahaari theropod dinosaur, jo shuruaati Cretaceous kaal mein Brazil mein rehta tha.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -7.2,
+     "lon": -39.5,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": -7.2,
+       "lon": -39.5,
+       "label": "Brazil",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन सा डायनासोर? 🦖"
+    },
+    {
+     "kind": "stk",
+     "text": "🦖 Aratasaurus",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🍖 थेरोपॉड",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "🇧🇷 ब्राज़ील",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ऑस्ट्रेलिया की कर्टिन यूनिवर्सिटी की टीम ने, हड्डी की उन नलियों में जहाँ कभी खून की नसें थीं, बहुत छोटी अंडाकार चीज़ें देखीं।",
+   "caption": "Australia ki Curtin University ki team ne, haddi ki un naliyon mein jahan kabhi khoon ki nasein thin, bahut chhoti andaakaar cheezein dekhin.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vHouse"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या मिला? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇦🇺 Curtin University",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🥚 छोटी अंडाकार चीज़ें",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इमेजिंग और स्पेक्ट्रोस्कोपी से, इन्हीं चीज़ों में हीम से जुड़े निशान मिले। हीम वही हिस्सा है, जो हमारे खून में ऑक्सीजन ले जाने वाले हीमोग्लोबिन में होता है।",
+   "caption": "Imaging aur spectroscopy se, inhi cheezon mein heme se jude nishaan mile. Heme wahi hissa hai, jo hamare khoon mein oxygen le jaane waale haemoglobin mein hota hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत क्या? 🧪"
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 स्पेक्ट्रोस्कोपी",
+     "f": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "हीम के निशान 🩸",
+     "color": "red",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, वैज्ञानिक ख़ुद कहते हैं कि असली खून या हीमोग्लोबिन प्रोटीन बचा नहीं है, बस उसके रासायनिक निशान हैं। ये रिसर्च पी एन ए एस में छपी है।",
+   "caption": "Lekin dhyaan rahe, vaigyanik khud kehte hain ki asli khoon ya haemoglobin protein bacha nahi hai, bas uske raasaayanik nishaan hain. Ye research PNAS mein chhapi hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ध्यान रहे ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "❌ असली खून नहीं",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🧪 सिर्फ़ रासायनिक निशान",
+     "f": 0.55,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 PNAS",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "और कुछ दूसरे एक्सपर्ट्स को इस पर शक भी है। उनका कहना है कि इन चीज़ों की शक्ल और साइज़, आज के पक्षियों जैसे रिश्तेदारों की लाल रक्त कोशिकाओं से पूरी तरह मेल नहीं खाते।",
+   "caption": "Aur kuchh doosre experts ko is par shak bhi hai. Unka kehna hai ki in cheezon ki shakl aur size, aaj ke pakshiyon jaise rishtedaaron ki laal rakt koshikaaon se poori tarah mel nahi khaate.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "शक भी है 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ शक्ल मेल नहीं खाती?",
+     "f": 0.3,
+     "color": "r"
+    },
+    {
+     "kind": "stamp",
+     "text": "बहस जारी ⚖️",
+     "color": "gold",
+     "f": 0.75
+    }
+   ]
+  },
+  {
+   "voice": "अगर ये सही निकला, तो जीवाश्मों से डायनासोर के शरीर के बारे में बहुत कुछ नया पता चल सकता है!",
+   "caption": "Agar ye sahi nikla, to jeevaashmon se dinosaur ke shareer ke baare mein bahut kuchh naya pata chal sakta hai!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब क्या? 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "जीवाश्म = नई जानकारी 🦴",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, क्या कभी डायनासोर को वापस लाया जा सकता है? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, kya kabhi dinosaur ko waapas laaya ja sakta hai? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या dinosaur वापस आ सकते हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: CNN, Live Science, Sci.News, Phys.org · Nov 2026"
+    }
+   ]
+  }
+ ]
+}

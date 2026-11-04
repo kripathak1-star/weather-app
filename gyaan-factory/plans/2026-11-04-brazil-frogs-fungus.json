@@ -1,0 +1,291 @@
+{
+ "title": "50 साल बाद खुला मेंढकों के ग़ायब होने का राज़! 🐸🔍 | 3D Gyaan",
+ "caption_keywords": [
+  "frogs",
+  "brazil",
+  "fungus",
+  "chytrid",
+  "museum",
+  "mystery",
+  "amphibian",
+  "3d",
+  "gyaan",
+  "forest"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "ग़ायब मेंढकों",
+  "line2": "का राज़! 🐸",
+  "badge": "🔍 50 साल"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "frogs",
+   "chytrid fungus",
+   "brazil",
+   "atlantic forest",
+   "museum specimens",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "1970s में Brazil के Atlantic Forest से मेंढक अचानक ग़ायब होने लगे थे। अब museum में रखे पुराने मेंढकों की जाँच से पता चला कि इसके पीछे एक fungus था! 🐸🔍 सब 3D में।\n\nSources:\n- Smithsonian: https://www.si.edu/newsdesk/releases/museum-specimens-reveal-pathogen-behind-decades-old-mystery-disappearing-frogs\n- Penn State: https://www.psu.edu/news/research/story/ecological-cold-case-solving-decades-old-mystery-disappearing-frogs\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/11/261102202838.htm\n- Phys.org: https://phys.org/news/2026-10-museum-specimens-reveal-pathogen-decades.html\n\nAI-generated narration & visuals.\n#Frogs #Science #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, उन्नीस सौ सत्तर के दशक में ब्राज़ील के जंगलों से मेंढक अचानक ग़ायब होने लगे थे, और किसी को पता नहीं था क्यों। अब, पचास साल बाद, ये राज़ खुला है!",
+   "caption": "Bhai, 1970 ke dashak mein Brazil ke junglon se medhak achaanak gaayab hone lage the, aur kisi ko pata nahi tha kyun. Ab, pachaas saal baad, ye raaz khula hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "ग़ायब मेंढक! 🐸",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "राज़ खुला! 🔍",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ब्राज़ील के ग़ायब मेंढकों की कहानी। चलो समझते हैं!",
+   "caption": "Brazil ke gaayab medhakon ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "FROGS",
+     "vs": "🔍",
+     "c": "MYSTERY"
+    }
+   ]
+  },
+  {
+   "voice": "ये हुआ था ब्राज़ील के अटलांटिक फ़ॉरेस्ट में, बोरासेया बायोलॉजिकल स्टेशन के पास।",
+   "caption": "Ye hua tha Brazil ke Atlantic Forest mein, Boraceia Biological Station ke paas.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -23.6,
+     "lon": -45.9,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": -23.6,
+       "lon": -45.9,
+       "label": "Boraceia",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🇧🇷 अटलांटिक फ़ॉरेस्ट",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 बोरासेया स्टेशन",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "स्मिथसोनियन और पेन स्टेट के वैज्ञानिकों ने म्यूज़ियम में रखे, सत्रह प्रजातियों के, तीन सौ सत्तर से ज़्यादा पुराने मेंढकों के सैंपल जाँचे।",
+   "caption": "Smithsonian aur Penn State ke vaigyanikon ne museum mein rakhe, satrah prajaatiyon ke, teen sau sattar se zyada puraane medhakon ke sample jaanche.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 10,
+     "lon": -60,
+     "dist": 1.5
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे जाँचा? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🏛️ Smithsonian + Penn State",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🐸 370+ सैंपल",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "🧬 17 प्रजातियाँ",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? उन्नीस सौ उन्यासी से पहले के किसी भी मेंढक में, काइट्रिड नाम के फ़ंगस का इन्फ़ेक्शन नहीं मिला। लेकिन उसके बाद ये दिखने लगा, ठीक उसी समय जब मेंढक कम होने लगे।",
+   "caption": "Nateeja? 1979 se pehle ke kisi bhi medhak mein, chytrid naam ke fungus ka infection nahi mila. Lekin uske baad ye dikhne laga, theek usi samay jab medhak kam hone lage.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "BEFORE 1979 · 0 INFECTED",
+       "value": 2,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "AFTER · FUNGUS FOUND",
+       "value": 60,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 🔍"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ 1979 से पहले: साफ़",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "फिर आया फ़ंगस 🍄",
+     "color": "red",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "मज़े की बात, ये फ़ंगस उन्नीस सौ निन्यानवे तक तो वैज्ञानिक रूप से पहचाना भी नहीं गया था! इसलिए दशकों तक ये रहस्य बना रहा।",
+   "caption": "Maze ki baat, ye fungus 1999 tak to vaigyanik roop se pehchaana bhi nahi gaya tha! Isliye dashakon tak ye rahasya bana raha.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "इतनी देर क्यों? ⏳"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 फ़ंगस की पहचान: 1999",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "अच्छी ख़बर ये है, कि उन्नीस सौ अस्सी के दशक की शुरुआत से ज़्यादातर प्रजातियाँ फिर से बढ़ गई हैं, और लगता है उन्होंने इस फ़ंगस को सहना सीख लिया है।",
+   "caption": "Achhi khabar ye hai, ki 1980 ke dashak ki shuruaat se zyaadatar prajaatiyan phir se badh gayi hain, aur lagta hai unhone is fungus ko sahna seekh liya hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अच्छी ख़बर 😊"
+    },
+    {
+     "kind": "stamp",
+     "text": "मेंढक लौटे! 🐸",
+     "color": "green",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "💪 फ़ंगस सहना सीखा",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये रिसर्च मॉलिक्यूलर इकोलॉजी जर्नल में छपी है, और दिखाती है कि म्यूज़ियम में रखे पुराने सैंपल भी आज के बड़े सवालों के जवाब दे सकते हैं!",
+   "caption": "Ye research Molecular Ecology journal mein chhapi hai, aur dikhaati hai ki museum mein rakhe puraane sample bhi aaj ke bade sawaalon ke jawaab de sakte hain!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ा सबक 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Molecular Ecology",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🏛️ म्यूज़ियम = ख़ज़ाना",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, म्यूज़ियम में और कौन से राज़ छुपे हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, museum mein aur kaun se raaz chhupe hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Museum में और कौन से राज़ हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Smithsonian, Penn State, ScienceDaily, Phys.org · 2026"
+    }
+   ]
+  }
+ ]
+}
