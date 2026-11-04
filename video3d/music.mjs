@@ -2,13 +2,15 @@
 //   node music.mjs out.wav
 import fs from 'node:fs';
 
-const SR = 44100, DUR = 600, N = SR * DUR;
+const CFG = process.env.MUSIC_CFG ? JSON.parse(fs.readFileSync(process.env.MUSIC_CFG)) : null;
+const SR = 44100, DUR = CFG ? CFG.dur : 600, N = SR * DUR;
 const L = new Float32Array(N), R = new Float32Array(N);
 let seed = 7; const rnd = () => ((seed = (seed * 16807) % 2147483647) / 2147483647) * 2 - 1;
 
 // chapter intensity (0 calm .. 1 full drums)
 const SECTIONS = [[0, 20, 1.0], [20, 60, 0.45], [60, 150, 0.65], [150, 240, 0.8], [240, 300, 0.3], [300, 320, 1.0],
   [320, 400, 0.85], [400, 470, 0.55], [470, 530, 0.5], [530, 572, 1.0], [572, 600, 0.35]];
+if (CFG) SECTIONS.splice(0, SECTIONS.length, ...CFG.sections);
 const BOUNDS = SECTIONS.map(s => s[0]).filter(t => t > 0);
 const intensityAt = t => { for (const [a, b, v] of SECTIONS) if (t >= a && t < b) return v; return 0.3; };
 
@@ -106,8 +108,9 @@ function thunder(t0, amp) {
     const v = (crack * 0.5 + rumble) * amp; L[s0 + j] += v; R[s0 + j] += v * 0.85;
   }
 }
-[...HB, ...OB, ...HOOK].forEach(t => thunder(t, 0.55));
-FB.forEach(t => thunder(t, 0.4));
+if (!CFG || CFG.thunder) { [...HB, ...OB, ...HOOK].forEach(t => thunder(t, 0.55)); FB.forEach(t => thunder(t, 0.4)); }
+// optional tanpura-style drone (Sa-Pa-Sa) with slow pluck cycle
+if (CFG && CFG.drone) { const notes = [45, 52, 57, 45]; for (let t = 0; t < DUR; t += 0.9) { const f = midi(notes[Math.round(t / 0.9) % 4]); const s0 = Math.floor(t * SR), len = SR * 3.2; for (let j = 0; j < len && s0 + j < N; j++) { const tt = j / SR, e = Math.exp(-tt * 1.1) * Math.min(1, tt * 60); let v = 0; for (let h = 1; h <= 7; h++) v += Math.sin(2 * Math.PI * f * h * tt + h) / (h * (1 + Math.abs(h - 4) * 0.3)); v *= e * 0.022; L[s0 + j] += v; R[s0 + j] += v * 0.9; } } }
 
 // ---- master: fades + soft clip ----
 let peak = 0;

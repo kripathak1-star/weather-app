@@ -21,7 +21,7 @@ const server = http.createServer((req, res) => {
   fs.createReadStream(file).pipe(res);
 }).listen(0);
 const GS = process.env.GS || '1';
-const url = `http://localhost:${server.address().port}/long.html?capture&gs=${GS}`;
+const url = `http://localhost:${server.address().port}/${process.env.PAGE || 'long.html'}?capture&gs=${GS}`;
 
 async function openPage() {
   const browser = await chromium.launch({ args: ['--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader'] });
@@ -50,7 +50,7 @@ if (argv[0] === '--preview') {
 }
 
 const FPS = Number(argv[0] || 30), WORKERS = Number(argv[1] || 3);
-const DURATION = 600, total = DURATION * FPS, per = Math.ceil(total / WORKERS);
+const DURATION = Number(process.env.DUR || 600), total = DURATION * FPS, per = Math.ceil(total / WORKERS);
 const started = Date.now();
 await Promise.all([...Array(WORKERS).keys()].map(async w => {
   const from = w * per, to = Math.min(total, from + per);
@@ -82,7 +82,7 @@ await run(['-y', '-loglevel', 'error',
 
 const list = path.join(outDir, 'list.txt');
 fs.writeFileSync(list, [...Array(WORKERS).keys()].map(w => `file 'chunk_${w}.mp4'`).join('\n'));
-const final = path.join(root, 'every-sky-10min.mp4');
+const final = path.join(root, process.env.OUT || 'every-sky-10min.mp4');
 await run(['-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', list, '-i', path.join(outDir, 'audio.m4a'),
   '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'copy', '-shortest', '-movflags', '+faststart', final]);
 console.log('wrote', final, `in ${((Date.now() - started) / 60000).toFixed(1)} min`);

@@ -4,18 +4,18 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 
-const [voDir, music, video, out] = process.argv.slice(2);
-const SR = 24000, DUR = 600, N = SR * DUR;
-const lines = JSON.parse(fs.readFileSync(new URL('./narration.json', import.meta.url)));
+const [voDir, music, video, out, narr] = process.argv.slice(2);
+const SR = 24000, DUR = Number(process.env.DUR || 600), N = SR * DUR;
+const lines = JSON.parse(fs.readFileSync(narr || new URL('./narration.json', import.meta.url)));
 const voice = new Float32Array(N);
 const readWav = f => { const b = fs.readFileSync(f); const d = new Int16Array(b.buffer.slice(b.byteOffset + 44, b.byteOffset + b.length)); return Float32Array.from(d, x => x / 32768); };
 const place = (file, t) => { const s = readWav(file), o = Math.floor(t * SR); for (let i = 0; i < s.length && o + i < N; i++) voice[o + i] += s[i]; };
 
 lines.forEach((l, i) => {
-  if (['Three.', 'Two.', 'One.'].includes(l.text)) return;   // replaced by one countdown clip
-  place(path.join(voDir, `n${String(i).padStart(2, '0')}.wav`), l.t);
+  if (!narr && ['Three.', 'Two.', 'One.'].includes(l.text)) return;   // replaced by one countdown clip
+  place(path.join(voDir, `${l.id || 'n' + String(i).padStart(2, '0')}.wav`), l.t);
 });
-place(path.join(voDir, 'cd.wav'), 534.9);
+if (!narr) place(path.join(voDir, 'cd.wav'), 534.9);
 
 const wavBuf = Buffer.alloc(44 + N * 2);
 wavBuf.write('RIFF', 0); wavBuf.writeUInt32LE(36 + N * 2, 4); wavBuf.write('WAVEfmt ', 8); wavBuf.writeUInt32LE(16, 16);
@@ -26,7 +26,7 @@ const voiceWav = path.join(path.dirname(out), 'build', 'voice.wav');
 fs.writeFileSync(voiceWav, wavBuf);
 
 // rain/wind bed that follows the chapters (same curve as before, a bit quieter under the music)
-const loud = '0.7*between(t,0,6)+0.25*between(t,6,20)+0.4*between(t,150,240)+0.2*between(t,300,320)+0.8*between(t,320,400)+0.55*between(t,400,470)+0.7*between(t,530,572)+0.05';
+const loud = process.env.RAIN === '0' ? '0' : '0.7*between(t,0,6)+0.25*between(t,6,20)+0.4*between(t,150,240)+0.2*between(t,300,320)+0.8*between(t,320,400)+0.55*between(t,400,470)+0.7*between(t,530,572)+0.05';
 const filter = [
   `[1]aresample=44100,pan=stereo|c0=c0|c1=c0,highpass=f=80,acompressor=threshold=-20dB:ratio=3:attack=5:release=80,volume=2.0,asplit=2[vo][sc]`,
   `[3]lowpass=f=900,volume='${loud}':eval=frame[rain]`,
