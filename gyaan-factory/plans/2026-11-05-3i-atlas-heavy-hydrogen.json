@@ -1,0 +1,283 @@
+{
+ "title": "दूसरे तारे से आए Comet में अजीब 'भारी हाइड्रोजन'! ☄️ 3I/ATLAS | 3D Gyaan",
+ "caption_keywords": [
+  "3i/atlas",
+  "comet",
+  "interstellar",
+  "jwst",
+  "methane",
+  "deuterium",
+  "hydrogen",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Interstellar",
+  "line2": "Comet! ☄️",
+  "badge": "🔭 3I/ATLAS"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "3i/atlas",
+   "interstellar comet",
+   "jwst",
+   "deuterium",
+   "methane",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "दूसरे तारे के पास से आए comet 3I/ATLAS की methane में 'heavy hydrogen' (deuterium) का अनुपात, हमारे सौर मंडल में अब तक नापी गई किसी भी methane से ज़्यादा निकला! ☄️ ये इसके जन्मस्थान के बारे में क्या बताता है? सब 3D में।\n\nSources:\n- Nature Astronomy: https://www.nature.com/articles/s41550-026-03002-5\n- Phys.org: https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html\n- The Debrief: https://thedebrief.org/webb-telescope-detects-unusually-high-levels-of-heavy-hydrogen-a-key-component-of-nuclear-fusion-fuel-in-3i-atlas/\n\nAI-generated narration & visuals.\n#3IATLAS #Comet #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक धूमकेतु जो किसी दूसरे तारे के पास से आया है, उसमें कुछ ऐसा मिला है जो हमारे पूरे सौर मंडल में कहीं नहीं दिखा!",
+   "caption": "Bhai, ek dhoomketu jo kisi doosre taare ke paas se aaya hai, usmein kuchh aisa mila hai jo hamare poore saur mandal mein kahin nahi dikha!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "दूसरे तारे का Comet! ☄️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "रिकॉर्ड! 🏆",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "थ्री आई एटलस के राज़ की कहानी। चलो समझते हैं!",
+   "caption": "3I/ATLAS ke raaz ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "3I/ATLAS",
+     "vs": "☄️",
+     "c": "HYDROGEN"
+    }
+   ]
+  },
+  {
+   "voice": "थ्री आई एटलस अब तक पहचाना गया तीसरा इंटरस्टेलर ऑब्जेक्ट है, यानी ऐसी चीज़ जो हमारे सौर मंडल के बाहर से आई।",
+   "caption": "3I/ATLAS ab tak pehchaana gaya teesra interstellar object hai, yaani aisi cheez jo hamare saur mandal ke baahar se aayi.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन है ये? ☄️"
+    },
+    {
+     "kind": "stk",
+     "text": "3️⃣ तीसरा इंटरस्टेलर मेहमान",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌌 सौर मंडल के बाहर से",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "जेम्स वेब स्पेस टेलीस्कोप ने इसके चारों ओर की गैस के इंफ़्रारेड स्पेक्ट्रा लिए, और उसमें मीथेन गैस को जाँचा।",
+   "caption": "James Webb Space Telescope ne iske chaaron or ki gas ke infrared spectra liye, aur usmein methane gas ko jaancha.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे जाँचा? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🔭 JWST",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌈 इंफ़्रारेड स्पेक्ट्रा",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "💨 मीथेन गैस",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "हाइड्रोजन का एक भारी रूप होता है, ड्यूटेरियम। इस धूमकेतु की मीथेन में ड्यूटेरियम और हाइड्रोजन का अनुपात करीब तीन दशमलव दो प्रतिशत निकला।",
+   "caption": "Hydrogen ka ek bhaari roop hota hai, deuterium. Is dhoomketu ki methane mein deuterium aur hydrogen ka anupaat kareeb 3.2 pratishat nikla.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या मिला? ⚛️"
+    },
+    {
+     "kind": "stk",
+     "text": "⚛️ ड्यूटेरियम = भारी हाइड्रोजन",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "~3.2% D/H 🤯",
+     "color": "gold",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "ये हमारे सौर मंडल के धूमकेतु सत्तासठ पी से करीब तेरह गुना ज़्यादा है, और सौर मंडल में अब तक नापी गई किसी भी मीथेन से ज़्यादा!",
+   "caption": "Ye hamare saur mandal ke dhoomketu 67P se kareeb terah guna zyada hai, aur saur mandal mein ab tak naapi gayi kisi bhi methane se zyada!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "COMET 67P · 1×",
+       "value": 1,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "3I/ATLAS · ~13×",
+       "value": 13,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "तुलना 📊"
+    },
+    {
+     "kind": "stamp",
+     "text": "~13 गुना! 🔥",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों के मुताबिक़, ये इशारा है कि ये धूमकेतु किसी बहुत ठंडी जगह पैदा हुआ, जहाँ भारी तत्व कम थे और कॉस्मिक किरणें ज़्यादा।",
+   "caption": "Vaigyanikon ke mutaabik, ye ishaara hai ki ye dhoomketu kisi bahut thandi jagah paida hua, jahan bhaari tatva kam the aur cosmic kiranein zyada.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब क्या? 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "🥶 बहुत ठंडा जन्मस्थान",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "☢️ ज़्यादा कॉस्मिक किरणें",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "ये रिसर्च नेचर एस्ट्रोनॉमी में छपी है। यानी, एक धूमकेतु से हम किसी दूसरे तारे के आसपास का हाल जान पा रहे हैं!",
+   "caption": "Ye research Nature Astronomy mein chhapi hai. Yaani, ek dhoomketu se hum kisi doosre taare ke aaspaas ka haal jaan paa rahe hain!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ी बात 🌟"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature Astronomy",
+     "f": 0.15
+    },
+    {
+     "kind": "stamp",
+     "text": "दूसरे तारे की झलक 🌌",
+     "color": "green",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अगला इंटरस्टेलर मेहमान कब आएगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, agla interstellar mehmaan kab aayega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अगला interstellar मेहमान कब?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Nature Astronomy, Phys.org, The Debrief · 2026"
+    }
+   ]
+  }
+ ]
+}

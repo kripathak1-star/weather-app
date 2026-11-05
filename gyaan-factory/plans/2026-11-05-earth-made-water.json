@@ -1,0 +1,281 @@
+{
+ "title": "धरती ने ख़ुद बनाया अपना पानी?! 💧🌍 नई Lab रिसर्च | 3D Gyaan",
+ "caption_keywords": [
+  "earth",
+  "water",
+  "planet",
+  "hydrogen",
+  "formation",
+  "ocean",
+  "geoscience",
+  "3d",
+  "gyaan",
+  "science"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "धरती ने बनाया",
+  "line2": "अपना पानी? 💧",
+  "badge": "🔬 LAB TEST"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "earth water origin",
+   "planet formation",
+   "hydrogen",
+   "nature geoscience",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "धरती पर पानी कहाँ से आया? नई lab रिसर्च कहती है कि बनती हुई धरती ने हाइड्रोजन और चट्टानों की reaction से ख़ुद भी कुछ पानी बनाया होगा! 💧🌍 लेकिन कितना, ये अभी पक्का नहीं। सब 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-10-earth-planet-grew.html\n- SciTechDaily: https://scitechdaily.com/researchers-discover-earth-may-have-made-its-own-water-4-5-billion-years-ago/\n- Quanta Magazine: https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/\n\nAI-generated narration & visuals.\n#Earth #Water #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, धरती पर इतने सारे समुद्र, इतना पानी, आख़िर आया कहाँ से? एक नई रिसर्च कहती है, शायद धरती ने अपना कुछ पानी ख़ुद बनाया!",
+   "caption": "Bhai, dharti par itne saare samudra, itna paani, aakhir aaya kahan se? Ek nayi research kehti hai, shaayad dharti ne apna kuchh paani khud banaaya!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "धरती का पानी 💧",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "ख़ुद बनाया? 🤔",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "धरती के पानी की कहानी। चलो समझते हैं!",
+   "caption": "Dharti ke paani ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "EARTH",
+     "vs": "💧",
+     "c": "WATER"
+    }
+   ]
+  },
+  {
+   "voice": "लंबे समय से एक बड़ा आइडिया ये रहा है, कि धरती का पानी बाहर से आया, जैसे बर्फ़ीले एस्टेरॉयड्स और धूमकेतुओं से।",
+   "caption": "Lambe samay se ek bada idea ye raha hai, ki dharti ka paani baahar se aaya, jaise barfeele asteroids aur dhoomketuon se.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पुराना आइडिया ☄️"
+    },
+    {
+     "kind": "stk",
+     "text": "☄️ बाहर से आया पानी",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "अब नेचर जियोसाइंस में छपी एक स्टडी में, सुस्मिता गराई और उनके साथियों ने लैब में बहुत ऊँचे तापमान पर प्रयोग किए।",
+   "caption": "Ab Nature Geoscience mein chhapi ek study mein, Susmita Garai aur unke saathiyon ne lab mein bahut oonche taapmaan par prayog kiye.",
+   "shots": [
+    {
+     "type": "city",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नई स्टडी 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature Geoscience",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 बहुत ऊँचा तापमान",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "उन्होंने देखा कि जब बनती हुई धरती के हाइड्रोजन वाले वायुमंडल से चट्टानी कंकड़ गिरते हैं, तो क्या होता है।",
+   "caption": "Unhone dekha ki jab banti hui dharti ke hydrogen waale vaayumandal se chattaani kankad girte hain, to kya hota hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 10,
+     "lon": 20,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "प्रयोग क्या? 🧪"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 चट्टानी कंकड़",
+     "f": 0.25
+    },
+    {
+     "kind": "stk",
+     "text": "💨 हाइड्रोजन वायुमंडल",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? हाइड्रोजन के साथ, करीब अस्सी प्रतिशत आयरन ऑक्साइड, आयरन धातु में बदल गया, और पानी की भाप बनी! लेकिन हीलियम के साथ ऐसा कुछ नहीं हुआ।",
+   "caption": "Nateeja? Hydrogen ke saath, kareeb assi pratishat iron oxide, iron dhaatu mein badal gaya, aur paani ki bhaap bani! Lekin helium ke saath aisa kuchh nahi hua.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "WITH HYDROGEN · ~80% REACTED",
+       "value": 80,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "WITH HELIUM · NO REACTION",
+       "value": 2,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 💧"
+    },
+    {
+     "kind": "stamp",
+     "text": "पानी बना! 💧",
+     "color": "green",
+     "f": 0.45,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "❌ हीलियम: कुछ नहीं",
+     "f": 0.85,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, वैज्ञानिक ख़ुद कहते हैं कि ये तरीका संभव है, पर इससे धरती का कितना पानी बना, ये अभी पता नहीं। कुछ वैज्ञानिकों को इस पर शक भी है।",
+   "caption": "Lekin dhyaan rahe, vaigyanik khud kehte hain ki ye tareeka sambhav hai, par isse dharti ka kitna paani bana, ye abhi pata nahi. Kuchh vaigyanikon ko is par shak bhi hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पक्का है? ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ तरीका संभव",
+     "f": 0.15,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ कितना पानी? पता नहीं",
+     "f": 0.5,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🤔 कुछ को शक",
+     "f": 0.85,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "अगर ग्रह ख़ुद पानी बना सकते हैं, तो ब्रह्मांड में पानी वाले ग्रह शायद हमारी सोच से ज़्यादा आम हों!",
+   "caption": "Agar grah khud paani bana sakte hain, to brahmaand mein paani waale grah shaayad hamari soch se zyada aam hon!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ी बात 🌌"
+    },
+    {
+     "kind": "stamp",
+     "text": "और पानी वाले ग्रह? 🪐",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, धरती का पानी कहाँ से आया? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, dharti ka paani kahan se aaya? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "धरती का पानी कहाँ से आया?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, SciTechDaily, Quanta Magazine · 2026"
+    }
+   ]
+  }
+ ]
+}

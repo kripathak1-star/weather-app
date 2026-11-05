@@ -1,0 +1,296 @@
+{
+ "title": "9.9 करोड़ साल पुरानी छिपकली की पूँछ! 🦎 Amber में क़ैद राज़ | 3D Gyaan",
+ "caption_keywords": [
+  "lizard",
+  "tail",
+  "amber",
+  "fossil",
+  "myanmar",
+  "cretaceous",
+  "autotomy",
+  "3d",
+  "gyaan",
+  "nature"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "छिपकली की",
+  "line2": "पूँछ! 🦎",
+  "badge": "🟠 AMBER 99M"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "lizard tail",
+   "amber fossil",
+   "autotomy",
+   "cretaceous",
+   "fossil",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "करीब 9.9 करोड़ साल पुराने amber में क़ैद एक छिपकली की पूँछ, जो साफ़ तरीके से 'छोड़ी' गई थी, छिपकलियों की पूँछ छोड़ने की आदत का पहला सीधा fossil सबूत! 🦎 सब 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-10-lizard-tail-amber-million-year.html\n- SciTechDaily: https://scitechdaily.com/trapped-in-amber-for-99-million-years-a-lizards-tail-reveals-an-ancient-survival-secret/\n- Palaeontologia Electronica: https://palaeo-electronica.org/content/2026/5967-first-fossil-evidence-for-a-dropped-lizard-tail\n\nAI-generated narration & visuals.\n#Fossil #Lizard #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, तुमने देखा होगा, खतरे में छिपकली अपनी पूँछ छोड़कर भाग जाती है। अब वैज्ञानिकों को इसका करीब नौ करोड़ नब्बे लाख साल पुराना सबूत मिला है!",
+   "caption": "Bhai, tumne dekha hoga, khatre mein chhipkali apni poonchh chhodkar bhaag jaati hai. Ab vaigyanikon ko iska kareeb 9 crore 90 laakh saal puraana saboot mila hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "छिपकली की पूँछ! 🦎",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "9.9 करोड़ साल 🟠",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "एम्बर में क़ैद पूँछ की कहानी। चलो समझते हैं!",
+   "caption": "Amber mein qaid poonchh ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "LIZARD",
+     "vs": "🟠",
+     "c": "AMBER"
+    }
+   ]
+  },
+  {
+   "voice": "एम्बर, यानी पेड़ों का पुराना जमा हुआ गोंद। उत्तरी म्यांमार से मिले, करीब अठारह मिलीमीटर के एम्बर के टुकड़े में, एक छिपकली की पूँछ क़ैद है।",
+   "caption": "Amber, yaani pedon ka puraana jama hua gond. Uttari Myanmar se mile, kareeb atharah millimetre ke amber ke tukde mein, ek chhipkali ki poonchh qaid hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 26.0,
+     "lon": 96.5,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 26.0,
+       "lon": 96.5,
+       "label": "Myanmar",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या मिला? 🟠"
+    },
+    {
+     "kind": "stk",
+     "text": "🌳 एम्बर = जमा गोंद",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "📍 उत्तरी म्यांमार",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 ~18 mm टुकड़ा",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "माइक्रो सी टी स्कैन से दिखा कि पूँछ एक साफ़, बराबर जगह से अलग हुई थी, बिल्कुल वैसे, जैसे आज की छिपकलियाँ जानबूझ कर पूँछ छोड़ती हैं।",
+   "caption": "Micro CT scan se dikha ki poonchh ek saaf, baraabar jagah se alag hui thi, bilkul waise, jaise aaj ki chhipkaliyan jaanbookh kar poonchh chhodti hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vHouse"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत क्या? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 माइक्रो-CT स्कैन",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "✂️ साफ़, बराबर टूटन",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इसे ऑटोटॉमी कहते हैं, अपने शरीर का हिस्सा छोड़कर जान बचाना। रिसर्चर्स के मुताबिक़, ये इसका पहला सीधा फ़ॉसिल सबूत है।",
+   "caption": "Ise autotomy kehte hain, apne shareer ka hissa chhodkar jaan bachaana. Researchers ke mutaabik, ye iska pehla seedha fossil saboot hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Autotomy क्या? 🦎"
+    },
+    {
+     "kind": "stk",
+     "text": "🏃 पूँछ छोड़ो, जान बचाओ",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "पहला सीधा सबूत 🥇",
+     "color": "green",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "और क्योंकि आज की छिपकलियाँ नई पूँछ उगा लेती हैं, वैज्ञानिकों का अनुमान है कि पूँछ दोबारा उगाने वाले जीन भी शायद तब से मौजूद थे।",
+   "caption": "Aur kyunki aaj ki chhipkaliyan nayi poonchh uga leti hain, vaigyanikon ka anumaan hai ki poonchh dobaara ugaane waale gene bhi shaayad tab se maujood the.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "THIS FOSSIL · ~99M YRS",
+       "value": 99,
+       "color": "#ffd23f"
+      },
+      {
+       "label": "T-REX · ~66M YRS",
+       "value": 66,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "और क्या? 🧬"
+    },
+    {
+     "kind": "stk",
+     "text": "🔁 पूँछ दोबारा उगाना",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🤔 अनुमान, पक्का नहीं",
+     "f": 0.7,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ये नहीं पता कि छिपकली कौन सी प्रजाति थी, उसने पूँछ क्यों छोड़ी, या वो बची या नहीं। शायद वो गोंद में फँसी, या किसी शिकारी से भागी।",
+   "caption": "Lekin ye nahi pata ki chhipkali kaun si prajaati thi, usne poonchh kyun chhodi, ya wo bachi ya nahi. Shaayad wo gond mein phansi, ya kisi shikaari se bhaagi.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अनसुलझा ❓"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ कौन सी प्रजाति?",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "❓ क्यों छोड़ी?",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "❓ बची या नहीं?",
+     "f": 0.65,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ये रिसर्च पैलियोंटोलॉजिया इलेक्ट्रॉनिका जर्नल में छपी है। एक छोटी सी पूँछ, और करोड़ों साल पुरानी कहानी!",
+   "caption": "Ye research Palaeontologia Electronica journal mein chhapi hai. Ek chhoti si poonchh, aur karodon saal puraani kahani!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबक 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Palaeontologia Electronica",
+     "f": 0.2
+    },
+    {
+     "kind": "stamp",
+     "text": "छोटी पूँछ, बड़ी कहानी 🦎",
+     "color": "gold",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, एम्बर में और कौन से जीव क़ैद होंगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, amber mein aur kaun se jeev qaid honge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Amber में और कौन से जीव होंगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, SciTechDaily, Palaeontologia Electronica · 2026"
+    }
+   ]
+  }
+ ]
+}
