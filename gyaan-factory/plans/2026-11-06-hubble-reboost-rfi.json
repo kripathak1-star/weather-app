@@ -151,19 +151,8 @@
    "caption": "NASA chahta hai ki agar dhakela jaaye, to Hubble kam se kam chhe sau kilometre ki oonchaai tak pahunche, aur ye mission 2032 tak ho jaaye.",
    "shots": [
     {
-     "type": "bars",
-     "items": [
-      {
-       "label": "TARGET · ≥600 KM",
-       "value": 600,
-       "color": "#3dff8f"
-      },
-      {
-       "label": "DEADLINE · 2032",
-       "value": 400,
-       "color": "#ffd23f"
-      }
-     ]
+     "type": "preset",
+     "name": "shells"
     }
    ],
    "overlay": [
