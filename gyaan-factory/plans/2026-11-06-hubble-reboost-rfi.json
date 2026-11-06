@@ -1,0 +1,294 @@
+{
+ "title": "Hubble को बचाने का Plan! 🔭🛟 NASA ने मांगे Ideas | 3D Gyaan",
+ "caption_keywords": [
+  "hubble",
+  "nasa",
+  "reboost",
+  "telescope",
+  "orbit",
+  "rescue",
+  "space",
+  "3d",
+  "gyaan",
+  "2032"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Hubble को",
+  "line2": "बचाओ! 🛟",
+  "badge": "🔭 NASA PLAN"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "hubble",
+   "nasa",
+   "reboost",
+   "space telescope",
+   "hubble rescue",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Hubble Space Telescope धीरे धीरे नीचे आ रहा है! NASA ने कंपनियों से ideas मांगे हैं: इसे ऊपर धकेलें, ठीक करें, या सुरक्षित तरीके से नीचे लाएँ। 🔭🛟 सब 3D में।\n\nSources:\n- KeepTrack: https://keeptrack.space/space-brief/space-brief-2026-11-01\n- Make Tech Easier: https://maketecheasier.com/hubble-no-propulsion-reboost/\n- TS2: https://ts2.tech/en/nasa-seeks-hubble-servicing-plans-with-600-kilometre-boost-target/\n\nAI-generated narration & visuals.\n#Hubble #NASA #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, दुनिया का सबसे मशहूर स्पेस टेलीस्कोप, हबल, धीरे धीरे धरती की तरफ़ गिर रहा है। अब नासा इसे बचाने के तरीक़े ढूंढ रहा है!",
+   "caption": "Bhai, duniya ka sabse mashhoor space telescope, Hubble, dheere dheere dharti ki taraf gir raha hai. Ab NASA ise bachaane ke tareeqe dhoondh raha hai!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Hubble को बचाओ! 🛟",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "NASA Plan 🔭",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "हबल को बचाने की कहानी। चलो समझते हैं!",
+   "caption": "Hubble ko bachaane ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "HUBBLE",
+     "vs": "🛟",
+     "c": "RESCUE"
+    }
+   ]
+  },
+  {
+   "voice": "हबल का अपना कोई इंजन नहीं है। हवा के बहुत हल्के खिंचाव से इसकी कक्षा धीरे धीरे नीचे आ रही है। अंदाज़ा है कि ये दो हज़ार तैंतीस या चौंतीस के आसपास वायुमंडल में आ सकता है।",
+   "caption": "Hubble ka apna koi engine nahi hai. Hawa ke bahut halke khinchaav se iski kaksha dheere dheere neeche aa rahi hai. Andaaza hai ki ye 2033 ya 34 ke aaspaas vaayumandal mein aa sakta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दिक्कत क्या? 📉"
+    },
+    {
+     "kind": "stk",
+     "text": "🚫 अपना इंजन नहीं",
+     "f": 0.15,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "📉 कक्षा नीचे आ रही",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "📅 ~2033–34",
+     "f": 0.8,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इसलिए उनतीस अक्टूबर को नासा ने कंपनियों से आइडियाज़ मांगे। तीन रास्ते, हबल को ऊपर धकेलना, उसकी मरम्मत, या उसे सुरक्षित तरीके से नीचे लाना।",
+   "caption": "Isliye 29 October ko NASA ne companiyon se ideas maange. Teen raaste, Hubble ko upar dhakelna, uski marammat, ya use surakshit tareeke se neeche laana.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "NASA ने क्या किया? 📢"
+    },
+    {
+     "kind": "stk",
+     "text": "⬆️ ऊपर धकेलो",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🔧 मरम्मत",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⬇️ सुरक्षित नीचे",
+     "f": 0.7,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "नासा चाहता है कि अगर धकेला जाए, तो हबल कम से कम छह सौ किलोमीटर की ऊँचाई तक पहुँचे, और ये मिशन दो हज़ार बत्तीस तक हो जाए।",
+   "caption": "NASA chahta hai ki agar dhakela jaaye, to Hubble kam se kam chhe sau kilometre ki oonchaai tak pahunche, aur ye mission 2032 tak ho jaaye.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "TARGET · ≥600 KM",
+       "value": 600,
+       "color": "#3dff8f"
+      },
+      {
+       "label": "DEADLINE · 2032",
+       "value": 400,
+       "color": "#ffd23f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "लक्ष्य 🎯"
+    },
+    {
+     "kind": "stamp",
+     "text": "≥600 km ⬆️",
+     "color": "green",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2032 तक",
+     "f": 0.8,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "कंपनियों को तीस नवंबर तक जवाब देना है। लेकिन ध्यान रहे, ये सिर्फ़ आइडियाज़ की माँग है, नासा ने अभी किसी मिशन के लिए पैसे का वादा नहीं किया है।",
+   "caption": "Companiyon ko 30 November tak jawaab dena hai. Lekin dhyaan rahe, ye sirf ideas ki maang hai, NASA ne abhi kisi mission ke liye paise ka vaada nahi kiya hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ध्यान रहे ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 जवाब: 30 नवंबर तक",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "💸 अभी पैसे का वादा नहीं",
+     "f": 0.65,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "हबल उन्नीस सौ नब्बे से काम कर रहा है, और इसने ब्रह्मांड की हमारी समझ बदल दी। इसलिए दुनिया भर के वैज्ञानिक चाहते हैं कि ये और लंबा चले!",
+   "caption": "Hubble 1990 se kaam kar raha hai, aur isne brahmaand ki hamari samajh badal di. Isliye duniya bhar ke vaigyanik chahte hain ki ye aur lamba chale!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ज़रूरी? 💙"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 1990 से काम",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "ब्रह्मांड की आँख 👁️",
+     "color": "gold",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "और याद है, कुछ दिन पहले नासा का स्विफ़्ट टेलीस्कोप ऐसे ही नीचे आकर जल गया था। हबल के साथ ऐसा ना हो, यही कोशिश है!",
+   "caption": "Aur yaad hai, kuchh din pehle NASA ka Swift telescope aise hi neeche aakar jal gaya tha. Hubble ke saath aisa na ho, yahi koshish hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबक 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 Swift: 4 नवंबर को जला",
+     "f": 0.3,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🛟 Hubble को बचाना है",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, हबल को बचाना चाहिए या नए टेलीस्कोप पर पैसा लगाना चाहिए? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Hubble ko bachaana chahiye ya naye telescope par paisa lagaana chahiye? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Hubble बचाएँ या नया telescope?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: KeepTrack, Make Tech Easier, TS2 · Nov 2026"
+    }
+   ]
+  }
+ ]
+}

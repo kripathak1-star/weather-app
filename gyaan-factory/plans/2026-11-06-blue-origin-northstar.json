@@ -1,0 +1,298 @@
+{
+ "title": "Blue Origin का नया Northstar Engine! 🚀🔥 3D-Printed ताक़त | 3D Gyaan",
+ "caption_keywords": [
+  "blue",
+  "origin",
+  "new",
+  "glenn",
+  "northstar",
+  "engine",
+  "rocket",
+  "3d",
+  "gyaan",
+  "bezos"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Northstar",
+  "line2": "Engine! 🔥",
+  "badge": "🚀 BLUE ORIGIN"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "blue origin",
+   "new glenn",
+   "northstar engine",
+   "rocket engine",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Blue Origin ने अपने New Glenn रॉकेट के लिए नया Northstar engine और एक तीसरी stage, GS3, दिखाई! 🚀🔥 कम पुर्ज़े, ज़्यादा ताक़त, 65% से ज़्यादा 3D-printed। सब 3D में।\n\nSources:\n- Space.com: https://space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine\n- NASASpaceFlight: https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/\n\nAI-generated narration & visuals.\n#BlueOrigin #Rocket #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, जेफ़ बेज़ोस की कंपनी ब्लू ओरिजिन ने एक नया रॉकेट इंजन दिखाया है, जो पुराने से हल्का है, कम पुर्ज़ों वाला है, और ज़्यादा ताक़तवर है!",
+   "caption": "Bhai, Jeff Bezos ki company Blue Origin ne ek naya rocket engine dikhaaya hai, jo puraane se halka hai, kam purzon wala hai, aur zyada taaqatvar hai!",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 28.6,
+     "lon": -80.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "नया Engine! 🔥",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Northstar 🚀",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ब्लू ओरिजिन के नॉर्थस्टार इंजन की कहानी। चलो समझते हैं!",
+   "caption": "Blue Origin ke Northstar engine ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "BLUE ORIGIN",
+     "vs": "🔥",
+     "c": "NORTHSTAR"
+    }
+   ]
+  },
+  {
+   "voice": "पाँच नवंबर को, अमेरिका के केनेडी स्पेस सेंटर में, ब्लू ओरिजिन ने दो नई चीज़ें दिखाईं, नॉर्थस्टार इंजन, और न्यू ग्लेन रॉकेट के लिए तीसरी स्टेज।",
+   "caption": "5 November ko, America ke Kennedy Space Center mein, Blue Origin ne do nayi cheezein dikhaayin, Northstar engine, aur New Glenn rocket ke liye teesri stage.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 28.6,
+     "lon": -80.6,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 28.6,
+       "lon": -80.6,
+       "label": "Kennedy",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब और कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 5 नवंबर",
+     "f": 0.1
+    },
+    {
+     "kind": "stk",
+     "text": "📍 केनेडी स्पेस सेंटर",
+     "f": 0.35,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🆕 2 नई चीज़ें",
+     "f": 0.75,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नॉर्थस्टार, लिक्विड ऑक्सीजन और लिक्विफ़ाइड नेचुरल गैस से चलने वाला बूस्टर इंजन है। ये पुराने बी ई फ़ोर इंजन के मुक़ाबले करीब सात लाख पंद्रह हज़ार पाउंड का धक्का देगा।",
+   "caption": "Northstar, liquid oxygen aur liquefied natural gas se chalne wala booster engine hai. Ye puraane BE-4 engine ke muqaable kareeb 7 lakh 15 hazaar pound ka dhakka dega.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "BE-4 · 640K LBF",
+       "value": 640,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "NORTHSTAR · 715K LBF",
+       "value": 715,
+       "color": "#3dff8f"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ताक़त 💪"
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 LOX + नेचुरल गैस",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "715K lbf ⚡",
+     "color": "gold",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "कंपनी के मुताबिक़, बी ई फ़ोर के मुक़ाबले इसका वज़न तीस प्रतिशत कम और पुर्ज़े आधे हैं। और इसका पैंसठ प्रतिशत से ज़्यादा हिस्सा थ्री डी प्रिंटिंग से बनता है!",
+   "caption": "Company ke mutaabik, BE-4 ke muqaable iska vazan tees pratishat kam aur purze aadhe hain. Aur iska painsath pratishat se zyada hissa 3D printing se banta hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ख़ास बातें ⭐"
+    },
+    {
+     "kind": "stk",
+     "text": "⚖️ 30% हल्का",
+     "f": 0.15,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🔩 50% कम पुर्ज़े",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "65%+ 3D-printed 🖨️",
+     "color": "gold",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "दूसरी चीज़, जी एस थ्री, न्यू ग्लेन की तीसरी स्टेज। ये सैटेलाइट्स को सीधे जियोस्टेशनरी ऑर्बिट और उससे आगे पहुँचाने के लिए है।",
+   "caption": "Doosri cheez, GS3, New Glenn ki teesri stage. Ye satellites ko seedhe geostationary orbit aur usse aage pahunchaane ke liye hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "GS3 क्या है? 🛰️"
+    },
+    {
+     "kind": "stk",
+     "text": "3️⃣ तीसरी स्टेज",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌍 सीधे GEO तक",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "एक सरकारी ग्राहक दो हज़ार अट्ठाईस में तीन स्टेज वाला न्यू ग्लेन लॉन्च करने वाला है। लेकिन ध्यान रहे, इंजन अभी टेस्टिंग में है, और इसकी कोई पक्की उड़ान की तारीख़ नहीं है।",
+   "caption": "Ek sarkaari graahak 2028 mein teen stage wala New Glenn launch karne wala hai. Lekin dhyaan rahe, engine abhi testing mein hai, aur iski koi pakki udaan ki taareekh nahi hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔮"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2028: सरकारी लॉन्च",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⚠️ इंजन अभी टेस्टिंग में",
+     "f": 0.7,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ये दिखाता है कि रॉकेट्स को सस्ता और ताक़तवर बनाने की होड़, तेज़ी से बढ़ रही है!",
+   "caption": "Ye dikhaata hai ki rockets ko sasta aur taaqatvar banaane ki hod, tezi se badh rahi hai!",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 28.6,
+     "lon": -80.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ी बात 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "सस्ते, ताक़तवर रॉकेट 🚀",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, भारत का अगला बड़ा रॉकेट इंजन कैसा होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Bharat ka agla bada rocket engine kaisa hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "भारत का अगला बड़ा engine?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Space.com, NASASpaceFlight · Nov 2026"
+    }
+   ]
+  }
+ ]
+}

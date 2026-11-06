@@ -1,0 +1,291 @@
+{
+ "title": "China का चाँद Plan: 2030 से पहले इंसान! 🌙🚀 पूरा Roadmap | 3D Gyaan",
+ "caption_keywords": [
+  "china",
+  "moon",
+  "lanyue",
+  "mengzhou",
+  "long",
+  "march",
+  "landing",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "China का",
+  "line2": "Moon Plan! 🌙",
+  "badge": "🚀 2030 से पहले"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "china moon",
+   "lanyue",
+   "mengzhou",
+   "long march 10",
+   "moon landing",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "China ने बताया कि वो 2030 से पहले अपने astronauts को चाँद पर उतारना चाहता है, step-by-step पूरा plan! 🌙🚀 Mengzhou, Lanyue और Long March 10, सब 3D में।\n\nSources:\n- Space.com: https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race\n- AIAA: https://aiaa.org/2026/11/03/china-details-plans-for-crewed-moon-landing-before-2030/\n- Slashdot (Ars Technica): https://science.slashdot.org/story/26/11/03/0550259/china-publicly-discloses-plan-for-a-lunar-landing-within-three-years\n\nAI-generated narration & visuals.\n#China #Moon #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, चीन ने पहली बार खुलकर बताया है, कि वो दो हज़ार तीस से पहले अपने अंतरिक्ष यात्रियों को चाँद पर कैसे उतारेगा, स्टेप बाय स्टेप!",
+   "caption": "Bhai, China ne pehli baar khulkar bataaya hai, ki wo 2030 se pehle apne antariksh yaatriyon ko chaand par kaise utaarega, step by step!",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "wide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "China का चाँद Plan 🌙",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "2030 से पहले 🚀",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "चीन के मून प्लान की कहानी। चलो समझते हैं!",
+   "caption": "China ke moon plan ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "CHINA",
+     "vs": "🌙",
+     "c": "MOON"
+    }
+   ]
+  },
+  {
+   "voice": "ये प्लान बीजिंग में एक ह्यूमन स्पेसफ़्लाइट सिम्पोज़ियम में बताया गया, चीन के ह्यूमन स्पेसफ़्लाइट प्रोग्राम के डिप्टी चीफ़ डिज़ाइनर वांग शियांग ने।",
+   "caption": "Ye plan Beijing mein ek human spaceflight symposium mein bataaya gaya, China ke human spaceflight program ke deputy chief designer Wang Xiang ne.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 39.9,
+     "lon": 116.4,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 39.9,
+       "lon": 116.4,
+       "label": "Beijing",
+       "color": "red"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने बताया? 🎙️"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 बीजिंग",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "👤 वांग शियांग",
+     "f": 0.55
+    }
+   ]
+  },
+  {
+   "voice": "तीन मुख्य हिस्से हैं। मेंगझोउ, अंतरिक्ष यात्रियों का यान। लानयुए, चाँद पर उतरने वाला लैंडर। और लॉन्ग मार्च टेन, बड़ा रॉकेट।",
+   "caption": "Teen mukhya hisse hain. Mengzhou, antariksh yaatriyon ka yaan. Lanyue, chaand par utarne wala lander. Aur Long March 10, bada rocket.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "lander"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "तीन हिस्से 🧩"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 Mengzhou = यान",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌙 Lanyue = लैंडर",
+     "f": 0.45,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 Long March 10 = रॉकेट",
+     "f": 0.75
+    }
+   ]
+  },
+  {
+   "voice": "पहला कदम, दो हज़ार सत्ताईस की शुरुआत में, बिना इंसानों के मेंगझोउ को धरती की कक्षा में भेजना। फिर, रॉकेट और लानयुए लैंडर का बिना इंसानों वाला टेस्ट, चाँद पर उतरना और उड़ना।",
+   "caption": "Pehla kadam, 2027 ki shuruaat mein, bina insaanon ke Mengzhou ko dharti ki kaksha mein bhejna. Phir, rocket aur Lanyue lander ka bina insaanon wala test, chaand par utarna aur udna.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 19.6,
+     "lon": 110.95
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कदम 1 और 2 👣"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 ~2027: Mengzhou टेस्ट",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌙 फिर लैंडर टेस्ट",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "दो हज़ार उनतीस में, दो अलग रॉकेट, एक मेंगझोउ और एक लानयुए के साथ, चाँद की कक्षा में मिलेंगे, अभी भी बिना इंसानों के।",
+   "caption": "2029 mein, do alag rocket, ek Mengzhou aur ek Lanyue ke saath, chaand ki kaksha mein milenge, abhi bhi bina insaanon ke.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "wide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कदम 3 👣"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2029",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🚀🚀 दो रॉकेट",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔗 चाँद की कक्षा में मिलन",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "और आख़िर में, यही सब इंसानों के साथ। अंतरिक्ष यात्री लानयुए में जाकर चाँद पर उतरेंगे। ख़ास बात, इस प्लान में चाँद के चारों ओर घूमने वाली कोई अलग इंसानी उड़ान नहीं है, सीधे लैंडिंग!",
+   "caption": "Aur aakhir mein, yahi sab insaanon ke saath. Antariksh yaatri Lanyue mein jaakar chaand par utrenge. Khaas baat, is plan mein chaand ke chaaron or ghoomne wali koi alag insaani udaan nahi hai, seedhe landing!",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "pit"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आख़िरी कदम 🌙"
+    },
+    {
+     "kind": "stamp",
+     "text": "इंसान चाँद पर 👨‍🚀",
+     "color": "green",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "⚡ सीधे लैंडिंग",
+     "f": 0.85,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, दो हज़ार तीस से पहले की कोई पक्की तारीख़ नहीं दी गई है। उधर नासा भी अपने आर्टेमिस मिशन्स से चाँद पर लौटने की तैयारी में है।",
+   "caption": "Lekin dhyaan rahe, 2030 se pehle ki koi pakki taareekh nahi di gayi hai. Udhar NASA bhi apne Artemis missions se chaand par lautne ki taiyaari mein hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ध्यान रहे ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ पक्की तारीख़ नहीं",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 NASA Artemis भी",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, चाँद पर पहला भारतीय कब जाएगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, chaand par pehla Bharatiya kab jaayega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "चाँद पर पहला भारतीय कब?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Space.com, AIAA, Ars Technica · Nov 2026"
+    }
+   ]
+  }
+ ]
+}
