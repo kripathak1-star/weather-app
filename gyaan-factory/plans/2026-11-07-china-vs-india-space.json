@@ -1,0 +1,377 @@
+{
+ "title": "China vs India: Space की दौड़ में कौन कहाँ? 🇨🇳🚀🇮🇳 पूरा 3D Comparison | 3D Gyaan",
+ "caption_keywords": [
+  "china",
+  "india",
+  "isro",
+  "space",
+  "chandrayaan",
+  "tiangong",
+  "gaganyaan",
+  "3d",
+  "gyaan",
+  "moon"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "China vs India",
+  "line2": "Space! 🚀",
+  "badge": "🇨🇳 vs 🇮🇳"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "china vs india",
+   "isro",
+   "cnsa",
+   "chandrayaan 3",
+   "tiangong",
+   "gaganyaan",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "China और India, दोनों एशिया के बड़े space powers! 🇨🇳🇮🇳 Astronauts, चाँद, मंगल और space station: किसने क्या किया और आगे क्या plan है, सब 3D में।\n\nSources:\n- The Week (China's space program): https://theweek.com/space/953127/everything-you-need-to-know-about-chinas-space-race\n- NASASpaceFlight (Chang'e 6, 2024): https://www.nasaspaceflight.com/2024/06/china-roundup-june-2024/\n- Space.com (China moon plan): https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race\n- Drishti IAS (Chandrayaan-3): https://www.drishtiias.com/daily-updates/daily-news-analysis/chandrayaan-3-successfully-lands-on-moon-s-south-pole\n- Nature (Mangalyaan, 2014): https://www.nature.com/articles/nature.2014.15997.pdf\n- DD India (Gaganyaan): https://ddindia.co.in/2026/07/gaganyaan-mission-advances-as-isro-completes-key-systems-prepares-for-first-uncrewed-flight/\n\nAI-generated narration & visuals.\n#ChinaVsIndia #ISRO #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एशिया के दो बड़े देश, चीन और भारत, दोनों स्पेस में तेज़ी से आगे बढ़ रहे हैं। चाँद, मंगल, अंतरिक्ष यात्री, स्पेस स्टेशन, किसने क्या किया? आज पूरा कंपैरिज़न!",
+   "caption": "Bhai, Asia ke do bade desh, China aur Bharat, dono space mein tezi se aage badh rahe hain. Chaand, Mangal, antariksh yaatri, space station, kisne kya kiya? Aaj poora comparison!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 28,
+     "lon": 95,
+     "dist": 1.4,
+     "pins": [
+      {
+       "lat": 40.96,
+       "lon": 100.29,
+       "label": "China",
+       "color": "red"
+      },
+      {
+       "lat": 13.72,
+       "lon": 80.23,
+       "label": "India",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "China vs India 🚀",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Space Race 🏁",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "चीन और भारत के स्पेस प्रोग्राम्स का मुक़ाबला। चलो समझते हैं!",
+   "caption": "China aur Bharat ke space programs ka muqaabla. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "CHINA",
+     "vs": "VS",
+     "c": "INDIA"
+    }
+   ]
+  },
+  {
+   "voice": "राउंड वन, अंतरिक्ष में इंसान। चीन ने दो हज़ार तीन में, शेनझोउ फ़ाइव से, अपने पहले अंतरिक्ष यात्री यांग लिवेई को धरती के चौदह चक्कर लगवाए। भारत का गगनयान अभी तैयारी में है, पहला बिना इंसान वाला टेस्ट, जी वन, जल्द होने वाला है।",
+   "caption": "Round one, antariksh mein insaan. China ne 2003 mein, Shenzhou 5 se, apne pehle antariksh yaatri Yang Liwei ko dharti ke chaudah chakkar lagwaaye. Bharat ka Gaganyaan abhi taiyaari mein hai, pehla bina insaan wala test, G1, jald hone wala hai.",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 40.96,
+     "lon": 100.29
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Round 1: इंसान 👨‍🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 2003: शेनझोउ 5",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 गगनयान: तैयारी में",
+     "f": 0.65,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🤖 G1: व्योममित्र",
+     "f": 0.85,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "राउंड टू, स्पेस स्टेशन। चीन का तियांगोंग स्टेशन दो हज़ार बाईस के आख़िर में पूरा बना, और उसमें लगातार अंतरिक्ष यात्री रहते हैं। भारत का लक्ष्य है, दो हज़ार पैंतीस तक अपना भारतीय अंतरिक्ष स्टेशन बनाना।",
+   "caption": "Round two, space station. China ka Tiangong station 2022 ke aakhir mein poora bana, aur usmein lagaataar antariksh yaatri rehte hain. Bharat ka lakshya hai, 2035 tak apna Bharatiya Antariksh Station banaana.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Round 2: स्टेशन 🛰️"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 तियांगोंग: 2022 से",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 BAS: लक्ष्य 2035",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "राउंड थ्री, चाँद। चीन के चांग ई फ़ोर ने पहली बार चाँद के पिछले हिस्से पर लैंडिंग की, और चांग ई सिक्स, दो हज़ार चौबीस में, चाँद के पिछले हिस्से से मिट्टी लेकर लौटा, करीब एक दशमलव नौ किलो!",
+   "caption": "Round three, chaand. China ke Chang'e 4 ne pehli baar chaand ke pichhle hisse par landing ki, aur Chang'e 6, 2024 mein, chaand ke pichhle hisse se mitti lekar lauta, kareeb 1.9 kilo!",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "lander"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Round 3: चाँद 🌙"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 चांग ई 4: पिछला हिस्सा",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stamp",
+     "text": "🇨🇳 ~1.9 kg मिट्टी",
+     "color": "red",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन भारत ने भी इतिहास रचा! तेईस अगस्त दो हज़ार तेईस को, चंद्रयान थ्री, चाँद के दक्षिणी ध्रुव के पास उतरने वाला दुनिया का पहला मिशन बना। प्रज्ञान रोवर ने वहाँ सल्फ़र भी ढूंढा!",
+   "caption": "Lekin Bharat ne bhi itihaas racha! 23 August 2023 ko, Chandrayaan 3, chaand ke dakshini dhruv ke paas utarne wala duniya ka pehla mission bana. Pragyan rover ne wahan sulphur bhi dhoondha!",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "pit"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "🇮🇳 चंद्रयान 3 🌙"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 23 अगस्त 2023",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "दक्षिणी ध्रुव पर पहला! 🥇",
+     "color": "green",
+     "f": 0.55,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 सल्फ़र मिला",
+     "f": 0.9,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "राउंड फ़ोर, मंगल। भारत का मंगलयान, चौबीस सितंबर दो हज़ार चौदह को, पहली ही कोशिश में मंगल की कक्षा में पहुँचा, ऐसा करने वाला पहला एशियाई देश! चीन ने दो हज़ार इक्कीस में अपना ज़ुरोंग रोवर मंगल पर उतारा।",
+   "caption": "Round four, Mangal. Bharat ka Mangalyaan, 24 September 2014 ko, pehli hi koshish mein Mangal ki kaksha mein pahuncha, aisa karne wala pehla Asian desh! China ne 2021 mein apna Zhurong rover Mangal par utaara.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.1
+    },
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Round 4: मंगल 🔴"
+    },
+    {
+     "kind": "stamp",
+     "text": "🇮🇳 पहली कोशिश में! 🥇",
+     "color": "green",
+     "f": 0.35
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 2021: ज़ुरोंग रोवर",
+     "f": 0.8,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "और भारत ने आदित्य एल वन भेजा, जो धरती से करीब पंद्रह लाख किलोमीटर दूर से, सूरज को देख रहा है, भारत का पहला स्पेस आधारित सोलर मिशन।",
+   "caption": "Aur Bharat ne Aditya L1 bheja, jo dharti se kareeb pandrah laakh kilometre door se, sooraj ko dekh raha hai, Bharat ka pehla space aadhaarit solar mission.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "🇮🇳 बोनस: सूरज ☀️"
+    },
+    {
+     "kind": "stk",
+     "text": "☀️ आदित्य L1",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 ~15 लाख km दूर",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "आगे का प्लान? चीन चाहता है दो हज़ार तीस से पहले अपने इंसान को चाँद पर उतारना। भारत का लक्ष्य है गगनयान, फिर अपना स्टेशन, और दो हज़ार चालीस तक एक भारतीय को चाँद पर भेजना।",
+   "caption": "Aage ka plan? China chahta hai 2030 se pehle apne insaan ko chaand par utaarna. Bharat ka lakshya hai Gaganyaan, phir apna station, aur 2040 tak ek Bharatiya ko chaand par bhejna.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔮"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 चाँद पर इंसान: 2030 से पहले",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 गगनयान ➜ स्टेशन",
+     "f": 0.55,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 चाँद पर भारतीय: 2040",
+     "f": 0.85,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "सीधी बात, चीन ने बड़े बजट से कई मिशन किए हैं, और भारत ने कम ख़र्च में बड़े पहले रिकॉर्ड बनाए। दोनों की ये दोस्ताना होड़, पूरी दुनिया के विज्ञान के लिए अच्छी है!",
+   "caption": "Seedhi baat, China ne bade budget se kai mission kiye hain, aur Bharat ne kam kharch mein bade pehle record banaaye. Dono ki ye dostaana hod, poori duniya ke vigyaan ke liye achhi hai!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 28,
+     "lon": 95,
+     "dist": 1.6,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "फ़ैसला? ⚖️"
+    },
+    {
+     "kind": "stk",
+     "text": "🇨🇳 ज़्यादा मिशन",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 कम ख़र्च, बड़े पहले",
+     "f": 0.55,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "विज्ञान की जीत 🌍",
+     "color": "gold",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, स्पेस में अगला बड़ा रिकॉर्ड कौन बनाएगा, भारत या चीन? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, space mein agla bada record kaun banaayega, Bharat ya China? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अगला बड़ा रिकॉर्ड: भारत या चीन?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: The Week, NASASpaceFlight, Space.com, Drishti IAS, Nature, DD India"
+    }
+   ]
+  }
+ ]
+}
