@@ -1,0 +1,296 @@
+{
+ "title": "भारत के Moon Missions: Chandrayaan 1, 2, 3 की पूरी कहानी! 🌙🇮🇳 | 3D Gyaan",
+ "caption_keywords": [
+  "chandrayaan",
+  "isro",
+  "moon",
+  "vikram",
+  "pragyan",
+  "india",
+  "south",
+  "3d",
+  "gyaan",
+  "pole"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Chandrayaan",
+  "line2": "1 · 2 · 3 🌙",
+  "badge": "🇮🇳 ISRO"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "chandrayaan",
+   "chandrayaan 3",
+   "isro",
+   "moon mission",
+   "vikram lander",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Chandrayaan-1 से Chandrayaan-3 तक, भारत के चाँद मिशन्स की पूरी कहानी! 🌙🇮🇳 पानी की खोज, एक मुश्किल लैंडिंग, और फिर दक्षिणी ध्रुव पर इतिहास। सब 3D में।\n\nSources:\n- ISRO: https://www.isro.gov.in/\n- Drishti IAS (Chandrayaan-3): https://www.drishtiias.com/daily-updates/daily-news-analysis/chandrayaan-3-successfully-lands-on-moon-s-south-pole\n- Wikipedia (Chandrayaan-3): https://en.wikipedia.org/wiki/Chandrayaan-3\n\nAI-generated narration & visuals.\n#Chandrayaan #ISRO #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, भारत ने चाँद तक तीन बार सफ़र किया, एक बार पानी ढूंढा, एक बार गिरकर सीखा, और फिर इतिहास रच दिया! ये है चंद्रयान की कहानी!",
+   "caption": "Bhai, Bharat ne chaand tak teen baar safar kiya, ek baar paani dhoondha, ek baar girkar seekha, aur phir itihaas rach diya! Ye hai Chandrayaan ki kahani!",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "wide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Chandrayaan 🌙",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "🇮🇳 1 · 2 · 3",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "भारत के चाँद मिशन्स। चलो समझते हैं!",
+   "caption": "Bharat ke chaand missions. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "INDIA",
+     "vs": "🌙",
+     "c": "MOON"
+    }
+   ]
+  },
+  {
+   "voice": "चंद्रयान वन, दो हज़ार आठ में लॉन्च हुआ। ये चाँद के चारों ओर घूमा, और इसके उपकरणों ने चाँद की सतह पर पानी के अणुओं के सबूत ढूंढने में बड़ी भूमिका निभाई!",
+   "caption": "Chandrayaan 1, 2008 mein launch hua. Ye chaand ke chaaron or ghooma, aur iske upkaranon ne chaand ki satah par paani ke anuon ke saboot dhoondhne mein badi bhoomika nibhaayi!",
+   "shots": [
+    {
+     "type": "rocket",
+     "lat": 13.72,
+     "lon": 80.23
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "चंद्रयान 1 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2008",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "पानी के सबूत 💧",
+     "color": "green",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "चंद्रयान टू, दो हज़ार उन्नीस में गया। इसका ऑर्बिटर कामयाब रहा, लेकिन विक्रम लैंडर आख़िरी पलों में चाँद पर ठीक से नहीं उतर पाया। पूरा देश उस रात जागा था।",
+   "caption": "Chandrayaan 2, 2019 mein gaya. Iska orbiter kaamyaab raha, lekin Vikram lander aakhiri palon mein chaand par theek se nahi utar paaya. Poora desh us raat jaaga tha.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "lander"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "चंद्रयान 2 🛰️"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2019",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ ऑर्बिटर कामयाब",
+     "f": 0.45,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "💔 लैंडिंग नहीं हुई",
+     "f": 0.8,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन इसरो ने हार नहीं मानी। ग़लतियों से सीखा, और लैंडर को और मज़बूत बनाया।",
+   "caption": "Lekin ISRO ne haar nahi maani. Galtiyon se seekha, aur lander ko aur mazboot banaaya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 13.72,
+     "lon": 80.23,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 13.72,
+       "lon": 80.23,
+       "label": "Sriharikota",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "हार नहीं मानी 💪"
+    },
+    {
+     "kind": "stamp",
+     "text": "सीखो और उठो 🔥",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "चंद्रयान थ्री, चौदह जुलाई दो हज़ार तेईस को लॉन्च हुआ, और तेईस अगस्त को, चाँद के दक्षिणी ध्रुव के पास उतर गया! ऐसा करने वाला ये दुनिया का पहला मिशन बना, और भारत चाँद पर उतरने वाला चौथा देश।",
+   "caption": "Chandrayaan 3, 14 July 2023 ko launch hua, aur 23 August ko, chaand ke dakshini dhruv ke paas utar gaya! Aisa karne wala ye duniya ka pehla mission bana, aur Bharat chaand par utarne wala chautha desh.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "pit"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "चंद्रयान 3 🌙"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 23 अगस्त 2023",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "दक्षिणी ध्रुव पर पहला! 🥇",
+     "color": "green",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 चौथा देश",
+     "f": 0.9,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "प्रज्ञान रोवर ने वहाँ घूमकर जाँच की, और सल्फ़र की मौजूदगी की पुष्टि की। करीब बारह दिन बाद, चाँद की रात आने पर, लैंडर को बंद कर दिया गया।",
+   "caption": "Pragyan rover ne wahan ghoomkar jaanch ki, aur sulphur ki maujoodgi ki pushti ki. Kareeb baarah din baad, chaand ki raat aane par, lander ko band kar diya gaya.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "lander"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "प्रज्ञान रोवर 🤖"
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 सल्फ़र मिला",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌙 ~12 दिन काम",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इसी जीत की याद में, तेईस अगस्त को भारत में नेशनल स्पेस डे मनाया जाता है। और अब अगला लक्ष्य, चाँद से मिट्टी वापस लाना, और दो हज़ार चालीस तक एक भारतीय को चाँद पर भेजना!",
+   "caption": "Isi jeet ki yaad mein, 23 August ko Bharat mein National Space Day manaaya jaata hai. Aur ab agla lakshya, chaand se mitti waapas laana, aur 2040 tak ek Bharatiya ko chaand par bhejna!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔮"
+    },
+    {
+     "kind": "stk",
+     "text": "🎉 23 अगस्त: नेशनल स्पेस डे",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 चाँद से मिट्टी लाना",
+     "f": 0.5,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "2040: भारतीय चाँद पर 🇮🇳",
+     "color": "gold",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, चाँद पर कदम रखने वाला पहला भारतीय कौन होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, chaand par kadam rakhne wala pehla Bharatiya kaun hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "चाँद पर पहला भारतीय कौन?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ISRO, Drishti IAS, Wikipedia"
+    }
+   ]
+  }
+ ]
+}
