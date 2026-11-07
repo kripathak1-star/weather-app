@@ -1,0 +1,297 @@
+{
+ "title": "IISc ने चुनौती दी चंद्रशेखर लिमिट को! ⭐🇮🇳 मरे तारों का राज़ | 3D Gyaan",
+ "caption_keywords": [
+  "iisc",
+  "chandrasekhar",
+  "white",
+  "dwarf",
+  "star",
+  "magnetic",
+  "bengaluru",
+  "3d",
+  "gyaan",
+  "physics"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "चंद्रशेखर",
+  "line2": "लिमिट टूटी? ⭐",
+  "badge": "🇮🇳 IISc"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "chandrasekhar limit",
+   "white dwarf",
+   "iisc",
+   "indian science",
+   "astrophysics hindi",
+   "3d gyaan"
+  ],
+  "description": "IISc Bengaluru के वैज्ञानिकों की simulations कहती हैं कि तेज़ magnetic fields वाले white dwarf तारे, मशहूर Chandrasekhar limit (~1.4 सूर्य) से भी भारी, करीब 2.4 सूर्य तक हो सकते हैं! ⭐🇮🇳 सब 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-10-strong-magnetic-fields-white-dwarfs.html\n- EurekAlert: https://www.eurekalert.org/news-releases/1147119\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/11/261102202835.htm\n\nAI-generated narration & visuals.\n#IISc #Chandrasekhar #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक भारतीय वैज्ञानिक, सुब्रह्मण्यन चंद्रशेखर, ने बताया था कि एक मरा हुआ तारा कितना भारी हो सकता है। अब बेंगलुरु के आई आई एस सी की रिसर्च कहती है, ये सीमा शायद टूट सकती है!",
+   "caption": "Bhai, ek Bharatiya vaigyanik, Subrahmanyan Chandrasekhar, ne bataaya tha ki ek mara hua taara kitna bhaari ho sakta hai. Ab Bengaluru ke IISc ki research kehti hai, ye seema shaayad toot sakti hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "चंद्रशेखर लिमिट ⭐",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "🇮🇳 IISc",
+     "color": "green",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "चंद्रशेखर लिमिट और नई रिसर्च की कहानी। चलो समझते हैं!",
+   "caption": "Chandrasekhar limit aur nayi research ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "IISc",
+     "vs": "⭐",
+     "c": "CHANDRA"
+    }
+   ]
+  },
+  {
+   "voice": "जब हमारे सूरज जैसे तारे की ज़िंदगी ख़त्म होती है, तो वो सिकुड़कर एक छोटा, घना तारा बनता है, जिसे व्हाइट ड्वार्फ़ कहते हैं।",
+   "caption": "Jab hamare sooraj jaise taare ki zindagi khatm hoti hai, to wo sikudkar ek chhota, ghana taara banta hai, jise white dwarf kehte hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "White Dwarf क्या है? ⚪"
+    },
+    {
+     "kind": "stk",
+     "text": "⭐ मरा हुआ तारा",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌍 धरती जितना, पर बहुत भारी",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "चंद्रशेखर ने हिसाब लगाया था, कि एक व्हाइट ड्वार्फ़ करीब एक दशमलव चार सूरज जितने वज़न से ज़्यादा भारी नहीं हो सकता। इसे चंद्रशेखर लिमिट कहते हैं, और इसके लिए उन्हें नोबेल पुरस्कार भी मिला।",
+   "caption": "Chandrasekhar ne hisaab lagaaya tha, ki ek white dwarf kareeb 1.4 sooraj jitne vazan se zyada bhaari nahi ho sakta. Ise Chandrasekhar limit kehte hain, aur iske liye unhe Nobel puraskaar bhi mila.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Chandrasekhar Limit 📏"
+    },
+    {
+     "kind": "stamp",
+     "text": "~1.4 सूरज ⚖️",
+     "color": "gold",
+     "f": 0.45
+    },
+    {
+     "kind": "stk",
+     "text": "🏅 नोबेल पुरस्कार",
+     "f": 0.85,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "अब आई आई एस सी बेंगलुरु के वैज्ञानिकों ने, ज़ेनिया ज़ुरैक की अगुवाई में, कंप्यूटर सिमुलेशन किए।",
+   "caption": "Ab IISc Bengaluru ke vaigyanikon ne, Zenia Zuraiq ki aguvaai mein, computer simulation kiye.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 13.02,
+     "lon": 77.57,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 13.02,
+       "lon": 77.57,
+       "label": "IISc Bengaluru",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नई रिसर्च 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇮🇳 IISc बेंगलुरु",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "💻 कंप्यूटर सिमुलेशन",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? जब व्हाइट ड्वार्फ़ आसपास से पदार्थ खींचकर सिकुड़ता है, तो उसके अंदर का चुंबकीय क्षेत्र और तेज़ हो जाता है, जो उसे गुरुत्व के ख़िलाफ़ एक्स्ट्रा सहारा देता है।",
+   "caption": "Nateeja? Jab white dwarf aaspaas se padaarth kheenchkar sikudta hai, to uske andar ka chumbakiya kshetra aur tez ho jaata hai, jo use gurutva ke khilaaf extra sahaara deta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे? 🧲"
+    },
+    {
+     "kind": "stk",
+     "text": "⬇️ सिकुड़ता है",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "🧲 चुंबक तेज़",
+     "f": 0.45,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "💪 एक्स्ट्रा सहारा",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इस सहारे से, ऐसे व्हाइट ड्वार्फ़ करीब दो दशमलव चार सूरज जितने भारी हो सकते हैं, चंद्रशेखर लिमिट से काफ़ी ज़्यादा!",
+   "caption": "Is sahaare se, aise white dwarf kareeb 2.4 sooraj jitne bhaari ho sakte hain, Chandrasekhar limit se kaafi zyada!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "CHANDRASEKHAR · ~1.4 SUNS",
+       "value": 1.4,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "MAGNETIC MODEL · ~2.4 SUNS",
+       "value": 2.4,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 📊"
+    },
+    {
+     "kind": "stamp",
+     "text": "~2.4 सूरज! 🤯",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "लेकिन ध्यान रहे, ये सिर्फ़ सिमुलेशन हैं, असली तारों में अभी ऐसा देखा नहीं गया। और कुछ वैज्ञानिक पहले से ऐसे मॉडल्स पर सवाल उठाते रहे हैं। ये रिसर्च एस्ट्रोफ़िज़िकल जर्नल लेटर्स में छपी है।",
+   "caption": "Lekin dhyaan rahe, ye sirf simulation hain, asli taaron mein abhi aisa dekha nahi gaya. Aur kuchh vaigyanik pehle se aise models par sawaal uthaate rahe hain. Ye research Astrophysical Journal Letters mein chhapi hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ध्यान रहे ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "💻 सिर्फ़ सिमुलेशन",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🤔 कुछ को शक",
+     "f": 0.5,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 ApJ Letters",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अगला बड़ा भारतीय वैज्ञानिक कौन होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, agla bada Bharatiya vaigyanik kaun hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अगला बड़ा भारतीय वैज्ञानिक कौन?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, EurekAlert, ScienceDaily · 2026"
+    }
+   ]
+  }
+ ]
+}

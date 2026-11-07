@@ -1,0 +1,278 @@
+{
+ "title": "चाँद पर नया गड्ढा, Colosseum से भी बड़ा! 🌙💥 | 3D Gyaan",
+ "caption_keywords": [
+  "moon",
+  "crater",
+  "lro",
+  "nasa",
+  "impact",
+  "asteroid",
+  "colosseum",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "चाँद पर",
+  "line2": "नया गड्ढा! 🌙",
+  "badge": "💥 222 मीटर"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "moon crater",
+   "lro",
+   "nasa",
+   "mcgetchin crater",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "NASA के Lunar Reconnaissance Orbiter ने चाँद पर एक बिल्कुल नया गड्ढा ढूंढा, करीब 222 मीटर चौड़ा, रोम के Colosseum से भी बड़ा! 🌙💥 ये मई 2024 में एक टक्कर से बना था। सब 3D में।\n\nSources:\n- CBS News: https://www.cbsnews.com/news/nasa-spacecraft-new-crater-moon/\n- NBC News: https://www.nbcnews.com/science/space/nasa-new-crater-moon-rcna598190\n- U.S. News (AP): https://www.usnews.com/news/news/articles/2026-09-16/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon\n\nAI-generated narration & visuals.\n#Moon #NASA #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, चाँद पर एक बिल्कुल नया गड्ढा बना है, और ये रोम के मशहूर कोलोसियम से भी बड़ा है!",
+   "caption": "Bhai, chaand par ek bilkul naya gaddha bana hai, aur ye Rome ke mashhoor Colosseum se bhi bada hai!",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "pit"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "नया गड्ढा! 🌙",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Colosseum से बड़ा 💥",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "चाँद के नए गड्ढे की कहानी। चलो समझते हैं!",
+   "caption": "Chaand ke naye gaddhe ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MOON",
+     "vs": "💥",
+     "c": "CRATER"
+    }
+   ]
+  },
+  {
+   "voice": "मई दो हज़ार चौबीस में, किसी एस्टेरॉयड या धूमकेतु का एक टुकड़ा चाँद के हमारी तरफ़ वाले हिस्से से टकराया।",
+   "caption": "May 2024 mein, kisi asteroid ya dhoomketu ka ek tukda chaand ke hamari taraf waale hisse se takraaya.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "wide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब बना? 📅"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 मई 2024",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "☄️ एस्टेरॉयड/धूमकेतु का टुकड़ा",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "नासा के लूनर रिकॉनिसेंस ऑर्बिटर ने इसकी तस्वीरें ले लीं, लेकिन डेटा की भीड़ में ये अगस्त दो हज़ार पच्चीस तक पहचाना ही नहीं गया!",
+   "caption": "NASA ke Lunar Reconnaissance Orbiter ne iski tasveerein le lin, lekin data ki bheed mein ye August 2025 tak pehchaana hi nahi gaya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे मिला? 🛰️"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ NASA LRO",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🗂️ डेटा में छुपा रहा",
+     "f": 0.5
+    },
+    {
+     "kind": "stk",
+     "text": "📅 पहचान: अगस्त 2025",
+     "f": 0.85,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इस गड्ढे का नाम है मैकगेचिन क्रेटर। ये करीब दो सौ बाईस मीटर चौड़ा, और करीब तैंतालीस मीटर गहरा है।",
+   "caption": "Is gaddhe ka naam hai McGetchin crater. Ye kareeb 222 metre chauda, aur kareeb 43 metre gehra hai.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "pit"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना बड़ा? 📏"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 McGetchin Crater",
+     "f": 0.1,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "↔️ ~222 m चौड़ा",
+     "f": 0.45,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "↕️ ~43 m गहरा",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "रोम का कोलोसियम करीब एक सौ नवासी मीटर लंबा है। यानी ये गड्ढा उससे भी बड़ा है!",
+   "caption": "Rome ka Colosseum kareeb 189 metre lamba hai. Yaani ye gaddha usse bhi bada hai!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "COLOSSEUM · ~189 M",
+       "value": 189,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "NEW CRATER · ~222 M",
+       "value": 222,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "तुलना 🏛️"
+    },
+    {
+     "kind": "stamp",
+     "text": "Colosseum से बड़ा! 🌙",
+     "color": "gold",
+     "f": 0.55,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "रिपोर्ट्स के मुताबिक़, ये हाल ही में बना अब तक का सबसे बड़ा ज्ञात गड्ढा है, और एल आर ओ के एक दशक पहले मिले पिछले रिकॉर्ड से करीब तीन गुना चौड़ा।",
+   "caption": "Reports ke mutaabik, ye haal hi mein bana ab tak ka sabse bada gyaat gaddha hai, aur LRO ke ek dashak pehle mile pichhle record se kareeb teen guna chauda.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "wide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "रिकॉर्ड 🏆"
+    },
+    {
+     "kind": "stamp",
+     "text": "~3 गुना बड़ा 🥇",
+     "color": "green",
+     "f": 0.5
+    }
+   ]
+  },
+  {
+   "voice": "चाँद पर हवा नहीं है, इसलिए टकराने वाली चीज़ें जलती नहीं, सीधे टकराती हैं। ये खोज भविष्य के चाँद मिशन्स की सुरक्षा के लिए भी ज़रूरी है!",
+   "caption": "Chaand par hawa nahi hai, isliye takraane waali cheezein jalti nahi, seedhe takraati hain. Ye khoj bhavishya ke chaand missions ki suraksha ke liye bhi zaroori hai!",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "lander"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ज़रूरी? 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "💨 चाँद पर हवा नहीं",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🛡️ मिशन्स की सुरक्षा",
+     "f": 0.7,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अगर तुम चाँद पर होते और ये टक्कर होती, तो क्या होता? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, agar tum chaand par hote aur ye takkar hoti, to kya hota? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "तुम वहाँ होते तो क्या होता?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: CBS News, NBC News, AP via U.S. News · 2026"
+    }
+   ]
+  }
+ ]
+}

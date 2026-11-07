@@ -1,0 +1,288 @@
+{
+ "title": "Satellites कर रहे हैं 'शोर'! 📡🛰️ Telescope और GPS पर असर | 3D Gyaan",
+ "caption_keywords": [
+  "satellite",
+  "noise",
+  "radio",
+  "telescope",
+  "gps",
+  "starlink",
+  "interference",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Satellites का",
+  "line2": "शोर! 📡",
+  "badge": "🛰️ 15,000+"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "satellite interference",
+   "radio astronomy",
+   "gps",
+   "satellite noise",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "स्पेस में satellites की संख्या तेज़ी से बढ़ रही है, और नई स्टडी कहती है कि उनके electronics से रेडियो 'शोर' लीक होता है, जो radio telescopes और GPS के काम में दख़ल दे सकता है! 📡🛰️ और इसका हल भी। सब 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html\n- The Conversation: https://theconversation.com/satellites-leak-noise-that-interferes-with-telescopes-and-gps-heres-how-to-fix-it-291342\n- Telecompaper: https://www.telecompaper.com/news/satellite-interference-threatens-radio-astronomy-and-gps-accuracy-researcher--1587874\n\nAI-generated narration & visuals.\n#Satellites #Space #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, आसमान में हज़ारों सैटेलाइट्स घूम रहे हैं। और एक नई स्टडी कहती है, ये चुपचाप रेडियो शोर फैला रहे हैं, जो टेलीस्कोप्स और जी पी एस के काम में दख़ल दे सकता है!",
+   "caption": "Bhai, aasmaan mein hazaaron satellites ghoom rahe hain. Aur ek nayi study kehti hai, ye chupchaap radio shor phaila rahe hain, jo telescopes aur GPS ke kaam mein dakhal de sakta hai!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Satellites का शोर! 📡",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "ख़तरा? ⚠️",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "सैटेलाइट्स के रेडियो शोर की कहानी। चलो समझते हैं!",
+   "caption": "Satellites ke radio shor ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "SATELLITE",
+     "vs": "📡",
+     "c": "NOISE"
+    }
+   ]
+  },
+  {
+   "voice": "दस साल से भी कम पहले, करीब दो हज़ार सैटेलाइट्स थे। आज पंद्रह हज़ार से ज़्यादा हैं!",
+   "caption": "Das saal se bhi kam pehle, kareeb do hazaar satellites the. Aaj pandrah hazaar se zyada hain!",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "<10 YRS AGO · ~2,000",
+       "value": 2,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "TODAY · 15,000+",
+       "value": 15,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितने सैटेलाइट्स? 🛰️"
+    },
+    {
+     "kind": "stamp",
+     "text": "15,000+ 🤯",
+     "color": "gold",
+     "f": 0.6,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ऑस्ट्रेलिया की कर्टिन यूनिवर्सिटी के स्टीवन टिंगे की टीम ने, पश्चिमी ऑस्ट्रेलिया के एक रेडियो टेलीस्कोप से कम फ़्रीक्वेंसी पर सैटेलाइट्स को सुना।",
+   "caption": "Australia ki Curtin University ke Steven Tingay ki team ne, pashchimi Australia ke ek radio telescope se kam frequency par satellites ko suna.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -26.7,
+     "lon": 116.6,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": -26.7,
+       "lon": 116.6,
+       "label": "W. Australia",
+       "color": "green"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने जाँचा? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🇦🇺 Curtin University",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📡 रेडियो टेलीस्कोप",
+     "f": 0.55
+    },
+    {
+     "kind": "stk",
+     "text": "📍 पश्चिमी ऑस्ट्रेलिया",
+     "f": 0.85,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? सत्तर से तीन सौ मेगाहर्ट्ज़ पर, पचास से सत्तर प्रतिशत मापों में सैटेलाइट्स का शोर, रेडियो एस्ट्रोनॉमी की तय सीमा से ज़्यादा निकला!",
+   "caption": "Nateeja? 70 se 300 megahertz par, pachaas se sattar pratishat maapon mein satellites ka shor, radio astronomy ki tay seema se zyada nikla!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "swarm"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 📊"
+    },
+    {
+     "kind": "stk",
+     "text": "📻 70–300 MHz",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "50–70% में सीमा पार ⚠️",
+     "color": "red",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "ये शोर जानबूझ कर नहीं भेजा जाता। ये सैटेलाइट के अंदर के इलेक्ट्रॉनिक्स से लीक होता है, और अभी के नियम इसे ठीक से कवर नहीं करते।",
+   "caption": "Ye shor jaanbookh kar nahi bheja jaata. Ye satellite ke andar ke electronics se leak hota hai, aur abhi ke niyam ise theek se cover nahi karte.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "शोर कहाँ से? 🔌"
+    },
+    {
+     "kind": "stk",
+     "text": "🔌 अंदर के इलेक्ट्रॉनिक्स",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📜 नियम कमज़ोर",
+     "f": 0.7,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "टीम के एक मॉडल का अनुमान है, कि सीधे फ़ोन से जुड़ने वाले सैटेलाइट्स, जी पी एस को सपोर्ट करने वाले कई ख़ास मापों पर असर डाल सकते हैं। लेकिन ध्यान रहे, ये मॉडल है, सीधा माप नहीं।",
+   "caption": "Team ke ek model ka anumaan hai, ki seedhe phone se judne waale satellites, GPS ko support karne waale kai khaas maapon par asar daal sakte hain. Lekin dhyaan rahe, ye model hai, seedha maap nahi.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 20,
+     "lon": 78,
+     "dist": 1.4,
+     "cities": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "GPS पर असर? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📱 डायरेक्ट-टू-फ़ोन सैटेलाइट्स",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "⚠️ सिर्फ़ मॉडल का अनुमान",
+     "f": 0.7,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "हल क्या है? वैज्ञानिकों के मुताबिक़, कंपनियाँ अपने सैटेलाइट्स के इलेक्ट्रॉनिक्स को बेहतर शील्ड करें, ताकि ये शोर बाहर ना निकले।",
+   "caption": "Hal kya hai? Vaigyanikon ke mutaabik, companiyan apne satellites ke electronics ko behtar shield karein, taaki ye shor baahar na nikle.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "हल 🛡️"
+    },
+    {
+     "kind": "stamp",
+     "text": "बेहतर शील्डिंग ✅",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, आसमान में कितने सैटेलाइट्स होने चाहिए? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, aasmaan mein kitne satellites hone chahiye? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "आसमान में कितने satellites हों?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, The Conversation, Telecompaper · Nov 2026"
+    }
+   ]
+  }
+ ]
+}
