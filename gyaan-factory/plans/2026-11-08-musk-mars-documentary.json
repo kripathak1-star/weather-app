@@ -1,5 +1,5 @@
 {
- "title": "Elon Musk और मंगल का सपना 🚀🔴 पूरी Documentary | 3D Gyaan",
+ "title": "Elon Musk और मंगल का सपना 🔴 | पूरी Documentary (Hindi) | 3D Gyaan",
  "caption_keywords": [
   "musk",
   "mars",
@@ -34,34 +34,26 @@
  },
  "scenes": [
   {
-   "voice": "एक सपना। धरती से करोड़ों किलोमीटर दूर, एक लाल ग्रह पर इंसानों का शहर।",
-   "caption": "Ek sapna. Dharti se karodon kilometre door, ek laal grah par insaanon ka shehar.",
+   "voice": "रात का आसमान। और उसमें एक हल्की लाल रोशनी। मंगल ग्रह। हज़ारों सालों से इंसान इसे देखता आया है। पर एक इंसान ने तय किया, कि इसे सिर्फ़ देखना काफ़ी नहीं।",
+   "caption": "Raat ka aasmaan. Aur usmein ek halki laal roshni. Mangal grah. Hazaaron saalon se insaan ise dekhta aaya hai. Par ek insaan ne tay kiya, ki ise sirf dekhna kaafi nahi.",
    "shots": [
     {
      "type": "planet",
      "body": "mars",
-     "dist": 1.3
+     "dist": 1.4
     }
    ],
    "overlay": [
     {
      "kind": "bigtext",
-     "text": "एक सपना 🔴",
-     "show": 0.3
-    },
-    {
-     "kind": "stamp",
      "text": "मंगल 🔴",
-     "color": "red",
-     "f": 0.85,
-     "center": true,
-     "w": 150
+     "show": 0.25
     }
    ]
   },
   {
-   "voice": "ये है एलन मस्क और मंगल ग्रह की कहानी।",
-   "caption": "Ye hai Elon Musk aur Mangal grah ki kahani.",
+   "voice": "ये कहानी है एक ज़िद की। एलन मस्क, और मंगल का सपना।",
+   "caption": "Ye kahani hai ek zid ki. Elon Musk, aur Mangal ka sapna.",
    "shots": [
     {
      "type": "preset",
@@ -73,14 +65,14 @@
      "kind": "title",
      "tag": "3D GYAAN DOCUMENTARY",
      "a": "MUSK",
-     "vs": "🚀",
+     "vs": "🔴",
      "c": "MARS"
     }
    ]
   },
   {
-   "voice": "अध्याय एक। साल दो हज़ार दो। मस्क ने एक रॉकेट कंपनी बनाई, स्पेसएक्स। मकसद? इंसानों को एक से ज़्यादा ग्रहों पर बसाना।",
-   "caption": "Adhyaay ek. Saal 2002. Musk ne ek rocket company banaai, SpaceX. Maksad? Insaanon ko ek se zyada grahon par basaana.",
+   "voice": "साल दो हज़ार दो। इंटरनेट कंपनियों से कमाए पैसों के साथ, मस्क ने एक रॉकेट कंपनी शुरू की, स्पेस एक्सप्लोरेशन टेक्नोलॉजीज़, यानी स्पेसएक्स।",
+   "caption": "Saal 2002. Internet companiyon se kamaaye paison ke saath, Musk ne ek rocket company shuru ki, Space Exploration Technologies, yaani SpaceX.",
    "shots": [
     {
      "type": "globeWide",
@@ -91,30 +83,36 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "अध्याय 1: शुरुआत 🎬"
+     "text": "अध्याय 1 · शुरुआत"
     },
     {
      "kind": "stk",
-     "text": "📅 2002",
-     "f": 0.2,
-     "color": "y"
-    },
-    {
-     "kind": "stk",
-     "text": "🚀 SpaceX",
+     "text": "2002 · SpaceX",
      "f": 0.5,
-     "color": "g"
-    },
-    {
-     "kind": "stk",
-     "text": "🌍➡️🔴 Multi-planet",
-     "f": 0.8
+     "color": "y"
     }
    ]
   },
   {
-   "voice": "शुरुआत आसान नहीं थी। पहले रॉकेट फ़ाल्कन वन के तीन लॉन्च नाकाम हुए। चौथी कोशिश में, दो हज़ार आठ में, ये ऑर्बिट तक पहुँचा।",
-   "caption": "Shuruaat aasaan nahi thi. Pehle rocket Falcon 1 ke teen launch naakaam hue. Chauthi koshish mein, 2008 mein, ye orbit tak pahuncha.",
+   "voice": "मकसद बहुत बड़ा था। इंसानों को एक से ज़्यादा ग्रहों पर बसाना, ताकि हमारी सभ्यता सिर्फ़ एक ग्रह पर निर्भर न रहे।",
+   "caption": "Maksad bahut bada tha. Insaanon ko ek se zyada grahon par basaana, taaki hamari sabhyata sirf ek grah par nirbhar na rahe.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मकसद"
+    }
+   ]
+  },
+  {
+   "voice": "पर शुरुआत में सब कुछ गलत हुआ। पहला रॉकेट, फ़ाल्कन वन। दो हज़ार छह में पहला लॉन्च, नाकाम। फिर दूसरा, नाकाम। फिर तीसरा, वो भी नाकाम।",
+   "caption": "Par shuruaat mein sab kuch galat hua. Pehla rocket, Falcon 1. 2006 mein pehla launch, naakaam. Phir doosra, naakaam. Phir teesra, wo bhi naakaam.",
    "shots": [
     {
      "type": "preset",
@@ -124,27 +122,36 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "अध्याय 2: नाकामी 💥"
+     "text": "अध्याय 2 · नाकामी"
     },
     {
      "kind": "stk",
-     "text": "❌ ❌ ❌ 3 नाकाम",
-     "f": 0.2,
+     "text": "❌  ❌  ❌",
+     "f": 0.6,
      "color": "r"
-    },
-    {
-     "kind": "stamp",
-     "text": "चौथी बार सफल ✅",
-     "color": "green",
-     "f": 0.75,
-     "center": true,
-     "w": 150
     }
    ]
   },
   {
-   "voice": "फिर दिसंबर दो हज़ार पंद्रह। फ़ाल्कन नाइन का बूस्टर, अंतरिक्ष से लौटकर, सीधा ज़मीन पर उतरा! दोबारा इस्तेमाल होने वाले रॉकेट, सस्ता सफ़र।",
-   "caption": "Phir December 2015. Falcon 9 ka booster, antariksh se lautkar, seedha zameen par utra! Dobaara istemaal hone waale rocket, sasta safar.",
+   "voice": "कंपनी के पास पैसे लगभग ख़त्म थे। चौथी कोशिश, शायद आख़िरी। सितंबर दो हज़ार आठ में, फ़ाल्कन वन ऑर्बिट तक पहुँच गया।",
+   "caption": "Company ke paas paise lagbhag khatm the. Chauthi koshish, shaayad aakhiri. September 2008 mein, Falcon 1 orbit tak pahunch gaya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "सितंबर 2008 ✅",
+     "show": 0.25
+    }
+   ]
+  },
+  {
+   "voice": "फिर एक ऐसा पल आया जो रॉकेट की दुनिया बदल गया। दिसंबर दो हज़ार पंद्रह। फ़ाल्कन नाइन का बूस्टर, अंतरिक्ष की तरफ़ जाकर, वापस लौटा, और सीधा खड़ा उतरा।",
+   "caption": "Phir ek aisa pal aaya jo rocket ki duniya badal gaya. December 2015. Falcon 9 ka booster, antariksh ki taraf jaakar, waapas lauta, aur seedha khada utra.",
    "shots": [
     {
      "type": "preset",
@@ -154,25 +161,40 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "अध्याय 3: वापसी 🔁"
+     "text": "अध्याय 3 · वापसी"
     },
     {
      "kind": "stk",
-     "text": "📅 दिसंबर 2015",
-     "f": 0.2,
+     "text": "दिसंबर 2015",
+     "f": 0.5,
      "color": "y"
-    },
-    {
-     "kind": "stk",
-     "text": "🛬 Booster वापस उतरा",
-     "f": 0.6,
-     "color": "g"
     }
    ]
   },
   {
-   "voice": "मंगल तक जाने के लिए बनाया जा रहा है स्टारशिप, अब तक का सबसे बड़ा रॉकेट, जो पूरा का पूरा दोबारा इस्तेमाल हो सके।",
-   "caption": "Mangal tak jaane ke liye banaaya ja raha hai Starship, ab tak ka sabse bada rocket, jo poora ka poora dobaara istemaal ho sake.",
+   "voice": "रॉकेट अब फेंकने की चीज़ नहीं रहे। उन्हें दोबारा उड़ाया जा सकता था। और मंगल का सफ़र, पहली बार, थोड़ा सस्ता दिखने लगा।",
+   "caption": "Rocket ab phenkne ki cheez nahi rahe. Unhe dobaara udaaya ja sakta tha. Aur Mangal ka safar, pehli baar, thoda sasta dikhne laga.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 28.5,
+     "lon": -80.6,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 28.5,
+       "lon": -80.6,
+       "label": "Cape Canaveral",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": []
+  },
+  {
+   "voice": "मंगल के लिए चाहिए था एक नया रॉकेट। स्टारशिप। अब तक बना सबसे बड़ा और सबसे ताक़तवर रॉकेट, जिसे पूरा का पूरा दोबारा इस्तेमाल करने के लिए बनाया जा रहा है।",
+   "caption": "Mangal ke liye chahiye tha ek naya rocket. Starship. Ab tak bana sabse bada aur sabse taakatvar rocket, jise poora ka poora dobaara istemaal karne ke liye banaaya ja raha hai.",
    "shots": [
     {
      "type": "preset",
@@ -182,21 +204,13 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "अध्याय 4: Starship 🚀"
-    },
-    {
-     "kind": "stamp",
-     "text": "सबसे बड़ा रॉकेट 🚀",
-     "color": "gold",
-     "f": 0.5,
-     "center": true,
-     "w": 150
+     "text": "अध्याय 4 · Starship"
     }
    ]
   },
   {
-   "voice": "पर मंगल का रास्ता हर दिन नहीं खुलता। धरती और मंगल सही जगह पर करीब हर छब्बीस महीने में एक बार आते हैं।",
-   "caption": "Par Mangal ka raasta har din nahi khulta. Dharti aur Mangal sahi jagah par kareeb har 26 mahine mein ek baar aate hain.",
+   "voice": "पर अंतरिक्ष के अपने नियम हैं। धरती और मंगल, सफ़र के लिए सही जगह पर, करीब हर छब्बीस महीने में बस एक बार आते हैं। ये खिड़की चूकी, तो दो साल से ज़्यादा का इंतज़ार।",
+   "caption": "Par antariksh ke apne niyam hain. Dharti aur Mangal, safar ke liye sahi jagah par, kareeb har 26 mahine mein bas ek baar aate hain. Ye khidki chooki, to do saal se zyada ka intezaar.",
    "shots": [
     {
      "type": "planet",
@@ -207,21 +221,19 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "मुश्किल 🪐"
+     "text": "अंतरिक्ष के नियम"
     },
     {
-     "kind": "stamp",
-     "text": "हर ~26 महीने 📅",
-     "color": "red",
-     "f": 0.5,
-     "center": true,
-     "w": 150
+     "kind": "stk",
+     "text": "हर ~26 महीने",
+     "f": 0.6,
+     "color": "r"
     }
    ]
   },
   {
-   "voice": "दो हज़ार पच्चीस में मस्क ने कहा, दो हज़ार छब्बीस के आख़िर तक बिना इंसानों वाला स्टारशिप मंगल भेजने का चांस, पचास पचास है।",
-   "caption": "2025 mein Musk ne kaha, 2026 ke aakhir tak bina insaanon waala Starship Mangal bhejne ka chance, fifty fifty hai.",
+   "voice": "दो हज़ार पच्चीस में, मस्क ने कहा कि दो हज़ार छब्बीस के आख़िर में, बिना इंसानों वाला स्टारशिप मंगल भेजने का मौका, पचास पचास है।",
+   "caption": "2025 mein, Musk ne kaha ki 2026 ke aakhir mein, bina insaanon waala Starship Mangal bhejne ka mauka, fifty fifty hai.",
    "shots": [
     {
      "type": "mars",
@@ -231,27 +243,19 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "अध्याय 5: वादा 🎯"
+     "text": "अध्याय 5 · वादा"
     },
     {
      "kind": "stk",
-     "text": "📅 2025 का बयान",
-     "f": 0.2,
+     "text": "2025 · '50-50'",
+     "f": 0.6,
      "color": "y"
-    },
-    {
-     "kind": "stamp",
-     "text": "50-50 चांस 🎲",
-     "color": "gold",
-     "f": 0.65,
-     "center": true,
-     "w": 150
     }
    ]
   },
   {
-   "voice": "और फिर आया बड़ा मोड़। फ़रवरी दो हज़ार छब्बीस में मस्क ने कहा, स्पेसएक्स अब पहले चाँद पर एक ख़ुद बढ़ने वाला शहर बनाएगी।",
-   "caption": "Aur phir aaya bada mod. February 2026 mein Musk ne kaha, SpaceX ab pehle chaand par ek khud badhne waala shehar banaayegi.",
+   "voice": "फिर, फ़रवरी दो हज़ार छब्बीस। एक बड़ा मोड़। मस्क ने कहा, स्पेसएक्स अब पहले चाँद पर, एक ख़ुद बढ़ने वाला शहर बनाने पर ध्यान देगी।",
+   "caption": "Phir, February 2026. Ek bada mod. Musk ne kaha, SpaceX ab pehle chaand par, ek khud badhne waala shehar banaane par dhyaan degi.",
    "shots": [
     {
      "type": "moon",
@@ -261,27 +265,18 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "अध्याय 6: मोड़ 🌙"
+     "text": "अध्याय 6 · मोड़"
     },
     {
-     "kind": "stk",
-     "text": "📅 फ़रवरी 2026",
-     "f": 0.2,
-     "color": "y"
-    },
-    {
-     "kind": "stamp",
-     "text": "पहले चाँद! 🌙",
-     "color": "green",
-     "f": 0.65,
-     "center": true,
-     "w": 150
+     "kind": "bigtext",
+     "text": "पहले चाँद 🌙",
+     "show": 0.25
     }
    ]
   },
   {
-   "voice": "वजह? चाँद के लिए करीब हर दस दिन में लॉन्च हो सकता है, पर मंगल के लिए छब्बीस महीने इंतज़ार।",
-   "caption": "Vajah? Chaand ke liye kareeb har das din mein launch ho sakta hai, par Mangal ke liye 26 mahine intezaar.",
+   "voice": "वजह सीधी थी। चाँद के लिए करीब हर दस दिन में लॉन्च हो सकता है। मंगल के लिए, छब्बीस महीने का इंतज़ार।",
+   "caption": "Vajah seedhi thi. Chaand ke liye kareeb har das din mein launch ho sakta hai. Mangal ke liye, 26 mahine ka intezaar.",
    "shots": [
     {
      "type": "bars",
@@ -302,13 +297,13 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "क्यों? 🤔"
+     "text": "वजह"
     }
    ]
   },
   {
-   "voice": "पर मंगल का सपना ख़त्म नहीं हुआ। मस्क के मुताबिक, मंगल पर शहर का काम करीब पाँच से सात साल में शुरू होगा।",
-   "caption": "Par Mangal ka sapna khatm nahi hua. Musk ke mutaabik, Mangal par shehar ka kaam kareeb 5 se 7 saal mein shuru hoga.",
+   "voice": "पर मंगल का सपना ख़त्म नहीं हुआ। मस्क के मुताबिक, मंगल पर शहर बनाने का काम, करीब पाँच से सात साल में शुरू होगा।",
+   "caption": "Par Mangal ka sapna khatm nahi hua. Musk ke mutaabik, Mangal par shehar banaane ka kaam, kareeb 5 se 7 saal mein shuru hoga.",
    "shots": [
     {
      "type": "planet",
@@ -319,21 +314,31 @@
    "overlay": [
     {
      "kind": "kin",
-     "text": "अध्याय 7: आगे 🔭"
-    },
-    {
-     "kind": "stamp",
-     "text": "5-7 साल में 🔴",
-     "color": "red",
-     "f": 0.5,
-     "center": true,
-     "w": 150
+     "text": "अध्याय 7 · आगे"
     }
    ]
   },
   {
-   "voice": "तो सवाल ये है, क्या इंसान कभी मंगल पर रहेंगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
-   "caption": "To sawaal ye hai, kya insaan kabhi Mangal par rahenge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "voice": "बीस से ज़्यादा साल। नाकाम रॉकेट, उलटे उतरते बूस्टर, और एक लाल ग्रह, जो अब भी इंतज़ार कर रहा है।",
+   "caption": "Bees se zyada saal. Naakaam rocket, ulte utarte booster, aur ek laal grah, jo ab bhi intezaar kar raha hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "इंतज़ार जारी…",
+     "show": 0.25
+    }
+   ]
+  },
+  {
+   "voice": "क्या इंसान कभी मंगल पर रहेंगे? अपनी राय कमेंट में लिखिए, और ऐसी ही कहानियों के लिए, थ्री डी ज्ञान को सब्सक्राइब कीजिए।",
+   "caption": "Kya insaan kabhi Mangal par rahenge? Apni raay comment mein likhiye, aur aisi hi kahaniyon ke liye, 3D Gyaan ko subscribe kijiye.",
    "shots": [
     {
      "type": "preset",
@@ -343,9 +348,9 @@
    "overlay": [
     {
      "kind": "outro",
-     "big": "अब तुम्हारी बारी 👇",
+     "big": "आपकी राय? 👇",
      "q": "क्या इंसान मंगल पर रहेंगे?",
-     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "cta": "कमेंट करें 💬 · 3D Gyaan को सब्सक्राइब करें 🔔",
      "src": "Sources: NBC News, Scientific American, Al Jazeera, Space.com"
     }
    ]
