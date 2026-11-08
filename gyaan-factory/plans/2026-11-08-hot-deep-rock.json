@@ -36,8 +36,18 @@
    "caption": "Bhai, ek chattan dharti ke 90 kilometre se bhi zyada andar gayi, aur waapas aakar vaigyaniko ko hairaan kar diya!",
    "shots": [
     {
-     "type": "preset",
-     "name": "shells"
+     "type": "globe",
+     "lat": -9.35,
+     "lon": 150.3,
+     "dist": 0.7,
+     "pins": [
+      {
+       "lat": -9.35,
+       "lon": 150.3,
+       "label": "Papua New Guinea",
+       "color": "gold"
+      }
+     ]
     }
    ],
    "overlay": [
@@ -117,8 +127,18 @@
    "caption": "Kareeb 40 lakh saal pehle, dharti ki plates ke takraane se ye chattan neeche khinch gayi, 90 kilometre se bhi zyada gehraai tak!",
    "shots": [
     {
-     "type": "preset",
-     "name": "shells"
+     "type": "globe",
+     "lat": -9.35,
+     "lon": 150.3,
+     "dist": 0.7,
+     "pins": [
+      {
+       "lat": -9.35,
+       "lon": 150.3,
+       "label": "Papua New Guinea",
+       "color": "gold"
+      }
+     ]
     }
    ],
    "overlay": [
@@ -177,8 +197,18 @@
    "caption": "Hairaani ye thi, kareeb 45 kilometre par ye chattan models ke andaaze se kahin zyada garam thi! Aur usse gehraai mein, ummeed se thandi.",
    "shots": [
     {
-     "type": "preset",
-     "name": "shells"
+     "type": "globe",
+     "lat": -9.35,
+     "lon": 150.3,
+     "dist": 0.7,
+     "pins": [
+      {
+       "lat": -9.35,
+       "lon": 150.3,
+       "label": "Papua New Guinea",
+       "color": "gold"
+      }
+     ]
     }
    ],
    "overlay": [

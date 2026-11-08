@@ -36,8 +36,18 @@
    "caption": "Bhai, kareeb 30 kilo ka ek chuhe jaisa jaanwar! Thailand mein aise praacheen daanav ke daant mile hain.",
    "shots": [
     {
-     "type": "preset",
-     "name": "vWide"
+     "type": "globe",
+     "lat": 8.1,
+     "lon": 98.9,
+     "dist": 0.7,
+     "pins": [
+      {
+       "lat": 8.1,
+       "lon": 98.9,
+       "label": "Krabi, Thailand",
+       "color": "gold"
+      }
+     ]
     }
    ],
    "overlay": [
@@ -117,8 +127,18 @@
    "caption": "Sirf do daant! Ek daadh aur ek aage ka daant. Inhi se vaigyaniko ne nayi prajaati pehchaani, naam hai Yakamys sirindhornae.",
    "shots": [
     {
-     "type": "preset",
-     "name": "vHouse"
+     "type": "globe",
+     "lat": 8.1,
+     "lon": 98.9,
+     "dist": 1.1,
+     "pins": [
+      {
+       "lat": 8.1,
+       "lon": 98.9,
+       "label": "Krabi, Thailand",
+       "color": "gold"
+      }
+     ]
     }
    ],
    "overlay": [
@@ -145,8 +165,18 @@
    "caption": "Ye kareeb 3.3 se 3.5 crore saal pehle rehta tha, aur iska vazan kareeb 30 kilo raha hoga.",
    "shots": [
     {
-     "type": "preset",
-     "name": "vSky"
+     "type": "globe",
+     "lat": 8.1,
+     "lon": 98.9,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": 8.1,
+       "lon": 98.9,
+       "label": "Krabi, Thailand",
+       "color": "gold"
+      }
+     ]
     }
    ],
    "overlay": [
@@ -175,8 +205,18 @@
    "caption": "Ye aaj ke capybara ka rishtedaar nahi hai. Ye chuhon ke ek bahut puraane, ab khatm ho chuke parivaar se tha.",
    "shots": [
     {
-     "type": "preset",
-     "name": "vWide"
+     "type": "globe",
+     "lat": 8.1,
+     "lon": 98.9,
+     "dist": 0.7,
+     "pins": [
+      {
+       "lat": 8.1,
+       "lon": 98.9,
+       "label": "Krabi, Thailand",
+       "color": "gold"
+      }
+     ]
     }
    ],
    "overlay": [
