@@ -1,0 +1,354 @@
+{
+ "title": "Elon Musk और मंगल का सपना 🚀🔴 पूरी Documentary | 3D Gyaan",
+ "caption_keywords": [
+  "musk",
+  "mars",
+  "spacex",
+  "starship",
+  "falcon",
+  "moon",
+  "rocket",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Musk का",
+  "line2": "Mars सपना 🔴",
+  "badge": "🎬 DOCUMENTARY"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "elon musk",
+   "mars",
+   "spacex",
+   "starship",
+   "mars mission",
+   "space documentary hindi",
+   "3d gyaan"
+  ],
+  "description": "Elon Musk ने 2002 में SpaceX बनाई, एक सपने के साथ: इंसानों को मंगल ग्रह तक ले जाना! 🚀🔴 नाकाम रॉकेट, उलटे उतरते booster, विशाल Starship, और फिर 2026 का बड़ा मोड़, जब SpaceX ने ध्यान चाँद पर लगाया। पूरी कहानी, documentary अंदाज़ में, सब 3D में।\n\nSources:\n- NBC News (Moon before Mars, Feb 2026): https://www.nbcnews.com/science/space/spacex-prioritizes-moon-before-mars-musk-says-rcna258168\n- Scientific American: https://scientificamerican.com/article/elon-musk-says-spacex-to-prioritize-landing-on-the-moon-instead-of-mars-city/\n- Al Jazeera (50-50 chance, 2025): https://www.aljazeera.com/news/2025/5/30/musk-says-50-50-chance-of-sending-uncrewed-starship-to-mars-by-late-2026\n- Space.com: https://www.space.com/spacex-starship-mars-launches-2026-elon-musk\n- SpaceX history: https://en.wikipedia.org/wiki/SpaceX\n\nAI-generated narration & visuals.\n#ElonMusk #Mars #SpaceX #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "एक सपना। धरती से करोड़ों किलोमीटर दूर, एक लाल ग्रह पर इंसानों का शहर।",
+   "caption": "Ek sapna. Dharti se karodon kilometre door, ek laal grah par insaanon ka shehar.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.3
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "एक सपना 🔴",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "मंगल 🔴",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये है एलन मस्क और मंगल ग्रह की कहानी।",
+   "caption": "Ye hai Elon Musk aur Mangal grah ki kahani.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN DOCUMENTARY",
+     "a": "MUSK",
+     "vs": "🚀",
+     "c": "MARS"
+    }
+   ]
+  },
+  {
+   "voice": "अध्याय एक। साल दो हज़ार दो। मस्क ने एक रॉकेट कंपनी बनाई, स्पेसएक्स। मकसद? इंसानों को एक से ज़्यादा ग्रहों पर बसाना।",
+   "caption": "Adhyaay ek. Saal 2002. Musk ne ek rocket company banaai, SpaceX. Maksad? Insaanon ko ek se zyada grahon par basaana.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अध्याय 1: शुरुआत 🎬"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2002",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 SpaceX",
+     "f": 0.5,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🌍➡️🔴 Multi-planet",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "शुरुआत आसान नहीं थी। पहले रॉकेट फ़ाल्कन वन के तीन लॉन्च नाकाम हुए। चौथी कोशिश में, दो हज़ार आठ में, ये ऑर्बिट तक पहुँचा।",
+   "caption": "Shuruaat aasaan nahi thi. Pehle rocket Falcon 1 ke teen launch naakaam hue. Chauthi koshish mein, 2008 mein, ye orbit tak pahuncha.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अध्याय 2: नाकामी 💥"
+    },
+    {
+     "kind": "stk",
+     "text": "❌ ❌ ❌ 3 नाकाम",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stamp",
+     "text": "चौथी बार सफल ✅",
+     "color": "green",
+     "f": 0.75,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "फिर दिसंबर दो हज़ार पंद्रह। फ़ाल्कन नाइन का बूस्टर, अंतरिक्ष से लौटकर, सीधा ज़मीन पर उतरा! दोबारा इस्तेमाल होने वाले रॉकेट, सस्ता सफ़र।",
+   "caption": "Phir December 2015. Falcon 9 ka booster, antariksh se lautkar, seedha zameen par utra! Dobaara istemaal hone waale rocket, sasta safar.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अध्याय 3: वापसी 🔁"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 दिसंबर 2015",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🛬 Booster वापस उतरा",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "मंगल तक जाने के लिए बनाया जा रहा है स्टारशिप, अब तक का सबसे बड़ा रॉकेट, जो पूरा का पूरा दोबारा इस्तेमाल हो सके।",
+   "caption": "Mangal tak jaane ke liye banaaya ja raha hai Starship, ab tak ka sabse bada rocket, jo poora ka poora dobaara istemaal ho sake.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अध्याय 4: Starship 🚀"
+    },
+    {
+     "kind": "stamp",
+     "text": "सबसे बड़ा रॉकेट 🚀",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "पर मंगल का रास्ता हर दिन नहीं खुलता। धरती और मंगल सही जगह पर करीब हर छब्बीस महीने में एक बार आते हैं।",
+   "caption": "Par Mangal ka raasta har din nahi khulta. Dharti aur Mangal sahi jagah par kareeb har 26 mahine mein ek baar aate hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मुश्किल 🪐"
+    },
+    {
+     "kind": "stamp",
+     "text": "हर ~26 महीने 📅",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "दो हज़ार पच्चीस में मस्क ने कहा, दो हज़ार छब्बीस के आख़िर तक बिना इंसानों वाला स्टारशिप मंगल भेजने का चांस, पचास पचास है।",
+   "caption": "2025 mein Musk ne kaha, 2026 ke aakhir tak bina insaanon waala Starship Mangal bhejne ka chance, fifty fifty hai.",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अध्याय 5: वादा 🎯"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 2025 का बयान",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "50-50 चांस 🎲",
+     "color": "gold",
+     "f": 0.65,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "और फिर आया बड़ा मोड़। फ़रवरी दो हज़ार छब्बीस में मस्क ने कहा, स्पेसएक्स अब पहले चाँद पर एक ख़ुद बढ़ने वाला शहर बनाएगी।",
+   "caption": "Aur phir aaya bada mod. February 2026 mein Musk ne kaha, SpaceX ab pehle chaand par ek khud badhne waala shehar banaayegi.",
+   "shots": [
+    {
+     "type": "moon",
+     "view": "wide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अध्याय 6: मोड़ 🌙"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 फ़रवरी 2026",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "पहले चाँद! 🌙",
+     "color": "green",
+     "f": 0.65,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "वजह? चाँद के लिए करीब हर दस दिन में लॉन्च हो सकता है, पर मंगल के लिए छब्बीस महीने इंतज़ार।",
+   "caption": "Vajah? Chaand ke liye kareeb har das din mein launch ho sakta hai, par Mangal ke liye 26 mahine intezaar.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "MOON · EVERY ~10 DAYS",
+       "value": 10,
+       "color": "#38f3ff"
+      },
+      {
+       "label": "MARS · EVERY ~790 DAYS",
+       "value": 790,
+       "color": "#ff5d7a"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों? 🤔"
+    }
+   ]
+  },
+  {
+   "voice": "पर मंगल का सपना ख़त्म नहीं हुआ। मस्क के मुताबिक, मंगल पर शहर का काम करीब पाँच से सात साल में शुरू होगा।",
+   "caption": "Par Mangal ka sapna khatm nahi hua. Musk ke mutaabik, Mangal par shehar ka kaam kareeb 5 se 7 saal mein shuru hoga.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अध्याय 7: आगे 🔭"
+    },
+    {
+     "kind": "stamp",
+     "text": "5-7 साल में 🔴",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तो सवाल ये है, क्या इंसान कभी मंगल पर रहेंगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "To sawaal ye hai, kya insaan kabhi Mangal par rahenge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या इंसान मंगल पर रहेंगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NBC News, Scientific American, Al Jazeera, Space.com"
+    }
+   ]
+  }
+ ]
+}
