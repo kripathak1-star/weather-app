@@ -1,0 +1,283 @@
+{
+ "title": "30 किलो का चूहा! 🐀🦴 Thailand में मिला प्राचीन दानव | 3D Gyaan",
+ "caption_keywords": [
+  "rodent",
+  "rat",
+  "fossil",
+  "thailand",
+  "teeth",
+  "giant",
+  "3d",
+  "gyaan",
+  "krabi"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "30 किलो का",
+  "line2": "चूहा! 🐀",
+  "badge": "🦴 THAILAND"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "giant rodent",
+   "yakamys",
+   "fossil",
+   "thailand",
+   "paleontology hindi",
+   "3d gyaan"
+  ],
+  "description": "Thailand में सिर्फ़ दो दाँतों से वैज्ञानिकों ने एक प्राचीन giant rodent पहचाना, वज़न करीब 30 किलो, उम्र 3.3 से 3.5 करोड़ साल! 🐀🦴 सब 3D में।\n\nSources:\n- Khaosod English: https://www.khaosodenglish.com/news/environment/2026/11/04/30kg-giant-rat-lived-in-thailand-35-million-years-ago-fossils-reveal/\n- Malay Mail: https://www.malaymail.com/news/life/2026/11/06/prehistoric-giant-rat-found-in-thailand-from-fossil-teeth/242094\n- IFLScience: https://www.iflscience.com/meet-the-giant-prehistoric-rodent-that-roamed-thailands-freshwater-swamps-35-million-years-ago-85131\n\nAI-generated narration & visuals.\n#Fossil #Thailand #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, करीब तीस किलो का एक चूहे जैसा जानवर! थाईलैंड में ऐसे प्राचीन दानव के दाँत मिले हैं।",
+   "caption": "Bhai, kareeb 30 kilo ka ek chuhe jaisa jaanwar! Thailand mein aise praacheen daanav ke daant mile hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "30 किलो! 🐀",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "दानव चूहा 🦴",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "थाईलैंड के प्राचीन दानव चूहे की कहानी। चलो समझते हैं!",
+   "caption": "Thailand ke praacheen daanav chuhe ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "GIANT",
+     "vs": "🐀",
+     "c": "RODENT"
+    }
+   ]
+  },
+  {
+   "voice": "ये जीवाश्म थाईलैंड के क्राबी प्रांत की एक कोयला खदान से, दो हज़ार चार में मिले थे।",
+   "caption": "Ye jeevaashm Thailand ke Krabi praant ki ek koyla khadaan se, 2004 mein mile the.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 8.1,
+     "lon": 98.9,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 8.1,
+       "lon": 98.9,
+       "label": "Krabi, Thailand",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ मिला? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Krabi, Thailand",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⛏️ कोयला खदान · 2004",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "सिर्फ़ दो दाँत! एक दाढ़ और एक आगे का दाँत। इन्हीं से वैज्ञानिकों ने नई प्रजाति पहचानी, नाम है याकामिस सिरिंधोर्नाए।",
+   "caption": "Sirf do daant! Ek daadh aur ek aage ka daant. Inhi se vaigyaniko ne nayi prajaati pehchaani, naam hai Yakamys sirindhornae.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vHouse"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत 🦷"
+    },
+    {
+     "kind": "stk",
+     "text": "🦷 सिर्फ़ 2 दाँत",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 Yakamys sirindhornae",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये करीब तीन करोड़ तीस लाख से तीन करोड़ पचास लाख साल पहले रहता था, और इसका वज़न करीब तीस किलो रहा होगा।",
+   "caption": "Ye kareeb 3.3 se 3.5 crore saal pehle rehta tha, aur iska vazan kareeb 30 kilo raha hoga.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vSky"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना पुराना? 📅"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 3.3-3.5 करोड़ साल",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "⚖️ ~30 किलो",
+     "color": "red",
+     "f": 0.65,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये आज के कैपीबारा का रिश्तेदार नहीं है। ये चूहों के एक बहुत पुराने, अब ख़त्म हो चुके परिवार से था।",
+   "caption": "Ye aaj ke capybara ka rishtedaar nahi hai. Ye chuhon ke ek bahut puraane, ab khatm ho chuke parivaar se tha.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "vWide"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसका रिश्तेदार? 🧬"
+    },
+    {
+     "kind": "stk",
+     "text": "❌ Capybara नहीं",
+     "f": 0.2,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 Ischyromyidae परिवार",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "सबसे बड़ी बात? टीम के मुताबिक, चूहे जैसे जीव, पहले के अंदाज़े से डेढ़ से दो करोड़ साल पहले ही इतने बड़े होने लगे थे!",
+   "caption": "Sabse badi baat? Team ke mutaabik, chuhe jaise jeev, pehle ke andaaze se 1.5 se 2 crore saal pehle hi itne bade hone lage the!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 8.1,
+     "lon": 98.9,
+     "dist": 1.5,
+     "pins": [
+      {
+       "lat": 8.1,
+       "lon": 98.9,
+       "label": "Krabi, Thailand",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ी बात 🤯"
+    },
+    {
+     "kind": "stamp",
+     "text": "पहले से बड़े! 📈",
+     "color": "green",
+     "f": 0.45,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये स्टडी साइंटिफ़िक रिपोर्ट्स में छपी है। पर सिर्फ़ दो दाँतों से, इसकी शक्ल और खाना अभी भी रहस्य है।",
+   "caption": "Ye study Scientific Reports mein chhapi hai. Par sirf do daanto se, iski shakl aur khaana abhi bhi rahasya hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "रहस्य 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Scientific Reports",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ शक्ल अभी अनजान",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ये दानव चूहा कैसा दिखता होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, ye daanav chuha kaisa dikhta hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "ये दानव चूहा कैसा दिखता होगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Khaosod English, Malay Mail, IFLScience · 2026"
+    }
+   ]
+  }
+ ]
+}

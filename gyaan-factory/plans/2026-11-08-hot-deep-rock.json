@@ -1,0 +1,291 @@
+{
+ "title": "धरती के 90 km अंदर गई चट्टान, निकली ज़्यादा गर्म! 🌋🪨 | 3D Gyaan",
+ "caption_keywords": [
+  "rock",
+  "earth",
+  "papua",
+  "subduction",
+  "plates",
+  "heat",
+  "3d",
+  "gyaan",
+  "geology"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "गर्म चट्टान!",
+  "line2": "90 km नीचे 🌋",
+  "badge": "🪨 PAPUA NEW GUINEA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "subduction",
+   "eclogite",
+   "papua new guinea",
+   "geology hindi",
+   "earth science",
+   "3d gyaan"
+  ],
+  "description": "Papua New Guinea की एक चट्टान धरती के 90 km से ज़्यादा अंदर तक गई थी, और वैज्ञानिकों के models से ज़्यादा गर्म निकली! 🌋🪨 क्या plate tectonics की किताब बदलेगी? सब 3D में।\n\nSources:\n- Curtin University: https://www.curtin.edu.au/news/media-release/mysterious-hot-rock-deep-underground-threatens-to-throw-out-the-rule-book/\n- ScienceAlert: https://www.sciencealert.com/?p=223955\n- ScienceDaily: https://sciencedaily.com/releases/2026/10/261020084816.htm\n\nAI-generated narration & visuals.\n#Geology #Earth #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक चट्टान धरती के नब्बे किलोमीटर से भी ज़्यादा अंदर गई, और वापस आकर वैज्ञानिकों को हैरान कर दिया!",
+   "caption": "Bhai, ek chattan dharti ke 90 kilometre se bhi zyada andar gayi, aur waapas aakar vaigyaniko ko hairaan kar diya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "90 km नीचे! 🪨",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "उम्मीद से गर्म 🔥",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इस रहस्यमयी गर्म चट्टान की कहानी। चलो समझते हैं!",
+   "caption": "Is rahasyamayi garam chattan ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ROCK",
+     "vs": "🔥",
+     "c": "EARTH"
+    }
+   ]
+  },
+  {
+   "voice": "ये चट्टान पापुआ न्यू गिनी के गुडइनफ़ आइलैंड से मिली। इसे एक्लोजाइट कहते हैं।",
+   "caption": "Ye chattan Papua New Guinea ke Goodenough Island se mili. Ise eclogite kehte hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -9.35,
+     "lon": 150.3,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": -9.35,
+       "lon": 150.3,
+       "label": "Papua New Guinea",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ मिली? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Goodenough Island",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 Eclogite चट्टान",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "करीब चालीस लाख साल पहले, धरती की प्लेट्स के टकराने से ये चट्टान नीचे खिंच गई, नब्बे किलोमीटर से भी ज़्यादा गहराई तक!",
+   "caption": "Kareeb 40 lakh saal pehle, dharti ki plates ke takraane se ye chattan neeche khinch gayi, 90 kilometre se bhi zyada gehraai tak!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे गई? ⬇️"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 ~40 लाख साल पहले",
+     "f": 0.15,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⬇️ 90+ km गहराई",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "इसके अंदर छोटे क्रिस्टल फँसे हैं, जो बताते हैं कि ये कितनी गहराई तक गई, और कितनी गर्म हुई।",
+   "caption": "Iske andar chhote crystal phanse hain, jo batate hain ki ye kitni gehraai tak gayi, aur kitni garam hui.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -9.35,
+     "lon": 150.3,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": -9.35,
+       "lon": 150.3,
+       "label": "Papua New Guinea",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "💎 फँसे हुए क्रिस्टल",
+     "f": 0.3,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "हैरानी ये थी, करीब पैंतालीस किलोमीटर पर ये चट्टान मॉडल्स के अंदाज़े से कहीं ज़्यादा गर्म थी! और उससे गहराई में, उम्मीद से ठंडी।",
+   "caption": "Hairaani ye thi, kareeb 45 kilometre par ye chattan models ke andaaze se kahin zyada garam thi! Aur usse gehraai mein, ummeed se thandi.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "shells"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "हैरानी 😲"
+    },
+    {
+     "kind": "stamp",
+     "text": "45 km पर गर्म 🔥",
+     "color": "red",
+     "f": 0.35,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "❄️ गहराई में ठंडी",
+     "f": 0.8,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों के दो अंदाज़े हैं। शायद प्लेट्स की रगड़ से एक्स्ट्रा गर्मी बनी, या ये इलाका तब तक ठंडा ही नहीं हुआ था।",
+   "caption": "Vaigyaniko ke do andaaze hain. Shayad plates ki ragad se extra garmi bani, ya ye ilaaka tab tak thanda hi nahi hua tha.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "1️⃣ प्लेट्स की रगड़",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "2️⃣ इलाका ठंडा नहीं हुआ",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये स्टडी नेचर जियोसाइंस में छपी है। पर दूसरे वैज्ञानिक कहते हैं कि और चट्टानों पर भी ये जाँच होनी चाहिए।",
+   "caption": "Ye study Nature Geoscience mein chhapi hai. Par doosre vaigyanik kehte hain ki aur chattano par bhi ye jaanch honi chahiye.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -9.35,
+     "lon": 150.3,
+     "dist": 1.6,
+     "pins": [
+      {
+       "lat": -9.35,
+       "lon": 150.3,
+       "label": "Papua New Guinea",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature Geoscience",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔁 और samples चाहिए",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, धरती के अंदर और कौन से राज़ छुपे हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, dharti ke andar aur kaun se raaz chhupe hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "धरती के अंदर और कौन से राज़?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Curtin University, ScienceAlert, ScienceDaily · 2026"
+    }
+   ]
+  }
+ ]
+}

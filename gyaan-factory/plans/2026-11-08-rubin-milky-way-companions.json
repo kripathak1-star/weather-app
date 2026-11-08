@@ -1,0 +1,254 @@
+{
+ "title": "Milky Way के 2 छुपे साथी मिले! 🌌🔭 Rubin Telescope का कमाल | 3D Gyaan",
+ "caption_keywords": [
+  "rubin",
+  "galaxy",
+  "milky",
+  "way",
+  "cluster",
+  "telescope",
+  "3d",
+  "gyaan",
+  "space",
+  "dwarf"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "छुपे साथी!",
+  "line2": "Milky Way 🌌",
+  "badge": "🔭 RUBIN"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "rubin observatory",
+   "milky way",
+   "dwarf galaxy",
+   "globular cluster",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "नई Vera C. Rubin Observatory ने हमारी आकाशगंगा Milky Way के 2 छुपे साथी ढूंढे: एक बेहद धुँधली dwarf galaxy और धूल के पीछे छुपा एक तारों का गुच्छा! 🌌🔭 और सैकड़ों और हो सकते हैं। सब 3D में।\n\nSources:\n- University of Washington: https://www.washington.edu/news/2026/11/05/rubin-observatory-milky-way-satellites/\n- Universe Today: https://universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/11/261104012252.htm\n\nAI-generated narration & visuals.\n#Rubin #MilkyWay #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, हमारी आकाशगंगा के दो छुपे हुए साथी मिले हैं, और ये ढूंढे एक नए टेलिस्कोप ने!",
+   "caption": "Bhai, hamari aakashganga ke do chhupe hue saathi mile hain, aur ye dhoondhe ek naye telescope ne!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "2 छुपे साथी! 🌌",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Rubin 🔭",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "मिल्की वे के छुपे साथियों की कहानी। चलो समझते हैं!",
+   "caption": "Milky Way ke chhupe saathiyon ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MILKY WAY",
+     "vs": "🔭",
+     "c": "RUBIN"
+    }
+   ]
+  },
+  {
+   "voice": "ये खोज की वेरा सी रूबिन ऑब्ज़र्वेटरी ने, जो चिली के पहाड़ों पर है, और पूरे आसमान का बार बार नक्शा बनाती है।",
+   "caption": "Ye khoj ki Vera C. Rubin Observatory ne, jo Chile ke pahaadon par hai, aur poore aasmaan ka baar baar naksha banaati hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -30.24,
+     "lon": -70.74,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": -30.24,
+       "lon": -70.74,
+       "label": "Rubin, Chile",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने ढूंढा? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🔭 Vera C. Rubin",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Chile",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "पहला साथी है एक्वेरियस फ़ोर, एक बेहद धुँधली छोटी आकाशगंगा, जो आँख से मुश्किल से दिखती है, पर कंप्यूटर ने पकड़ ली!",
+   "caption": "Pehla saathi hai Aquarius IV, ek behad dhundhli chhoti aakashganga, jo aankh se mushkil se dikhti hai, par computer ne pakad li!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "साथी 1 🌌"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 Aquarius IV",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🤖 कंप्यूटर ने पकड़ा",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "दूसरा है रूबिन जी सी वन, तारों का एक गोल गुच्छा, जो धूल के पीछे छुपा था।",
+   "caption": "Doosra hai Rubin-GC1, taaron ka ek gol guchha, jo dhool ke peechhe chhupa tha.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "साथी 2 ✨"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 Rubin-GC1",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌫️ धूल के पीछे",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "मिल्की वे के करीब पैंसठ साथी पहले से पता हैं, पर वैज्ञानिकों को लगता है कि सैकड़ों और छुपे हो सकते हैं!",
+   "caption": "Milky Way ke kareeb 65 saathi pehle se pata hain, par vaigyaniko ko lagta hai ki saikdon aur chhupe ho sakte hain!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "और कितने? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ ~65 पहले से ज्ञात",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "सैकड़ों और? 🌌",
+     "color": "gold",
+     "f": 0.65,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "और ये तो बस शुरुआती डेटा से मिला है। रूबिन का पूरा सर्वे अभी आगे है!",
+   "caption": "Aur ye to bas shuruaati data se mila hai. Rubin ka poora survey abhi aage hai!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "📊 शुरुआती डेटा",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔭 पूरा सर्वे बाकी",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, रूबिन और क्या ढूंढेगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Rubin aur kya dhoondhega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Rubin और क्या ढूंढेगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Univ. of Washington, Universe Today, ScienceDaily · 2026"
+    }
+   ]
+  }
+ ]
+}
