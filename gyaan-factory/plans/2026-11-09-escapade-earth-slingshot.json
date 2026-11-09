@@ -1,0 +1,232 @@
+{
+ "title": "NASA के जुड़वाँ यान धरती से गुलेल बनकर मंगल की ओर! 🚀🔴 | 3D Gyaan",
+ "caption_keywords": [
+  "nasa",
+  "escapade",
+  "mars",
+  "slingshot",
+  "twin",
+  "spacecraft",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "धरती से",
+  "line2": "गुलेल! 🚀",
+  "badge": "🔴 NASA ESCAPADE"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "nasa escapade",
+   "mars mission",
+   "gravity assist",
+   "oberth maneuver",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "NASA के जुड़वाँ ESCAPADE यान, Blue और Gold, नवंबर 2026 में धरती के पास से 'powered flyby' करके मंगल की ओर निकलने वाले हैं! 🚀🔴 मंगल जाने वाले किसी यान ने पहले ऐसा सफलतापूर्वक नहीं किया। सब 3D में।\n\nSources:\n- NASA: https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/\n- UC Berkeley: https://news.berkeley.edu/2025/11/05/nasas-escapade-mission-to-mars-twin-uc-berkeley-satellites-dubbed-blue-and-gold-will-launch-in-early-november/\n- Mars Daily: https://www.marsdaily.com/reports/Second_ESCAPADE_spacecraft_completes_key_trajectory_fix_on_path_to_Mars_999.html\n\nAI-generated narration & visuals.\n#NASA #Mars #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, नासा के दो जुड़वाँ यान, धरती को गुलेल की तरह इस्तेमाल करके, मंगल की ओर निकल रहे हैं!",
+   "caption": "Bhai, NASA ke do judwaan yaan, dharti ko gulel ki tarah istemaal karke, Mangal ki or nikal rahe hain!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "धरती = गुलेल! 🚀",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "मंगल की ओर 🔴",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "नासा के जुड़वाँ यानों की कहानी। चलो समझते हैं!",
+   "caption": "NASA ke judwaan yaanon ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ESCAPADE",
+     "vs": "🚀",
+     "c": "MARS"
+    }
+   ]
+  },
+  {
+   "voice": "मिशन का नाम है एस्केपेड। दो एक जैसे यान, ब्लू और गोल्ड। ये नवंबर दो हज़ार पच्चीस में लॉन्च हुए थे।",
+   "caption": "Mission ka naam hai ESCAPADE. Do ek jaise yaan, Blue aur Gold. Ye November 2025 mein launch hue the.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन? 🛰️"
+    },
+    {
+     "kind": "stk",
+     "text": "🔵 Blue · 🟡 Gold",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 लॉन्च: नवंबर 2025",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "पर ये सीधे मंगल नहीं गए। ये करीब एक साल तक धरती से दूर, एक ख़ास जगह के आसपास चक्कर लगाते रहे, सही मौके के इंतज़ार में।",
+   "caption": "Par ye seedhe Mangal nahi gaye. Ye kareeb ek saal tak dharti se door, ek khaas jagah ke aaspaas chakkar lagaate rahe, sahi mauke ke intezaar mein.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "इंतज़ार ⏳"
+    },
+    {
+     "kind": "stk",
+     "text": "🔄 L2 के पास चक्कर",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "अब नवंबर दो हज़ार छब्बीस में, दोनों यान धरती के पास से गुज़रने वाले हैं। धरती का गुरुत्व, और साथ में इंजन की ताक़त!",
+   "caption": "Ab November 2026 mein, dono yaan dharti ke paas se guzarne waale hain. Dharti ka gurutva, aur saath mein engine ki taakat!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 20,
+     "lon": -100,
+     "dist": 1.2
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "गुलेल कैसे? 🌍"
+    },
+    {
+     "kind": "stk",
+     "text": "🌍 धरती का गुरुत्व",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🔥 + इंजन बर्न",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "इसे पावर्ड फ़्लाईबाय कहते हैं। नासा के मुताबिक, मंगल जाने वाले किसी यान ने ये पहले कभी सफलतापूर्वक नहीं किया।",
+   "caption": "Ise powered flyby kehte hain. NASA ke mutaabik, Mangal jaane waale kisi yaan ne ye pehle kabhi safaltapoorvak nahi kiya.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पहली बार 🏆"
+    },
+    {
+     "kind": "stamp",
+     "text": "Powered Flyby 🚀",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अगर सब ठीक रहा, तो ये यान दो हज़ार सत्ताईस में मंगल पहुँचेंगे, और वहाँ के अंतरिक्ष मौसम की थ्री डी जाँच करेंगे।",
+   "caption": "Agar sab theek raha, to ye yaan 2027 mein Mangal pahunchenge, aur wahan ke antariksh mausam ki 3D jaanch karenge.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मंज़िल 🔴"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 पहुँचेंगे: 2027",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌬️ मंगल का अंतरिक्ष मौसम",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ये गुलेल वाली चाल काम करेगी? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, ye gulel waali chaal kaam karegi? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "ये गुलेल चाल काम करेगी?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NASA, UC Berkeley, Mars Daily"
+    }
+   ]
+  }
+ ]
+}

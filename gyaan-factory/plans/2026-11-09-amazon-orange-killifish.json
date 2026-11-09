@@ -1,0 +1,286 @@
+{
+ "title": "Amazon में मिली नई नारंगी मछली! 🐟🧡 पर ख़तरे में | 3D Gyaan",
+ "caption_keywords": [
+  "fish",
+  "amazon",
+  "killifish",
+  "brazil",
+  "orange",
+  "species",
+  "3d",
+  "gyaan",
+  "nature"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "नई नारंगी",
+  "line2": "मछली! 🐟",
+  "badge": "🧡 AMAZON"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "new species",
+   "killifish",
+   "amazon",
+   "laimosemion laranja",
+   "nature news hindi",
+   "3d gyaan"
+  ],
+  "description": "Brazil के Amazon में वैज्ञानिकों को एक नई, छोटी सी नारंगी धारियों वाली मछली मिली: Laimosemion laranja! 🐟🧡 पर ये सिर्फ़ 3 छोटे तालाबों में मिलती है, और पहले से ख़तरे में है। सब 3D में।\n\nSources:\n- SciTechDaily: https://scitechdaily.com/scientists-discover-striking-orange-killifish-in-the-amazons-threatened-forest-pools/\n- Nautilus: https://nautil.us/a-striking-new-fish-species-discovered-in-amazon-1285318/\n- A-Z Animals: https://a-z-animals.com/blog/one-disaster-could-wipe-out-this-newly-found-amazon-fish/\n\nAI-generated narration & visuals.\n#Amazon #NewSpecies #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अमेज़न के जंगल में एक बिल्कुल नई मछली मिली है, नारंगी धारियों वाली! पर ये पहले से ही ख़तरे में है।",
+   "caption": "Bhai, Amazon ke jungle mein ek bilkul nayi machhli mili hai, naarangi dhaariyon waali! Par ye pehle se hi khatre mein hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -0.8,
+     "lon": -52.5,
+     "dist": 0.7,
+     "pins": [
+      {
+       "lat": -0.8,
+       "lon": -52.5,
+       "label": "Amazon, Brazil",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "नई मछली! 🐟",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "ख़तरे में ⚠️",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अमेज़न की नई नारंगी मछली की कहानी। चलो समझते हैं!",
+   "caption": "Amazon ki nayi naarangi machhli ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "AMAZON",
+     "vs": "🐟",
+     "c": "FISH"
+    }
+   ]
+  },
+  {
+   "voice": "ये मछली ब्राज़ील के लारांजाल दू जारी इलाके में मिली। इसका नाम रखा गया, लाइमोसेमियन लारांजा।",
+   "caption": "Ye machhli Brazil ke Laranjal do Jari ilaake mein mili. Iska naam rakha gaya, Laimosemion laranja.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -0.8,
+     "lon": -52.5,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": -0.8,
+       "lon": -52.5,
+       "label": "Amazon, Brazil",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ मिली? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Laranjal do Jari, Brazil",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 Laimosemion laranja",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "पुर्तगाली में लारांजा का मतलब है नारंगी। नर मछलियों पर नारंगी निशान होते हैं, और ये सिर्फ़ करीब तीन सेंटीमीटर की है।",
+   "caption": "Portuguese mein laranja ka matlab hai naarangi. Nar machhliyon par naarangi nishaan hote hain, aur ye sirf kareeb teen centimetre ki hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -0.8,
+     "lon": -52.5,
+     "dist": 0.8,
+     "pins": [
+      {
+       "lat": -0.8,
+       "lon": -52.5,
+       "label": "Amazon, Brazil",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नाम का मतलब 🧡"
+    },
+    {
+     "kind": "stk",
+     "text": "🧡 Laranja = नारंगी",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "~3 cm 📏",
+     "color": "gold",
+     "f": 0.7,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों ने इसके शरीर, हड्डियों और डीएनए की जाँच की। ये अपने करीबी रिश्तेदारों से अलग निकली, यानी नई प्रजाति।",
+   "caption": "Vaigyaniko ne iske shareer, haddiyon aur DNA ki jaanch ki. Ye apne kareebi rishtedaaron se alag nikli, yaani nayi prajaati.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -0.8,
+     "lon": -52.5,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": -0.8,
+       "lon": -52.5,
+       "label": "Amazon, Brazil",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे पहचाना? 🧬"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 शरीर · हड्डियाँ",
+     "f": 0.2
+    },
+    {
+     "kind": "stk",
+     "text": "🧬 DNA जाँच",
+     "f": 0.55,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "मुश्किल ये है, ये अब तक सिर्फ़ तीन छोटे मौसमी तालाबों में मिली है। एक आपदा, और पूरी प्रजाति ख़त्म हो सकती है।",
+   "caption": "Mushkil ye hai, ye ab tak sirf teen chhote mausami taalaabon mein mili hai. Ek aapda, aur poori prajaati khatm ho sakti hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -0.8,
+     "lon": -52.5,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": -0.8,
+       "lon": -52.5,
+       "label": "Amazon, Brazil",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ख़तरा ⚠️"
+    },
+    {
+     "kind": "stamp",
+     "text": "सिर्फ़ 3 तालाब",
+     "color": "red",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "⛏️ खनन · 🧴 प्लास्टिक",
+     "f": 0.8,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "इसलिए वैज्ञानिक कहते हैं, इसे लुप्तप्राय यानी एंडेंजर्ड लिस्ट में डालना चाहिए।",
+   "caption": "Isliye vaigyanik kehte hain, ise luptpraay yaani Endangered list mein daalna chahiye.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🌿"
+    },
+    {
+     "kind": "stk",
+     "text": "📋 Endangered लिस्ट की सलाह",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ऐसी छोटी प्रजातियों को कैसे बचाएँ? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, aisi chhoti prajaatiyon ko kaise bachaayein? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "ऐसी प्रजातियों को कैसे बचाएँ?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: SciTechDaily, Nautilus, A-Z Animals"
+    }
+   ]
+  }
+ ]
+}

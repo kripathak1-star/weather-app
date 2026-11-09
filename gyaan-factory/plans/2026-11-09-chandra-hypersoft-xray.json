@@ -1,0 +1,250 @@
+{
+ "title": "अंतरिक्ष में 84 रहस्यमयी चीज़ें! 🔭✨ NASA Chandra की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "chandra",
+  "xray",
+  "nasa",
+  "galaxy",
+  "andromeda",
+  "mystery",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "84 रहस्यमयी",
+  "line2": "चीज़ें! 🔭",
+  "badge": "✨ NASA CHANDRA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "nasa chandra",
+   "x-ray",
+   "hypersoft x-ray sources",
+   "andromeda",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "NASA की Chandra X-ray Observatory के पुराने डेटा में वैज्ञानिकों को 84 अजीब X-ray स्रोत मिले, 6 galaxies में, Andromeda समेत! 🔭✨ ये शायद बिल्कुल नई तरह की cosmic चीज़ें हैं। सब 3D में।\n\nSources:\n- NASA: https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/\n- BBC Sky at Night Magazine: https://skyatnightmagazine.com/news/mysterious-hypersoft-x-ray-sources\n- The Debrief: https://thedebrief.org/nasas-chandra-discovers-a-mysterious-new-class-of-cosmic-objects-that-could-solve-two-longstanding-mysteries/\n\nAI-generated narration & visuals.\n#NASA #Chandra #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अंतरिक्ष में चौरासी ऐसी चीज़ें मिली हैं, जो वैज्ञानिकों ने पहले कभी नहीं देखीं!",
+   "caption": "Bhai, antariksh mein 84 aisi cheezein mili hain, jo vaigyaniko ne pehle kabhi nahi dekhin!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "84 रहस्य! ✨",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "नई चीज़ें? 🤔",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अंतरिक्ष की रहस्यमयी एक्स रे चीज़ों की कहानी। चलो समझते हैं!",
+   "caption": "Antariksh ki rahasyamayi X-ray cheezon ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "CHANDRA",
+     "vs": "🔭",
+     "c": "X-RAY"
+    }
+   ]
+  },
+  {
+   "voice": "ये खोज हुई नासा की चंद्रा एक्स रे ऑब्ज़र्वेटरी के पुराने डेटा में। वैज्ञानिकों ने सालों पुरानी तस्वीरें फिर से खंगालीं।",
+   "caption": "Ye khoj hui NASA ki Chandra X-ray Observatory ke puraane data mein. Vaigyaniko ne saalon puraani tasveerein phir se khangaalin.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे मिली? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🔭 NASA Chandra",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🗂️ पुराना डेटा",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "उन्होंने ऐसी चीज़ें ढूंढीं, जो बहुत कम एनर्जी वाली एक्स रे में चमकती हैं, पर ज़्यादा एनर्जी पर ग़ायब हो जाती हैं।",
+   "caption": "Unhone aisi cheezein dhoondhin, jo bahut kam energy waali X-ray mein chamakti hain, par zyada energy par gaayab ho jaati hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ख़ास बात 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ कम एनर्जी: चमक",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "❌ ज़्यादा एनर्जी: ग़ायब",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ऐसी चौरासी चीज़ें, छह अलग आकाशगंगाओं में मिलीं। इनमें हमारी पड़ोसी एंड्रोमेडा, और पिनव्हील गैलेक्सी भी है।",
+   "caption": "Aisi 84 cheezein, chhah alag aakashgangaon mein milin. Inmein hamari padosi Andromeda, aur Pinwheel galaxy bhi hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 🌌"
+    },
+    {
+     "kind": "stamp",
+     "text": "84 · 6 galaxies",
+     "color": "gold",
+     "f": 0.3,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🌀 Andromeda · Pinwheel",
+     "f": 0.75,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों का अंदाज़ा है, कि शायद ये कोई ब्लैक होल, न्यूट्रॉन स्टार, या व्हाइट ड्वार्फ है, जो पास के तारे से माल खींच रहा है। पर ये अभी पक्का नहीं।",
+   "caption": "Vaigyaniko ka andaaza hai, ki shaayad ye koi black hole, neutron star, ya white dwarf hai, jo paas ke taare se maal kheench raha hai. Par ye abhi pakka nahi.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ये क्या है? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🕳️ Black hole?",
+     "f": 0.15
+    },
+    {
+     "kind": "stk",
+     "text": "⭐ Neutron star?",
+     "f": 0.4
+    },
+    {
+     "kind": "stk",
+     "text": "⚪ White dwarf?",
+     "f": 0.65
+    },
+    {
+     "kind": "stk",
+     "text": "❓ अभी पक्का नहीं",
+     "f": 0.88,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "अगर ये सच निकला, तो ये टाइप वन ए सुपरनोवा जैसे बड़े धमाकों का राज़ खोलने में मदद कर सकती हैं।",
+   "caption": "Agar ye sach nikla, to ye Type 1a supernova jaise bade dhamaakon ka raaz kholne mein madad kar sakti hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ज़रूरी? 💥"
+    },
+    {
+     "kind": "stamp",
+     "text": "Supernova का राज़? 💥",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ये चौरासी रहस्यमयी चीज़ें क्या हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, ye 84 rahasyamayi cheezein kya hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "ये 84 चीज़ें क्या हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NASA, Sky at Night Magazine, The Debrief"
+    }
+   ]
+  }
+ ]
+}
