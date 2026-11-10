@@ -1,0 +1,238 @@
+{
+ "title": "Robot ने अंतरिक्ष में ख़ुद बनाया ढाँचा! 🤖🛰️ पहली बार | 3D Gyaan",
+ "caption_keywords": [
+  "robot",
+  "space",
+  "darpa",
+  "caltech",
+  "assembly",
+  "orbit",
+  "3d",
+  "gyaan",
+  "truss"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Robot ने बनाया",
+  "line2": "स्पेस में! 🤖",
+  "badge": "🛰️ पहली बार"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "darpa nom4d",
+   "caltech",
+   "space robot",
+   "in-space assembly",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "पहली बार एक robot ने अंतरिक्ष में, बिना किसी astronaut के, ख़ुद एक ढाँचा जोड़ा! 🤖🛰️ DARPA के NOM4D program और Caltech का ये प्रयोग, भविष्य के विशाल space antennas की तरफ़ पहला कदम। सब 3D में।\n\nSources:\n- DARPA: https://www.darpa.mil/news/2026/nom4d-program-demonstrates-automated-in-space-assembly\n- Interesting Engineering: https://interestingengineering.com/space/self-assembling-spacecraft-orbital-test\n- ingenieur.de: https://www.ingenieur.de/der-erste-schritt-zu-gigantischen-bauwerken-im-all-ist-gelungen-514d7a0d-7d2d-42a3-bf42-9186b75b3678/\n\nAI-generated narration & visuals.\n#Robot #Space #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, पहली बार एक रोबोट ने अंतरिक्ष में, बिना किसी इंसान के, ख़ुद एक ढाँचा जोड़ा है!",
+   "caption": "Bhai, pehli baar ek robot ne antariksh mein, bina kisi insaan ke, khud ek dhaancha joda hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Robot बिल्डर! 🤖",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "पहली बार 🏆",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अंतरिक्ष के रोबोट बिल्डर की कहानी। चलो समझते हैं!",
+   "caption": "Antariksh ke robot builder ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ROBOT",
+     "vs": "🛰️",
+     "c": "SPACE"
+    }
+   ]
+  },
+  {
+   "voice": "ये प्रयोग अमेरिका की डारपा एजेंसी के नोमैड प्रोग्राम का हिस्सा है, और रोबोट वाला पेलोड कैलटेक ने बनाया।",
+   "caption": "Ye prayog America ki DARPA agency ke NOM4D program ka hissa hai, aur robot waala payload Caltech ne banaaya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 34.14,
+     "lon": -118.13,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 34.14,
+       "lon": -118.13,
+       "label": "Caltech",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसका? 🏛️"
+    },
+    {
+     "kind": "stk",
+     "text": "🇺🇸 DARPA · NOM4D",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🎓 Caltech",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये पेलोड मार्च दो हज़ार छब्बीस में, स्पेसएक्स के ट्रांसपोर्टर सोलह मिशन से अंतरिक्ष गया।",
+   "caption": "Ye payload March 2026 mein, SpaceX ke Transporter-16 mission se antariksh gaya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब गया? 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 मार्च 2026",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 Transporter-16",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "ऑर्बिट में, एक रोबोट ने हल्की कंपोज़िट छड़ों को ख़ास जोड़ों से जोड़ा, और साथ में एक चमकीली जाली फैलाई।",
+   "caption": "Orbit mein, ek robot ne halki composite chhadon ko khaas jodon se joda, aur saath mein ek chamkeeli jaali phailaai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या बनाया? 🔧"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 छड़ें + जोड़",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🕸️ चमकीली जाली",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "मकसद? भविष्य में अंतरिक्ष में ही, बहुत बड़े एंटेना और ढाँचे बनाना, जो रॉकेट में एक साथ फ़िट ही नहीं हो सकते।",
+   "caption": "Maksad? Bhavishya mein antariksh mein hi, bahut bade antenna aur dhaanche banaana, jo rocket mein ek saath fit hi nahi ho sakte.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों? 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "विशाल Antennas 📡",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "पर ध्यान रहे, ये अभी शुरुआती टेस्ट है। पूरा ढाँचा मिशन ख़त्म होने से पहले बन पाएगा, ये पक्का नहीं।",
+   "caption": "Par dhyaan rahe, ye abhi shuruaati test hai. Poora dhaancha mission khatm hone se pehle ban paayega, ye pakka nahi.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सच्चाई ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "🧪 शुरुआती टेस्ट",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, भविष्य में अंतरिक्ष में रोबोट शहर बनाएँगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, bhavishya mein antariksh mein robot shehar banaayenge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या robots स्पेस में शहर बनाएँगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: DARPA, Interesting Engineering, ingenieur.de"
+    }
+   ]
+  }
+ ]
+}

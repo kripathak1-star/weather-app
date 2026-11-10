@@ -1,0 +1,235 @@
+{
+ "title": "आसमान में मंगल और बृहस्पति एकदम पास! 🔴🪐 15-16 नवंबर को देखो | 3D Gyaan",
+ "caption_keywords": [
+  "mars",
+  "jupiter",
+  "conjunction",
+  "sky",
+  "leo",
+  "planets",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "मंगल + गुरु",
+  "line2": "एकदम पास! 🪐",
+  "badge": "📅 15-16 NOV"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "mars jupiter conjunction",
+   "night sky",
+   "planets",
+   "november 2026",
+   "astronomy hindi",
+   "3d gyaan"
+  ],
+  "description": "15-16 नवंबर 2026 के आसपास, सुबह सूरज निकलने से पहले, मंगल और बृहस्पति आसमान में सिर्फ़ करीब 1.2 डिग्री दूर दिखेंगे, सिंह (Leo) तारामंडल में! 🔴🪐 कैसे देखें, सब 3D में।\n\nSources:\n- BBC Sky at Night Magazine: https://www.skyatnightmagazine.com/news/mars-jupiter-november-2026\n- Telescope Advisor: https://www.telescopeadvisor.com/mars-jupiter-conjunction-november-2026/\n- Sky Tonight: https://sky-tonight.com/object/close-approach/Mars-Jupiter-2026-11-16\n\nAI-generated narration & visuals.\n#Mars #Jupiter #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, इस हफ़्ते आसमान में मंगल और बृहस्पति, एक दूसरे के एकदम पास दिखेंगे!",
+   "caption": "Bhai, is hafte aasmaan mein Mangal aur Brihaspati, ek doosre ke ekdam paas dikhenge!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.3
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "मंगल + गुरु! 🪐",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "15-16 नवंबर 📅",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "आसमान के इस ख़ास नज़ारे की कहानी। चलो समझते हैं!",
+   "caption": "Aasmaan ke is khaas nazaare ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MARS",
+     "vs": "🪐",
+     "c": "JUPITER"
+    }
+   ]
+  },
+  {
+   "voice": "इसे कंजंक्शन कहते हैं। जब दो ग्रह, धरती से देखने पर, आसमान में बहुत पास दिखते हैं।",
+   "caption": "Ise conjunction kehte hain. Jab do grah, dharti se dekhne par, aasmaan mein bahut paas dikhte hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या है ये? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "🔭 Conjunction",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "पर असल में ये पास नहीं हैं! ये करोड़ों किलोमीटर दूर हैं, बस एक ही दिशा में दिखते हैं।",
+   "caption": "Par asal mein ye paas nahi hain! Ye karodon kilometre door hain, bas ek hi disha mein dikhte hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सच्चाई 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "असल में बहुत दूर!",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "पंद्रह सोलह नवंबर के आसपास, दोनों सिर्फ़ करीब एक दशमलव दो डिग्री दूर होंगे, सिंह यानी लियो तारामंडल में।",
+   "caption": "15-16 November ke aaspaas, dono sirf kareeb 1.2 degree door honge, Singh yaani Leo taaramandal mein.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब और कहाँ? 📅"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 15-16 नवंबर",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📐 ~1.2°",
+     "f": 0.5,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🦁 Leo तारामंडल",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "देखने का सबसे अच्छा समय, सुबह सूरज निकलने से पहले। लाल वाला मंगल, और चमकीला सफ़ेद बृहस्पति।",
+   "caption": "Dekhne ka sabse achha samay, subah sooraj nikalne se pehle. Laal waala Mangal, aur chamkeela safed Brihaspati.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 22,
+     "lon": 79,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे देखें? 👀"
+    },
+    {
+     "kind": "stk",
+     "text": "🌅 सुबह, सूरज से पहले",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔴 मंगल · ⚪ बृहस्पति",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "कोई टेलिस्कोप ज़रूरी नहीं, सिर्फ़ आँखों से भी दिख सकते हैं। दूरबीन हो तो और मज़ा!",
+   "caption": "Koi telescope zaroori nahi, sirf aankhon se bhi dikh sakte hain. Doorbeen ho to aur maza!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "टिप 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "सिर्फ़ आँखें काफ़ी 👀",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "क्या तुम ये नज़ारा देखोगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Kya tum ye nazaara dekhoge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या तुम ये नज़ारा देखोगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Sky at Night Magazine, Telescope Advisor, Sky Tonight"
+    }
+   ]
+  }
+ ]
+}

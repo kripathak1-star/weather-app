@@ -1,0 +1,232 @@
+{
+ "title": "अंतरिक्ष का 'मैकेनिक' यान हुआ ख़ामोश! 🛰️📡 Software की गलती | 3D Gyaan",
+ "caption_keywords": [
+  "starfish",
+  "otter",
+  "nasa",
+  "satellite",
+  "software",
+  "radio",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "स्पेस मैकेनिक",
+  "line2": "ख़ामोश! 📡",
+  "badge": "🛰️ NASA SSPICY"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "starfish space",
+   "otter",
+   "nasa sspicy",
+   "space debris",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Starfish Space का Otter यान, जो NASA के SSPICY mission में पुराने बेकार satellites की जाँच करने वाला था, एक software गड़बड़ी से ख़ामोश हो गया! 🛰️📡 Radio ग़लती से बंद रह गया। पूरी कहानी, सब 3D में।\n\nSources:\n- NASA: https://nasa.gov/blogs/smallsatellites/2026/11/03/nasa-funded-sspicy-mission-experiences-communications-loss\n- GeekWire: https://geekwire.com/2026/starfish-space-loses-contact-otter-sspicy/\n- Payload: https://payloadspace.com/starfish-loses-contact-with-otter-cutting-sspicy-short/\n\nAI-generated narration & visuals.\n#NASA #SpaceDebris #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अंतरिक्ष का एक मैकेनिक यान ख़ामोश हो गया, और वजह थी एक सॉफ़्टवेयर की गलती!",
+   "caption": "Bhai, antariksh ka ek mechanic yaan khaamosh ho gaya, aur vajah thi ek software ki galti!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "ख़ामोश! 📡",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Software गलती 💻",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अंतरिक्ष के मैकेनिक यान की कहानी। चलो समझते हैं!",
+   "caption": "Antariksh ke mechanic yaan ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "OTTER",
+     "vs": "📡",
+     "c": "NASA"
+    }
+   ]
+  },
+  {
+   "voice": "ये यान है स्टारफ़िश स्पेस कंपनी का ऑटर। नासा के स्पाइसी मिशन में, इसे पुराने बेकार सैटेलाइट्स के पास जाकर जाँच करनी थी।",
+   "caption": "Ye yaan hai Starfish Space company ka Otter. NASA ke SSPICY mission mein, ise puraane bekaar satellites ke paas jaakar jaanch karni thi.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "swarm"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन? 🛰️"
+    },
+    {
+     "kind": "stk",
+     "text": "🐟 Starfish Space · Otter",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔍 बेकार satellites की जाँच",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "योजना थी, ऐसी चार तक बेकार चीज़ों की जाँच। ये नासा का करीब डेढ़ करोड़ डॉलर का निवेश था।",
+   "caption": "Yojana thi, aisi chaar tak bekaar cheezon ki jaanch. Ye NASA ka kareeb 1.5 crore dollar ka nivesh tha.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "प्लान 📋"
+    },
+    {
+     "kind": "stk",
+     "text": "🎯 4 तक targets",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "$15 million 💰",
+     "color": "gold",
+     "f": 0.65,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "शुरुआत में संपर्क हुआ, पर जाँच के दौरान ही, यान से संपर्क टूट गया।",
+   "caption": "Shuruaat mein sampark hua, par jaanch ke dauraan hi, yaan se sampark toot gaya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हुआ? ❌"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ पहला संपर्क",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "❌ फिर संपर्क टूटा",
+     "f": 0.6,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "नासा के मुताबिक, यान का सुरक्षा सॉफ़्टवेयर, रेडियो को गलती से बंद रख रहा है। यानी यान शायद ठीक है, पर बोल नहीं सकता।",
+   "caption": "NASA ke mutaabik, yaan ka suraksha software, radio ko galti se band rakh raha hai. Yaani yaan shaayad theek hai, par bol nahi sakta.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "swarm"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "वजह 💻"
+    },
+    {
+     "kind": "stamp",
+     "text": "Radio बंद 📴",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अब नासा और स्टारफ़िश, आगे के मिशनों से ये काम पूरा करने के रास्ते ढूंढ रहे हैं।",
+   "caption": "Ab NASA aur Starfish, aage ke mission se ye kaam poora karne ke raaste dhoondh rahe hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🔁 अगले Otter mission",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अंतरिक्ष का कचरा कैसे साफ़ करें? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, antariksh ka kachra kaise saaf karein? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अंतरिक्ष का कचरा कैसे साफ़ करें?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NASA, GeekWire, Payload"
+    }
+   ]
+  }
+ ]
+}
