@@ -1,0 +1,246 @@
+{
+ "title": "Webb ने तारे की चमक मिटाई, दिखा छुपा ग्रह! 🔭🪐 नई तकनीक | 3D Gyaan",
+ "caption_keywords": [
+  "webb",
+  "planet",
+  "exoplanet",
+  "digital",
+  "twin",
+  "star",
+  "3d",
+  "gyaan",
+  "space",
+  "nasa"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "छुपा ग्रह",
+  "line2": "दिख गया! 🪐",
+  "badge": "🔭 JAMES WEBB"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "james webb",
+   "exoplanet",
+   "51 eridani b",
+   "digital twin",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "Northwestern University की टीम ने James Webb telescope का एक 'digital twin' बनाया, जो तारे की तेज़ चमक को मिटा देता है! 🔭🪐 इससे पुराने डेटा में छुपा ग्रह 51 Eridani b साफ़ दिख गया। सब 3D में।\n\nSources:\n- EurekAlert: https://www.eurekalert.org/news-releases/1150080\n- Space.com: https://space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight\n- Live Science: https://livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world\n\nAI-generated narration & visuals.\n#JamesWebb #Exoplanet #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, वैज्ञानिकों ने जेम्स वेब टेलिस्कोप की तस्वीर से, तारे की चमक मिटा दी, और पीछे छुपा ग्रह दिख गया!",
+   "caption": "Bhai, vaigyaniko ne James Webb telescope ki tasveer se, taare ki chamak mita di, aur peechhe chhupa grah dikh gaya!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "छुपा ग्रह! 🪐",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "चमक मिटाई ✨",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तारों की चमक मिटाने वाली तकनीक की कहानी। चलो समझते हैं!",
+   "caption": "Taaron ki chamak mitaane waali taknik ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "WEBB",
+     "vs": "🔭",
+     "c": "PLANET"
+    }
+   ]
+  },
+  {
+   "voice": "मुश्किल ये है, तारे बहुत चमकीले होते हैं, और उनके पास के ग्रह बहुत धुँधले। जैसे टॉर्च के पास जुगनू ढूंढना।",
+   "caption": "Mushkil ye hai, taare bahut chamkeele hote hain, aur unke paas ke grah bahut dhundhle. Jaise torch ke paas jugnu dhoondhna.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मुश्किल 😵"
+    },
+    {
+     "kind": "stk",
+     "text": "⭐ तारा: बहुत चमकीला",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🪐 ग्रह: बहुत धुँधला",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "नॉर्थवेस्टर्न यूनिवर्सिटी की टीम ने वेब के कैमरे का एक डिजिटल ट्विन बनाया। यानी कंप्यूटर में उसकी हूबहू नकल।",
+   "caption": "Northwestern University ki team ne Webb ke camera ka ek digital twin banaaya. Yaani computer mein uski hoobahoo nakal.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "तरकीब 💻"
+    },
+    {
+     "kind": "stamp",
+     "text": "Digital Twin 💻",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये नकल बताती है कि तारे की चमक तस्वीर में कैसी दिखेगी। फिर उस चमक को घटा दिया जाता है। इस तरीके का नाम है फ़्लिप।",
+   "caption": "Ye nakal batati hai ki taare ki chamak tasveer mein kaisi dikhegi. Phir us chamak ko ghata diya jaata hai. Is tareeke ka naam hai FLIP.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे? 🧮"
+    },
+    {
+     "kind": "stk",
+     "text": "🔮 चमक का अंदाज़ा",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "➖ फिर चमक घटाओ",
+     "f": 0.55,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 FLIP",
+     "f": 0.85
+    }
+   ]
+  },
+  {
+   "voice": "दो साल पुराने डेटा में, इससे ग्रह इक्यावन एरिडानी बी साफ़ दिख गया। ये ग्रह पहले से जाना जाता था, पर वेब की आम प्रोसेसिंग में छुपा था।",
+   "caption": "Do saal puraane data mein, isse grah 51 Eridani b saaf dikh gaya. Ye grah pehle se jaana jaata tha, par Webb ki aam processing mein chhupa tha.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 🪐"
+    },
+    {
+     "kind": "stamp",
+     "text": "51 Eridani b",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "📂 2 साल पुराना डेटा",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "अब इसी तरीके से, पुराने डेटा में और भी छुपे ग्रह ढूंढे जा सकते हैं। ये रिसर्च नेचर जर्नल में छपी है।",
+   "caption": "Ab isi tareeke se, puraane data mein aur bhi chhupe grah dhoondhe ja sakte hain. Ye research Nature journal mein chhapi hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🔍 और छुपे ग्रह?",
+     "f": 0.25,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, पुराने डेटा में और क्या छुपा होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, puraane data mein aur kya chhupa hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "पुराने डेटा में और क्या छुपा है?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: EurekAlert, Space.com, Live Science"
+    }
+   ]
+  }
+ ]
+}

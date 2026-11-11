@@ -1,0 +1,278 @@
+{
+ "title": "'Hobbit' गुफा में मिला विशाल प्राचीन पक्षी! 🐦🦴 Indonesia | 3D Gyaan",
+ "caption_keywords": [
+  "bird",
+  "flores",
+  "hobbit",
+  "fossil",
+  "megapode",
+  "cave",
+  "3d",
+  "gyaan",
+  "indonesia"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "विशाल प्राचीन",
+  "line2": "पक्षी! 🐦",
+  "badge": "🦴 HOBBIT CAVE"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "megapodius rokusi",
+   "flores",
+   "liang bua",
+   "homo floresiensis",
+   "fossil bird",
+   "3d gyaan"
+  ],
+  "description": "Indonesia के Flores द्वीप की Liang Bua गुफा, जहाँ 'hobbit' इंसान Homo floresiensis मिले थे, वहाँ एक विशाल प्राचीन पक्षी की नई प्रजाति पहचानी गई: Megapodius rokusi! 🐦🦴 वज़न करीब 3.9 किलो। सब 3D में।\n\nSources:\n- Phys.org: https://phys.org/news/2026-11-species-ground-bird-largest-kind.html\n- Sci.News: https://www.sci.news/paleontology/megapodius-rokusi-15170.html\n- The Daily Galaxy: https://dailygalaxy.com/2026/11/flores-cave-bone-new-giant-species/\n\nAI-generated narration & visuals.\n#Fossil #Indonesia #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, उसी गुफा में, जहाँ छोटे हॉबिट इंसान मिले थे, अब एक विशाल प्राचीन पक्षी की हड्डी मिली है!",
+   "caption": "Bhai, usi gufa mein, jahan chhote hobbit insaan mile the, ab ek vishaal praacheen pakshi ki haddi mili hai!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -8.53,
+     "lon": 120.44,
+     "dist": 0.7,
+     "pins": [
+      {
+       "lat": -8.53,
+       "lon": 120.44,
+       "label": "Liang Bua, Flores",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "विशाल पक्षी! 🐦",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Hobbit गुफा 🦴",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "हॉबिट गुफा के विशाल पक्षी की कहानी। चलो समझते हैं!",
+   "caption": "Hobbit gufa ke vishaal pakshi ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "FLORES",
+     "vs": "🐦",
+     "c": "FOSSIL"
+    }
+   ]
+  },
+  {
+   "voice": "ये गुफा है इंडोनेशिया के फ़्लोरेस द्वीप पर, लियांग बुआ। यहीं छोटे कद के इंसान, होमो फ़्लोरेसिएंसिस, के अवशेष मिले थे।",
+   "caption": "Ye gufa hai Indonesia ke Flores dweep par, Liang Bua. Yahin chhote kad ke insaan, Homo floresiensis, ke avshesh mile the.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -8.53,
+     "lon": 120.44,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": -8.53,
+       "lon": 120.44,
+       "label": "Liang Bua, Flores",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Liang Bua, Flores",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🧍 Homo floresiensis",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "यहाँ दो हज़ार नौ में, एक पैर की हड्डी का टुकड़ा मिला था। अब वैज्ञानिकों ने बताया, ये एक नई प्रजाति है, मेगापोडियस रोकुसी।",
+   "caption": "Yahan 2009 mein, ek pair ki haddi ka tukda mila tha. Ab vaigyaniko ne bataaya, ye ek nayi prajaati hai, Megapodius rokusi.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -8.53,
+     "lon": 120.44,
+     "dist": 0.8,
+     "pins": [
+      {
+       "lat": -8.53,
+       "lon": 120.44,
+       "label": "Liang Bua, Flores",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सबूत 🦴"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 पैर की हड्डी · 2009",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 Megapodius rokusi",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये मेगापोड परिवार का पक्षी था, जो ज़मीन पर रहते हैं। इसका वज़न करीब तीन दशमलव नौ किलो आँका गया, अपनी तरह का सबसे बड़ा।",
+   "caption": "Ye megapode parivaar ka pakshi tha, jo zameen par rehte hain. Iska vazan kareeb 3.9 kilo aanka gaya, apni tarah ka sabse bada.",
+   "shots": [
+    {
+     "type": "bars",
+     "items": [
+      {
+       "label": "M. ROKUSI · ~3.9 KG",
+       "value": 3.9,
+       "color": "#ffd23f"
+      },
+      {
+       "label": "TODAY'S FLORES MEGAPODE · UP TO 1.2 KG",
+       "value": 1.2,
+       "color": "#38f3ff"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना बड़ा? ⚖️"
+    },
+    {
+     "kind": "stamp",
+     "text": "~3.9 किलो",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "आज फ़्लोरेस पर रहने वाला मेगापोड, सिर्फ़ आधे से सवा किलो तक का होता है। यानी ये प्राचीन पक्षी तीन गुना से भी भारी था!",
+   "caption": "Aaj Flores par rehne waala megapode, sirf aadhe se sawa kilo tak ka hota hai. Yaani ye praacheen pakshi teen guna se bhi bhaari tha!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -8.53,
+     "lon": 120.44,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": -8.53,
+       "lon": 120.44,
+       "label": "Liang Bua, Flores",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "तुलना 📊"
+    },
+    {
+     "kind": "stk",
+     "text": "🐦 आज: 0.5-1.2 किलो",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "पर ये उड़ता था या नहीं, और कब ख़त्म हुआ, ये अभी रहस्य है। क्योंकि पंखों की हड्डियाँ नहीं मिलीं।",
+   "caption": "Par ye udta tha ya nahi, aur kab khatm hua, ye abhi rahasya hai. Kyonki pankhon ki haddiyan nahi milin.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "रहस्य ❓"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ उड़ता था?",
+     "f": 0.25
+    },
+    {
+     "kind": "stk",
+     "text": "❓ कब ख़त्म हुआ?",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, हॉबिट इंसान और ये पक्षी साथ रहते थे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, hobbit insaan aur ye pakshi saath rehte the? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Hobbit और ये पक्षी साथ थे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Phys.org, Sci.News, The Daily Galaxy"
+    }
+   ]
+  }
+ ]
+}

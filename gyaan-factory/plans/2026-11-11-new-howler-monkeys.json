@@ -1,0 +1,271 @@
+{
+ "title": "Amazon में मिलीं बंदरों की 2 नई प्रजातियाँ! 🐒🌳 85 साल बाद | 3D Gyaan",
+ "caption_keywords": [
+  "monkey",
+  "howler",
+  "amazon",
+  "species",
+  "brazil",
+  "3d",
+  "gyaan",
+  "nature",
+  "forest"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "2 नए बंदर!",
+  "line2": "Amazon 🐒",
+  "badge": "🌳 85 साल बाद"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "howler monkey",
+   "new species",
+   "amazon",
+   "alouatta",
+   "nature news hindi",
+   "3d gyaan"
+  ],
+  "description": "Amazon के जंगलों में वैज्ञानिकों ने howler बंदरों की 2 नई प्रजातियाँ पहचानीं: Alouatta iroi और Alouatta matogrossensis! 🐒🌳 1941 के बाद पहली बार कोई नई howler प्रजाति। सब 3D में।\n\nSources:\n- University of Salford: https://www.salford.ac.uk/news/scientists-discover-two-new-species-of-howler-monkey\n- National Geographic: https://www.nationalgeographic.com/animals/article/new-monkey-species-discovered\n- Phys.org: https://phys.org/news/2026-11-howler-monkey-species-amazon-years.html\n\nAI-generated narration & visuals.\n#Amazon #NewSpecies #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अमेज़न के जंगल में, ज़ोर से दहाड़ने वाले बंदरों की, दो नई प्रजातियाँ मिली हैं!",
+   "caption": "Bhai, Amazon ke jungle mein, zor se dahaadne waale bandaron ki, do nayi prajaatiyan mili hain!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -5,
+     "lon": -60,
+     "dist": 0.7,
+     "pins": [
+      {
+       "lat": -5,
+       "lon": -60,
+       "label": "Amazon",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "2 नए बंदर! 🐒",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "85 साल बाद 🎉",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अमेज़न के नए हाउलर बंदरों की कहानी। चलो समझते हैं!",
+   "caption": "Amazon ke naye howler bandaron ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "HOWLER",
+     "vs": "🐒",
+     "c": "AMAZON"
+    }
+   ]
+  },
+  {
+   "voice": "हाउलर बंदर अपनी बहुत तेज़ आवाज़ के लिए मशहूर हैं। पिछली नई हाउलर प्रजाति, उन्नीस सौ इकतालीस में पहचानी गई थी।",
+   "caption": "Howler bandar apni bahut tez aawaaz ke liye mashhoor hain. Pichhli nayi howler prajaati, 1941 mein pehchaani gayi thi.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन हैं ये? 🔊"
+    },
+    {
+     "kind": "stk",
+     "text": "🔊 तेज़ आवाज़",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 पिछली नई प्रजाति: 1941",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "पहली नई प्रजाति है अलुआटा इरोई। ये उत्तरी अमेज़न में रहती है, और इसका नाम यानोमामी भाषा के एक शब्द से आया है।",
+   "caption": "Pehli nayi prajaati hai Alouatta iroi. Ye uttari Amazon mein rehti hai, aur iska naam Yanomami bhasha ke ek shabd se aaya hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 2,
+     "lon": -63,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 2,
+       "lon": -63,
+       "label": "Northern Amazon",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नंबर 1 🐒"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 Alouatta iroi",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 उत्तरी अमेज़न",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "दूसरी है अलुआटा माटोग्रोसेंसिस, दक्षिणी अमेज़न के माटो ग्रोसो इलाके में। ये कैमरा ट्रैप में भी दिखी।",
+   "caption": "Doosri hai Alouatta matogrossensis, dakshini Amazon ke Mato Grosso ilaake mein. Ye camera trap mein bhi dikhi.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -10,
+     "lon": -56,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": -10,
+       "lon": -56,
+       "label": "Mato Grosso",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नंबर 2 🐒"
+    },
+    {
+     "kind": "stk",
+     "text": "📛 Alouatta matogrossensis",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📷 कैमरा ट्रैप में दिखी",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों ने ग्यारह हाउलर प्रजातियों के जीनोम, यानी पूरे डीएनए की तुलना की, तब जाकर ये फ़र्क पकड़ में आया।",
+   "caption": "Vaigyaniko ne gyaarah howler prajaatiyon ke genome, yaani poore DNA ki tulna ki, tab jaakar ye fark pakad mein aaya.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे पहचाना? 🧬"
+    },
+    {
+     "kind": "stamp",
+     "text": "11 genomes 🧬",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "चिंता की बात, माटो ग्रोसो वाली प्रजाति, दुनिया के सबसे तेज़ी से कटते जंगलों में से एक में रहती है।",
+   "caption": "Chinta ki baat, Mato Grosso waali prajaati, duniya ke sabse tezi se katte jungle mein se ek mein rehti hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -10,
+     "lon": -56,
+     "dist": 1.4,
+     "pins": [
+      {
+       "lat": -10,
+       "lon": -56,
+       "label": "Mato Grosso",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ख़तरा ⚠️"
+    },
+    {
+     "kind": "stamp",
+     "text": "कटते जंगल 🪓",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अमेज़न में और कितने जानवर छुपे हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Amazon mein aur kitne jaanwar chhupe hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Amazon में और कितने जानवर छुपे हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Univ. of Salford, National Geographic, Phys.org"
+    }
+   ]
+  }
+ ]
+}
