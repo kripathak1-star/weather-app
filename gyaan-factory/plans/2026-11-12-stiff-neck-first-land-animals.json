@@ -1,0 +1,242 @@
+{
+ "title": "धरती के पहले जानवरों की गर्दन अकड़ी हुई थी! 🦎🦴 नई खोज | 3D Gyaan",
+ "caption_keywords": [
+  "neck",
+  "tetrapod",
+  "fossil",
+  "evolution",
+  "land",
+  "fish",
+  "3d",
+  "gyaan",
+  "sturgeon"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "अकड़ी गर्दन!",
+  "line2": "पहले जीव 🦎",
+  "badge": "🦴 380M साल"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "tetrapod",
+   "evolution",
+   "neck",
+   "fossil",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "करीब 38 करोड़ साल पहले, पानी से ज़मीन पर आने वाले पहले जानवरों की गर्दन शायद बहुत कम मुड़ती थी! 🦎🦴 Nature में छपी नई स्टडी, जिसमें sturgeon मछली की मदद ली गई। सब 3D में।\n\nSources:\n- Uppsala University: https://www.mynewsdesk.com/uu/pressreleases/early-tetrapods-had-surprisingly-little-ability-to-move-their-necks-3473917\n- SciTechDaily: https://scitechdaily.com/?p=535793\n- The Brighter Side of News: https://www.thebrighterside.news/post/scientists-discover-why-animals-evolved-necks-and-surprisingly-it-wasnt-to-turn-their-heads/\n\nAI-generated narration & visuals.\n#Evolution #Fossil #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, पानी से ज़मीन पर आने वाले पहले जानवर, शायद अपनी गर्दन ठीक से घुमा भी नहीं पाते थे!",
+   "caption": "Bhai, paani se zameen par aane waale pehle jaanwar, shaayad apni gardan theek se ghuma bhi nahi paate the!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "अकड़ी गर्दन! 🦴",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "38 करोड़ साल पहले",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "पहले ज़मीनी जानवरों की गर्दन की कहानी। चलो समझते हैं!",
+   "caption": "Pehle zameeni jaanwaron ki gardan ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "NECK",
+     "vs": "🦴",
+     "c": "EVOLUTION"
+    }
+   ]
+  },
+  {
+   "voice": "करीब अड़तीस करोड़ साल पहले, कुछ मछलियाँ धीरे धीरे चार पैरों वाले जीवों में बदलने लगीं। इन्हें टेट्रापॉड कहते हैं।",
+   "caption": "Kareeb 38 crore saal pehle, kuch machhliyan dheere dheere chaar pairon waale jeevon mein badalne lagin. Inhe tetrapod kehte hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन? 🦎"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 ~38 करोड़ साल पहले",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🐟➡️🦎 Tetrapods",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "अब तक माना जाता था, कि इनकी गर्दन लचीली थी। पर नई स्टडी कहती है, शायद नहीं।",
+   "caption": "Ab tak maana jaata tha, ki inki gardan lacheeli thi. Par nayi study kehti hai, shaayad nahi.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पुरानी सोच ❌"
+    },
+    {
+     "kind": "stk",
+     "text": "🔄 लचीली गर्दन?",
+     "f": 0.3,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों ने आज की स्टर्जन मछली की रीढ़ पर मशीनी टेस्ट किए, और उन्हें पुराने जीवाश्मों के माप से जोड़ा।",
+   "caption": "Vaigyaniko ne aaj ki sturgeon machhli ki reedh par masheeni test kiye, aur unhe puraane jeevaashmon ke maap se joda.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 59.86,
+     "lon": 17.64,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 59.86,
+       "lon": 17.64,
+       "label": "Uppsala, Sweden",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे पता? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🐟 Sturgeon की रीढ़",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 + जीवाश्मों के माप",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "नतीजा? सिर और कंधे पहले अलग हुए, और गर्दन का लचीलापन बाद में आया। ये स्टडी नेचर जर्नल में छपी है।",
+   "caption": "Nateeja? Sir aur kandhe pehle alag hue, aur gardan ka lacheelapan baad mein aaya. Ye study Nature journal mein chhapi hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नतीजा 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "पहले अलग, फिर लचीला",
+     "color": "green",
+     "f": 0.45,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Nature",
+     "f": 0.85,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "पर ध्यान रहे, मांसपेशियों की पूरी जानकारी नहीं है, इसलिए गर्दन कितनी मुड़ती थी, ये पक्का नहीं कहा जा सकता।",
+   "caption": "Par dhyaan rahe, maanspeshiyon ki poori jaankaari nahi hai, isliye gardan kitni mudti thi, ye pakka nahi kaha ja sakta.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सच्चाई ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ सटीक कोण अनजान",
+     "f": 0.35
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, गर्दन के बिना ज़िंदगी कैसी होती? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, gardan ke bina zindagi kaisi hoti? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "गर्दन के बिना ज़िंदगी कैसी होती?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Uppsala University, SciTechDaily, The Brighter Side"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "title": "मंगल पर ज्वालामुखी अब भी ज़िंदा? 🌋🔴 ESA की नई खोज | 3D Gyaan",
+ "caption_keywords": [
+  "mars",
+  "volcano",
+  "esa",
+  "exomars",
+  "alba",
+  "mons",
+  "gas",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "मंगल पर",
+  "line2": "ज्वालामुखी? 🌋",
+  "badge": "🔴 ESA EXOMARS"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "mars volcano",
+   "exomars",
+   "trace gas orbiter",
+   "alba mons",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "ESA के ExoMars Trace Gas Orbiter ने मंगल के Alba Mons ज्वालामुखी के पास hydrogen chloride गैस और ताज़ा दरारें देखीं! 🌋🔴 क्या मंगल के अंदर अब भी गर्मी बाकी है? सब 3D में।\n\nSources:\n- EurekAlert: https://www.eurekalert.org/news-releases/1150079\n- BBC Sky at Night Magazine: https://skyatnightmagazine.com/news/mars-active-volcanoes-alba-mons\n- Phys.org (space): https://phys.org/space-news/\n\nAI-generated narration & visuals.\n#Mars #ESA #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, मंगल ग्रह के ज्वालामुखी, शायद अभी पूरी तरह सोए नहीं हैं!",
+   "caption": "Bhai, Mangal grah ke jwaalaamukhi, shaayad abhi poori tarah soye nahi hain!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.2
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "मंगल पर 🌋",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "अब भी ज़िंदा?",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "मंगल के ज्वालामुखी की कहानी। चलो समझते हैं!",
+   "caption": "Mangal ke jwaalaamukhi ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MARS",
+     "vs": "🌋",
+     "c": "VOLCANO"
+    }
+   ]
+  },
+  {
+   "voice": "यूरोप की स्पेस एजेंसी ईसा का यान, एक्सोमार्स ट्रेस गैस ऑर्बिटर, सालों से मंगल की हवा की जाँच कर रहा है।",
+   "caption": "Europe ki space agency ESA ka yaan, ExoMars Trace Gas Orbiter, saalon se Mangal ki hawa ki jaanch kar raha hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने देखा? 🛰️"
+    },
+    {
+     "kind": "stk",
+     "text": "🇪🇺 ESA",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ ExoMars TGO",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इसने मंगल की हवा में हाइड्रोजन क्लोराइड गैस पकड़ी। धरती पर ये गैस, अक्सर ज्वालामुखी के छेदों से निकलती है।",
+   "caption": "Isne Mangal ki hawa mein hydrogen chloride gas pakdi. Dharti par ye gas, aksar jwaalaamukhi ke chhedon se nikalti hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सुराग 🧪"
+    },
+    {
+     "kind": "stamp",
+     "text": "HCl गैस 🧪",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🌋 धरती पर: ज्वालामुखी से",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "ये गैस हर बार, एक ही मौसम में, एक ही जगह दिखी, एल्बा मॉन्स ज्वालामुखी की दरारों के ऊपर।",
+   "caption": "Ye gas har baar, ek hi mausam mein, ek hi jagah dikhi, Alba Mons jwaalaamukhi ki daraaron ke upar.",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "🌋 Alba Mons",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 हर बार एक ही मौसम",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "फिर यान के कैमरे ने वहाँ ताज़ा, पतली दरारें देखीं, कुछ तो सैकड़ों मीटर लंबी, और आसपास ज़मीन का रंग बदला हुआ।",
+   "caption": "Phir yaan ke camera ne wahan taaza, patli daraarein dekhin, kuch to saikdon metre lambi, aur aaspaas zameen ka rang badla hua.",
+   "shots": [
+    {
+     "type": "mars",
+     "close": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "और सबूत 📷"
+    },
+    {
+     "kind": "stk",
+     "text": "🕳️ ताज़ा दरारें",
+     "f": 0.25,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "🎨 रंग बदली ज़मीन",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों का अंदाज़ा है, नीचे एक सोया हुआ मैग्मा कक्ष हो सकता है। पर ध्यान रहे, कोई विस्फोट नहीं देखा गया, ये अभी शुरुआती व्याख्या है।",
+   "caption": "Vaigyaniko ka andaaza hai, neeche ek soya hua magma kaksh ho sakta hai. Par dhyaan rahe, koi visphot nahi dekha gaya, ye abhi shuruaati vyaakhya hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 0.9
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब? 🤔"
+    },
+    {
+     "kind": "stamp",
+     "text": "सोया मैग्मा?",
+     "color": "red",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "⚠️ विस्फोट नहीं देखा",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, मंगल अंदर से अब भी गर्म है? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Mangal andar se ab bhi garam hai? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "मंगल अंदर से अब भी गर्म है?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: EurekAlert, Sky at Night Magazine, Phys.org"
+    }
+   ]
+  }
+ ]
+}

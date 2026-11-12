@@ -1,0 +1,205 @@
+{
+ "title": "NASA की गुलेल चाल कामयाब! 🚀✅ जुड़वाँ यान मंगल की राह पर | 3D Gyaan",
+ "caption_keywords": [
+  "nasa",
+  "escapade",
+  "mars",
+  "flyby",
+  "success",
+  "twin",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "गुलेल चाल",
+  "line2": "कामयाब! ✅",
+  "badge": "🚀 NASA ESCAPADE"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "nasa escapade",
+   "mars mission",
+   "powered flyby",
+   "gravity assist",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "NASA के जुड़वाँ ESCAPADE यान, Blue और Gold, ने 7 और 9 नवंबर 2026 को धरती के पास से powered flyby पूरा किया, और अब मंगल की ओर निकल पड़े! 🚀✅ सितंबर 2027 में पहुँचने का प्लान। सब 3D में।\n\nSources:\n- NewSpace Economy: https://newspaceeconomy.ca/2026/11/10/escapade-powered-earth-flybys-mars-cruise-2026.md\n- NASA ESCAPADE blog: https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/\n- Space.com: https://www.space.com/astronomy/mars/next-stop-not-mars-whats-ahead-for-nasas-newly-launched-escapade-red-planet-probes\n\nAI-generated narration & visuals.\n#NASA #Mars #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, याद है नासा के जुड़वाँ यान, जो धरती को गुलेल बनाने वाले थे? चाल कामयाब रही!",
+   "caption": "Bhai, yaad hai NASA ke judwaan yaan, jo dharti ko gulel banaane waale the? Chaal kaamyaab rahi!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "कामयाब! ✅",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "मंगल की राह 🔴",
+     "color": "red",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "नासा के जुड़वाँ यानों का अपडेट। चलो समझते हैं!",
+   "caption": "NASA ke judwaan yaanon ka update. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ESCAPADE",
+     "vs": "✅",
+     "c": "MARS"
+    }
+   ]
+  },
+  {
+   "voice": "नवंबर सात और नौ को, ब्लू और गोल्ड यानों ने, एक एक करके धरती के पास से गुज़रते हुए इंजन चलाया।",
+   "caption": "November saat aur nau ko, Blue aur Gold yaanon ne, ek ek karke dharti ke paas se guzarte hue engine chalaaya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 20,
+     "lon": -100,
+     "dist": 1.2
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब? 📅"
+    },
+    {
+     "kind": "stk",
+     "text": "🔵 Blue · 🟡 Gold",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 7 और 9 नवंबर",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "धरती का गुरुत्व, और साथ में इंजन बर्न। इसी धक्के से दोनों यान सीधे मंगल के रास्ते पर निकल गए।",
+   "caption": "Dharti ka gurutva, aur saath mein engine burn. Isi dhakke se dono yaan seedhe Mangal ke raaste par nikal gaye.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे? 🚀"
+    },
+    {
+     "kind": "stk",
+     "text": "🌍 गुरुत्व + 🔥 इंजन",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "रिपोर्ट्स के मुताबिक, नासा ने पहली बार किसी यान को मंगल भेजने के लिए, पावर्ड अर्थ फ़्लाईबाय इस्तेमाल किया, वो भी दो दिन में दो बार।",
+   "caption": "Reports ke mutaabik, NASA ne pehli baar kisi yaan ko Mangal bhejne ke liye, powered Earth flyby istemaal kiya, wo bhi do din mein do baar.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पहली बार 🏆"
+    },
+    {
+     "kind": "stamp",
+     "text": "2 दिन, 2 flyby",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अब दोनों यान सितंबर दो हज़ार सत्ताईस में मंगल पहुँचेंगे, और वहाँ के अंतरिक्ष मौसम की जाँच करेंगे।",
+   "caption": "Ab dono yaan September 2027 mein Mangal pahunchenge, aur wahan ke antariksh mausam ki jaanch karenge.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.1
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मंज़िल 🔴"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 सितंबर 2027",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🌬️ मंगल का अंतरिक्ष मौसम",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "मंगल पहुँचने तक हम अपडेट देते रहेंगे! कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Mangal pahunchne tak hum update dete rahenge! Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अगला अपडेट: मंगल पर पहुँचना!",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NewSpace Economy, NASA, Space.com"
+    }
+   ]
+  }
+ ]
+}
