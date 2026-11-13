@@ -1,0 +1,256 @@
+{
+ "title": "Antimatter का एक कण, महीनों तक क़ैद! ⚛️🔬 Physics का कमाल | 3D Gyaan",
+ "caption_keywords": [
+  "antimatter",
+  "positron",
+  "physics",
+  "trap",
+  "quantum",
+  "3d",
+  "gyaan",
+  "electron",
+  "northwestern"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Antimatter",
+  "line2": "क़ैद! ⚛️",
+  "badge": "🔬 PHYSICS"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "antimatter",
+   "positron",
+   "quantum physics",
+   "northwestern",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "Northwestern University के physicists ने antimatter का एक अकेला कण, positron, एक ख़ास trap में महीनों तक रोके रखा! ⚛️🔬 इससे electron और positron की सटीक तुलना हो सकेगी, और ब्रह्मांड का एक बड़ा राज़ समझने में मदद मिल सकती है। सब 3D में।\n\nSources:\n- Chicago Sun-Times: https://chicago.suntimes.com/chicago/2026/10/30/northwestern-physicists-capture-antimatter-science-big-bang\n- Sci.News: https://www.sci.news/physics/one-positron-quantum-cyclotron-15147.html\n- IFLScience: https://www.iflscience.com/how-to-tame-an-antimatter-particle-physicists-hold-a-positron-captive-for-months-85002\n\nAI-generated narration & visuals.\n#Antimatter #Physics #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, वैज्ञानिकों ने एंटीमैटर का एक अकेला कण, महीनों तक एक जाल में क़ैद रखा!",
+   "caption": "Bhai, vaigyaniko ne antimatter ka ek akela kan, maheenon tak ek jaal mein qaid rakha!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Antimatter क़ैद! ⚛️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "महीनों तक ⏳",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "एंटीमैटर के क़ैदी कण की कहानी। चलो समझते हैं!",
+   "caption": "Antimatter ke qaidi kan ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ANTIMATTER",
+     "vs": "⚛️",
+     "c": "TRAP"
+    }
+   ]
+  },
+  {
+   "voice": "एंटीमैटर, आम पदार्थ का उलटा रूप है। इलेक्ट्रॉन का उलटा कण है पॉज़िट्रॉन। दोनों मिलें, तो एक दूसरे को ख़त्म कर देते हैं!",
+   "caption": "Antimatter, aam padaarth ka ulta roop hai. Electron ka ulta kan hai positron. Dono milein, to ek doosre ko khatm kar dete hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या है ये? 🤔"
+    },
+    {
+     "kind": "stk",
+     "text": "➖ Electron",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "➕ Positron",
+     "f": 0.45,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "मिले तो ख़त्म 💥",
+     "color": "red",
+     "f": 0.8,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इसीलिए एंटीमैटर को रोके रखना बहुत मुश्किल है। उसे किसी भी चीज़ को छूने नहीं दे सकते।",
+   "caption": "Isiliye antimatter ko roke rakhna bahut mushkil hai. Use kisi bhi cheez ko chhoone nahi de sakte.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मुश्किल 😵"
+    },
+    {
+     "kind": "stk",
+     "text": "🚫 कुछ भी छूना मना",
+     "f": 0.4,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "अमेरिका की नॉर्थवेस्टर्न यूनिवर्सिटी की टीम ने, बिजली और चुंबकीय फ़ील्ड से बना एक जाल बनाया, और उसमें एक पॉज़िट्रॉन को ठंडा करके रोक लिया।",
+   "caption": "America ki Northwestern University ki team ne, bijli aur chumbakiya field se bana ek jaal banaaya, aur usmein ek positron ko thanda karke rok liya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 42.06,
+     "lon": -87.68,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 42.06,
+       "lon": -87.68,
+       "label": "Northwestern Univ.",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे? 🧲"
+    },
+    {
+     "kind": "stk",
+     "text": "⚡ बिजली + 🧲 चुंबक",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "❄️ ठंडा करके क़ैद",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "मकसद? पॉज़िट्रॉन और इलेक्ट्रॉन के चुंबकीय गुणों की बेहद सटीक तुलना। अगर कोई फ़र्क मिला, तो ये ब्रह्मांड के बड़े राज़ खोल सकता है।",
+   "caption": "Maksad? Positron aur electron ke chumbakiya gunon ki behad sateek tulna. Agar koi fark mila, to ye brahmaand ke bade raaz khol sakta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों? 🌌"
+    },
+    {
+     "kind": "stamp",
+     "text": "सटीक तुलना 📏",
+     "color": "green",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "❓ ब्रह्मांड का राज़",
+     "f": 0.8,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "बड़ा सवाल ये है, कि बिग बैंग के बाद, एंटीमैटर कहाँ ग़ायब हो गया? ये रिसर्च फ़िज़िकल रिव्यू लेटर्स में छपी है।",
+   "caption": "Bada sawaal ye hai, ki Big Bang ke baad, antimatter kahan gaayab ho gaya? Ye research Physical Review Letters mein chhapi hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बड़ा सवाल 🌌"
+    },
+    {
+     "kind": "stk",
+     "text": "💥 Big Bang के बाद?",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📰 Phys. Rev. Letters",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, एंटीमैटर कहाँ गया? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, antimatter kahan gaya? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Antimatter कहाँ गया?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Chicago Sun-Times, Sci.News, IFLScience"
+    }
+   ]
+  }
+ ]
+}

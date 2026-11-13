@@ -1,0 +1,266 @@
+{
+ "title": "Neanderthals के पैर थे सपाट! 🦶🏔️ पर एक ख़ास वजह से | 3D Gyaan",
+ "caption_keywords": [
+  "neanderthal",
+  "feet",
+  "foot",
+  "heel",
+  "evolution",
+  "3d",
+  "gyaan",
+  "human",
+  "bologna"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "सपाट पैर!",
+  "line2": "Neanderthal 🦶",
+  "badge": "🏔️ नई स्टडी"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "neanderthal",
+   "flat feet",
+   "human evolution",
+   "heel bone",
+   "science news hindi",
+   "3d gyaan"
+  ],
+  "description": "University of Bologna की नई स्टडी कहती है, Neanderthals के पैर सपाट थे, और ये कोई कमी नहीं, बल्कि भारी बोझ और पहाड़ी, ऊबड़-खाबड़ ज़मीन पर चलने की ख़ास तरकीब थी! 🦶🏔️ सब 3D में।\n\nSources:\n- EurekAlert (Univ. of Bologna): https://www.eurekalert.org/news-releases/1150451\n- The Brighter Side of News: https://www.thebrighterside.news/post/3d-scans-reveal-surprising-differences-between-neanderthal-and-homo-sapien-feet/\n- Sci.News: https://www.sci.news/\n\nAI-generated narration & visuals.\n#Neanderthal #Evolution #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, हमारे पुराने रिश्तेदार, निएंडरथल के पैर सपाट थे। पर ये कमज़ोरी नहीं, एक तरकीब थी!",
+   "caption": "Bhai, hamare puraane rishtedaar, Neanderthal ke pair sapaat the. Par ye kamzori nahi, ek tarkeeb thi!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 46,
+     "lon": 11,
+     "dist": 0.8,
+     "pins": [
+      {
+       "lat": 46,
+       "lon": 11,
+       "label": "Europe",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "सपाट पैर! 🦶",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "एक तरकीब 💡",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "निएंडरथल के पैरों की कहानी। चलो समझते हैं!",
+   "caption": "Neanderthal ke pairon ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "NEANDERTHAL",
+     "vs": "🦶",
+     "c": "FEET"
+    }
+   ]
+  },
+  {
+   "voice": "निएंडरथल इंसानों जैसे ही थे, जो हज़ारों साल पहले यूरोप और एशिया में रहते थे।",
+   "caption": "Neanderthal insaanon jaise hi the, jo hazaaron saal pehle Europe aur Asia mein rehte the.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 46,
+     "lon": 30,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": 46,
+       "lon": 30,
+       "label": "Europe · Asia",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन? 🧔"
+    },
+    {
+     "kind": "stk",
+     "text": "🌍 यूरोप · एशिया",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इटली की बोलोन्या यूनिवर्सिटी के वैज्ञानिकों ने, थ्री डी स्कैन से निएंडरथल और आज के इंसानों की एड़ी की हड्डी की तुलना की।",
+   "caption": "Italy ki Bologna University ke vaigyaniko ne, 3D scan se Neanderthal aur aaj ke insaanon ki edi ki haddi ki tulna ki.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 44.49,
+     "lon": 11.34,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 44.49,
+       "lon": 11.34,
+       "label": "Bologna, Italy",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे पता? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "🎓 Univ. of Bologna",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🦴 एड़ी का 3D स्कैन",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "निएंडरथल की एड़ी, छोटी, चौड़ी, और ऊँची निकली। और पैर का बाहरी आर्च, यानी मेहराब, नीचा था।",
+   "caption": "Neanderthal ki edi, chhoti, chaudi, aur oonchi nikli. Aur pair ka baahari arch, yaani mehraab, neecha tha.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "फ़र्क 📐"
+    },
+    {
+     "kind": "stk",
+     "text": "🦶 एड़ी: छोटी · चौड़ी · ऊँची",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⬇️ नीचा आर्च",
+     "f": 0.65,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों के मुताबिक, इससे भारी बोझ उठाते समय झटका कम लगता था, और ऊबड़ खाबड़ पहाड़ी ज़मीन पर पकड़ मज़बूत रहती थी।",
+   "caption": "Vaigyaniko ke mutaabik, isse bhaari bojh uthaate samay jhatka kam lagta tha, aur oobad khaabad pahaadi zameen par pakad mazboot rehti thi.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "फ़ायदा 💪"
+    },
+    {
+     "kind": "stamp",
+     "text": "कम झटका ✅",
+     "color": "green",
+     "f": 0.35,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🏔️ पहाड़ों पर मज़बूत पकड़",
+     "f": 0.8,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "पर ध्यान रहे, खान पान और माहौल भी हड्डियों की बनावट पर असर डालते हैं। ये स्टडी जर्नल ऑफ़ ह्यूमन एवोल्यूशन में छपी है।",
+   "caption": "Par dhyaan rahe, khaan paan aur maahaul bhi haddiyon ki banaavat par asar daalte hain. Ye study Journal of Human Evolution mein chhapi hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सच्चाई ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "🍖 खान-पान · 🌍 माहौल भी",
+     "f": 0.3
+    },
+    {
+     "kind": "stk",
+     "text": "📰 J. Human Evolution",
+     "f": 0.7,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हारे पैर सपाट हैं या आर्च वाले? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhare pair sapaat hain ya arch waale? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "तुम्हारे पैर सपाट हैं या आर्च वाले?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: EurekAlert, The Brighter Side"
+    }
+   ]
+  }
+ ]
+}
