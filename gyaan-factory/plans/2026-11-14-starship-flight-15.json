@@ -1,0 +1,245 @@
+{
+ "title": "Starship Flight 15: Orbit पहुँचा, पर Booster नहीं पकड़ा गया! 🚀 | 3D Gyaan",
+ "caption_keywords": [
+  "starship",
+  "spacex",
+  "booster",
+  "orbit",
+  "starlink",
+  "catch",
+  "3d",
+  "gyaan",
+  "rocket"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Starship",
+  "line2": "Flight 15 🚀",
+  "badge": "⚠️ CATCH रद्द"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "starship flight 15",
+   "spacex",
+   "super heavy",
+   "starlink",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "SpaceX की Starship Flight 15 ने orbit तक पहुँचकर 26 Starlink satellites छोड़े! 🚀 पर Super Heavy booster ने एक guidance गड़बड़ी पकड़ी और tower पर 'chopsticks' से पकड़े जाने से पहले ही catch रद्द कर दिया। सब 3D में।\n\nSources:\n- Space.com: https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video\n- PBS NewsHour: https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt\n- Aerospace Global News: https://aerospaceglobalnews.com/news/spacex-aborts-super-heavy-catch-starship-flight-15/\n\nAI-generated narration & visuals.\n#Starship #SpaceX #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, स्पेसएक्स का स्टारशिप ऑर्बिट तक पहुँच गया, पर एक बड़ा प्लान अधूरा रह गया!",
+   "caption": "Bhai, SpaceX ka Starship orbit tak pahunch gaya, par ek bada plan adhoora reh gaya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Flight 15! 🚀",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "आधी कामयाबी",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "स्टारशिप फ़्लाइट पंद्रह की कहानी। चलो समझते हैं!",
+   "caption": "Starship Flight 15 ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "STARSHIP",
+     "vs": "🚀",
+     "c": "FLIGHT 15"
+    }
+   ]
+  },
+  {
+   "voice": "ये लॉन्च हुआ अमेरिका के टेक्सस में, स्पेसएक्स के स्टारबेस से।",
+   "caption": "Ye launch hua America ke Texas mein, SpaceX ke Starbase se.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 25.99,
+     "lon": -97.15,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 25.99,
+       "lon": -97.15,
+       "label": "Starbase, Texas",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ से? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Starbase, Texas",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "प्लान था डबल कैच। यानी रॉकेट के दोनों हिस्से, बूस्टर और जहाज़, वापस आकर टावर की चॉपस्टिक भुजाओं में पकड़े जाएँ। ऐसा पहले कभी नहीं हुआ।",
+   "caption": "Plan tha double catch. Yaani rocket ke dono hisse, booster aur jahaaz, waapas aakar tower ki chopstick bhujaaon mein pakde jaayein. Aisa pehle kabhi nahi hua.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "प्लान 🎯"
+    },
+    {
+     "kind": "stamp",
+     "text": "Double Catch 🥢",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ऊपर वाला जहाज़ ऑर्बिट तक पहुँच गया, और उसने छब्बीस स्टारलिंक सैटेलाइट छोड़े।",
+   "caption": "Upar waala jahaaz orbit tak pahunch gaya, aur usne chhabbees Starlink satellite chhode.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कामयाबी ✅"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ Orbit",
+     "f": 0.2,
+     "color": "g"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ 26 Starlink",
+     "f": 0.6,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "पर नीचे वाले सुपर हेवी बूस्टर ने लौटते समय, अपने गाइडेंस सिस्टम में गड़बड़ी पकड़ी, और ख़ुद ही कैच रद्द कर दिया।",
+   "caption": "Par neeche waale Super Heavy booster ne laut-te samay, apne guidance system mein gadbadi pakdi, aur khud hi catch radd kar diya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "गड़बड़ ⚠️"
+    },
+    {
+     "kind": "stamp",
+     "text": "Catch रद्द ❌",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "सुरक्षा के लिए, बूस्टर को समुद्र के ऊपर ही ख़त्म कर दिया गया। जहाज़ को पकड़ने की कोशिश बाद में होनी थी।",
+   "caption": "Suraksha ke liye, booster ko samudra ke upar hi khatm kar diya gaya. Jahaaz ko pakadne ki koshish baad mein honi thi.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 25.99,
+     "lon": -97.15,
+     "dist": 1.3,
+     "pins": [
+      {
+       "lat": 25.99,
+       "lon": -97.15,
+       "label": "Starbase, Texas",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "फिर क्या? 🌊"
+    },
+    {
+     "kind": "stk",
+     "text": "🌊 बूस्टर समुद्र के ऊपर",
+     "f": 0.25,
+     "color": "r"
+    },
+    {
+     "kind": "stk",
+     "text": "⏳ जहाज़ का catch: बाद में",
+     "f": 0.65,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अगली बार डबल कैच होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, agli baar double catch hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अगली बार Double Catch होगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Space.com, PBS NewsHour, Aerospace Global News"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "title": "400 साल पुराना ताला, X-ray से खुला कोड! 🔒🚢 | 3D Gyaan",
+ "caption_keywords": [
+  "padlock",
+  "shipwreck",
+  "xray",
+  "wales",
+  "code",
+  "lock",
+  "3d",
+  "gyaan",
+  "history"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "400 साल का",
+  "line2": "ताला खुला! 🔒",
+  "badge": "🚢 SHIPWRECK"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "shipwreck padlock",
+   "ann francis",
+   "wales",
+   "ct scan",
+   "history hindi",
+   "3d gyaan"
+  ],
+  "description": "1583 में Wales के तट पर डूबे जहाज़ Ann Francis से मिला एक combination ताला, 400 साल से बंद था! 🔒🚢 Museum Wales और Cardiff University ने CT scan से उसका 4 अक्षरों का कोड ढूंढ निकाला। सब 3D में।\n\nSources:\n- Live Science: https://www.livescience.com/archaeology/cryptic-padlock-from-a-400-year-old-shipwreck-finally-opened-but-it-leaves-a-mystery\n- Gizmodo: https://gizmodo.com/a-smugglers-padlock-stayed-locked-for-400-years-and-scientists-just-cracked-its-code-2000835694\n- Popular Science: https://www.popsci.com/technology/shipwreck-combination-lock-ann-francis/\n\nAI-generated narration & visuals.\n#History #Shipwreck #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, चार सौ साल से बंद एक ताला, अब जाकर खुला, और कोड मिला एक्स रे से!",
+   "caption": "Bhai, chaar sau saal se band ek taala, ab jaakar khula, aur code mila X-ray se!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 51.6,
+     "lon": -4.0,
+     "dist": 0.8,
+     "pins": [
+      {
+       "lat": 51.6,
+       "lon": -4.0,
+       "label": "Swansea, Wales",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "400 साल का ताला! 🔒",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "कोड मिला 🔑",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "डूबे जहाज़ के ताले की कहानी। चलो समझते हैं!",
+   "caption": "Doobe jahaaz ke taale ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "PADLOCK",
+     "vs": "🔒",
+     "c": "CODE"
+    }
+   ]
+  },
+  {
+   "voice": "पंद्रह सौ तिरासी में, एन फ़्रांसिस नाम का एक व्यापारी जहाज़, ब्रिटेन के वेल्स के तट पर डूब गया था।",
+   "caption": "1583 mein, Ann Francis naam ka ek vyaapaari jahaaz, Britain ke Wales ke tat par doob gaya tha.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 51.6,
+     "lon": -4.0,
+     "dist": 1.1,
+     "pins": [
+      {
+       "lat": 51.6,
+       "lon": -4.0,
+       "label": "Swansea, Wales",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ से? 🚢"
+    },
+    {
+     "kind": "stk",
+     "text": "🚢 Ann Francis",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 1583 · Wales",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "उसके मलबे से मिला एक कॉम्बिनेशन ताला, जिसमें अक्षरों वाले छल्ले घुमाकर खोला जाता था। पर अंदर रेत और गंदगी भरी थी।",
+   "caption": "Uske malbe se mila ek combination taala, jismein aksharon waale chhalle ghumaakar khola jaata tha. Par andar ret aur gandagi bhari thi.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 51.6,
+     "lon": -4.0,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 51.6,
+       "lon": -4.0,
+       "label": "Swansea, Wales",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मुश्किल 😵"
+    },
+    {
+     "kind": "stk",
+     "text": "🔤 अक्षरों वाले छल्ले",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "⏳ अंदर रेत भरी",
+     "f": 0.65,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "ज़्यादा घुमाते तो ताला टूट सकता था। इसलिए वेल्स म्यूज़ियम और कार्डिफ़ यूनिवर्सिटी ने, माइक्रो सी टी स्कैन से उसकी अंदर की थ्री डी तस्वीर बनाई।",
+   "caption": "Zyada ghumaate to taala toot sakta tha. Isliye Wales Museum aur Cardiff University ne, micro CT scan se uski andar ki 3D tasveer banaai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "तरकीब 🔬"
+    },
+    {
+     "kind": "stamp",
+     "text": "Micro-CT 3D",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तस्वीर में दिखा कि अंदर के खाँचे किन अक्षरों से मिलते हैं। रिपोर्ट्स के मुताबिक, कोड था, ए, एन, सी, ई!",
+   "caption": "Tasveer mein dikha ki andar ke khaanche kin aksharon se milte hain. Reports ke mutaabik, code tha, A, N, C, E!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 51.6,
+     "lon": -4.0,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": 51.6,
+       "lon": -4.0,
+       "label": "Swansea, Wales",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कोड 🔑"
+    },
+    {
+     "kind": "stamp",
+     "text": "A · N · C · E",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अब ये ताला स्वानसी के नेशनल वॉटरफ़्रंट म्यूज़ियम में रखा है।",
+   "caption": "Ab ye taala Swansea ke National Waterfront Museum mein rakha hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 51.6,
+     "lon": -4.0,
+     "dist": 1.4,
+     "pins": [
+      {
+       "lat": 51.6,
+       "lon": -4.0,
+       "label": "Swansea, Wales",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अब कहाँ? 🏛️"
+    },
+    {
+     "kind": "stk",
+     "text": "🏛️ Swansea Museum",
+     "f": 0.35,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, इस ताले से क्या बंद रखा गया था? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, is taale se kya band rakha gaya tha? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "इस ताले से क्या बंद था?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Live Science, Gizmodo, Popular Science"
+    }
+   ]
+  }
+ ]
+}
