@@ -1,0 +1,275 @@
+{
+ "title": "SpaceX ने पहली बार Starship को हवा में पकड़ा! 🚀🥢 इतिहास बना | 3D Gyaan",
+ "caption_keywords": [
+  "starship",
+  "spacex",
+  "catch",
+  "chopsticks",
+  "orbit",
+  "tower",
+  "3d",
+  "gyaan",
+  "rocket"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Starship",
+  "line2": "पकड़ा! 🥢",
+  "badge": "🚀 पहली बार"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "starship catch",
+   "spacex",
+   "flight 15",
+   "ship 42",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "14 नवंबर 2026 को SpaceX ने इतिहास रचा: Starship का ऊपरी हिस्सा, Ship 42, 14 बार धरती का चक्कर लगाकर लौटा और launch tower की 'chopsticks' भुजाओं ने उसे पकड़ लिया! 🚀🥢 पहली बार किसी upper stage को ऐसे पकड़ा गया। सब 3D में।\n\nSources:\n- CNBC: https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html\n- Space.com: https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt\n- CNN: https://www.cnn.com/2026/11/13/science/live-news/spacex-starship-flight-15-ship-catch\n\nAI-generated narration & visuals.\n#Starship #SpaceX #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, इतिहास बन गया! स्पेसएक्स ने पहली बार, अंतरिक्ष से लौटे स्टारशिप जहाज़ को, टावर की भुजाओं में पकड़ लिया!",
+   "caption": "Bhai, itihaas ban gaya! SpaceX ne pehli baar, antariksh se laute Starship jahaaz ko, tower ki bhujaaon mein pakad liya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "पकड़ा गया! 🥢",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "पहली बार 🏆",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "स्टारशिप के कैच की कहानी। चलो समझते हैं!",
+   "caption": "Starship ke catch ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "STARSHIP",
+     "vs": "🥢",
+     "c": "CATCH"
+    }
+   ]
+  },
+  {
+   "voice": "स्टारशिप फ़्लाइट पंद्रह, तेरह नवंबर को टेक्सस के स्टारबेस से लॉन्च हुई।",
+   "caption": "Starship Flight 15, terah November ko Texas ke Starbase se launch hui.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 25.99,
+     "lon": -97.15,
+     "dist": 0.9,
+     "pins": [
+      {
+       "lat": 25.99,
+       "lon": -97.15,
+       "label": "Starbase, Texas",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब और कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 13 नवंबर",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Starbase, Texas",
+     "f": 0.6
+    }
+   ]
+  },
+  {
+   "voice": "ऊपर वाला जहाज़, शिप बयालीस, ऑर्बिट में पहुँचा, स्टारलिंक सैटेलाइट छोड़े, और करीब बाईस घंटों में धरती के चौदह चक्कर लगाए।",
+   "caption": "Upar waala jahaaz, Ship 42, orbit mein pahuncha, Starlink satellite chhode, aur kareeb baais ghanton mein dharti ke chaudah chakkar lagaaye.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सफ़र 🌍"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ Starlink छोड़े",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "14 चक्कर · ~22 घंटे",
+     "color": "green",
+     "f": 0.65,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "फिर चौदह नवंबर को, ये वापस स्टारबेस लौटा, और टावर की चॉपस्टिक भुजाओं ने इसे हवा में ही पकड़ लिया!",
+   "caption": "Phir chaudah November ko, ye waapas Starbase lauta, aur tower ki chopstick bhujaaon ne ise hawa mein hi pakad liya!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 25.99,
+     "lon": -97.15,
+     "dist": 0.8,
+     "pins": [
+      {
+       "lat": 25.99,
+       "lon": -97.15,
+       "label": "Starbase, Texas",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैच! 🥢"
+    },
+    {
+     "kind": "stamp",
+     "text": "Chopsticks ने पकड़ा ✅",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ऐसा पहली बार हुआ है। इससे पहले टावर ने सिर्फ़ नीचे वाले बूस्टर पकड़े थे, ऊपर वाला जहाज़ कभी नहीं।",
+   "caption": "Aisa pehli baar hua hai. Isse pehle tower ne sirf neeche waale booster pakde the, upar waala jahaaz kabhi nahi.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ख़ास? 🏆"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ पहले: सिर्फ़ booster",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🆕 अब: जहाज़ भी",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "पर डबल कैच पूरा नहीं हुआ। इस बार बूस्टर ने गाइडेंस की गड़बड़ी पकड़कर, अपना कैच रद्द कर दिया था।",
+   "caption": "Par double catch poora nahi hua. Is baar booster ne guidance ki gadbadi pakadkar, apna catch radd kar diya tha.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "launch"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अधूरा ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "❌ Booster catch रद्द",
+     "f": 0.4,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "दोनों हिस्से दोबारा इस्तेमाल हों, तो अंतरिक्ष का सफ़र बहुत सस्ता हो सकता है। चाँद और मंगल का रास्ता, अब थोड़ा और पास!",
+   "caption": "Dono hisse dobaara istemaal hon, to antariksh ka safar bahut sasta ho sakta hai. Chaand aur Mangal ka raasta, ab thoda aur paas!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "mars",
+     "dist": 1.2
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "सस्ता सफ़र 🚀",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अगली बार डबल कैच होगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, agli baar double catch hoga? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अगली बार Double Catch होगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: CNBC, Space.com, CNN · Nov 2026"
+    }
+   ]
+  }
+ ]
+}
