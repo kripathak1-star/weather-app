@@ -1,0 +1,224 @@
+{
+ "title": "Webb ने देखा ब्रह्मांड का सबसे पुराना 'जुड़वाँ' Quasar जोड़ा! 🕳️🕳️ | 3D Gyaan",
+ "caption_keywords": [
+  "webb",
+  "quasar",
+  "black",
+  "hole",
+  "pair",
+  "universe",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "जुड़वाँ",
+  "line2": "Black Holes! 🕳️",
+  "badge": "🔭 JAMES WEBB"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "james webb",
+   "quasar pair",
+   "black hole",
+   "early universe",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "James Webb telescope ने अब तक का सबसे पुराना 'compact' quasar जोड़ा देखा, जिसकी रोशनी Big Bang के सिर्फ़ करीब 90 करोड़ साल बाद की है! 🕳️🕳️ दो विशाल black holes, एक दूसरे के बेहद करीब। सब 3D में।\n\nSources:\n- Sci.News: https://sci.news/astronomy/record-breaking-quasar-pair-early-universe-15191.html\n- Live Science: https://livescience.com/space/black-holes/james-webb-telescope-just-spotted-the-oldest-closest-pair-of-black-holes-in-the-early-universe\n\nAI-generated narration & visuals.\n#JamesWebb #BlackHole #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, जेम्स वेब ने ब्रह्मांड की शुरुआत में, दो विशाल ब्लैक होल का एक जुड़वाँ जोड़ा देखा है!",
+   "caption": "Bhai, James Webb ne brahmaand ki shuruaat mein, do vishaal black hole ka ek judwaan joda dekha hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "जुड़वाँ 🕳️🕳️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "सबसे पुराना",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "जुड़वाँ क्वेज़ार की कहानी। चलो समझते हैं!",
+   "caption": "Judwaan quasar ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "QUASAR",
+     "vs": "🕳️",
+     "c": "PAIR"
+    }
+   ]
+  },
+  {
+   "voice": "क्वेज़ार यानी एक बहुत बड़ा ब्लैक होल, जो आसपास की गैस निगलते समय, पूरी आकाशगंगा से भी ज़्यादा चमकता है।",
+   "caption": "Quasar yaani ek bahut bada black hole, jo aaspaas ki gas nigalte samay, poori aakashganga se bhi zyada chamakta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्वेज़ार क्या है? 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "🕳️ विशाल black hole",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "✨ गैलेक्सी से ज़्यादा चमक",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इस जोड़े की रोशनी, बिग बैंग के सिर्फ़ करीब नब्बे करोड़ साल बाद निकली थी। यानी हम ब्रह्मांड का बचपन देख रहे हैं।",
+   "caption": "Is jode ki roshni, Big Bang ke sirf kareeb nabbe crore saal baad nikli thi. Yaani hum brahmaand ka bachpan dekh rahe hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितना पुराना? 📅"
+    },
+    {
+     "kind": "stamp",
+     "text": "Big Bang + ~90 करोड़ साल",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "हैरानी ये है, कि दोनों एक दूसरे के बेहद करीब हैं। इतने करीब, जितनी दूरी हमारे सूरज से आकाशगंगा के केंद्र तक भी नहीं।",
+   "caption": "Hairaani ye hai, ki dono ek doosre ke behad kareeb hain. Itne kareeb, jitni doori hamare sooraj se aakashganga ke kendra tak bhi nahi.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "हैरानी 😲"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 बेहद करीब",
+     "f": 0.4,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "बड़ा सवाल, इतनी जल्दी ये ब्लैक होल इतने बड़े कैसे हो गए? अभी कोई थ्योरी इसे पूरी तरह नहीं समझा पाती।",
+   "caption": "Bada sawaal, itni jaldi ye black hole itne bade kaise ho gaye? Abhi koi theory ise poori tarah nahi samjha paati.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "रहस्य ❓"
+    },
+    {
+     "kind": "stamp",
+     "text": "इतने बड़े, इतनी जल्दी?",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "और ध्यान रहे, वैज्ञानिक अभी ये भी जाँच रहे हैं कि ये सच में दो क्वेज़ार हैं, या एक ही दिशा में दिखते दो अलग चीज़ें।",
+   "caption": "Aur dhyaan rahe, vaigyanik abhi ye bhi jaanch rahe hain ki ye sach mein do quasar hain, ya ek hi disha mein dikhte do alag cheezein.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सच्चाई ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "🔍 जाँच जारी",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ब्लैक होल इतनी जल्दी कैसे बढ़े? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, black hole itni jaldi kaise badhe? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Black holes इतनी जल्दी कैसे बढ़े?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Sci.News, Live Science · 2026"
+    }
+   ]
+  }
+ ]
+}
