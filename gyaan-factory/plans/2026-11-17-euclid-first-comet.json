@@ -1,0 +1,209 @@
+{
+ "title": "Euclid Telescope ने ढूंढा अपना पहला नया धूमकेतु! ☄️🔭 | 3D Gyaan",
+ "caption_keywords": [
+  "euclid",
+  "comet",
+  "esa",
+  "telescope",
+  "jupiter",
+  "saturn",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "नया धूमकेतु!",
+  "line2": "Euclid ☄️",
+  "badge": "🔭 ESA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "euclid",
+   "new comet",
+   "C/2026 S1",
+   "esa",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "ESA के Euclid space telescope ने अपना पहला नया धूमकेतु खोजा: C/2026 S1 (Euclid)! ☄️🔭 ये धरती से करीब 1.3 अरब km दूर है, और बहुत लंबे चक्कर वाला धूमकेतु है। सब 3D में।\n\nSources:\n- ESA: https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet\n- Sci.News: https://www.sci.news/astronomy/esas-euclid-space-telescope-first-comet-15139.html\n- Universe Today: https://www.universetoday.com/articles/the-esas-euclid-space-telescope-has-discovered-a-new-comet\n\nAI-generated narration & visuals.\n#Comet #ESA #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक टेलिस्कोप जो ब्रह्मांड का नक्शा बना रहा था, उसे रास्ते में एक नया धूमकेतु मिल गया!",
+   "caption": "Bhai, ek telescope jo brahmaand ka naksha bana raha tha, use raaste mein ek naya dhoomketu mil gaya!",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "नया धूमकेतु! ☄️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Euclid 🔭",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "यूक्लिड के पहले धूमकेतु की कहानी। चलो समझते हैं!",
+   "caption": "Euclid ke pehle dhoomketu ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "EUCLID",
+     "vs": "☄️",
+     "c": "COMET"
+    }
+   ]
+  },
+  {
+   "voice": "यूक्लिड, यूरोप की स्पेस एजेंसी ईसा का टेलिस्कोप है, जो अरबों आकाशगंगाओं का नक्शा बना रहा है।",
+   "caption": "Euclid, Europe ki space agency ESA ka telescope hai, jo arabon aakashgangaon ka naksha bana raha hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कौन? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "🇪🇺 ESA · Euclid",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "सितंबर दो हज़ार छब्बीस की तस्वीरों में, इसे एक चलती हुई चीज़ दिखी। आठ अक्टूबर को इसे नए धूमकेतु के रूप में पक्का किया गया।",
+   "caption": "September 2026 ki tasveeron mein, ise ek chalti hui cheez dikhi. Aath October ko ise naye dhoomketu ke roop mein pakka kiya gaya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे मिला? 📷"
+    },
+    {
+     "kind": "stk",
+     "text": "📷 सितंबर 2026",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "✅ पक्का: 8 अक्टूबर",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "इसका नाम है, सी दो हज़ार छब्बीस एस वन, यूक्लिड। ये धरती से करीब एक दशमलव तीन अरब किलोमीटर दूर है।",
+   "caption": "Iska naam hai, C 2026 S1, Euclid. Ye dharti se kareeb 1.3 arab kilometre door hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "नाम 📛"
+    },
+    {
+     "kind": "stamp",
+     "text": "C/2026 S1",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "📏 ~1.3 अरब km",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "ये बहुत लंबे चक्कर वाला धूमकेतु है, जो ग्रहों के रास्ते से काफ़ी तिरछा घूमता है। इसीलिए ये यूक्लिड की नज़र में आ गया।",
+   "caption": "Ye bahut lambe chakkar waala dhoomketu hai, jo grahon ke raaste se kaafi tirchha ghoomta hai. Isiliye ye Euclid ki nazar mein aa gaya.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "ख़ास बात 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "🔄 लंबा चक्कर",
+     "f": 0.3,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "↗️ तिरछा रास्ता",
+     "f": 0.7
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, अंतरिक्ष में और कितने धूमकेतु छुपे हैं? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, antariksh mein aur kitne dhoomketu chhupe hain? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "और कितने धूमकेतु छुपे हैं?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ESA, Sci.News, Universe Today"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "title": "हर 8 मिनट में 'धड़कता' मरा हुआ तारा! 💫📡 नई खोज | 3D Gyaan",
+ "caption_keywords": [
+  "star",
+  "white",
+  "dwarf",
+  "radio",
+  "pulse",
+  "signal",
+  "3d",
+  "gyaan",
+  "space"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "हर 8 मिनट",
+  "line2": "सिग्नल! 📡",
+  "badge": "💫 मरा तारा"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "white dwarf",
+   "radio pulse",
+   "GPM J0715",
+   "dead star",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "5,000 से ज़्यादा light-years दूर एक मरा हुआ तारा, यानी white dwarf, हर करीब 8 मिनट में radio signal भेज रहा है! 💫📡 और इसका साथी हमारे सूरज जैसा तारा है। पहली बार ऐसा जोड़ा मिला। सब 3D में।\n\nSources:\n- Nautilus: https://nautil.us/a-dead-star-is-flashing-radio-waves-every-8-minutes-1286645\n- Gizmodo: https://gizmodo.com/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it-2000839123\n- The Conversation (via NewSpace Economy): https://newspaceeconomy.ca/2026/11/12/a-dead-star-is-flashing-radio-waves-every-8-minutes-and-its-partner-looks-a-lot-like-the-sun/\n\nAI-generated narration & visuals.\n#Space #Astronomy #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अंतरिक्ष में एक मरा हुआ तारा, हर आठ मिनट में रेडियो सिग्नल भेज रहा है!",
+   "caption": "Bhai, antariksh mein ek mara hua taara, har aath minute mein radio signal bhej raha hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "हर 8 मिनट! 📡",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "मरा हुआ तारा 💫",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "धड़कते मरे तारे की कहानी। चलो समझते हैं!",
+   "caption": "Dhadakte mare taare ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "DEAD STAR",
+     "vs": "📡",
+     "c": "SIGNAL"
+    }
+   ]
+  },
+  {
+   "voice": "ये सिग्नल पहली बार ऑस्ट्रेलिया के मर्चिसन वाइडफ़ील्ड ऐरे रेडियो टेलिस्कोप ने पकड़ा।",
+   "caption": "Ye signal pehli baar Australia ke Murchison Widefield Array radio telescope ne pakda.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": -26.7,
+     "lon": 116.67,
+     "dist": 1.0,
+     "pins": [
+      {
+       "lat": -26.7,
+       "lon": 116.67,
+       "label": "MWA, Australia",
+       "color": "gold"
+      }
+     ]
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "किसने पकड़ा? 📡"
+    },
+    {
+     "kind": "stk",
+     "text": "📡 MWA, Australia",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "खोज में पता चला, ये एक व्हाइट ड्वार्फ है, यानी मर चुके तारे का बचा हुआ घना हिस्सा। ये धरती से पाँच हज़ार प्रकाश वर्ष से भी ज़्यादा दूर है।",
+   "caption": "Khoj mein pata chala, ye ek white dwarf hai, yaani mar chuke taare ka bacha hua ghana hissa. Ye dharti se paanch hazaar prakaash varsh se bhi zyada door hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या है? ⚪"
+    },
+    {
+     "kind": "stk",
+     "text": "⚪ White dwarf",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 5,000+ प्रकाश वर्ष",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ख़ास बात, इसका साथी एक ऐसा तारा है, जो हमारे सूरज जैसा है। ये दोनों करीब बत्तीस घंटे में एक दूसरे का चक्कर लगाते हैं।",
+   "caption": "Khaas baat, iska saathi ek aisa taara hai, jo hamare sooraj jaisa hai. Ye dono kareeb battees ghante mein ek doosre ka chakkar lagaate hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 1.0
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "जोड़ी ⭐"
+    },
+    {
+     "kind": "stamp",
+     "text": "सूरज जैसा साथी ☀️",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🔄 ~32 घंटे में चक्कर",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों के मुताबिक, पहली बार किसी व्हाइट ड्वार्फ से, सूरज जैसे साथी के साथ, ऐसे रेडियो पल्स मिले हैं।",
+   "caption": "Vaigyaniko ke mutaabik, pehli baar kisi white dwarf se, sooraj jaise saathi ke saath, aise radio pulse mile hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पहली बार 🏆"
+    },
+    {
+     "kind": "stamp",
+     "text": "नई तरह का जोड़ा",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "पर ये पल्स बनते कैसे हैं, ये अभी भी रहस्य है।",
+   "caption": "Par ye pulse bante kaise hain, ye abhi bhi rahasya hai.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope",
+     "dist": 0.8
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "रहस्य ❓"
+    },
+    {
+     "kind": "stamp",
+     "text": "कैसे? पता नहीं",
+     "color": "red",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, ये सिग्नल कैसे बनता है? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, ye signal kaise banta hai? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "ये signal कैसे बनता है?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Nautilus, Gizmodo, The Conversation"
+    }
+   ]
+  }
+ ]
+}
