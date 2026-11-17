@@ -1,0 +1,174 @@
+{
+ "title": "Satellite नीचे क्यों नहीं गिरता? 🛰️🌍 30 सेकंड में समझो | 3D Gyaan",
+ "caption_keywords": [
+  "satellite",
+  "orbit",
+  "iss",
+  "gravity",
+  "fall",
+  "3d",
+  "gyaan",
+  "space",
+  "speed"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "गिरता क्यों",
+  "line2": "नहीं? 🛰️",
+  "badge": "⚡ 28,000 km/h"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "satellite orbit",
+   "why satellites dont fall",
+   "iss",
+   "gravity",
+   "science hindi",
+   "3d gyaan"
+  ],
+  "description": "Space station और satellites नीचे क्यों नहीं गिरते? 🛰️🌍 असल में वो गिर रहे हैं, बस इतनी तेज़ी से आगे भी बढ़ रहे हैं कि धरती से हर बार चूक जाते हैं! सब 3D में, 30 सेकंड में।\n\nSources:\n- NASA (ISS facts): https://www.nasa.gov/international-space-station/space-station-facts-and-figures/\n- ESA (What is an orbit?): https://www.esa.int/Enabling_Support/Operations/What_is_an_orbit\n\nAI-generated narration & visuals.\n#Shorts #Science #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "स्पेस स्टेशन, धरती से करीब चार सौ किलोमीटर ऊपर है। वहाँ भी ग्रैविटी है। तो ये गिरता क्यों नहीं?",
+   "caption": "Space station, dharti se kareeb chaar sau kilometre upar hai. Wahan bhi gravity hai. To ye girta kyon nahi?",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "~400 km ऊपर",
+     "show": 0.25
+    },
+    {
+     "kind": "stamp",
+     "text": "गिरता क्यों नहीं? 🤔",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "जवाब? ये गिर रहा है! हर पल, धरती की तरफ़।",
+   "caption": "Jawaab? Ye gir raha hai! Har pal, dharti ki taraf.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "stamp",
+     "text": "गिर रहा है! ⬇️",
+     "color": "red",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "पर ये आगे भी बढ़ रहा है, करीब अट्ठाईस हज़ार किलोमीटर प्रति घंटा की रफ़्तार से।",
+   "caption": "Par ye aage bhi badh raha hai, kareeb atthaais hazaar kilometre prati ghanta ki raftaar se.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "रफ़्तार ⚡"
+    },
+    {
+     "kind": "stamp",
+     "text": "~28,000 km/h",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "जितना ये नीचे गिरता है, धरती की गोलाई भी उतनी ही नीचे मुड़ जाती है। इसलिए ये हमेशा गिरता रहता है, पर ज़मीन से टकराता नहीं।",
+   "caption": "Jitna ye neeche girta hai, dharti ki golaai bhi utni hi neeche mud jaati hai. Isliye ye hamesha girta rehta hai, par zameen se takraata nahi.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "राज़ 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "गिरो + चूको = Orbit",
+     "color": "green",
+     "f": 0.55,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "इसी रफ़्तार से, स्पेस स्टेशन करीब नब्बे मिनट में धरती का एक चक्कर लगा लेता है।",
+   "caption": "Isi raftaar se, space station kareeb nabbe minute mein dharti ka ek chakkar laga leta hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": true
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "एक चक्कर 🔄"
+    },
+    {
+     "kind": "stamp",
+     "text": "~90 मिनट",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "अगली बार आसमान में कोई चमकता बिंदु तेज़ी से जाता दिखे, तो समझना, वो गिर रहा है, पर कभी पहुँच नहीं रहा! फ़ॉलो करो थ्री डी ज्ञान!",
+   "caption": "Agli baar aasmaan mein koi chamakta bindu tezi se jaata dikhe, to samajhna, wo gir raha hai, par kabhi pahunch nahi raha! Follow karo 3D Gyaan!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "गिरता है, पहुँचता नहीं 🛰️",
+     "q": "अगला सवाल कमेंट में पूछो!",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NASA, ESA"
+    }
+   ]
+  }
+ ]
+}
