@@ -1,0 +1,160 @@
+{
+ "title": "Voyager 1 पहुँच गया 1 'Light-Day' दूर! 🚀✅ इतिहास बना | 3D Gyaan",
+ "caption_keywords": [
+  "voyager",
+  "nasa",
+  "light",
+  "day",
+  "space",
+  "interstellar",
+  "3d",
+  "gyaan",
+  "1977"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Voyager 1",
+  "line2": "पहुँच गया! ✅",
+  "badge": "🚀 1 LIGHT-DAY"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "voyager 1",
+   "light day",
+   "nasa",
+   "interstellar space",
+   "space news hindi",
+   "3d gyaan"
+  ],
+  "description": "18 नवंबर 2026 को NASA का Voyager 1 धरती से 1 light-day दूर पहुँचने वाला पहला यान बन गया! 🚀✅ यानी वहाँ तक रोशनी को भी करीब 24 घंटे लगते हैं। 1977 से चल रहा सफ़र, सब 3D में।\n\nSources:\n- Space.com: https://space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space\n- Astronomy.com: https://astronomy.com/space-exploration/voyager-1-reaches-1-light-day-from-earth\n\nAI-generated narration & visuals.\n#Voyager1 #NASA #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, इतिहास बन गया! नासा का वॉयजर वन, धरती से एक लाइट डे दूर पहुँच गया!",
+   "caption": "Bhai, itihaas ban gaya! NASA ka Voyager 1, dharti se ek light day door pahunch gaya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "पहुँच गया! ✅",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "1 Light-Day 🚀",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "लाइट डे यानी वो दूरी, जिसे तय करने में रोशनी को भी, करीब चौबीस घंटे लगते हैं।",
+   "caption": "Light day yaani wo doori, jise tay karne mein roshni ko bhi, kareeb chaubees ghante lagte hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मतलब? 💡"
+    },
+    {
+     "kind": "stamp",
+     "text": "रोशनी को ~24 घंटे",
+     "color": "green",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये मील का पत्थर अठारह नवंबर दो हज़ार छब्बीस को पार हुआ। वॉयजर वन ऐसा करने वाला पहला यान है।",
+   "caption": "Ye meel ka patthar athaarah November 2026 ko paar hua. Voyager 1 aisa karne waala pehla yaan hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hero"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कब? 📅"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 18 नवंबर 2026",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🏆 पहला यान",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये यान उन्नीस सौ सतहत्तर में लॉन्च हुआ था, और अब तारों के बीच की जगह में सफ़र कर रहा है। इसके दस में से बस दो मूल उपकरण अब चालू हैं।",
+   "caption": "Ye yaan 1977 mein launch hua tha, aur ab taaron ke beech ki jagah mein safar kar raha hai. Iske das mein se bas do mool upkaran ab chaalu hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "सफ़र 🌌"
+    },
+    {
+     "kind": "stk",
+     "text": "🚀 लॉन्च: 1977",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔧 10 में से 2 उपकरण चालू",
+     "f": 0.65
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, वॉयजर और कितना दूर जाएगा? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, Voyager aur kitna door jaayega? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Voyager और कितना दूर जाएगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Space.com, Astronomy.com"
+    }
+   ]
+  }
+ ]
+}
