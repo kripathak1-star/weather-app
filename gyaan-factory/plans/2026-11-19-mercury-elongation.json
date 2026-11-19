@@ -1,0 +1,214 @@
+{
+ "title": "21 नवंबर की सुबह देखो बुध ग्रह! ☿️🌅 साल का अच्छा मौका | 3D Gyaan",
+ "caption_keywords": [
+  "mercury",
+  "venus",
+  "planet",
+  "sunrise",
+  "sky",
+  "3d",
+  "gyaan",
+  "budh",
+  "shukra"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "बुध ग्रह",
+  "line2": "देखो! 🌅",
+  "badge": "📅 21 NOV"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "mercury greatest elongation",
+   "mercury november 2026",
+   "venus",
+   "night sky india",
+   "astronomy hindi",
+   "3d gyaan"
+  ],
+  "description": "21 नवंबर 2026 के आसपास, सूरज निकलने से पहले, पूर्व दिशा में नीचे देखो! बुध ग्रह (Mercury) सूरज से सबसे दूर दिखेगा, और उसके ऊपर चमकता शुक्र (Venus) भी! ☿️🌅 कैसे देखें, सब 3D में।\n\nSources:\n- EarthSky: https://earthsky.org/astronomy-essentials/mercury-before-sunrise-greatest-elongation-west/\n- In-The-Sky.org: https://in-the-sky.org/news.php?id=20261121_11_101\n- Star Walk: https://starwalk.space/en/news/what-is-elongation\n\nAI-generated narration & visuals.\n#Mercury #NightSky #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, बुध ग्रह को देखना बहुत मुश्किल होता है। पर इक्कीस नवंबर के आसपास, तुम्हारे पास अच्छा मौका है!",
+   "caption": "Bhai, Budh grah ko dekhna bahut mushkil hota hai. Par ikkees November ke aaspaas, tumhare paas achha mauka hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "बुध ग्रह ☿️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "21 नवंबर 📅",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "बुध ग्रह को देखने की कहानी। चलो समझते हैं!",
+   "caption": "Budh grah ko dekhne ki kahani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "MERCURY",
+     "vs": "🌅",
+     "c": "SKY"
+    }
+   ]
+  },
+  {
+   "voice": "बुध सूरज के सबसे पास वाला ग्रह है, इसलिए ज़्यादातर सूरज की चमक में छुप जाता है।",
+   "caption": "Budh sooraj ke sabse paas waala grah hai, isliye zyaadatar sooraj ki chamak mein chhup jaata hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मुश्किल क्यों? ☀️"
+    },
+    {
+     "kind": "stk",
+     "text": "☀️ सूरज के सबसे पास",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "पर इक्कीस नवंबर के आसपास, ये आसमान में सूरज से सबसे दूर दिखेगा, करीब उन्नीस डिग्री। इसे ग्रेटेस्ट एलॉन्गेशन कहते हैं।",
+   "caption": "Par ikkees November ke aaspaas, ye aasmaan mein sooraj se sabse door dikhega, kareeb unnees degree. Ise greatest elongation kehte hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मौका 🎯"
+    },
+    {
+     "kind": "stamp",
+     "text": "~19° दूर",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "📛 Greatest Elongation",
+     "f": 0.8
+    }
+   ]
+  },
+  {
+   "voice": "कैसे देखें? सूरज निकलने से करीब आधा से एक घंटा पहले, पूर्व दिशा में, क्षितिज के पास नीचे देखो।",
+   "caption": "Kaise dekhein? Sooraj nikalne se kareeb aadha se ek ghanta pehle, poorv disha mein, kshitij ke paas neeche dekho.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 22,
+     "lon": 79,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे देखें? 👀"
+    },
+    {
+     "kind": "stk",
+     "text": "🌅 सूरज से 30-60 मिनट पहले",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🧭 पूर्व, नीचे",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "बोनस! बुध के ऊपर, बहुत चमकीला शुक्र ग्रह भी दिखेगा। दूरबीन हो तो और आसान। पर सूरज की तरफ़ कभी सीधा मत देखना!",
+   "caption": "Bonus! Budh ke upar, bahut chamkeela Shukra grah bhi dikhega. Doorbeen ho to aur aasaan. Par sooraj ki taraf kabhi seedha mat dekhna!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 22,
+     "lon": 79,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "बोनस ✨"
+    },
+    {
+     "kind": "stk",
+     "text": "✨ ऊपर: शुक्र (Venus)",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stamp",
+     "text": "सूरज को मत देखो ⚠️",
+     "color": "red",
+     "f": 0.7,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "क्या तुम बुध को देख पाओगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Kya tum Budh ko dekh paaoge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या तुम बुध को देख पाओगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: EarthSky, In-The-Sky.org, Star Walk"
+    }
+   ]
+  }
+ ]
+}
