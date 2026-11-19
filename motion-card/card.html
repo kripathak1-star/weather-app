@@ -1,0 +1,50 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;width:1920px;height:1080px;background:#000;overflow:hidden;font-family:Roboto,Arial,sans-serif}
+#stage{position:absolute;inset:0;perspective:1400px}
+#world{position:absolute;inset:0;transform-style:preserve-3d}
+.floor{position:absolute;left:50%;width:852px;height:276px;border-radius:50%;filter:blur(30px)}
+#card{position:absolute;left:50%;top:50%;width:427px;height:357px;margin:-178px 0 0 -213px;border-radius:60px;background:#003b26;
+ box-shadow:inset 6px 6px 14px rgba(158,255,220,.45),inset -4px -4px 12px rgba(0,0,0,.6),0 0 60px rgba(36,238,165,.35);color:#fff}
+.t{position:absolute}
+.row{position:absolute;left:21px;width:385px;height:78px;border-radius:55px;background:linear-gradient(0deg,#000,#00915d);
+ box-shadow:inset 3px 3px 8px rgba(214,255,240,.4);display:flex;align-items:center;justify-content:space-between;padding:0 34px;box-sizing:border-box;font:600 23px Montserrat,Arial}
+.row b{font:italic 900 26px Arial;letter-spacing:1px}
+.pill{position:absolute;padding:14px 30px;border-radius:60px;border:1.5px solid #37ffb7;background:linear-gradient(0deg,#000,#00734a);color:#fff;
+ font:800 22px Arial;letter-spacing:1px;box-shadow:0 0 30px rgba(55,255,183,.6)}
+</style></head><body>
+<div id="stage"><div id="world">
+ <div class="floor" id="f1" style="background:#00a56a"></div><div class="floor" id="f2" style="background:#24eea5"></div>
+ <div id="card">
+  <div class="t" style="left:40px;top:40px;font:900 22px Roboto,Arial">Bank Balance</div>
+  <div class="t" style="right:30px;top:30px;width:103px;height:40px;border-radius:40px;background:rgba(36,238,36,.6);border:1.5px solid #24eea5;text-align:center;line-height:40px;font-size:16px">Active</div>
+  <div class="t" id="num" style="left:40px;top:92px;font:900 58px Roboto,Arial">$0</div>
+  <div class="row" style="top:170px"><span>****5544</span><b>VISA</b></div>
+  <div class="row" style="top:262px;background:linear-gradient(0deg,#000,#00613e);box-shadow:0 0 31px rgba(0,0,0,.28),inset 3px 3px 8px rgba(214,255,240,.4)"><span>****9988</span><b>VISA</b></div>
+ </div>
+</div>
+ <div class="pill" id="p1">EARNED</div><div class="pill" id="p2">EARNED</div>
+</div>
+<script>
+const ease=t=>t<0?0:t>1?1:(t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2);
+const elastic=t=>t<=0?0:t>=1?1:Math.pow(2,-10*t)*Math.sin((t*10-.75)*2*Math.PI/3)+1;
+window.draw=function(s){
+ const k=ease(s/0.5);
+ // camera tilt / card flip
+ const flip=-63.8+( -20.9+63.8)*k;
+ const osc=11*Math.sin(2*Math.PI*0.35*s);
+ const card=document.getElementById('card');
+ card.style.transform=`translateY(${osc*0.4}px) rotateX(${-flip*0.45}deg) rotateY(${flip*0.35}deg)`;
+ document.getElementById('world').style.transform=`translateY(${(1-k)*-260}px) rotateX(${(1-k)*35}deg)`;
+ const f1=document.getElementById('f1'),f2=document.getElementById('f2');
+ f1.style.cssText+=`;top:${800-(1-k)*200}px;margin-left:-426px;opacity:.55`;
+ f2.style.cssText+=`;top:${860-(1-k)*200}px;margin-left:-410px;opacity:.45`;
+ // counter
+ const c=Math.min(1,s/0.34), ce=1-Math.pow(1-c,2.2);
+ document.getElementById('num').textContent='$'+Math.round(1084+(9348-1084)*ce).toLocaleString('en-US');
+ // pills
+ const pp=(id,st,dur,x,y)=>{const e=document.getElementById(id);const u=(s-st)/dur;const sc=u<0?0:elastic(Math.min(1,u))*1.0;
+  e.style.left=x+'px';e.style.top=(y+osc*0.6)+'px';e.style.transform=`translate(-50%,-50%) scale(${sc})`;};
+ pp('p1',1.666,0.87,560,330); pp('p2',1.9,1.05,1390,560);
+};
+draw(0);
+</script></body></html>
