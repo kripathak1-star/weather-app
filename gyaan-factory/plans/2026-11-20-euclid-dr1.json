@@ -1,0 +1,197 @@
+{
+ "title": "Euclid ने गिने 1 अरब से ज़्यादा objects! 🔭🌌 ब्रह्मांड का 3D नक्शा | 3D Gyaan",
+ "caption_keywords": [
+  "euclid",
+  "galaxy",
+  "universe",
+  "telescope",
+  "3d",
+  "gyaan",
+  "esa",
+  "map"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "1 अरब+",
+  "line2": "objects! 🌌",
+  "badge": "🔭 EUCLID"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "euclid dr1",
+   "euclid telescope",
+   "esa euclid",
+   "3d map of universe",
+   "dark energy",
+   "astronomy hindi",
+   "3d gyaan"
+  ],
+  "description": "यूरोप के Euclid टेलीस्कोप ने अपना पहला बड़ा डेटा जारी किया: 1 अरब से ज़्यादा objects की सूची! 🔭🌌 ये ब्रह्मांड के अब तक के सबसे अच्छे 3D नक्शे की नींव है। सब 3D में।\n\nSources:\n- ESA Euclid DR1: https://www.cosmos.esa.int/web/euclid/euclid-dr1\n- Caltech/IPAC Euclid: https://euclid.caltech.edu/news/euclid-lays-the-foundation-for-its-best-ever-3d-map-of-the-universe\n- Max Planck Society: https://www.mpg.de/27073683/euclid-lays-the-foundation-for-its-best-ever-3d-map-of-the-universe\n- Physics World: https://physicsworld.com/a/esas-euclid-mission-unveils-treasure-trove-of-cosmic-data/\n\nAI-generated narration & visuals.\n#Euclid #Space #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक टेलीस्कोप ने आसमान में एक अरब से ज़्यादा चीज़ों की लिस्ट बना दी है!",
+   "caption": "Bhai, ek telescope ne aasmaan mein ek arab se zyaada cheezon ki list bana di hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "1 अरब+ 🌌",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "EUCLID 🔭",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "Euclid का बड़ा खज़ाना। चलो समझते हैं!",
+   "caption": "Euclid ka bada khazaana. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "EUCLID",
+     "vs": "🔭",
+     "c": "DR1"
+    }
+   ]
+  },
+  {
+   "voice": "Euclid यूरोपियन स्पेस एजेंसी का टेलीस्कोप है। बारह नवंबर को इसने अपना पहला बड़ा डेटा रिलीज़ किया।",
+   "caption": "Euclid European Space Agency ka telescope hai. Barah November ko isne apna pehla bada data release kiya.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हुआ? 📢"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 12 नवंबर 2026",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इसमें एक अरब से ज़्यादा objects हैं, जिनमें ज़्यादातर दूर की galaxies हैं। साथ में हज़ारों gravitational lens के उम्मीदवार भी।",
+   "caption": "Isme ek arab se zyaada objects hain, jinme zyaadatar door ki galaxies hain. Saath mein hazaaron gravitational lens ke ummeedwaar bhi.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अंदर क्या है? 🌌"
+    },
+    {
+     "kind": "stk",
+     "text": "🌌 1 अरब+ objects",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🔍 ~15,000 lens उम्मीदवार",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये डेटा ब्रह्मांड के अब तक के सबसे अच्छे थ्री डी नक्शे की नींव है। इससे dark energy और dark matter को समझने में मदद मिलेगी।",
+   "caption": "Ye data brahmaand ke ab tak ke sabse achhe 3D naqshe ki neev hai. Isse dark energy aur dark matter ko samajhne mein madad milegi.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ज़रूरी? 🧭"
+    },
+    {
+     "kind": "stamp",
+     "text": "3D नक्शा 🗺️",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "पूरा DR1 और ब्रह्मांड के बड़े नतीजे दो हज़ार सत्ताईस में आएँगे। तो अभी कहानी शुरू ही हुई है!",
+   "caption": "Poora DR1 aur brahmaand ke bade nateeje 2027 mein aayenge. To abhi kahaani shuru hi hui hai!",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? ⏭️"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 बड़े नतीजे: 2027",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "तुम Euclid से क्या ढूँढना चाहोगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tum Euclid se kya dhoondhna chaahoge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "Euclid से क्या ढूँढना चाहोगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ESA, Caltech/IPAC, Max Planck, Physics World"
+    }
+   ]
+  }
+ ]
+}
