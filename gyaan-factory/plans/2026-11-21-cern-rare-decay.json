@@ -1,0 +1,207 @@
+{
+ "title": "10 अरब में 1 बार होने वाली घटना! ⚛️ CERN की 40 साल की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "cern",
+  "lhcb",
+  "particle",
+  "muon",
+  "physics",
+  "3d",
+  "gyaan",
+  "decay"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "10 अरब में",
+  "line2": "सिर्फ़ 1! ⚛️",
+  "badge": "🔬 CERN"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "cern",
+   "lhcb",
+   "rare particle decay",
+   "b meson",
+   "muon",
+   "physics hindi",
+   "3d gyaan"
+  ],
+  "description": "CERN के LHCb प्रयोग को एक बेहद दुर्लभ particle decay के सबूत मिले: करीब 10 अरब में सिर्फ़ 1 बार! ⚛️ वैज्ञानिक इसे 40 साल से ढूँढ रहे थे। सब 3D में।\n\nSources:\n- University of Oxford Physics: https://www.physics.ox.ac.uk/news/evidence-rarest-particle-decay-after-42-year-search\n- UKRI: https://www.ukri.org/news/scientists-find-evidence-of-rarest-particle-decay-after-42-years/\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/11/261108233047.htm\n\nAI-generated narration & visuals.\n#CERN #Physics #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक ऐसी घटना जो करीब दस अरब बार में सिर्फ़ एक बार होती है, और वैज्ञानिकों को उसका सबूत मिल गया!",
+   "caption": "Bhai, ek aisi ghatna jo kareeb das arab baar mein sirf ek baar hoti hai, aur vaigyanikon ko uska saboot mil gaya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "10 अरब में 1 ⚛️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "CERN 🔬",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "CERN की चालीस साल की खोज। चलो समझते हैं!",
+   "caption": "CERN ki chaalees saal ki khoj. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "CERN",
+     "vs": "⚛️",
+     "c": "LHCb"
+    }
+   ]
+  },
+  {
+   "voice": "स्विट्ज़रलैंड और फ्रांस की सीमा पर CERN है, जहाँ दुनिया का सबसे बड़ा particle collider है। वहाँ के LHCb प्रयोग ने ये नतीजा दिया।",
+   "caption": "Switzerland aur France ki seema par CERN hai, jahaan duniya ka sabse bada particle collider hai. Wahaan ke LHCb prayog ne ye nateeja diya.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 46.23,
+     "lon": 6.05,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 CERN, Geneva",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "एक छोटा particle, जिसे B meson कहते हैं, टूटकर दो muon बन गया। ये इतना दुर्लभ है कि करीब दस अरब में एक बार होता है।",
+   "caption": "Ek chhota particle, jise B meson kehte hain, tootkar do muon ban gaya. Ye itna durlabh hai ki kareeb das arab mein ek baar hota hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या मिला? 🔍"
+    },
+    {
+     "kind": "stk",
+     "text": "⚛️ B⁰ → μ⁺ μ⁻",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🎲 ~10 अरब में 1",
+     "f": 0.65,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ध्यान दो, ये अभी पक्की खोज नहीं, सिर्फ़ सबूत है। नतीजा तीन दशमलव दो सिग्मा का है, और खोज कहलाने के लिए पाँच सिग्मा चाहिए।",
+   "caption": "Dhyaan do, ye abhi pakki khoj nahi, sirf saboot hai. Nateeja 3.2 sigma ka hai, aur khoj kehlaane ke liye 5 sigma chahiye.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 46.23,
+     "lon": 6.05,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पर रुको ✋"
+    },
+    {
+     "kind": "stamp",
+     "text": "3.2σ = सबूत",
+     "color": "gold",
+     "f": 0.3,
+     "center": true,
+     "w": 150
+    },
+    {
+     "kind": "stk",
+     "text": "🏆 खोज = 5σ",
+     "f": 0.7,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "ये क्यों ज़रूरी है? अगर ये decay अंदाज़े से अलग दर पर हो, तो नए, अनजान particles का इशारा मिल सकता है।",
+   "caption": "Ye kyon zaroori hai? Agar ye decay andaaze se alag dar par ho, to naye, anjaan particles ka ishaara mil sakta hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ज़रूरी? 🧭"
+    },
+    {
+     "kind": "stk",
+     "text": "❓ नई physics का सुराग?",
+     "f": 0.4,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "क्या तुम्हें physics पसंद है? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Kya tumhe physics pasand hai? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या तुम्हें physics पसंद है?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Oxford, UKRI, ScienceDaily"
+    }
+   ]
+  }
+ ]
+}
