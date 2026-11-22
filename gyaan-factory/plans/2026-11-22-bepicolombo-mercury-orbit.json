@@ -1,0 +1,197 @@
+{
+ "title": "8 साल बाद बुध ग्रह पहुँचा BepiColombo! ☿️🚀 | 3D Gyaan",
+ "caption_keywords": [
+  "bepicolombo",
+  "mercury",
+  "budh",
+  "esa",
+  "jaxa",
+  "3d",
+  "gyaan",
+  "orbit"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "बुध पहुँचा!",
+  "line2": "8 साल बाद 🚀",
+  "badge": "🚀 BEPICOLOMBO"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "bepicolombo",
+   "mercury orbit",
+   "esa jaxa",
+   "mio",
+   "mercury planetary orbiter",
+   "space hindi",
+   "3d gyaan"
+  ],
+  "description": "यूरोप और जापान का BepiColombo यान करीब 8 साल के सफ़र के बाद 21 नवंबर 2026 को बुध ग्रह की कक्षा में पहुँचा! ☿️🚀 आगे क्या होगा, सब 3D में।\n\nSources:\n- ESA: https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury\n- Space.com: https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival\n- Eos: https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury\n- JAXA: https://global.jaxa.jp/projects/sas/bepi/\n\nAI-generated narration & visuals.\n#BepiColombo #Mercury #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, करीब आठ साल के सफ़र के बाद एक यान बुध ग्रह की कक्षा में पहुँच गया!",
+   "caption": "Bhai, kareeb aath saal ke safar ke baad ek yaan Budh grah ki kaksha mein pahunch gaya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "बुध पहुँचा! 🚀",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "21 नवंबर 🚀",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "BepiColombo की कहानी। चलो समझते हैं!",
+   "caption": "BepiColombo ki kahaani. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "BEPI",
+     "vs": "☿️",
+     "c": "COLOMBO"
+    }
+   ]
+  },
+  {
+   "voice": "BepiColombo यूरोप की ESA और जापान की JAXA का साझा मिशन है। इक्कीस नवंबर को ये बुध की कक्षा में पहुँचा।",
+   "caption": "BepiColombo Europe ki ESA aur Japan ki JAXA ka saajha mission hai. Ikkees November ko ye Budh ki kaksha mein pahuncha.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हुआ? 📢"
+    },
+    {
+     "kind": "stk",
+     "text": "🇪🇺 ESA + 🇯🇵 JAXA",
+     "f": 0.3,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इसमें असल में दो यान हैं: यूरोप का MPO और जापान का Mio। दिसंबर की शुरुआत में ये अलग होकर अपनी-अपनी कक्षा में जाएँगे।",
+   "caption": "Isme asal mein do yaan hain: Europe ka MPO aur Japan ka Mio. December ki shuruaat mein ye alag hokar apni-apni kaksha mein jaayenge.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "दो यान 🛰️🛰️"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ MPO (यूरोप)",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🛰️ Mio (जापान)",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "पहुँचना इतना मुश्किल क्यों था? बुध सूरज के बहुत पास है, और यान को सूरज की खिंचाव में ब्रेक लगाते हुए जाना पड़ता है। इसीलिए इतने साल लगे।",
+   "caption": "Pahunchna itna mushkil kyon tha? Budh sooraj ke bahut paas hai, aur yaan ko sooraj ke khinchaav mein brake lagaate hue jaana padta hai. Isiliye itne saal lage.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "मुश्किल क्यों? ☀️"
+    },
+    {
+     "kind": "stamp",
+     "text": "~8 साल 🕰️",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "असली विज्ञान का काम अप्रैल दो हज़ार सत्ताईस से शुरू होगा। तब ये बुध की सतह और उसके चुंबकीय क्षेत्र को करीब से जाँचेगा।",
+   "caption": "Asli vigyaan ka kaam April 2027 se shuru hoga. Tab ye Budh ki satah aur uske chumbakeeya kshetra ko kareeb se jaanchega.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? ⏭️"
+    },
+    {
+     "kind": "stk",
+     "text": "🔬 विज्ञान: अप्रैल 2027",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "बुध के बारे में तुम क्या जानना चाहोगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Budh ke baare mein tum kya jaanna chaahoge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "बुध के बारे में क्या जानना चाहोगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ESA, JAXA, Space.com, Eos"
+    }
+   ]
+  }
+ ]
+}
