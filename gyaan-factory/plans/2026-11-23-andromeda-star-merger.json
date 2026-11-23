@@ -1,0 +1,185 @@
+{
+ "title": "एक तारे ने दूसरे तारे को निगल लिया! ⭐💥 Webb ने देखा | 3D Gyaan",
+ "caption_keywords": [
+  "star",
+  "merger",
+  "webb",
+  "andromeda",
+  "supergiant",
+  "3d",
+  "gyaan",
+  "nasa"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "तारा निगला!",
+  "line2": "⭐💥 Andromeda",
+  "badge": "🔭 WEBB"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "star merger",
+   "andromeda galaxy",
+   "james webb",
+   "supergiant",
+   "nasa",
+   "astronomy hindi",
+   "3d gyaan"
+  ],
+  "description": "Andromeda आकाशगंगा में सूरज जैसा एक तारा एक विशाल supergiant तारे में घुसकर उससे मिल गया! ⭐💥 NASA के Webb टेलीस्कोप के डेटा ने इसकी पुष्टि की। सब 3D में।\n\nSources:\n- NASA Science: https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/11/261120075556.htm\n- Phys.org: https://phys.org/news/2026-11-webb-kind-merger-supergiant-smaller.html\n\nAI-generated narration & visuals.\n#JamesWebb #Andromeda #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, अंतरिक्ष में एक विशाल तारे ने एक छोटे तारे को पूरा निगल लिया!",
+   "caption": "Bhai, antariksh mein ek vishaal taare ne ek chhote taare ko poora nigal liya!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "तारा निगला! ⭐",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "Andromeda 🌌",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "Webb की नई खोज। चलो समझते हैं!",
+   "caption": "Webb ki nayi khoj. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "STAR",
+     "vs": "💥",
+     "c": "MERGER"
+    }
+   ]
+  },
+  {
+   "voice": "ये घटना हमारी पड़ोसी आकाशगंगा Andromeda में हुई। सूरज से थोड़ा हल्का एक तारा, एक फूले हुए supergiant तारे में घुसता चला गया।",
+   "caption": "Ye ghatna hamaari padosi aakashganga Andromeda mein hui. Sooraj se thoda halka ek taara, ek phoole hue supergiant taare mein ghusta chala gaya.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या हुआ? 📢"
+    },
+    {
+     "kind": "stk",
+     "text": "⭐ छोटा तारा → 🔴 supergiant",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "हैरानी की बात ये है कि ये मिलन करीब सात चक्करों में, यानी लगभग सात साल में हो गया। ऐसे दूसरे मिलन में हज़ारों चक्कर लगते हैं।",
+   "caption": "Hairaani ki baat ye hai ki ye milan kareeb saat chakkaron mein, yaani lagbhag saat saal mein ho gaya. Aise doosre milan mein hazaaron chakkar lagte hain.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "इतना तेज़! ⚡"
+    },
+    {
+     "kind": "stamp",
+     "text": "~7 साल ⏱️",
+     "color": "gold",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "NASA के Webb टेलीस्कोप ने विस्फोट के चरम के सैंतालीस दिन बाद इसे देखा। ऐसी घटना को इतनी जल्दी पहले कभी नहीं देखा गया था।",
+   "caption": "NASA ke Webb telescope ne visphot ke charam ke saintaalees din baad ise dekha. Aisi ghatna ko itni jaldi pehle kabhi nahi dekha gaya tha.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "Webb की नज़र 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "📅 चरम के 47 दिन बाद",
+     "f": 0.4,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "अब वैज्ञानिक देखेंगे कि ये नया जुड़ा हुआ तारा आगे कैसे बदलता है।",
+   "caption": "Ab vaigyanik dekhenge ki ye naya juda hua taara aage kaise badalta hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "आगे क्या? ⏭️"
+    }
+   ]
+  },
+  {
+   "voice": "अंतरिक्ष की सबसे अजीब चीज़ तुम्हें क्या लगती है? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Antariksh ki sabse ajeeb cheez tumhe kya lagti hai? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "अंतरिक्ष की सबसे अजीब चीज़?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: NASA, ScienceDaily, Phys.org"
+    }
+   ]
+  }
+ ]
+}
