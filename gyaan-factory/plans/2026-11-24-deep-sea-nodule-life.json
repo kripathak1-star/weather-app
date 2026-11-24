@@ -1,0 +1,209 @@
+{
+ "title": "समुद्र की तलहटी के पत्थरों में छुपी दुनिया! 🪨🦠 4,100+ जीव | 3D Gyaan",
+ "caption_keywords": [
+  "deep",
+  "sea",
+  "nodule",
+  "pacific",
+  "animals",
+  "ocean",
+  "3d",
+  "gyaan"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "पत्थर में",
+  "line2": "4,100+ जीव! 🦠",
+  "badge": "🌊 DEEP SEA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "deep sea nodules",
+   "clarion clipperton zone",
+   "deep sea mining",
+   "ocean life",
+   "pacific ocean",
+   "science hindi",
+   "3d gyaan"
+  ],
+  "description": "प्रशांत महासागर की गहराई में मिलने वाले धातु वाले पत्थरों (nodules) के अंदर वैज्ञानिकों को 4,100 से ज़्यादा छोटे जीव मिले! 🪨🦠 एक ही पत्थर में 245! सब 3D में।\n\nSources:\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/11/261114202133.htm\n- Phys.org: https://phys.org/news/2026-11-deep-sea-destroy-unique-habitats.html\n- Oceanographic Magazine: https://oceanographicmagazine.com/news/tiny-animals-found-living-inside-deep-sea-nodules-as-us-weighs-first-commercial-mining-permit/\n\nAI-generated narration & visuals.\n#DeepSea #Ocean #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, समुद्र की तलहटी में पड़े छोटे पत्थरों के अंदर पूरी एक दुनिया छुपी है!",
+   "caption": "Bhai, samudra ki talhati mein pade chhote pattharon ke andar poori ek duniya chhupi hai!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 12,
+     "lon": -130,
+     "dist": 1.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "पत्थर में दुनिया 🪨",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "DEEP SEA 🌊",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "गहरे समुद्र की नई खोज। चलो समझते हैं!",
+   "caption": "Gehre samudra ki nayi khoj. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "DEEP",
+     "vs": "🌊",
+     "c": "SEA"
+    }
+   ]
+  },
+  {
+   "voice": "प्रशांत महासागर के एक इलाके में, समुद्र तल पर धातु से भरे आलू जैसे पत्थर पड़े हैं, जिन्हें nodules कहते हैं।",
+   "caption": "Prashant mahasagar ke ek ilaake mein, samudra tal par dhaatu se bhare aaloo jaise patthar pade hain, jinhe nodules kehte hain.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 12,
+     "lon": -130,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 📍"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Clarion-Clipperton Zone",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों ने दो सौ चवालीस nodules खोले, और उनकी दरारों में चार हज़ार एक सौ से ज़्यादा छोटे जीव मिले। एक ही पत्थर में दो सौ पैंतालीस!",
+   "caption": "Vaigyanikon ne 244 nodules khole, aur unki daraaron mein 4,100 se zyaada chhote jeev mile. Ek hi patthar mein 245!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 12,
+     "lon": -130,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या मिला? 🔍"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 244 nodules",
+     "f": 0.2,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🦠 4,100+ जीव",
+     "f": 0.5,
+     "color": "g"
+    },
+    {
+     "kind": "stamp",
+     "text": "1 पत्थर = 245!",
+     "color": "gold",
+     "f": 0.8,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ये जीव ज़्यादातर एक मिलीमीटर से भी छोटे हैं, और आसपास की मिट्टी से अलग तरह के समुदाय बनाते हैं।",
+   "caption": "Ye jeev zyaadatar ek millimeter se bhi chhote hain, aur aaspaas ki mitti se alag tarah ke samudaay banaate hain.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कितने छोटे? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "📏 < 1 mm",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "इन्हीं पत्थरों को बैटरी की धातुओं के लिए खोदने की बात होती है। वैज्ञानिक कहते हैं कि पत्थर हटाने से ये छोटे घर भी खत्म हो जाएँगे।",
+   "caption": "Inhi pattharon ko battery ki dhaatuon ke liye khodne ki baat hoti hai. Vaigyanik kehte hain ki patthar hataane se ye chhote ghar bhi khatm ho jaayenge.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 12,
+     "lon": -130,
+     "dist": 1.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "खतरा ⚠️"
+    },
+    {
+     "kind": "stk",
+     "text": "🔋 Deep-sea mining",
+     "f": 0.4,
+     "color": "r"
+    }
+   ]
+  },
+  {
+   "voice": "क्या गहरे समुद्र को बचाना चाहिए? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Kya gehre samudra ko bachaana chahiye? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "गहरे समुद्र को बचाना चाहिए?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ScienceDaily, Phys.org, Oceanographic"
+    }
+   ]
+  }
+ ]
+}
