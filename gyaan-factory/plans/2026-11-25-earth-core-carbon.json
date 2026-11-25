@@ -1,0 +1,196 @@
+{
+ "title": "धरती के केंद्र से रिस रहा अंतरिक्ष का कार्बन? 🌋☄️ Hawaii का राज़ | 3D Gyaan",
+ "caption_keywords": [
+  "hawaii",
+  "volcano",
+  "carbon",
+  "core",
+  "meteorite",
+  "earth",
+  "3d",
+  "gyaan"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "Core से",
+  "line2": "कार्बन? 🌋",
+  "badge": "☄️ HAWAII"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "earth core carbon",
+   "hawaii volcano",
+   "kilauea",
+   "meteorite carbon",
+   "geology hindi",
+   "science hindi",
+   "3d gyaan"
+  ],
+  "description": "Hawaii के ज्वालामुखी पत्थरों में वैज्ञानिकों को अजीब कार्बन मिला, जो शायद धरती के केंद्र (core) से आया है, और वहाँ उल्कापिंडों से पहुँचा था! 🌋☄️ पर अभी पक्का नहीं। सब 3D में।\n\nSources:\n- Yale News: https://news.yale.edu/2026/11/09/earths-core-carbon-may-have-come-far-reaches-solar-system\n- EurekAlert: https://www.eurekalert.org/news-releases/1152666\n- ScienceDaily: https://www.sciencedaily.com/releases/2026/11/261123005336.htm\n\nAI-generated narration & visuals.\n#Hawaii #EarthCore #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, धरती के बिल्कुल केंद्र से, अंतरिक्ष से आया कार्बन ऊपर रिस रहा हो सकता है!",
+   "caption": "Bhai, dharti ke bilkul kendra se, antariksh se aaya carbon upar ris raha ho sakta hai!",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 19.4,
+     "lon": -155.3,
+     "dist": 1.6
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "Core से कार्बन? 🌋",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "HAWAII 🌋",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "Hawaii के पत्थरों का राज़। चलो समझते हैं!",
+   "caption": "Hawaii ke pattharon ka raaz. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "CORE",
+     "vs": "☄️",
+     "c": "CARBON"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों ने Hawaii के Kilauea ज्वालामुखी के पत्थरों में फँसी छोटी-छोटी पिघली बूँदों की जाँच की।",
+   "caption": "Vaigyanikon ne Hawaii ke Kilauea jwalamukhi ke pattharon mein phansi chhoti-chhoti pighli boondon ki jaanch ki.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 19.4,
+     "lon": -155.3,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या जाँचा? 🔬"
+    },
+    {
+     "kind": "stk",
+     "text": "📍 Kilauea, Hawaii",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "उनमें कार्बन की ऐसी पहचान मिली जो आम मेंटल से अलग है, और कुछ खास उल्कापिंडों से मिलती है।",
+   "caption": "Unme carbon ki aisi pehchaan mili jo aam mantle se alag hai, aur kuch khaas ulkapindon se milti hai.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या मिला? 🧪"
+    },
+    {
+     "kind": "stk",
+     "text": "☄️ उल्कापिंड जैसा कार्बन",
+     "f": 0.4,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों का अंदाज़ा है कि धरती बनते समय ये कार्बन उल्कापिंडों से आया, केंद्र में जमा हुआ, और अब मेंटल प्लूम के रास्ते ऊपर रिस रहा है।",
+   "caption": "Vaigyanikon ka andaaza hai ki dharti bante samay ye carbon ulkapindon se aaya, kendra mein jama hua, aur ab mantle plume ke raaste upar ris raha hai.",
+   "shots": [
+    {
+     "type": "globe",
+     "lat": 19.4,
+     "lon": -155.3,
+     "dist": 1.4
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "अंदाज़ा 💡"
+    },
+    {
+     "kind": "stk",
+     "text": "☄️ → 🌍 core → 🌋",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "पर ध्यान दो, ये अभी पक्का नहीं है। टीम खुद कहती है कि और जाँच चाहिए।",
+   "caption": "Par dhyaan do, ye abhi pakka nahi hai. Team khud kehti hai ki aur jaanch chahiye.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पर रुको ✋"
+    },
+    {
+     "kind": "stamp",
+     "text": "अभी पक्का नहीं ⚠️",
+     "color": "red",
+     "f": 0.4,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "तुम्हें क्या लगता है, धरती का कार्बन कहाँ से आया? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Tumhe kya lagta hai, dharti ka carbon kahaan se aaya? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "धरती का कार्बन कहाँ से आया?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: Yale, EurekAlert, ScienceDaily"
+    }
+   ]
+  }
+ ]
+}
