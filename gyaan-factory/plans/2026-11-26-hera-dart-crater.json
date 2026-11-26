@@ -1,0 +1,197 @@
+{
+ "title": "NASA की टक्कर का गड्ढा पहली बार दिखा! ☄️💥 Hera ने देखा Dimorphos | 3D Gyaan",
+ "caption_keywords": [
+  "hera",
+  "dimorphos",
+  "dart",
+  "asteroid",
+  "crater",
+  "esa",
+  "3d",
+  "gyaan"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "टक्कर का",
+  "line2": "गड्ढा! ☄️💥",
+  "badge": "🛰️ HERA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "hera dimorphos",
+   "dart crater",
+   "esa hera",
+   "asteroid",
+   "planetary defense",
+   "space hindi",
+   "3d gyaan"
+  ],
+  "description": "2022 में NASA के DART यान ने Dimorphos asteroid को टक्कर मारी थी। अब यूरोप के Hera यान ने पहली बार उस टक्कर का गड्ढा करीब से देखा, एक स्टेडियम जितना बड़ा! ☄️💥 सब 3D में।\n\nSources:\n- CNN: https://www.cnn.com/2026/11/25/science/hera-mission-dimorphos-asteroid-arrival-images\n- The Planetary Society: https://www.planetary.org/articles/heras-first-close-up-images-of-didymos-and-dimorphos\n\nAI-generated narration & visuals.\n#Hera #DART #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, चार साल पहले NASA ने एक asteroid को जान-बूझकर टक्कर मारी थी। अब पहली बार उसका गड्ढा करीब से दिखा है!",
+   "caption": "Bhai, chaar saal pehle NASA ne ek asteroid ko jaan-boojhkar takkar maari thi. Ab pehli baar uska gaddha kareeb se dikha hai!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "टक्कर का गड्ढा ☄️",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "HERA 🛰️",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "Hera की पहली तस्वीरें। चलो समझते हैं!",
+   "caption": "Hera ki pehli tasveerein. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "HERA",
+     "vs": "☄️",
+     "c": "DART"
+    }
+   ]
+  },
+  {
+   "voice": "दो हज़ार बाईस में NASA का DART यान Dimorphos नाम के छोटे asteroid से टकराया था, ये देखने के लिए कि क्या हम asteroid का रास्ता बदल सकते हैं।",
+   "caption": "2022 mein NASA ka DART yaan Dimorphos naam ke chhote asteroid se takraaya tha, ye dekhne ke liye ki kya hum asteroid ka raasta badal sakte hain.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "पहले क्या हुआ? ⏪"
+    },
+    {
+     "kind": "stk",
+     "text": "💥 DART टक्कर: 2022",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "पच्चीस नवंबर को यूरोप की ESA ने Hera यान की पहली करीबी तस्वीरें जारी कीं। उनमें एक स्टेडियम जितना बड़ा गड्ढा दिखा, जिसने asteroid की एक तरफ़ को चपटा कर दिया।",
+   "caption": "25 November ko Europe ki ESA ne Hera yaan ki pehli kareebi tasveerein jaari keen. Unme ek stadium jitna bada gaddha dikha, jisne asteroid ki ek taraf ko chapta kar diya.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या दिखा? 📸"
+    },
+    {
+     "kind": "stamp",
+     "text": "🏟️ स्टेडियम जितना!",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "और हैरानी की बात, टक्कर के बाद Dimorphos अपनी कक्षा में बुरी तरह लुढ़क रहा है। उसके चारों ओर पत्थरों का घेरा भी मिला।",
+   "caption": "Aur hairaani ki baat, takkar ke baad Dimorphos apni kaksha mein buri tarah ludhak raha hai. Uske chaaron or pattharon ka ghera bhi mila.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "और भी 😮"
+    },
+    {
+     "kind": "stk",
+     "text": "🌀 लुढ़कता asteroid",
+     "f": 0.25,
+     "color": "y"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 चारों ओर पत्थर",
+     "f": 0.6,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "ये सब इसलिए ज़रूरी है ताकि भविष्य में कोई खतरनाक asteroid आए, तो हम धरती को बचा सकें।",
+   "caption": "Ye sab isliye zaroori hai taaki bhavishya mein koi khatarnaak asteroid aaye, to hum dharti ko bacha sakein.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ज़रूरी? 🛡️"
+    },
+    {
+     "kind": "stk",
+     "text": "🌍 Planetary Defense",
+     "f": 0.4,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "क्या हम धरती को asteroid से बचा पाएँगे? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Kya hum dharti ko asteroid se bacha paayenge? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "क्या हम धरती को बचा पाएँगे?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: CNN, The Planetary Society"
+    }
+   ]
+  }
+ ]
+}
