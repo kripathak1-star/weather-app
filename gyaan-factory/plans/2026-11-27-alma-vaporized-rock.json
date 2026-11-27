@@ -1,0 +1,191 @@
+{
+ "title": "नए तारे के पास भाप बनकर उड़ रहे पत्थर! ⭐🪨 ALMA की खोज | 3D Gyaan",
+ "caption_keywords": [
+  "alma",
+  "orion",
+  "titanium",
+  "star",
+  "planet",
+  "formation",
+  "3d",
+  "gyaan"
+ ],
+ "thumbnail": {
+  "scene": 0,
+  "f": 0.5,
+  "line1": "भाप बने",
+  "line2": "पत्थर! 🪨🔥",
+  "badge": "📡 ALMA"
+ },
+ "meta": {
+  "categoryId": "28",
+  "tags": [
+   "alma",
+   "titanium oxide",
+   "orion source i",
+   "planet formation",
+   "young star",
+   "astronomy hindi",
+   "3d gyaan"
+  ],
+  "description": "ओरायन में एक नए, भारी तारे के पास वैज्ञानिकों को पहली बार titanium oxide गैस मिली, यानी भाप बने पत्थर! ⭐🪨 ये हमारे सौरमंडल के जन्म को समझने में मदद कर सकता है। सब 3D में।\n\nSources:\n- ALMA Observatory: https://www.almaobservatory.org/en/audiences/alma-traces-vaporized-minerals-around-a-young-massive-star/\n- University of Florida: https://news.ufl.edu/2026/11/vaporized-rock-in-space/\n- Phys.org: https://phys.org/news/2026-11-vaporized-reveals-titanium-oxide-massive.html\n\nAI-generated narration & visuals.\n#ALMA #Astronomy #3DGyaan"
+ },
+ "scenes": [
+  {
+   "voice": "भाई, एक नए तारे के पास इतनी गर्मी है कि वहाँ पत्थर तक भाप बनकर उड़ रहे हैं!",
+   "caption": "Bhai, ek naye taare ke paas itni garmi hai ki wahaan patthar tak bhaap bankar ud rahe hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "bigtext",
+     "text": "भाप बने पत्थर 🔥",
+     "show": 0.3
+    },
+    {
+     "kind": "stamp",
+     "text": "ALMA 📡",
+     "color": "gold",
+     "f": 0.85,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "ALMA की नई खोज। चलो समझते हैं!",
+   "caption": "ALMA ki nayi khoj. Chalo samajhte hain!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "title"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "title",
+     "tag": "3D GYAAN प्रस्तुत करता है",
+     "a": "ROCK",
+     "vs": "🔥",
+     "c": "VAPOR"
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों ने चिली के ALMA टेलीस्कोप से Orion Source I नाम के एक नए, भारी तारे को देखा।",
+   "caption": "Vaigyanikon ne Chile ke ALMA telescope se Orion Source I naam ke ek naye, bhaari taare ko dekha.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कहाँ? 🔭"
+    },
+    {
+     "kind": "stk",
+     "text": "⭐ Orion Source I",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "उसके पास उन्हें titanium oxide गैस मिली। किसी तारे बनने वाली जगह में ये पहली बार मिली है।",
+   "caption": "Uske paas unhe titanium oxide gas mili. Kisi taare banne waali jagah mein ye pehli baar mili hai.",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "hookwide",
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्या मिला? 🧪"
+    },
+    {
+     "kind": "stamp",
+     "text": "पहली बार! 🥇",
+     "color": "gold",
+     "f": 0.5,
+     "center": true,
+     "w": 150
+    }
+   ]
+  },
+  {
+   "voice": "वैज्ञानिकों का मानना है कि तारे की तेज़ गर्मी ने पत्थर जैसे कणों को भाप बना दिया।",
+   "caption": "Vaigyanikon ka maanna hai ki taare ki tez garmi ne patthar jaise kanon ko bhaap bana diya.",
+   "shots": [
+    {
+     "type": "planet",
+     "body": "telescope"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "कैसे? 🔥"
+    },
+    {
+     "kind": "stk",
+     "text": "🪨 → 💨 गर्मी से भाप",
+     "f": 0.4,
+     "color": "y"
+    }
+   ]
+  },
+  {
+   "voice": "ये ज़रूरी है, क्योंकि हमारे सौरमंडल के सबसे पुराने ठोस कण भी शायद ऐसी ही गर्मी में बने थे।",
+   "caption": "Ye zaroori hai, kyonki hamaare saurmandal ke sabse puraane thos kan bhi shaayad aisi hi garmi mein bane the.",
+   "shots": [
+    {
+     "type": "globeWide",
+     "spin": true,
+     "sats": false
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "kin",
+     "text": "क्यों ज़रूरी? 🌍"
+    },
+    {
+     "kind": "stk",
+     "text": "☀️ सौरमंडल का जन्म",
+     "f": 0.4,
+     "color": "g"
+    }
+   ]
+  },
+  {
+   "voice": "क्या तुम्हें तारों का जन्म रोचक लगता है? कमेंट करो, और थ्री डी ज्ञान को सब्सक्राइब करो!",
+   "caption": "Kya tumhe taaron ka janm rochak lagta hai? Comment karo, aur 3D Gyaan ko subscribe karo!",
+   "shots": [
+    {
+     "type": "preset",
+     "name": "outro"
+    }
+   ],
+   "overlay": [
+    {
+     "kind": "outro",
+     "big": "अब तुम्हारी बारी 👇",
+     "q": "तारों का जन्म रोचक लगा?",
+     "cta": "कमेंट करो 💬 · 3D Gyaan को सब्सक्राइब करो 🔔",
+     "src": "Sources: ALMA, Univ. of Florida, Phys.org"
+    }
+   ]
+  }
+ ]
+}
